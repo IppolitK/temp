@@ -1,0 +1,4702 @@
+- title: All Lucky Clovers
+  identifier: softswiss:AllLuckyClover
+  identifier2: AllLuckyClover
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: st_patrick_day
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.0
+  volatility_rating: high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: All Lucky Clovers 100
+  identifier: softswiss:AllLuckyClover100
+  identifier2: AllLuckyClover100
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.0
+  volatility_rating: high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: All Lucky Clovers 20
+  identifier: softswiss:AllLuckyClover20
+  identifier2: AllLuckyClover20
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 20
+  payout: 97.0
+  volatility_rating: high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: All Lucky Clovers 40
+  identifier: softswiss:AllLuckyClover40
+  identifier2: AllLuckyClover40
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 40
+  payout: 97.0
+  volatility_rating: high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: All Lucky Clovers 5
+  identifier: softswiss:AllLuckyClover5
+  identifier2: AllLuckyClover5
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: st_patrick_day
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 5
+  payout: 97.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Aloha King Elvis
+  identifier: softswiss:AlohaKingElvis
+  identifier2: AlohaKingElvis
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 94.92
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2021-07-22
+  bonus_buy: true
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: American Roulette
+  identifier: softswiss:AmericanRoulette
+  identifier2: AmericanRoulette
+  provider: softswiss
+  producer: bgaming
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 94.74
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Anonymous Bonanza
+  identifier: softswiss:AnonymousBonanza
+  identifier2: AnonymousBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: anonymous
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-04-14
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: "Avalon: The Lost Kingdom"
+  identifier: softswiss:Avalon
+  identifier2: Avalon
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 20
+  payout: 95.0
+  volatility_rating: high
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Aztec Magic
+  identifier: softswiss:AztecMagic
+  identifier2: AztecMagic
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 15
+  payout: 96.96
+  volatility_rating: low
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Aztec Magic Bonanza
+  identifier: softswiss:AztecMagicBonanza
+  identifier2: AztecMagicBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  bonus_buy: true
+  multiplier: 10200.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Aztec Magic Deluxe
+  identifier: softswiss:AztecMagicDeluxe
+  identifier2: AztecMagicDeluxe
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 25
+  payout: 96.96
+  volatility_rating: low
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Aztec Magic Megaways
+  identifier: softswiss:AztecMagicMegaways
+  identifier2: AztecMagicMegaways
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 96.69
+  volatility_rating: very-high
+  hd: true
+  released_at: 2022-01-27
+  bonus_buy: true
+  multiplier: 12960.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Baccarat
+  identifier: softswiss:Baccarat
+  identifier2: Baccarat
+  provider: softswiss
+  producer: bgaming
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 98.76
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: BC Bonanza
+  identifier: softswiss:BCBonanza
+  identifier2: BCBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: bcgame
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: BC.Million
+  identifier: softswiss:BCMillion
+  identifier2: BCMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: bcgame
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Betfury Million
+  identifier: softswiss:BetfuryMillion
+  identifier2: BetfuryMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: betfury
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Big Atlantis Frenzy
+  identifier: softswiss:BigAtlantisFrenzy
+  identifier2: BigAtlantisFrenzy
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: underwater_world
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 20
+  payout: 96.7
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-06-09
+  bonus_buy: true
+  multiplier: 4320.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bitcasino Billion
+  identifier: softswiss:BitcasinoBillion
+  identifier2: BitcasinoBillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: bitcoincasinoio
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-07-14
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bitcoin Million
+  identifier: softswiss:BitcoinMillion
+  identifier2: BitcoinMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: bitcoincasinoio
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bitsler Book of Cats
+  identifier: softswiss:BitslerBookOfCats
+  identifier2: BitslerBookOfCats
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: bitsler
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 94.0
+  volatility_rating: very-high
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bitsler Million
+  identifier: softswiss:BitslerMillion
+  identifier2: BitslerMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: bitsler
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bitstarz Billion
+  identifier: softswiss:BitstarzBillion
+  identifier2: BitstarzBillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: bitstarz
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2021-04-22
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bitty"s Dice
+  identifier: softswiss:BittysDice
+  identifier2: BittysDice
+  provider: softswiss
+  producer: bgaming
+  category: craps
+  theme: other
+  has_freespins: false
+  feature_group: mbit
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Multihand Blackjack Pro
+  identifier: softswiss:BlackjackPro
+  identifier2: BlackjackPro
+  provider: softswiss
+  producer: bgaming
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 99.23
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Blackjack Surrender
+  identifier: softswiss:BlackjackSurrender
+  identifier2: BlackjackSurrender
+  provider: softswiss
+  producer: bgaming
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 99.41
+  hd: true
+  accumulating: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Blaze Bonanza
+  identifier: softswiss:BlazeBonanza
+  identifier2: BlazeBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Blaze Million
+  identifier: softswiss:BlazeMillion
+  identifier2: BlazeMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bob's Coffee Shop
+  identifier: softswiss:BobsCoffeeShop
+  identifier2: BobsCoffeeShop
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 96.5
+  volatility_rating: very-high
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bonanza Billion
+  identifier: softswiss:BonanzaBillion
+  identifier2: BonanzaBillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2021-12-02
+  bonus_buy: true
+  multiplier: 20000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Book of Blaze
+  identifier: softswiss:BookOfBlaze
+  identifier2: BookOfBlaze
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 94.0
+  volatility_rating: very-high
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Book Of Cats
+  identifier: softswiss:BookOfCats
+  identifier2: BookOfCats
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 10
+  payout: 94.0
+  volatility_rating: very-high
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Book of King Billy
+  identifier: softswiss:BookOfKingBilly
+  identifier2: BookOfKingBilly
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: kingbilly
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 94.0
+  volatility_rating: very-high
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Book of mBit
+  identifier: softswiss:BookOfMBit
+  identifier2: BookOfMBit
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: mbit
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 94.0
+  volatility_rating: very-high
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Book of Pyramids
+  identifier: softswiss:BookOfPyramids
+  identifier2: BookOfPyramids
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 97.13
+  volatility_rating: high
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Brave Viking
+  identifier: softswiss:BraveViking
+  identifier2: BraveViking
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 97.09
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 6000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Candy Monsta
+  identifier: softswiss:CandyMonsta
+  identifier2: CandyMonsta
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: sweets
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 20
+  payout: 94.06
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2021-10-12
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Caribbean Poker
+  identifier: softswiss:CaribbeanPoker
+  identifier2: CaribbeanPoker
+  provider: softswiss
+  producer: bgaming
+  category: poker
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 94.78
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Casinobuck Millions
+  identifier: softswiss:CasinobuckMillion
+  identifier2: CasinobuckMillions
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: casinobuck
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - MT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-03-29
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Casino Hold`em
+  identifier: softswiss:CasinoHoldem
+  identifier2: CasinoHoldem
+  provider: softswiss
+  producer: bgaming
+  category: poker
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 98.75
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Cherry Fiesta
+  identifier: softswiss:CherryFiesta
+  identifier2: CherryFiesta
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: girls
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 96.98
+  volatility_rating: medium
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Cleopatra Million
+  identifier: softswiss:CleopatraMillion
+  identifier2: CleopatraMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: egypt
+  has_freespins: true
+  feature_group: cleopatra
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Clover Bonanza
+  identifier: softswiss:CloverBonanza
+  identifier2: CloverBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: st_patrick_day
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-03-03
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: CoinPlinko
+  identifier: softswiss:CoingamesPlinko
+  identifier2: CoingamesPlinko
+  provider: softswiss
+  producer: bgaming
+  category: crash
+  theme: other
+  has_freespins: false
+  feature_group: coinsgame
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  released_at: 2022-08-09
+  restrictions:
+    default:
+      blacklist: []
+- title: Coin
+  identifier: softswiss:CoinslottyCoin
+  identifier2: CoinslottyCoin
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: coinslotty
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  released_at: 2022-06-28
+  restrictions:
+    default:
+      blacklist: []
+- title: Mines
+  identifier: softswiss:CoinslottyMines
+  identifier2: CoinslottyMines
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: coinslotty
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 98.4
+  hd: true
+  released_at: 2022-06-07
+  restrictions:
+    default:
+      blacklist: []
+- title: Plinko
+  identifier: softswiss:CoinslottyPlinko
+  identifier2: CoinslottyPlinko
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: coinslotty
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  released_at: 2022-05-31
+  restrictions:
+    default:
+      blacklist: []
+- title: Dice
+  identifier: softswiss:CoinslottyRocketDice
+  identifier2: CoinslottyRocketDice
+  provider: softswiss
+  producer: bgaming
+  category: craps
+  theme: other
+  has_freespins: false
+  feature_group: coinslotty
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  released_at: 2022-05-17
+  restrictions:
+    default:
+      blacklist: []
+- title: Crazy Starter
+  identifier: softswiss:CrazyStarter
+  identifier2: CrazyStarter
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 25
+  payout: 96.04
+  volatility_rating: low-medium
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Deep Sea
+  identifier: softswiss:DeepSea
+  identifier2: DeepSea
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: underwater_world
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 15
+  payout: 94.0
+  volatility_rating: low
+  hd: true
+  multiplier: 35000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Desert Treasure
+  identifier: softswiss:DesertTreasure
+  identifier2: DesertTreasure
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 95.95
+  volatility_rating: medium
+  hd: true
+  multiplier: 8000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Dig Dig Digger
+  identifier: softswiss:DigDigDigger
+  identifier2: DigDigDigger
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: egypt
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 95.5
+  volatility_rating: very-high
+  hd: true
+  released_at: 2021-06-17
+  bonus_buy: true
+  multiplier: 5500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Domnitors
+  identifier: softswiss:Domnitors
+  identifier2: Domnitors
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 97.3
+  volatility_rating: low
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Domnitors Deluxe
+  identifier: softswiss:DomnitorsDeluxe
+  identifier2: DomnitorsDeluxe
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 97.31
+  volatility_rating: low
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Doors of Fresh
+  identifier: softswiss:DoorsOfFresh
+  identifier2: DoorsOfFresh
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: rox
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.69
+  volatility_rating: very-high
+  hd: true
+  released_at: 2022-07-04
+  bonus_buy: true
+  multiplier: 12960.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Doors of Sol
+  identifier: softswiss:DoorsOfSol
+  identifier2: DoorsOfSol
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: rox
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.69
+  volatility_rating: very-high
+  hd: true
+  released_at: 2022-07-04
+  bonus_buy: true
+  multiplier: 12960.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Double Exposure
+  identifier: softswiss:DoubleExposure
+  identifier2: DoubleExposure
+  provider: softswiss
+  producer: bgaming
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 97.07
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Dragon"s Gold 100
+  identifier: softswiss:DragonsGold100
+  identifier2: DragonsGold100
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 96.9
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2021-09-09
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Dragon"s Million
+  identifier: softswiss:DragonsMillion
+  identifier2: DragonsMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: drgn
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Duelbits Quest
+  identifier: softswiss:DuelbitsQuest
+  identifier2: DuelbitsQuest
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: duelbits
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 25
+  payout: 95.3
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-06-30
+  bonus_buy: true
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog & Golden Crown
+  identifier: softswiss:ElvisFrogAndGoldenCrown
+  identifier2: ElvisFrogAndGoldenCrown
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: goldencrown
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog at Joka Room
+  identifier: softswiss:ElvisFrogAtJokaRoom
+  identifier2: ElvisFrogAtJokaRoom
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: retro
+  has_freespins: true
+  feature_group: joka
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog in Bitvegas
+  identifier: softswiss:ElvisFrogInBitvegas
+  identifier2: ElvisFrogInBitvegas
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: retro
+  has_freespins: true
+  feature_group: bitvegas
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  released_at: 2022-03-23
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog in Bizzo
+  identifier: softswiss:ElvisFrogInBizzo
+  identifier2: ElvisFrogInBizzo
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: bizzocasino
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis in Casino Rocket
+  identifier: softswiss:ElvisFrogInCasinoRocket
+  identifier2: ElvisFrogInCasinoRocket
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: retro
+  has_freespins: true
+  feature_group: rocketcasino
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  released_at: 2022-01-24
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog in LevelUp Casino
+  identifier: softswiss:ElvisFrogInLevelUpCasino
+  identifier2: ElvisFrogInLevelUpCasino
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: levelup
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog in Nationalcasino
+  identifier: softswiss:ElvisFrogInNationalcasino
+  identifier2: ElvisFrogInNationalcasino
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: nationalcasino
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  released_at: 2022-05-26
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog In Playamo
+  identifier: softswiss:ElvisFrogInPlayamo
+  identifier2: ElvisFrogInPlayamo
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: retro
+  has_freespins: true
+  feature_group: playamo
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog in Spinago
+  identifier: softswiss:ElvisFrogInSpinago
+  identifier2: ElvisFrogInSpinago
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: retro
+  has_freespins: true
+  feature_group: spinago
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog in Spin Samurai
+  identifier: softswiss:ElvisFrogInSpinSamurai
+  identifier2: ElvisFrogInSpinSamurai
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: spinsamurai
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog in Syndicate
+  identifier: softswiss:ElvisFrogInSyndicate
+  identifier2: ElvisFrogInSyndicate
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: syndicate
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog in Vegas
+  identifier: softswiss:ElvisFroginVegas
+  identifier2: ElvisFrog
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 25
+  payout: 94.0
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog In Woo Casino
+  identifier: softswiss:ElvisFrogInWooCasino
+  identifier2: ElvisFrogInWooCasino
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: retro
+  has_freespins: true
+  feature_group: woocasino
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Elvis Frog 20bet
+  identifier: softswiss:ElvisFrogTwentyBet
+  identifier2: ElvisFrogTwentyBet
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: retro
+  has_freespins: true
+  feature_group: 20bet
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 25
+  payout: 96.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: European Roulette
+  identifier: softswiss:EuropeanRoulette
+  identifier2: EuropeanRoulette
+  provider: softswiss
+  producer: bgaming
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 97.3
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Fantasy Park
+  identifier: softswiss:FantasyPark
+  identifier2: FantasyPark
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 25
+  payout: 96.65
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Fire Lightning
+  identifier: softswiss:FireLightning
+  identifier2: FireLightning
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 20
+  payout: 93.9
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Forty Fruity Million
+  identifier: softswiss:FortyFruityMillion
+  identifier2: FortyFruityMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  lines: 40
+  payout: 96.1
+  volatility_rating: very-high
+  hd: true
+  released_at: 2022-09-02
+  multiplier: 6000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Four Lucky Clover
+  identifier: softswiss:FourLuckyClover
+  identifier2: FourLuckyClover
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: st_patrick_day
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 10
+  payout: 94.0
+  volatility_rating: low
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Four Lucky Diamonds
+  identifier: softswiss:FourLuckyDiamonds
+  identifier2: FourLuckyDiamonds
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 94.0
+  volatility_rating: low
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: French Roulette
+  identifier: softswiss:FrenchRoulette
+  identifier2: FrenchRoulette
+  provider: softswiss
+  producer: bgaming
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 97.3
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Fruit Million
+  identifier: softswiss:FruitMillion
+  identifier2: FruitMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Glinko
+  identifier: softswiss:Glinko
+  identifier2: Glinko
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: hub_gamdom
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Goldenstar Million
+  identifier: softswiss:GoldenstarMillion
+  identifier2: GoldenstarMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: goldenstar
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Gold Rush with Johnny Cash
+  identifier: softswiss:GoldRushWithJohnny
+  identifier2: GoldRushWithJohnny
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 25
+  payout: 96.08
+  volatility_rating: very-high
+  hd: true
+  released_at: 2022-06-16
+  bonus_buy: true
+  multiplier: 5820.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Hawaii Cocktails
+  identifier: softswiss:HawaiiCocktails
+  identifier2: HawaiiCocktails
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 9
+  payout: 97.3
+  volatility_rating: high
+  hd: true
+  multiplier: 50000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Heads and Tails XY
+  identifier: softswiss:HeadsandTailsXY
+  identifier2: HeadsTailsXY
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Heads and Tails
+  identifier: softswiss:HeadsTails
+  identifier2: HeadsTails
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: luxury_life
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 98.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Hello Easter
+  identifier: softswiss:HelloEaster
+  identifier2: HelloEaster
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: easter
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 9
+  payout: 96.5
+  volatility_rating: low
+  hd: true
+  multiplier: 9000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Hi-Lo Switch
+  identifier: softswiss:HiLoSwitch
+  identifier2: HiLoSwitch
+  provider: softswiss
+  producer: bgaming
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 96.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Hit The Route
+  identifier: softswiss:HitTheRoute
+  identifier2: HitTheRoute
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: retro
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 40
+  payout: 97.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Hunny Million
+  identifier: softswiss:HunnyMillion
+  identifier2: HunnyMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: hunny
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: "Jackpot Jill: Realm of Fortune"
+  identifier: softswiss:JackpotJillRealmOfFortune
+  identifier2: JackpotJillRealmOfFortune
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: jackpotjill
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 10
+  payout: 97.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-02-22
+  multiplier: 27000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jacks or Better
+  identifier: softswiss:JacksOrBetter
+  identifier2: JacksOrBetter
+  provider: softswiss
+  producer: bgaming
+  category: video_poker
+  theme: ancient_civilizations
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 95.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Jogo Do Bicho
+  identifier: softswiss:JogoDoBicho
+  identifier2: JogoDoBicho
+  provider: softswiss
+  producer: bgaming
+  category: lottery
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 94.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Jogo Do Bicho Simple
+  identifier: softswiss:JogoDoBichoSimple
+  identifier2: JogoDoBichoSimple
+  provider: softswiss
+  producer: bgaming
+  category: lottery
+  theme: food
+  has_freespins: true
+  feature_group: bitstarzplus
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 94.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Johnny Cash
+  identifier: softswiss:JohnnyCash
+  identifier2: JohnnyCash
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: western
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 20
+  payout: 93.9
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Joker Queen
+  identifier: softswiss:JokerQueen
+  identifier2: JokerQueen
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: joker
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 40
+  payout: 96.0
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-03-28
+  bonus_buy: true
+  multiplier: 1172.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Journey Flirt
+  identifier: softswiss:JourneyFlirt
+  identifier2: JourneyFlirt
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: st_valentines_day
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  ways: 243
+  payout: 96.6
+  volatility_rating: low
+  hd: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Juegalo Bonanza
+  identifier: softswiss:JuegaloBonanza
+  identifier2: JuegaloBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: juegalo
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-07-15
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Kakadu Million
+  identifier: softswiss:KakaduMillion
+  identifier2: KakaduMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: casinokakadu
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - MT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-07-27
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: King Billy Bonanza
+  identifier: softswiss:KingBillyBonanza
+  identifier2: KingBillyBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: kingbilly
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-04-20
+  bonus_buy: true
+  multiplier: 10200.0
+  restrictions:
+    default:
+      blacklist: []
+- title: King Johnnie Millions
+  identifier: softswiss:KingJohnnieMillions
+  identifier2: KingJohnnieMillions
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: kingjohnnie
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lady Muerta in Slotvibe
+  identifier: softswiss:LadyMuertaInSlotvibe
+  identifier2: LadyMuertaInSlotvibe
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: slotvibe
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 96.16
+  volatility_rating: high
+  hd: true
+  multiplier: 2750.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Legacy of Cobra
+  identifier: softswiss:LegacyOfCobra
+  identifier2: LegacyOfCobra
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: egypt
+  has_freespins: true
+  feature_group: cobra
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 10
+  payout: 94.0
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-03-10
+  bonus_buy: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: LevelUp Bonanza
+  identifier: softswiss:LevelUpBonanza
+  identifier2: LevelUpBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: levelup
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-08-11
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Blue
+  identifier: softswiss:LuckyBlue
+  identifier2: LuckyBlue
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: underwater_world
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 96.96
+  volatility_rating: low
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Dama Muerta
+  identifier: softswiss:LuckyDamaMuerta
+  identifier2: LuckyDamaMuerta
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: halloween
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 96.1
+  volatility_rating: high
+  hd: true
+  released_at: 2021-10-18
+  multiplier: 2750.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Farm Bonanza
+  identifier: softswiss:LuckyFarmBonanza
+  identifier2: LuckyFarmBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: food
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-04-01
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Lady Cat
+  identifier: softswiss:LuckyLadyCat
+  identifier2: LuckyLadyCat
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: girls
+  has_freespins: true
+  feature_group: cat
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 97.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 27000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Lady Chance
+  identifier: softswiss:LuckyLadyChance
+  identifier2: LuckyLadyChance
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: girls
+  has_freespins: true
+  feature_group: n1group
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 10
+  payout: 97.0
+  volatility_rating: high
+  hd: true
+  multiplier: 27000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Lady"s Clover
+  identifier: softswiss:LuckyLadyClover
+  identifier2: LuckyLadyClover
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: st_patrick_day
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 97.31
+  volatility_rating: low
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Lady Dreams
+  identifier: softswiss:LuckyLadyDreams
+  identifier2: LuckyLadyDreams
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: girls
+  has_freespins: true
+  feature_group: luckydreams
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 10
+  payout: 96.16
+  volatility_rating: high
+  hd: true
+  released_at: 2022-04-12
+  multiplier: 2750.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lady Wolf Moon
+  identifier: softswiss:LuckyLadyMoon
+  identifier2: LuckyLadyMoon
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: st_patrick_day
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - DEFAULT
+  - EE
+  lines: 10
+  payout: 97.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 27000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Lady Moon Megaways
+  identifier: softswiss:LuckyLadyMoonMegaways
+  identifier2: LuckyLadyMoonMegaways
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.84
+  volatility_rating: very-high
+  hd: true
+  released_at: 2022-07-07
+  bonus_buy: true
+  multiplier: 6000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Lady 1x
+  identifier: softswiss:LuckyLadyOneX
+  identifier2: LuckyLadyOneX
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: girls
+  has_freespins: true
+  feature_group: 1xbet
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  lines: 10
+  payout: 96.16
+  volatility_rating: high
+  hd: true
+  released_at: 2022-04-06
+  multiplier: 2750.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Lady Pin-Up
+  identifier: softswiss:LuckyLadyPinUp
+  identifier2: LuckyLadyPinUp
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 10
+  payout: 97.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 27000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Sweets
+  identifier: softswiss:LuckySweets
+  identifier2: LuckySweets
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: sweets
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 5
+  payout: 96.54
+  volatility_rating: low-medium
+  hd: true
+  multiplier: 9000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Maneki 88 Gold
+  identifier: softswiss:Maneki88Gold
+  identifier2: Maneki88Gold
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: asia
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - DEFAULT
+  - EE
+  - MT
+  lines: 243
+  payout: 96.9
+  volatility_rating: medium
+  hd: true
+  accumulating: true
+  bonus_buy: true
+  multiplier: 2614.0
+  restrictions:
+    default:
+      blacklist: []
+- title: mBit Cyber Crush
+  identifier: softswiss:MBitCyberCrush
+  identifier2: MBitCyberCrush
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: mbit
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-08-18
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Mechanical Clover
+  identifier: softswiss:MechanicalClover
+  identifier2: MechanicalClover
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: st_patrick_day
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 5
+  payout: 95.42
+  volatility_rating: high
+  hd: true
+  multiplier: 24360.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Mechanical Orange
+  identifier: softswiss:MechanicalOrange
+  identifier2: MechanicalOrange
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 1
+  payout: 96.0
+  volatility_rating: low-medium
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Meritking Million
+  identifier: softswiss:MeritkingMillion
+  identifier2: MeritkingMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: bethub
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-08-25
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Million Joka Fruits
+  identifier: softswiss:MillionJokaFruits
+  identifier2: MillionJokaFruits
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: joka
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Minesweeper
+  identifier: softswiss:Minesweeper
+  identifier2: Minesweeper
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 98.1
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Minesweeper XY
+  identifier: softswiss:MinesweeperXY
+  identifier2: MinesweeperXY
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 98.4
+  hd: true
+  released_at: 2022-03-24
+  restrictions:
+    default:
+      blacklist: []
+- title: Mirax Circus Queen
+  identifier: softswiss:MiraxCircusQueen
+  identifier2: MiraxCircusQueen
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: mirax
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 40
+  payout: 96.0
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-08-02
+  bonus_buy: true
+  multiplier: 1172.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Miss Cherry Fruits
+  identifier: softswiss:MissCherryFruits
+  identifier2: MissCherryFruits
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 20
+  payout: 96.13
+  volatility_rating: medium
+  hd: true
+  released_at: 2021-09-30
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Miss Cherry Fruits Jackpot party
+  identifier: softswiss:MissCherryFruitsJackpotparty
+  identifier2: MissCherryFruitsJackpotparty
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - DEFAULT
+  - EE
+  lines: 25
+  payout: 95.51
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-07-28
+  bonus_buy: true
+  multiplier: 1299.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Multihand Blackjack
+  identifier: softswiss:MultihandBlackjack
+  identifier2: MultihandBlackjack
+  provider: softswiss
+  producer: bgaming
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 99.22
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: N1 Million
+  identifier: softswiss:N1Million
+  identifier2: N1Million
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: n1casino
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - MT
+  lines: 100
+  payout: 94.0
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Nomini Million
+  identifier: softswiss:NominiMillion
+  identifier2: NominiMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: soft2bet_nomini
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Oasis Poker
+  identifier: softswiss:OasisPoker
+  identifier2: OasisPoker
+  provider: softswiss
+  producer: bgaming
+  category: poker
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 98.96
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Olimp Million
+  identifier: softswiss:OlimpMillion
+  identifier2: OlimpMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: olimp
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-05-17
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 1Win Million
+  identifier: softswiss:OneWinMillion
+  identifier2: OneWinMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: 1winpro
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Parimatch Million
+  identifier: softswiss:ParimatchMillion
+  identifier2: ParimatchMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: parimatch
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2021-09-24
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pasino Bonanza
+  identifier: softswiss:PasinoBonanza
+  identifier2: PasinoBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: pasino
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-03-14
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Penny Pelican
+  identifier: softswiss:PennyPelican
+  identifier2: PennyPelican
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 20
+  payout: 95.98
+  volatility_rating: very-high
+  hd: true
+  released_at: 2022-05-18
+  bonus_buy: true
+  multiplier: 3525.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pin-up Bonanza
+  identifier: softswiss:PinUpBonanza
+  identifier2: PinUpBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: girls
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-01-20
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pin-Up Million
+  identifier: softswiss:PinUpMillion
+  identifier2: PinUpMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Platinum Lightning
+  identifier: softswiss:PlatinumLightning
+  identifier2: PlatinumLightning
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 25
+  payout: 96.29
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 8888.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Platinum Lightning Deluxe
+  identifier: softswiss:PlatinumLightningDeluxe
+  identifier2: PlatinumLightningDeluxe
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 25
+  payout: 96.29
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 8888.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Plinko
+  identifier: softswiss:Plinko
+  identifier2: Plinko
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Plinko
+  identifier: softswiss:PlinkoMBit
+  identifier2: PlinkoMBit
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: mbit
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Plinko 1win
+  identifier: softswiss:PlinkoOneWin
+  identifier2: PlinkoOneWin
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: 1winpro
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Plinko XY
+  identifier: softswiss:PlinkoXY
+  identifier2: PlinkoXY
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  released_at: 2022-03-24
+  restrictions:
+    default:
+      blacklist: []
+- title: Pokiepop Million
+  identifier: softswiss:PokiepopMillion
+  identifier2: PokiepopMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: pokiepop
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pontoon
+  identifier: softswiss:Pontoon
+  identifier2: Pontoon
+  provider: softswiss
+  producer: bgaming
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 99.51
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Premier Million
+  identifier: softswiss:PremierMillion
+  identifier2: PremierMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: premier1
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - MT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Princess of Sky
+  identifier: softswiss:PrincessOfSky
+  identifier2: PrincessOfSky
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 95.99
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Princess Royal
+  identifier: softswiss:PrincessRoyal
+  identifier2: PrincessRoyal
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  lines: 9
+  payout: 97.1
+  volatility_rating: high
+  hd: true
+  multiplier: 9000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Road 2 Riches
+  identifier: softswiss:Road2Riches
+  identifier2: Road2Riches
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 50
+  payout: 96.24
+  volatility_rating: high
+  hd: true
+  released_at: 2021-11-11
+  bonus_buy: true
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Rocket Dice
+  identifier: softswiss:RocketDice
+  identifier2: RocketDice
+  provider: softswiss
+  producer: bgaming
+  category: craps
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  accumulating: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Rocket Dice XY
+  identifier: softswiss:RocketDiceXY
+  identifier2: RocketDiceXY
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 99.0
+  hd: true
+  released_at: 2022-03-24
+  restrictions:
+    default:
+      blacklist: []
+- title: Rocketpot Bonanza
+  identifier: softswiss:RocketpotBonanza
+  identifier2: RocketpotBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: space
+  has_freespins: true
+  feature_group: rocketpot
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Scratch Dice
+  identifier: softswiss:ScratchDice
+  identifier2: ScratchDice
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 97.2
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Scroll of Adventure
+  identifier: softswiss:ScrollOfAdventure
+  identifier2: ScrollOfAdventure
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: egypt
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 5
+  payout: 97.13
+  volatility_rating: very-high
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Secrets of the Gods
+  identifier: softswiss:SecretsOfTheGods
+  identifier2: SecretsOfTheGods
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: egypt
+  has_freespins: true
+  feature_group: spinago
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-08-16
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 7Bit Million
+  identifier: softswiss:SevenBitMillion
+  identifier2: SevenBitMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: 7bit_mars
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Sic Bo
+  identifier: softswiss:SicBo
+  identifier2: SicBo
+  provider: softswiss
+  producer: bgaming
+  category: craps
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 97.22
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Sic Bo Macau
+  identifier: softswiss:SicBoMacau
+  identifier2: SicBoMacau
+  provider: softswiss
+  producer: bgaming
+  category: craps
+  theme: asia
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 97.22
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Slotman Million
+  identifier: softswiss:SlotmanMillion
+  identifier2: SlotmanMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: slotman
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 94.0
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2021-09-28
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Slotomon Go
+  identifier: softswiss:SlotomonGo
+  identifier2: SlotomonGo
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 5
+  payout: 97.13
+  volatility_rating: high
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Slottica Bonanza
+  identifier: softswiss:SlotticaBonanza
+  identifier2: SlotticaBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: atlantic_management
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-03-01
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Space XY
+  identifier: softswiss:SpaceXY
+  identifier2: SpaceXY
+  provider: softswiss
+  producer: bgaming
+  category: casual
+  theme: space
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  payout: 97.0
+  hd: true
+  released_at: 2022-01-13
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Spin and Spell
+  identifier: softswiss:SpinAndSpell
+  identifier2: SpinAndSpell
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: horrors
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 20
+  payout: 95.8
+  volatility_rating: very-high
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Squidpot
+  identifier: softswiss:Squidpot
+  identifier2: Squidpot
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: branded
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 95.3
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-02-10
+  bonus_buy: true
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Stake Book Of Cats
+  identifier: softswiss:StakeBookOfCats
+  identifier2: StakeBookOfCats
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 10
+  payout: 94.0
+  volatility_rating: very-high
+  hd: true
+  released_at: 2021-09-15
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Stake Million
+  identifier: softswiss:StakeMillion
+  identifier2: StakeMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Sweet Blaze Bonanza
+  identifier: softswiss:SweetBlazeBonanza
+  identifier2: SweetBlazeBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-08-24
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Texas Hold`em
+  identifier: softswiss:TexasHoldem
+  identifier2: TexasHoldem
+  provider: softswiss
+  producer: bgaming
+  category: poker
+  theme: western
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  payout: 98.75
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: The King Billyon
+  identifier: softswiss:TheKingBillyon
+  identifier2: TheKingBillyon
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: kingbilly
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Tornado Fruits
+  identifier: softswiss:TornadoFruits
+  identifier2: TornadoFruits
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: wildtornado
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Trey Poker
+  identifier: softswiss:TreyPoker
+  identifier2: TreyPoker
+  provider: softswiss
+  producer: bgaming
+  category: poker
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 97.99
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Vbet Million
+  identifier: softswiss:VbetMillion
+  identifier2: VbetMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: betconstruct
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: WBC Ring of Riches
+  identifier: softswiss:WbcRingOfRiches
+  identifier2: WbcRingOfRiches
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: sport
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 20
+  payout: 95.48
+  volatility_rating: medium-high
+  hd: true
+  accumulating: true
+  multiplier: 9200.0
+  restrictions:
+    default:
+      blacklist: []
+- title: West Town
+  identifier: softswiss:WestTown
+  identifier2: WestTown
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: western
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  - RS
+  lines: 9
+  payout: 96.95
+  volatility_rating: low
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Cash
+  identifier: softswiss:WildCash
+  identifier2: WildCash
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 5
+  payout: 96.34
+  volatility_rating: very-high
+  hd: true
+  released_at: 2022-04-14
+  bonus_buy: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Cash x9990
+  identifier: softswiss:WildCashX9990
+  identifier2: WildCashX9990
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - DEFAULT
+  - EE
+  - MT
+  lines: 10
+  payout: 96.01
+  volatility_rating: very-high
+  bonus_buy: true
+  multiplier: 9990.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Texas
+  identifier: softswiss:WildTexas
+  identifier2: WildTexas
+  provider: softswiss
+  producer: bgaming
+  category: video_poker
+  theme: western
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  - DEFAULT
+  payout: 95.0
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Tornado Bonanza
+  identifier: softswiss:WildTornadoBonanza
+  identifier2: WildTornadoBonanza
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: wildtornado
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  payout: 96.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-02-03
+  bonus_buy: true
+  multiplier: 15000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Tornado Crypto
+  identifier: softswiss:WildTornadoCrypto
+  identifier2: WildTornadoCrypto
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: wildtornado
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 25
+  payout: 95.3
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-07-21
+  bonus_buy: true
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Winz to the Moon
+  identifier: softswiss:WinzToTheMoon
+  identifier2: WinzToTheMoon
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: space
+  has_freespins: true
+  feature_group: winz
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 10
+  payout: 97.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-07-19
+  multiplier: 27000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: YYY Million
+  identifier: softswiss:YYYMillion
+  identifier2: YYYMillion
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: yyycasino
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 100
+  payout: 97.1
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: ZEUS" SANCTUARY
+  identifier: softswiss:ZeusSanctuary
+  identifier2: ZeusSanctuary
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - DEFAULT
+  lines: 10
+  payout: 97.0
+  volatility_rating: high
+  hd: true
+  released_at: 2022-05-04
+  bonus_buy: true
+  multiplier: 27000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Foxy Wild Heart
+  identifier: softswiss:ZorroWildHeart
+  identifier2: ZorroWildHeart
+  provider: softswiss
+  producer: bgaming
+  category: slots
+  theme: fantasy
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  - DEFAULT
+  lines: 25
+  payout: 96.93
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-05-02
+  accumulating: true
+  bonus_buy: true
+  multiplier: 2800.0
+  restrictions:
+    default:
+      blacklist: []
