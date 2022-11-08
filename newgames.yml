@@ -762,3 +762,164 @@
       - US
       - VU
       - YE
+- title: Rise of Olympus
+  identifier: playngo:RiseofOlympus
+  identifier2: numId=352&gid=riseofolympus
+  provider: playngo
+  producer: playngo
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BY
+  - BE
+  - BG
+  - EE
+  - MT
+  - RS
+  - RO
+  lines: 1
+  payout: 96.5
+  description: "Unleash the power of the gods in the latest entertaining Play'n GO
+    slot, Rise of Olympus! Join the mighty Greek gods in a quest for riches and prosperity
+    in this all new 5x5 grid slot.\r\n\r\nMake winning combinations by matching 3
+    symbols or more in a row horizontally or vertically. Winning combos will also
+    disappear and be replaced by new symbols, making it possible to pick up even more
+    wins from a single spin."
+  volatility_rating: high
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist:
+      - AF
+      - AO
+      - AS
+      - AT
+      - AU
+      - AW
+      - BE
+      - BQ
+      - CA-ON
+      - CH
+      - CW
+      - CZ
+      - DE
+      - DK
+      - ES
+      - ET
+      - FR
+      - GB
+      - GE
+      - HR
+      - HU
+      - IM
+      - IQ
+      - IR
+      - IT
+      - KH
+      - KP
+      - LA
+      - LT
+      - LV
+      - MT
+      - PT
+      - RO
+      - RS
+      - SE
+      - SG
+      - SY
+      - SZ
+      - UG
+      - US
+      - VU
+      - YE
+    ES:
+      blacklist:
+      - AF
+      - AO
+      - AS
+      - AT
+      - AU
+      - AW
+      - BE
+      - BQ
+      - CA-ON
+      - CH
+      - CW
+      - CZ
+      - DE
+      - DK
+      - ET
+      - FR
+      - GB
+      - GE
+      - HR
+      - HU
+      - IM
+      - IQ
+      - IR
+      - IT
+      - KH
+      - KP
+      - LA
+      - LT
+      - LV
+      - MT
+      - PT
+      - RO
+      - RS
+      - SE
+      - SG
+      - SY
+      - SZ
+      - UG
+      - US
+      - VU
+      - YE
+    MT:
+      blacklist:
+      - AF
+      - AO
+      - AS
+      - AT
+      - AU
+      - AW
+      - BE
+      - BQ
+      - CA-ON
+      - CH
+      - CW
+      - CZ
+      - DK
+      - ES
+      - ET
+      - FR
+      - GB
+      - GE
+      - HR
+      - HU
+      - IM
+      - IQ
+      - IR
+      - IT
+      - KH
+      - KP
+      - LA
+      - LT
+      - LV
+      - PT
+      - RO
+      - RS
+      - SE
+      - SG
+      - SY
+      - SZ
+      - UG
+      - US
+      - VU
+      - YE
