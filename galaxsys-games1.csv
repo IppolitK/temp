@@ -1,6 +1,6 @@
-id;name;devices;category;provider;
-6492;Penalty;desktop,mobile;fast;galaxsys;1
-5935;Rocketon;desktop,mobile;fast;Galaxsys;1
-5339;SicBo;desktop,mobile;fast;Galaxsys;1
-5236;Hilo;desktop,mobile;fast;Galaxsys;1
-2014;Crash;desktop,mobile;fast;Galaxsys;1
+id;name;devices;category;;
+6492;Penalty;desktop,mobile;fast;;1
+5935;Rocketon;desktop,mobile;fast;;1
+5339;SicBo;desktop,mobile;fast;;1
+5236;Hilo;desktop,mobile;fast;;1
+2014;Crash;desktop,mobile;fast;;1
