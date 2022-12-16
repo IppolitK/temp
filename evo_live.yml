@@ -1,0 +1,248 @@
+- title: Auto-Roulette La Partage
+  identifier: evolution:auto_la_partage
+  identifier2: category=roulette&table=f1f4rm9xgh4j3u2z&table[2]=ohfxq5wonouu4wod&table[5]=ohfxrk3anouu4xcr&table[7-10]=ovsmupzc4ccjtabq&table[11,13,14]=ovdducbpdl7qs6e3&table[18,24,48,49]=puubpsi5mg2y3yq3&table[19]=purzygurdb6fc3xx&table[20]=pv5swtk3anviw325&table[25,59]=px52j6zuj5x3uc7i&table[26,60]=px6e6wacpqw4myr4&table[27,40]=pzly6cj6gjg6b425&table[33,38,41]=p4vrmk6xfclzmcuu&table[36]=qbihwu7nqv6qenbo&table[39]=p6gvljrifzliwv5q&table[43]=qepcerbjurquoald&table[44]=qfgkesh4hvcgr4wl&table[45]=lhf5bdwaofeqntg5&table[46]=qin52xylemoqrvgs&table[47]=qkyluuz2pipfmvpe&table[56]=qtblvfjjsru7ihxz
+  provider: evolution
+  producer: evolution
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BY
+  - BE
+  - BG
+  - EE
+  - MT
+  description: "Available as both mainstream and VIP tables, Auto Roulette features
+    fast-paced, real live-wheel action with a high quality look-and-feel. \r\n\r\nIn
+    Auto Roulette, there’s no live dealer. Instead the live game is powered by an
+    advanced, fully automated, precision Roulette wheel capable of 60 to 80 games
+    per hour, 24 hours a day. Further benefits for operators include half-currency
+    betting units for wider audience appeal, faster game completion than in Roulette,
+    and low cost of ownership.\r\n\r\nSpeed Auto Roulette is a superfast variant with
+    an impressive 2,500 games per day. Betting occurs only during the spin in Speed
+    Auto Roulett"
+  has_live: true
+  hd: true
+  multiplier: 10.0
+  restrictions:
+    default:
+      blacklist:
+      - AU
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - HK
+      - IR
+      - KP
+      - LV
+      - SD
+      - SE
+      - SG
+      - SY
+      - UA
+      - US
+      - VE
+      - ZA
+    LV:
+      blacklist:
+      - AU
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - HK
+      - IR
+      - KP
+      - SD
+      - SE
+      - SG
+      - SY
+      - UA
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - HK
+      - IR
+      - KP
+      - LV
+      - SD
+      - SE
+      - SG
+      - SY
+      - UA
+      - US
+      - VE
+      - ZA
+- title: Bacara Rapido en Espanol
+  identifier: evolution:BacaraRapidoenEspanol
+  identifier2: category=baccarat&devTableID=p675pglzzxn6xzcn&table=p675pglzzxn6xzcn&table[7,9]=qtsi6o47rluoloj7&table[16]=qkwc5ghcx6idezbe&table[47]=qkwc5ghcx6idezbe
+  provider: evolution
+  producer: evolution
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live_native
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - PT
+  - ES
+  accounting_group: native2
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist:
+      - AU
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - HK
+      - IR
+      - KP
+      - LV
+      - SD
+      - SE
+      - SG
+      - SY
+      - UA
+      - US
+      - VE
+      - ZA
+    LV:
+      blacklist:
+      - AU
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - HK
+      - IR
+      - KP
+      - SD
+      - SE
+      - SG
+      - SY
+      - UA
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - HK
+      - IR
+      - KP
+      - LV
+      - SD
+      - SE
+      - SG
+      - SY
+      - UA
+      - US
+      - VE
+      - ZA	  
+- title: Bac Bo
+  identifier: evolution:BacBo
+  identifier2: category=baccarat_sicbo&table=BacBo00000000001&table[25,40,59]=p6gve3mvfzliwe7q&table[36]=qbiiqtg625haflzz&table[39]=6gvstawfzlixi6s&table[43]=qecpq4h4mmgtqnzk&table[44,56]=qfgkcozshvcgrx23&table[45]=qftvw7jvrixfzrbi&table[46,48,49]=qisrg6q62uiemnko&table[47]=qkvojqn6gyecolnxu&table[60]=qtjir5u2utdjhsa2
+  provider: evolution
+  producer: evolution
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - CW
+  - MT
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist:
+      - AU
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - HK
+      - IR
+      - KP
+      - LV
+      - SD
+      - SE
+      - SG
+      - SY
+      - UA
+      - US
+      - VE
+      - ZA
+    LV:
+      blacklist:
+      - AU
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - HK
+      - IR
+      - KP
+      - SD
+      - SE
+      - SG
+      - SY
+      - UA
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - HK
+      - IR
+      - KP
+      - LV
+      - SD
+      - SE
+      - SG
+      - SY
+      - UA
+      - US
+      - VE
+      - ZA	  
