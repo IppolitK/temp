@@ -1,0 +1,24 @@
+- title: Lucky Lady Bug
+  identifier: 1spin4win:LuckyLadyBug
+  identifier2: LuckyLadyBug
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  lines: 10
+  payout: 97.3
+  volatility_rating: high
+  hd: true
+  released_at: 2021-09-02
+  multiplier: 4350.0
+  restrictions:
+    default:
+      blacklist: []
