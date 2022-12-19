@@ -1,0 +1,34 @@
+- title: Aviator
+  identifier: spribe:aviator
+  identifier2: aviator
+  provider: spribe
+  producer: spribe
+  category: crash
+  theme: military
+  has_freespins: true
+  feature_group: basic_mt_lv
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - LV
+  - MT
+  - RO
+  payout: 97.0
+  hd: true
+  restrictions:
+    default:
+      blacklist:
+      - AM
+      - GE
+      - IR
+      - LV
+      - RU
+    LV:
+      blacklist:
+      - AM
+      - GE
+      - IR
+      - RU
