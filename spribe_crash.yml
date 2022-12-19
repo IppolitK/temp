@@ -1,0 +1,104 @@
+- title: Aviator
+  identifier: spribe:aviator
+  identifier2: aviator
+  provider: spribe
+  producer: spribe
+  category: crash
+  theme: military
+  has_freespins: true
+  feature_group: basic_mt_lv
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - LV
+  - MT
+  - RO
+  payout: 97.0
+  description: Aviator is a new kind of social multiplayer game consisting of an increasing
+    curve that can crash anytime. When round starts, a scale of multiplier starts
+    growing. Player must cash out before lucky plane flies away.Originated from video
+    gaming industry, this format became popular in crypto casinos, due to its simplicity
+    and exciting gambling experience.We are amongst pioneers to introduce this game
+    to regular online casinos.
+  volatility_rating: high
+  hd: true
+  restrictions:
+    default:
+      blacklist:
+      - AM
+      - GE
+      - IR
+      - LV
+      - RU
+    LV:
+      blacklist:
+      - AM
+      - GE
+      - IR
+      - RU
+- title: Dice
+  identifier: spribe:dice
+  identifier2: dice
+  provider: spribe
+  producer: spribe
+  category: crash
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  payout: 97.0
+  description: Dice is one of most popular games in cryptocurrency casinos. In this
+    fast-wagering game, players task is to predict whether dice result will be higher
+    or lower that selected number.
+  volatility_rating: high
+  hd: true
+  multiplier: 970.0
+  restrictions:
+    default:
+      blacklist:
+      - AM
+      - GE
+      - IR
+      - RU
+- title: Goal
+  identifier: spribe:goal
+  identifier2: goal
+  provider: spribe
+  producer: spribe
+  category: crash
+  theme: sport
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - MT
+  payout: 97.0
+  description: In this game of chance, goal of the player is to get to the end of
+    the field and score a goal. Every line is step of the game. There is a bomb in
+    each of 5 tale lines, and player must guess the correct patch. Player can also
+    cash out after each successful guess and take his winnings, but if he continues
+    to play, his winnings will increase.
+  volatility_rating: high
+  hd: true
+  accumulating: true
+  multiplier: 9.03
+  restrictions:
+    default:
+      blacklist:
+      - AM
+      - GE
+      - IR
+      - RU
