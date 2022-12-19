@@ -1,3 +1,26 @@
+- title: Lucky Lady Bug
+  identifier: 1spin4win:LuckyLadyBug
+  identifier2: LuckyLadyBug
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  lines: 10
+  payout: 97.3
+  hd: true
+  released_at: 2021-09-02
+  multiplier: 4350.0
+  restrictions:
+    default:
+      blacklist: []
 - title: 100 Pin-Up Fruits
   identifier: belatra:100PinUpFruits
   identifier2: pin_up_100
@@ -45,6 +68,72 @@
   restrictions:
     default:
       blacklist: []
+- title: Arabian Spins
+  identifier: booming:ArabianSpins
+  identifier2: 5de6616dfc94b4001af9e08e
+  provider: booming
+  producer: booming
+  category: slots
+  theme: egypt
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BE
+  - BG
+  - BY
+  - EE
+  - MT
+  lines: 10
+  payout: 96.55
+  volatility_rating: low
+  hd: true
+  multiplier: 547.4
+  restrictions:
+    default:
+      blacklist:
+      - GB
+      - IL
+      - IQ
+      - IR
+      - KY
+      - SA
+      - SG
+    MT:
+      blacklist:
+      - AS
+      - AU
+      - BE
+      - BG
+      - CO
+      - CZ
+      - DK
+      - EE
+      - ES
+      - GB
+      - GU
+      - IL
+      - IQ
+      - IR
+      - IT
+      - KR
+      - KY
+      - LT
+      - LV
+      - MP
+      - PR
+      - PT
+      - RO
+      - SA
+      - SE
+      - SG
+      - SK
+      - UM
+      - US
+      - VG
+      - VI
 - title: Barbarian Fury
   identifier: nolimit:BarbarianFury
   identifier2: BarbarianFury
@@ -743,7 +832,74 @@
       - UG
       - US
       - YE
-
+- title: 1429 Uncharted Seas
+  identifier: thunderkick:1429UnchartedSeas_tk
+  identifier2: tk-uncharted
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  theme: pirates
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BY
+  - BE
+  - BG
+  - CW
+  - EE
+  - LV
+  - MT
+  lines: 25
+  payout: 98.63
+  volatility_rating: low
+  hd: true
+  accumulating: true
+  multiplier: 700.0
+  restrictions:
+    default:
+      blacklist:
+      - AU
+      - BE
+      - CZ
+      - DK
+      - FR
+      - GB
+      - IR
+      - IT
+      - KP
+      - LV
+      - LY
+      - MM
+      - PT
+      - RO
+      - SD
+      - SY
+      - US
+      - VE
+      - ZW
+    LV:
+      blacklist:
+      - AU
+      - BE
+      - CZ
+      - DK
+      - FR
+      - GB
+      - IR
+      - IT
+      - KP
+      - LY
+      - MM
+      - PT
+      - RO
+      - SD
+      - SY
+      - US
+      - VE
+      - ZW
 - title: 10x Rewind
   identifier: yggdrasil:10xRewind
   identifier2: '10080'
