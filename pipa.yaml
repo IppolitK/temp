@@ -1,0 +1,32 @@
+---
+- title: Roleta Brasil
+  identifier: pipa:RoletaBrasil
+  identifier2: '4'
+  provider: pipa
+  producer: pipa
+  category: roulette
+  theme: luxury_life
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  volatility_rating: medium
+  has_live: true
+  restrictions:
+    default:
+      blacklist:
+      - CN
+      - CU
+      - CY
+      - IL
+      - IR
+      - LV
+      - MM
+      - SD
+      - SY
+      - TR
+      - US
