@@ -1,7 +1,6 @@
 ---
 - title: Aces and Faces
   identifier: platipus:acesandfaces
-  identifier2: '577'
   provider: platipus
   producer: platipus
   category: video_poker
@@ -23,7 +22,6 @@
       blacklist: []
 - title: Mistress of Amazon
   identifier: platipus:amazonqueen
-  identifier2: '393'
   provider: platipus
   producer: platipus
   category: slots
@@ -45,7 +43,6 @@
       blacklist: []
 - title: Arabian Tales
   identifier: platipus:arabiantales
-  identifier2: '417'
   provider: platipus
   producer: platipus
   category: slots
@@ -67,7 +64,6 @@
       blacklist: []
 - title: Aztec Coins
   identifier: platipus:azteccoins
-  identifier2: '529'
   provider: platipus
   producer: platipus
   category: slots
@@ -90,7 +86,6 @@
       blacklist: []
 - title: Aztec Temple
   identifier: platipus:aztectemple
-  identifier2: '448'
   provider: platipus
   producer: platipus
   category: slots
@@ -112,7 +107,6 @@
       blacklist: []
 - title: Baccarat PRO
   identifier: platipus:baccarat
-  identifier2: '99'
   provider: platipus
   producer: platipus
   category: card
@@ -132,7 +126,6 @@
       blacklist: []
 - title: Baccarat mini
   identifier: platipus:baccaratmini
-  identifier2: '489'
   provider: platipus
   producer: platipus
   category: card
@@ -152,7 +145,6 @@
       blacklist: []
 - title: Baccarat VIP
   identifier: platipus:baccaratvip
-  identifier2: '490'
   provider: platipus
   producer: platipus
   category: card
@@ -172,7 +164,6 @@
       blacklist: []
 - title: Bamboo Grove
   identifier: platipus:bamboogrove
-  identifier2: '549'
   provider: platipus
   producer: platipus
   category: slots
@@ -196,7 +187,6 @@
       blacklist: []
 - title: Bison Trail
   identifier: platipus:bisontrail
-  identifier2: '491'
   provider: platipus
   producer: platipus
   category: slots
@@ -218,7 +208,6 @@
       blacklist: []
 - title: Blackjack
   identifier: platipus:blackjack
-  identifier2: '93'
   provider: platipus
   producer: platipus
   category: card
@@ -237,7 +226,6 @@
       blacklist: []
 - title: Blackjack VIP
   identifier: platipus:blackjackvip
-  identifier2: '487'
   provider: platipus
   producer: platipus
   category: card
@@ -257,7 +245,6 @@
       blacklist: []
 - title: Book of Egypt
   identifier: platipus:bookofegypt
-  identifier2: '465'
   provider: platipus
   producer: platipus
   category: slots
@@ -279,7 +266,6 @@
       blacklist: []
 - title: Book of Light
   identifier: platipus:BookofLight
-  identifier2: '567'
   provider: platipus
   producer: platipus
   category: slots
@@ -303,7 +289,6 @@
       blacklist: []
 - title: Caishen's Gifts
   identifier: platipus:caishensgifts
-  identifier2: '534'
   provider: platipus
   producer: platipus
   category: slots
@@ -325,7 +310,6 @@
       blacklist: []
 - title: Chilli Fiesta
   identifier: platipus:chillifiesta
-  identifier2: '539'
   provider: platipus
   producer: platipus
   category: slots
@@ -349,7 +333,6 @@
       blacklist: []
 - title: Chinese Tigers
   identifier: platipus:chinesetigers
-  identifier2: '530'
   provider: platipus
   producer: platipus
   category: slots
@@ -372,7 +355,6 @@
       blacklist: []
 - title: Cinderella
   identifier: platipus:cinderella
-  identifier2: '477'
   provider: platipus
   producer: platipus
   category: slots
@@ -394,7 +376,6 @@
       blacklist: []
 - title: Coinfest
   identifier: platipus:coinfest
-  identifier2: '569'
   provider: platipus
   producer: platipus
   category: slots
@@ -419,7 +400,6 @@
       blacklist: []
 - title: Crazy Jelly
   identifier: platipus:crazyjelly
-  identifier2: '443'
   provider: platipus
   producer: platipus
   category: slots
@@ -441,7 +421,6 @@
       blacklist: []
 - title: Crocoman
   identifier: platipus:crocoman
-  identifier2: '409'
   provider: platipus
   producer: platipus
   category: slots
@@ -463,7 +442,6 @@
       blacklist: []
 - title: Crystal Sevens
   identifier: platipus:crystalsevens
-  identifier2: '425'
   provider: platipus
   producer: platipus
   category: slots
@@ -485,7 +463,6 @@
       blacklist: []
 - title: Da Ji Da Li
   identifier: platipus:dajidali
-  identifier2: '537'
   provider: platipus
   producer: platipus
   category: slots
@@ -508,7 +485,6 @@
       blacklist: []
 - title: Diamond Hunt
   identifier: platipus:diamondhunt
-  identifier2: '555'
   provider: platipus
   producer: platipus
   category: slots
@@ -531,7 +507,6 @@
       blacklist: []
 - title: Dragon's Element
   identifier: platipus:dragonselement
-  identifier2: '533'
   provider: platipus
   producer: platipus
   category: slots
@@ -554,7 +529,6 @@
       blacklist: []
 - title: Dynasty Warriors
   identifier: platipus:dynastywarriors
-  identifier2: '538'
   provider: platipus
   producer: platipus
   category: slots
@@ -578,7 +552,6 @@
       blacklist: []
 - title: Cleo's Gold
   identifier: platipus:egyptiangold
-  identifier2: '386'
   provider: platipus
   producer: platipus
   category: slots
@@ -600,7 +573,6 @@
       blacklist: []
 - title: European Roulette
   identifier: platipus:EuropeanRoulette
-  identifier2: '110'
   provider: platipus
   producer: platipus
   category: roulette
@@ -620,7 +592,6 @@
       blacklist: []
 - title: Extra Gems
   identifier: platipus:extragems
-  identifier2: '568'
   provider: platipus
   producer: platipus
   category: slots
@@ -642,7 +613,6 @@
       blacklist: []
 - title: Fairy Forest
   identifier: platipus:fairyforest
-  identifier2: '400'
   provider: platipus
   producer: platipus
   category: slots
@@ -664,7 +634,6 @@
       blacklist: []
 - title: Frozen Mirror
   identifier: platipus:frozenmirror
-  identifier2: '554'
   provider: platipus
   producer: platipus
   category: slots
@@ -689,7 +658,6 @@
       blacklist: []
 - title: Fruit Boost
   identifier: platipus:fruitboost
-  identifier2: '572'
   provider: platipus
   producer: platipus
   category: slots
@@ -734,7 +702,6 @@
       blacklist: []
 - title: Great Ocean
   identifier: platipus:greatocean
-  identifier2: '486'
   provider: platipus
   producer: platipus
   category: slots
@@ -756,7 +723,6 @@
       blacklist: []
 - title: Guises of Dracula
   identifier: platipus:guisesofdracula
-  identifier2: '547'
   provider: platipus
   producer: platipus
   category: slots
@@ -779,7 +745,6 @@
       blacklist: []
 - title: Hallowin
   identifier: platipus:hallowin
-  identifier2: '570'
   provider: platipus
   producer: platipus
   category: slots
@@ -803,7 +768,6 @@
       blacklist: []
 - title: Hawaiian Night
   identifier: platipus:hawaiiannight
-  identifier2: '543'
   provider: platipus
   producer: platipus
   category: slots
@@ -826,7 +790,6 @@
       blacklist: []
 - title: 7 & Hot Fruits
   identifier: platipus:hotfruits
-  identifier2: '545'
   provider: platipus
   producer: platipus
   category: slots
@@ -849,7 +812,6 @@
       blacklist: []
 - title: Jackpot Lab
   identifier: platipus:jackpotlab
-  identifier2: '531'
   provider: platipus
   producer: platipus
   category: slots
@@ -872,7 +834,6 @@
       blacklist: []
 - title: Jacks or Better
   identifier: platipus:jacksorbetter
-  identifier2: '562'
   provider: platipus
   producer: platipus
   category: poker
@@ -894,7 +855,6 @@
       blacklist: []
 - title: Jade Valley
   identifier: platipus:jadevalley
-  identifier2: '485'
   provider: platipus
   producer: platipus
   category: slots
@@ -917,7 +877,6 @@
       blacklist: []
 - title: Jewel Bang
   identifier: platipus:jewelblast
-  identifier2: '395'
   provider: platipus
   producer: platipus
   category: slots
@@ -939,7 +898,6 @@
       blacklist: []
 - title: Joker Chase
   identifier: platipus:jokerchase
-  identifier2: '556'
   provider: platipus
   producer: platipus
   category: slots
@@ -965,7 +923,6 @@
       blacklist: []
 - title: Juicy Spins
   identifier: platipus:juicyspins
-  identifier2: '428'
   provider: platipus
   producer: platipus
   category: slots
@@ -987,7 +944,6 @@
       blacklist: []
 - title: Jungle Spin
   identifier: platipus:junglespin
-  identifier2: '423'
   provider: platipus
   producer: platipus
   category: slots
@@ -1009,7 +965,6 @@
       blacklist: []
 - title: Legend of Atlantis
   identifier: platipus:legendofatlantis
-  identifier2: '442'
   provider: platipus
   producer: platipus
   category: slots
@@ -1031,7 +986,6 @@
       blacklist: []
 - title: Leprechaun's Coins
   identifier: platipus:leprechauns
-  identifier2: '550'
   provider: platipus
   producer: platipus
   category: slots
@@ -1056,7 +1010,6 @@
       blacklist: []
 - title: Little Witchy
   identifier: platipus:littlewitchy
-  identifier2: '552'
   provider: platipus
   producer: platipus
   category: slots
@@ -1079,7 +1032,6 @@
       blacklist: []
 - title: Lord of the Sun
   identifier: platipus:lordofthesun
-  identifier2: '544'
   provider: platipus
   producer: platipus
   category: slots
@@ -1102,7 +1054,6 @@
       blacklist: []
 - title: Love is
   identifier: platipus:loveis
-  identifier2: '476'
   provider: platipus
   producer: platipus
   category: slots
@@ -1124,7 +1075,6 @@
       blacklist: []
 - title: Lucky Cat
   identifier: platipus:luckycat
-  identifier2: '527'
   provider: platipus
   producer: platipus
   category: slots
@@ -1147,7 +1097,6 @@
       blacklist: []
 - title: Lucky Dolphin
   identifier: platipus:luckydolphin
-  identifier2: '427'
   provider: platipus
   producer: platipus
   category: slots
@@ -1169,7 +1118,6 @@
       blacklist: []
 - title: Lucky Money
   identifier: platipus:luckymoney
-  identifier2: '475'
   provider: platipus
   producer: platipus
   category: slots
@@ -1191,7 +1139,6 @@
       blacklist: []
 - title: Magical Mirror
   identifier: platipus:magicalmirror
-  identifier2: '446'
   provider: platipus
   producer: platipus
   category: slots
@@ -1213,7 +1160,6 @@
       blacklist: []
 - title: Magical Wolf
   identifier: platipus:magicalwolf
-  identifier2: '394'
   provider: platipus
   producer: platipus
   category: slots
@@ -1235,7 +1181,6 @@
       blacklist: []
 - title: Mega Drago
   identifier: platipus:megadrago
-  identifier2: '450'
   provider: platipus
   producer: platipus
   category: slots
@@ -1257,7 +1202,6 @@
       blacklist: []
 - title: Might of Zeus
   identifier: platipus:mightofzeus
-  identifier2: '548'
   provider: platipus
   producer: platipus
   category: slots
@@ -1280,7 +1224,6 @@
       blacklist: []
 - title: Monkey's Journey
   identifier: platipus:monkeysjourney
-  identifier2: '480'
   provider: platipus
   producer: platipus
   category: slots
@@ -1302,7 +1245,6 @@
       blacklist: []
 - title: Neon Classic
   identifier: platipus:neonclassic
-  identifier2: '488'
   provider: platipus
   producer: platipus
   category: slots
@@ -1324,7 +1266,6 @@
       blacklist: []
 - title: 9 Dragon Kings
   identifier: platipus:ninedragonkings
-  identifier2: '560'
   provider: platipus
   producer: platipus
   category: slots
@@ -1347,7 +1288,6 @@
       blacklist: []
 - title: 9 Gems
   identifier: platipus:ninegems
-  identifier2: '561'
   provider: platipus
   producer: platipus
   category: slots
@@ -1371,7 +1311,6 @@
       blacklist: []
 - title: Pearls of the Ocean
   identifier: platipus:pearlsoftheocean
-  identifier2: '565'
   provider: platipus
   producer: platipus
   category: slots
@@ -1395,7 +1334,6 @@
       blacklist: []
 - title: Pharaoh's Empire
   identifier: platipus:pharaohsempire
-  identifier2: '492'
   provider: platipus
   producer: platipus
   category: slots
@@ -1417,7 +1355,6 @@
       blacklist: []
 - title: Piedra del Sol
   identifier: platipus:piedradelsol
-  identifier2: '559'
   provider: platipus
   producer: platipus
   category: slots
@@ -1443,7 +1380,6 @@
       blacklist: []
 - title: Pirates Map
   identifier: platipus:piratesmap
-  identifier2: '532'
   provider: platipus
   producer: platipus
   category: slots
@@ -1466,7 +1402,6 @@
       blacklist: []
 - title: Posh Cats
   identifier: platipus:poshcats
-  identifier2: '557'
   provider: platipus
   producer: platipus
   category: slots
@@ -1490,7 +1425,6 @@
       blacklist: []
 - title: Power of Gods
   identifier: platipus:powerofgods
-  identifier2: '483'
   provider: platipus
   producer: platipus
   category: slots
@@ -1512,7 +1446,6 @@
       blacklist: []
 - title: Power Of Poseidon
   identifier: platipus:powerofposeidon
-  identifier2: '452'
   provider: platipus
   producer: platipus
   category: slots
@@ -1534,7 +1467,6 @@
       blacklist: []
 - title: Princess of Birds
   identifier: platipus:princessofbirds
-  identifier2: '401'
   provider: platipus
   producer: platipus
   category: slots
@@ -1556,7 +1488,6 @@
       blacklist: []
 - title: Rhino Mania
   identifier: platipus:rhinomania
-  identifier2: '528'
   provider: platipus
   producer: platipus
   category: slots
@@ -1578,7 +1509,6 @@
       blacklist: []
 - title: Richy Witchy
   identifier: platipus:richywitchy
-  identifier2: '429'
   provider: platipus
   producer: platipus
   category: slots
@@ -1600,7 +1530,6 @@
       blacklist: []
 - title: Royal Lotus
   identifier: platipus:RoyalLotus
-  identifier2: '541'
   provider: platipus
   producer: platipus
   category: slots
@@ -1624,7 +1553,6 @@
       blacklist: []
 - title: Safari Adventures
   identifier: platipus:safariadventure
-  identifier2: '426'
   provider: platipus
   producer: platipus
   category: slots
@@ -1646,7 +1574,6 @@
       blacklist: []
 - title: Sakura Wind
   identifier: platipus:sakuragarden
-  identifier2: '469'
   provider: platipus
   producer: platipus
   category: slots
@@ -1668,7 +1595,6 @@
       blacklist: []
 - title: Santa's Bag
   identifier: platipus:santasbag
-  identifier2: '542'
   provider: platipus
   producer: platipus
   category: slots
@@ -1692,7 +1618,6 @@
       blacklist: []
 - title: Fiery Planet
   identifier: platipus:spacequest
-  identifier2: '392'
   provider: platipus
   producer: platipus
   category: slots
@@ -1714,7 +1639,6 @@
       blacklist: []
 - title: The Ancient Four
   identifier: platipus:theancientfour
-  identifier2: '535'
   provider: platipus
   producer: platipus
   category: slots
@@ -1736,7 +1660,6 @@
       blacklist: []
 - title: The Big Score
   identifier: platipus:thebigscore
-  identifier2: '574'
   provider: platipus
   producer: platipus
   category: slots
@@ -1761,7 +1684,6 @@
       blacklist: []
 - title: 1001 Spins
   identifier: platipus:thousandonespins
-  identifier2: '546'
   provider: platipus
   producer: platipus
   category: slots
@@ -1784,7 +1706,6 @@
       blacklist: []
 - title: Triple Dragon
   identifier: platipus:tripledragon
-  identifier2: '444'
   provider: platipus
   producer: platipus
   category: slots
@@ -1806,7 +1727,6 @@
       blacklist: []
 - title: Un Dia de Muertos
   identifier: platipus:undiademuertos
-  identifier2: '553'
   provider: platipus
   producer: platipus
   category: slots
@@ -1829,7 +1749,6 @@
       blacklist: []
 - title: Ways of the Gauls
   identifier: platipus:WaysoftheGauls
-  identifier2: '563'
   provider: platipus
   producer: platipus
   category: slots
@@ -1853,7 +1772,6 @@
       blacklist: []
 - title: Wealth of Wisdom
   identifier: platipus:wealthofwisdom
-  identifier2: '540'
   provider: platipus
   producer: platipus
   category: slots
@@ -1878,7 +1796,6 @@
       blacklist: []
 - title: Webby Heroes
   identifier: platipus:webbyheroes
-  identifier2: '526'
   provider: platipus
   producer: platipus
   category: slots
@@ -1900,7 +1817,6 @@
       blacklist: []
 - title: Wild Crowns
   identifier: platipus:wildcrowns
-  identifier2: '564'
   provider: platipus
   producer: platipus
   category: slots
@@ -1923,7 +1839,6 @@
       blacklist: []
 - title: Wild Justice
   identifier: platipus:wildjustice
-  identifier2: '551'
   provider: platipus
   producer: platipus
   category: slots
@@ -1946,7 +1861,6 @@
       blacklist: []
 - title: Wild Spin
   identifier: platipus:wildspin
-  identifier2: '536'
   provider: platipus
   producer: platipus
   category: slots
@@ -1969,7 +1883,6 @@
       blacklist: []
 - title: Xmas Avalanche
   identifier: platipus:xmasavalanche
-  identifier2: '571'
   provider: platipus
   producer: platipus
   category: slots
