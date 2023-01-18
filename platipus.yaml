@@ -1,0 +1,2273 @@
+---
+- title: Aces and Faces
+  identifier: platipus:acesandfaces
+  identifier2: '577'
+  provider: platipus
+  producer: platipus
+  category: video_poker
+  theme: retro
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 99.25
+  volatility_rating: low-medium
+  hd: true
+  released_at: 2022-12-22
+  multiplier: 800.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Mistress of Amazon
+  identifier: platipus:amazonqueen
+  identifier2: '393'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 550.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Arabian Tales
+  identifier: platipus:arabiantales
+  identifier2: '417'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Aztec Coins
+  identifier: platipus:azteccoins
+  identifier2: '529'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.0
+  description: 'Never have you been this close to unraveling the secrets of an ancient
+    civilization. The Aztecs have hidden the most precious treasure in a magic cave
+    for you. Discover it in our new Aztec Coins which takes you deep into the heart
+    of these mysteries, presenting a set of reels which are covered with powerful
+    striking symbols and 50 win lines. When 3 or more Aztec pyramids appear on the
+    reels the Free spins feature gets triggered. Depending on the number of Extra
+    Wilds appearing during the Free Spins round, you get awarded 1 of 3 kinds of Jackpots:
+    MAJOR, MINOR and MINI.Hit at least 6 Bonus symbols to trigger the Respin feature.
+    but the biggest surprise the Aztecs have in store for you is the GRAND JACKPOT
+    which can be won when all positions display Bo'
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 2750.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Aztec Temple
+  identifier: platipus:aztectemple
+  identifier2: '448'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  description: Join our mission to solve the great mysteries of the Aztec Temple.
+    Dive into the ancient culture and become part of it with this 5x3 reels and 20
+    lines video slot! Enjoy the main and bonus game with Avalanche Multiplier, which
+    increases after every successive avalanche, containing at least one bet line win.
+    Once on board at this game mission, quitting is not an option!
+  volatility_rating: high
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Baccarat PRO
+  identifier: platipus:baccarat
+  identifier2: '99'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 98.94
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Baccarat mini
+  identifier: platipus:baccaratmini
+  identifier2: '489'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 98.76
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Baccarat VIP
+  identifier: platipus:baccaratvip
+  identifier2: '490'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 98.76
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Bamboo Grove
+  identifier: platipus:bamboogrove
+  identifier2: '549'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.0
+  hit_rate: 25.52
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 8100.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bison Trail
+  identifier: platipus:bisontrail
+  identifier2: '491'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: western
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 1024
+  payout: 95.0
+  description: Bison Trail is a 4x5 reel video slot. The first fabulous feature players
+    will notice playing the Bison Trail slot, is the absence of pay lines. There are
+    1024 ways to hit a win in this game. Catch 3, 4 or 5 Scatter symbols anywhere
+    on the reels and get awarded with 8, 15 or 20 Free Spins respectively. The wild
+    symbol adds a multiplier to any win hit during the free spin rounds. The Bison
+    Trail slot can make your day spectacular!
+  volatility_rating: high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Blackjack
+  identifier: platipus:blackjack
+  identifier2: '93'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 97.33
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Blackjack VIP
+  identifier: platipus:blackjackvip
+  identifier2: '487'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 97.33
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Book of Egypt
+  identifier: platipus:bookofegypt
+  identifier2: '465'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Book of Light
+  identifier: platipus:BookofLight
+  identifier2: '567'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 94.0
+  hit_rate: 38.33
+  volatility_rating: high
+  hd: true
+  released_at: 2022-08-04
+  bonus_buy: true
+  multiplier: 5100.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Caishen's Gifts
+  identifier: platipus:caishensgifts
+  identifier2: '534'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.03
+  volatility_rating: high
+  hd: true
+  multiplier: 3500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Chilli Fiesta
+  identifier: platipus:chillifiesta
+  identifier2: '539'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 95.0
+  hit_rate: 33.81
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 3500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Chinese Tigers
+  identifier: platipus:chinesetigers
+  identifier2: '530'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 95.0
+  description: Chinese Tigers is a 5x3 reels and 30 lines video slot bringing you
+    great graphics to enjoy. Mesmerizing animations, and real big wins. During the
+    main game, if all 6 symbol positions on reel 1 and reel 2 are covered by any Tiger
+    symbol, the player hits either the MINOR, MAJOR or GRAND JACKPOT.To enjoy the
+    Free spins feature, you just need to hit 3 Scatter symbols which will trigger
+    this feature. During the Free Spins round, White Tiger, Orange Tiger and Black
+    Tiger symbols will transform into Wild symbols depending on the option selected.
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 700.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Cinderella
+  identifier: platipus:cinderella
+  identifier2: '477'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  description: Everything new is actually well known from old times. Get acquainted
+    with our new 5x4 reels and 40 linesvideo Cinderella slot! Juno into the fairy
+    tale, feel the magic of our main game with double Wild symbols.Trigger the Bonus
+    game and spin the Bonus Wheel to win Free Spins with reels gone Wild during thisfeature.
+    Don`t miss the chance to be part of a fairy tale!
+  volatility_rating: high
+  hd: true
+  multiplier: 200.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Coinfest
+  identifier: platipus:coinfest
+  identifier2: '569'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  released_at: 2022-09-01
+  bonus_buy: true
+  multiplier: 5570.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Crazy Jelly
+  identifier: platipus:crazyjelly
+  identifier2: '443'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: sweets
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 600.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Crocoman
+  identifier: platipus:crocoman
+  identifier2: '409'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 94.0
+  description: Hot and wild. This game is set in African surroundings!Try out Crocoman,
+    a 5x4 reels and 50 lines video slot which never ceases to amaze and delight you.Experience
+    the true spirit of Africa after catching at least 3 Wilds on the reels to start
+    Free Spins with a randomly selected special Expanding symbol. Are you still here?
+    Start spinning for gold and do it now!!!
+  volatility_rating: high
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Crystal Sevens
+  identifier: platipus:crystalsevens
+  identifier2: '425'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  description: Feel the magic of the number seven in a bright a 5x3 reels and 50 lines
+    Crystal Sevens video slot!Catch Wild symbols and special bonus symbol on a reels
+    and play one of three bonus games.
+  volatility_rating: medium
+  hd: true
+  multiplier: 450.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Da Ji Da Li
+  identifier: platipus:dajidali
+  identifier2: '537'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 95.25
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 1640.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Diamond Hunt
+  identifier: platipus:diamondhunt
+  identifier2: '555'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 4096
+  payout: 95.0
+  description: "The year is slowly coming to an end, the snow is slowly descending
+    on the rooftops covering the\r\nworld in white… A perfect time to travel to the
+    hot jungles of Africa with Platipus newest game –\r\nDiamond Hunt! From what we
+    heard, volcanologists predict that a great diamond volcano eruption is\r\nabout
+    to happen. So, grab your shovels, fireproof gear, and prepare to set out for beautiful
+    crystals.\r\nAll you need to do is to make your way through capricious jungle
+    where danger lies behind every\r\ncorner. Profit too, as winning combinations
+    in this game form both from left to right and from right to\r\nleft. "
+  volatility_rating: high
+  hd: true
+  released_at: 2021-11-18
+  multiplier: 15600.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Dragon's Element
+  identifier: platipus:dragonselement
+  identifier2: '533'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.03
+  description: Imagine a journey to the Far East where you can explore the old myths
+    and folktales of this region. Discoverthe land where you can encounter mystical
+    beasts and enjoy the luck and wealth to be taken from theDragons.Prepare to start
+    your journey with our brand new game, Dragon`s Element.This slot consists of 6
+    reels of 4 rows. Dragon`s Element offers 50 fixed pay lines.When playing this
+    game, you can hit two or more, not necessarily connected, Wilds which need to
+    be on thesame row. All symbols in between these Wilds will turn into Wild symbols
+    as well. If a combination of three ormore Scatters is hit, 10 to 50 Free Spins
+    get activated.Three different kind of Jackpots will bring even more excitement
+    and make wins grow much bigger in thisgame.The biggest GRAND Jackpot can be won
+    with a full screen of Wilds.don't hesitate and go try this ama
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Dynasty Warriors
+  identifier: platipus:dynastywarriors
+  identifier2: '538'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.03
+  hit_rate: 30.15
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Cleo's Gold
+  identifier: platipus:egyptiangold
+  identifier2: '386'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: egypt
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  description: Hurry to unravel the mysteries of ancient Egypt and find real treasures
+    in Cleo's Gold, a 5x3 reels and 20 lines video slot. This game is amazing and
+    Free Spins are even better. Sticky, Stacked and Expanding Wilds appearing in the
+    Free Spins feature will not keep you go
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: European Roulette
+  identifier: platipus:EuropeanRoulette
+  identifier2: '110'
+  provider: platipus
+  producer: platipus
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 97.0
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Extra Gems
+  identifier: platipus:extragems
+  identifier2: '568'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.01
+  hd: true
+  released_at: 2022-09-29
+  bonus_buy: true
+  multiplier: 5005.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Fairy Forest
+  identifier: platipus:fairyforest
+  identifier2: '400'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  description: 'A wonderful and magical place, a paradise where all stress disappears
+    in oblivion. You will forget about everything once plunging into this world of
+    beauty!The exotic melodies of birds bring harmony and peace to the soul!Come on
+    in dear friend. Welcome to the marvelous realm of the Princess of Birds, a 5x3
+    reels and 20 lines video slot!Here any 3 symbols in a stack will bring you 3 Respins
+    with these symbols sticking to the reels during the whole Respin round! Even more
+    fun will get triggered when the Princess of Birds decides to award you a round
+    of Free Spins. Just catch Scatters on the reels and enjoy every moment of it! '
+  volatility_rating: low
+  hd: true
+  multiplier: 250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Frozen Mirror
+  identifier: platipus:frozenmirror
+  identifier2: '554'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 95.0
+  description: "Do you hear the voices of legendary heroes coming from faraway lands?
+    They call upon the brave and adventurous spirits to step into a World of Frozen
+    Mirror where the power of the great Frozen Queen reigns supreme! Accept this mysterious
+    invitation and compete with Her Majesty for her kingdom’s wealth. But be careful
+    not to get your blood frozen from a range of thrilling features she keeps in her
+    possessions for you. Pay attention to the castle symbols, which also play as Scatters
+    - 5 and more of them will trigger Free Spin Feature. The amount of free spins
+    won will correspond to the amount of Scatters hit. And should you form a winning
+    combination with a Wild symbol during these Free Spins, you will that payline
+    payout doubled. And\r\nwhat’s more - you’ll notice that Queen’s castle is full
+    of magical Mirrors - and those are no mere pieces of glass. Collecting at least
+    5 of them in the reels will trigger a Mirror Reflection Feature! That’s where
+    magic comes into full effect! 3 Magical frames will appear randomly on the reels,
+    and you will be awarded with 6 Extra Spins. If one of the mirrors appears below
+    the frame - the prize reflected in the mirror will be yours! There are three types\r\nof
+    reflections a mirror can contain- monetary prize, one of the four Jackpots, or
+    the Frozen Queen itself. Hitting the Queen would mean additional Extra Spin, and
+    additional Magical Frame. The Mirror Reflection Feature can be triggered during
+    regular game, as well as during Free Spin round.\r\nThis adventure promises to
+    be full of excitement! Do you already feel a chill running down your spine?! If
+    so, it can only mean one thing - it’s high time to\r\nput on your woolly hat and
+    jumper and start this arduous but rewarding journey through a fantastic world
+    of Frozen Mirror!"
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  released_at: 2021-12-16
+  bonus_buy: true
+  multiplier: 2070.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Fruit Boost
+  identifier: platipus:fruitboost
+  identifier2: '572'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fruits
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.69
+  hit_rate: 35.4
+  volatility_rating: medium
+  hd: true
+  released_at: 2022-11-17
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Fruity Sevens
+  identifier: platipus:fruitysevens
+  identifier2: '424'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 94.0
+  description: The game which pays excellent makes the day of a devoted player! This
+    is what Fruity Sevens, a 5x3 reels and 25 lines video slot, does! Get lucky and
+    hit a winning combination with 3 or more symbols to trigger a Respin for a better
+    combination! With 5 Scatters on the reels you will feel even more excited as it
+    is how you get the Free Spins activated. Hurry up! The fruitful game is waiting
+    for you!
+  volatility_rating: medium
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Great Ocean
+  identifier: platipus:greatocean
+  identifier2: '486'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: underwater_world
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: high
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Guises of Dracula
+  identifier: platipus:guisesofdracula
+  identifier2: '547'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: horrors
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.09
+  description: Gather round, mere mortals, gather round. For today you shall hear
+    a different story. One that chills blood inthe veins and grasps the hearts with
+    the cold claws of terror. The story about the most savage of creaturesand the
+    most relentless hunters - the vampires. Led by the mighty Dracula, they took hold
+    in the localcastle. The voyager bats have already started moving their numerous
+    belongings there. And therein lies theopportunity, for these bats act as wild
+    symbols as they fly upwards towards the castle. But should they landon Dracula
+    on their way, and you will witness the legendary Shifting Guises feature, for
+    the great vampirehimself will join them, filling all nearby positions with Wild
+    symbols. Of course, after such an encounter a poorbat will drop anything that
+    it was carrying in its clutches, which will be liable to be picked by you. This
+    plunderincludes cash prizes, Free Spins, multipliers and of course one of the
+    four Jackpots.And so you have been warned. Do you have what it takes to dare and
+    trespass into vampire's territory? Thenthis game is just for you. Take a bite
+    of the gothic atmosphere with Platipus` new slot - Guises of Dr
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 4179.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Hallowin
+  identifier: platipus:hallowin
+  identifier2: '570'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: halloween
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.0
+  hit_rate: 36.8
+  volatility_rating: medium
+  hd: true
+  released_at: 2022-10-20
+  bonus_buy: true
+  multiplier: 1380.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Hawaiian Night
+  identifier: platipus:hawaiiannight
+  identifier2: '543'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 95.0
+  description: 'Tired? Overworked and exhausted? Take a break from the winter rush,
+    and enjoy a calm Hawaiian Night withPlatipus. Explore the exotic island or lean
+    back on the warm Mediterranean sand with a glass of pinna colada.You deserved
+    that break.But it would rather boring to do nothing all day, so why not go pearl
+    hunting? Especially if collecting threelucky pearls will award you with 8 Free
+    Spins! And it does not stop there, not only you can retrigger the FreeSpins by
+    collecting more pearls, the main symbols: the Hook, the Canoe and the Hut, will
+    be replaced by a WildSymbol for all the Free Spins!Jackpots are also featured
+    in this game. At any time, if manage to line up consecutively 3 or more WildSymbols
+    on the first line, starting from left outermost reel, you will be rewarded by
+    Major, Minor or MiniJackpot.So what are you waiting for? Brush off snow off your
+    winter boots, pack up your swimsuits and dive intomagical atmosphere of Hawaiian
+    Night!'
+  hit_rate: 40.74
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1065.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 7 & Hot Fruits
+  identifier: platipus:hotfruits
+  identifier2: '545'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 5
+  payout: 95.0
+  volatility_rating: low-medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1040.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jackpot Lab
+  identifier: platipus:jackpotlab
+  identifier2: '531'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 95.2
+  description: Welcome to the Jackpot Lab where a mix of science and magic results
+    in a real potion of luck.This exciting, full of magic new game has 5-reels and
+    boasts some big bonus features like Bonus Reel, Free Spins, and Jackpots.A hit
+    of 3 Scatter symbols gets awarded with 8 Free Spins which can get re-triggered
+    during the feature.Additionally to the regular 5 reels, this game has a sixth
+    Bonus Reel which rotates slowly during the main game. 3 Bonus symbols activate
+    the Bonus Reel resulting in wins of a cash prize or 1 of 4 Jackpots - Mini, Minor,
+    Major or Grand! If you believe in magic or in science, in Jackpot Lab wins are
+    available for everyone!
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jacks or Better
+  identifier: platipus:jacksorbetter
+  identifier2: '562'
+  provider: platipus
+  producer: platipus
+  category: poker
+  theme: retro
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 99.54
+  volatility_rating: low-medium
+  hd: true
+  released_at: 2022-10-13
+  multiplier: 800.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jade Valley
+  identifier: platipus:jadevalley
+  identifier2: '485'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.0
+  description: 'Jade Valley is a 5X3 reels and 50 lines video slot about a beautiful
+    princess and brave warrior who comes to her rescue. When the Wild symbols appear,
+    a peach tree starts growing but the real magic begins when at least 6 Bonus symbols
+    appear on the reels and the Respin feature will get triggered. During the Respin
+    feature 4 kinds of Jackpots can be won: GRAND, MAJOR, MINOR and MINI. The main
+    goal is hitting the GRAND Jackpot so make sure to keep an eye on the Bonus symbol.
+    When all symbol positions get hit, the biggest prize gets awarded.'
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jewel Bang
+  identifier: platipus:jewelblast
+  identifier2: '395'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 94.0
+  volatility_rating: low
+  hd: true
+  multiplier: 800.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Joker Chase
+  identifier: platipus:jokerchase
+  identifier2: '556'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: joker
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.0
+  hit_rate: 32.23
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  released_at: 2022-01-20
+  bonus_buy: true
+  multiplier: 1760.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Juicy Spins
+  identifier: platipus:juicyspins
+  identifier2: '428'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 94.0
+  description: 'Fruit mix on the reels: tasty, shiny and, most importantly, profitable!Allow
+    your mind some healthy pleasure by starting to play Juicy Spins, a 5x3 reels and
+    25 lines video slot.Trigger Free Spins and enjoy the delicious taste of winnings.
+    Even more prizes await you after hitting Wild x2 applying to any winning combination.
+    You''ll receive double the money  '
+  volatility_rating: high
+  hd: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jungle Spin
+  identifier: platipus:junglespin
+  identifier2: '423'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 1600.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Legend of Atlantis
+  identifier: platipus:legendofatlantis
+  identifier2: '442'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  volatility_rating: low
+  hd: true
+  multiplier: 400.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Leprechaun's Coins
+  identifier: platipus:leprechauns
+  identifier2: '550'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: st_patrick_day
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.0
+  hit_rate: 27.38
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  bonus_buy: true
+  multiplier: 2226.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Little Witchy
+  identifier: platipus:littlewitchy
+  identifier2: '552'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 95.03
+  volatility_rating: medium-high
+  hd: true
+  bonus_buy: true
+  multiplier: 12853.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lord of the Sun
+  identifier: platipus:lordofthesun
+  identifier2: '544'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: egypt
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Love is
+  identifier: platipus:loveis
+  identifier2: '476'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: st_valentines_day
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Cat
+  identifier: platipus:luckycat
+  identifier2: '527'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 4300.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Dolphin
+  identifier: platipus:luckydolphin
+  identifier2: '427'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: underwater_world
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 15
+  payout: 94.0
+  description: What happens at the bottom of the sea? Which creatures live at the
+    bottom of the oceans? Dive into the wonderful underwater world of Lucky Dolphin,
+    a 5x3 reels and 15 lines video slot, and eyewitness the wonders that occur down
+    there! You will love the 5-level Bonus game as you never leave it without a prizewhich
+    can reach an impressive amount of 220 total bets! Start your fascinating journey
+    immediately and get ready for pleasant discoveries!
+  volatility_rating: high
+  hd: true
+  multiplier: 250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Money
+  identifier: platipus:luckymoney
+  identifier2: '475'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Magical Mirror
+  identifier: platipus:magicalmirror
+  identifier2: '446'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 15
+  payout: 94.01
+  description: Mirror, mirror on the wall, who is the luckiest of all?Today you have
+    an opportunity to use the magic mirror in order to win even more in fancy 5x3
+    reels 15 fixed lines video slot. Collect 3 apples, launch a bonus game and joy
+    the free spins.
+  volatility_rating: medium
+  hd: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Magical Wolf
+  identifier: platipus:magicalwolf
+  identifier2: '394'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  description: Nothing can be compared with the feeling of magic happening! Start
+    Magical Wolf, a 5x3 reels and 20 lines video slot and get this experience hunting
+    for wins with the king of the wood as your loyal companion! The game is amazing,
+    Free Spins are even better. Sticky, Stacked and Expanding Wilds appearing in the
+    Free Spins feature will not let you go for hours! Hunt for wins with our Magical
+    Wolf by your side!
+  volatility_rating: high
+  hd: true
+  multiplier: 1200.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Mega Drago
+  identifier: platipus:megadrago
+  identifier2: '450'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 94.0
+  description: They say once you see the Dragon, it will bring you luck for the rest
+    of your life. Prepare for mega luck with our 5x3 and 30 lines video Mega Drago
+    slot. The Mega symbol feature will make your game way more exciting! Catch the
+    Scatter as a mega symbol and play the bonus game with free spins. Play it now
+    and getmega lucky!
+  volatility_rating: medium
+  hd: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Might of Zeus
+  identifier: platipus:mightofzeus
+  identifier2: '548'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.04
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 4111.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Monkey's Journey
+  identifier: platipus:monkeysjourney
+  identifier2: '480'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Neon Classic
+  identifier: platipus:neonclassic
+  identifier2: '488'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.01
+  description: Classics never lose their appeal. Feel welcomed in the old fashioned
+    way by our Neon Classic slot which always presents its players a set of at least
+    two united reels which can get even more exciting by expansion of reels towards
+    triplets, quadruplets or even quintuplets! The unique feature as well as the 243
+    ways to win, ensure a maximum level of excitement during each and every spin.
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 1080.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 9 Dragon Kings
+  identifier: platipus:ninedragonkings
+  identifier2: '560'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.0
+  hit_rate: 9.07
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-05-05
+  multiplier: 1776.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 9 Gems
+  identifier: platipus:ninegems
+  identifier2: '561'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: st_patrick_day
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 5
+  payout: 95.0
+  description: "Can you feel the trace of magic in the air? Can you notice the mystical
+    shimmering of reels? The Lucky Gems are calling\r\nout for those who dare to embark
+    on the journey through Platipus` newest game - 9 Gems! These shining stones are\r\nknown
+    as gamblers’ best friends due to their ability to attract good luck. And so, should
+    you hit any non-matching\r\nsymbols of the same kind, such as sevens and bars
+    you will still get a payout from the Mixed Symbols feature! And that’s\r\nnot
+    all, as true wonders happen when the gems themselves come into play! Collect from
+    4 to 9 jewels anywhere on the\r\nreels and win the MINI, MINOR, MAJOR, MAXI, MEGA
+    or GRAND Jackpot!\r\nAre you already attracted by the sparkling beauty of shining
+    jewels? Then it’s high time to start your adventure with the\r\nnew classic hit
+    from Platipus - 9 Gems!"
+  hit_rate: 22.97
+  volatility_rating: low
+  has_jackpot: true
+  hd: true
+  released_at: 2022-03-03
+  multiplier: 1100.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pearls of the Ocean
+  identifier: platipus:pearlsoftheocean
+  identifier2: '565'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: underwater_world
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 95.04
+  hit_rate: 17.34
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-07-14
+  multiplier: 1234.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pharaoh's Empire
+  identifier: platipus:pharaohsempire
+  identifier2: '492'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: low
+  hd: true
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Piedra del Sol
+  identifier: platipus:piedradelsol
+  identifier2: '559'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.0
+  hit_rate: 30.52
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  released_at: 2022-04-07
+  bonus_buy: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pirates Map
+  identifier: platipus:piratesmap
+  identifier2: '532'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: pirates
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1100.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Posh Cats
+  identifier: platipus:poshcats
+  identifier2: '557'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 27
+  payout: 95.0
+  description: Wild symbols may only appear on a 3rd reel, and when they do, they
+    award the player with 2 Free Spins and will roll to the next reel on each spin.
+    If during the Free Spins Feature another Wild symbol lands on 3rd reel the remaining
+    number of Free Spins will be reset to 2. Each Wild symbol that resets the Free
+    Spin feature also increases the Free Spins win multiplier by one until the end
+    of the feature.
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  released_at: 2022-02-10
+  multiplier: 2122.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Power of Gods
+  identifier: platipus:powerofgods
+  identifier2: '483'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Power Of Poseidon
+  identifier: platipus:powerofposeidon
+  identifier2: '452'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.03
+  volatility_rating: medium
+  hd: true
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Princess of Birds
+  identifier: platipus:princessofbirds
+  identifier2: '401'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  description: 'A wonderful and magical place, a paradise where all stress disappears
+    in oblivion. You will forget about everything once plunging into this world of
+    beauty!The exotic melodies of birds bring harmony and peace to your soul!Come
+    on in dear friend. Welcome to the marvelous realm of the Princess of Birds, a
+    5x3 reels and 20 lines video slot!Here any 3 symbols in a stack will bring you
+    3 Respins with these symbols sticking to the reels during the whole Respin round!
+    Even more fun triggered when the Princess of Birds decides to award you a round
+    of Free Spins. Just catch Scatters on the reels and enjoy every moment of it! '
+  volatility_rating: low
+  hd: true
+  multiplier: 250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Rhino Mania
+  identifier: platipus:rhinomania
+  identifier2: '528'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 4096
+  payout: 95.0
+  volatility_rating: high
+  hd: true
+  multiplier: 6000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Richy Witchy
+  identifier: platipus:richywitchy
+  identifier2: '429'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 850.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Royal Lotus
+  identifier: platipus:RoyalLotus
+  identifier2: '541'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 720
+  payout: 95.0
+  hit_rate: 24.45
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 2400.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Safari Adventures
+  identifier: platipus:safariadventure
+  identifier2: '426'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  description: Bored? Pack your bags and get prepared for an exciting safari weekend
+    in Africa! A great collection of wild animals await you in Safari Adventures,
+    a 5x4 reels and 50 lines video slot! The game will surprise you with a great variety
+    of colors and amazing Free Spins with Sticky Wilds on the reels. Don't wait, wild
+    adventures are just what you need!
+  volatility_rating: high
+  hd: true
+  multiplier: 460.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Sakura Wind
+  identifier: platipus:sakuragarden
+  identifier2: '469'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  description: 'Have you dreamt of seeing sakura blossoms? Now it is possible at any
+    time. Be welcome to the amazingland of the Sakura Wind, a 5x3 reels and 20 lines
+    video slot! Here any 3 symbols in a stack will bring you2 Respins with these symbols
+    sticking to the reels during the whole Respin round! Even more fun getstriggered
+    when the Sakura wind awards you a round of Free Spins. Just catch Scatters on
+    the reels andenjoy every moment! '
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Santa's Bag
+  identifier: platipus:santasbag
+  identifier2: '542'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 5
+  payout: 95.0
+  hit_rate: 32.3
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Fiery Planet
+  identifier: platipus:spacequest
+  identifier2: '392'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 94.0
+  description: Start conquering the immeasurable universe, millions of light years
+    from the endless galaxies! Absorb all beauty of the universe and become one with
+    it in Fiery Planet, a 5x3 reels and 25 lines video slot! After hitting a winning
+    combination with 3 or more symbols, experience how it feels when the universe
+    gives you a generous Respin gift! With 5 Scatters on the reels you will feel even
+    better as this is how you get Free Spins activated. Hurry up! Fiery Planet is
+    waiting for you!
+  volatility_rating: medium
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: The Ancient Four
+  identifier: platipus:theancientfour
+  identifier2: '535'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.02
+  description: The Ancient Four provides protection to all who play this amazing game!The
+    dragon, phoenix, tiger and turtle have always been considered symbols of prosperity
+    and wealth. Now these myths come to life in our slot where The Ancient Four will
+    bring you an overflow of luck.The slot consists of 5 reels with 4 rows and 50
+    pay  lines. All you need to hit is 3 Scatter symbols on the first 3 reels and
+    you will enjoy the Free Spins feature with Extra Wild. Stay cool when you face
+    the dragon`s fire because it means you are winning!
+  volatility_rating: high
+  hd: true
+  multiplier: 2250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: The Big Score
+  identifier: platipus:thebigscore
+  identifier2: '574'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 720
+  payout: 95.16
+  hit_rate: 31.11
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2023-01-12
+  bonus_buy: true
+  multiplier: 5503.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 1001 Spins
+  identifier: platipus:thousandonespins
+  identifier2: '546'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.0
+  description: A slot game that will excite even the sultan himself!Welcome, travelers,
+    today Platipus is inviting you to a mystical world of Arabian Nights. Become a
+    hero or heroine of alegendary tale narrated by the beautiful Scheherazade! During
+    it you will experience numerous wonders, meet enigmaticcreatures and find unfathomable
+    riches.Traverse the world on a flying carpet ang get to know the mysterious genies.
+    Have you collect three of their mysticallamps on the same spin, you will be awarded
+    with 8 Free Spins. But the biggest treasures Shaherezada keeps hiddenare the Bonus
+    symbols. By hitting 6 or more of them, you will be rewarded with three magical
+    respins that will keeprepeating as long as you will be getting more Bonus symbols.
+    It is during this time, when the moon is its closest, that theall four Jackpots
+    can be won.So don't delay! Magical adventure awaits! Dive headfirst into the world
+    of mystery and make the ne
+  hit_rate: 26.75
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 2700.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Triple Dragon
+  identifier: platipus:tripledragon
+  identifier2: '444'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  description: Strength, wisdom, energy and luck are things the magic dragon brings.Triple
+    dragon is a 6x4 reels and 50 lines video slot. Plunge into the world of luck and
+    adventures. Collect 3 special coins to start the Bonus game which brings you 3
+    rounds to enjoy! Win your number of Free Spins and your type of Free Spins feature.
+    During Free Spins, Wilds will expand and slide across the reels. May luck be with
+    you all the way, brave traveler!
+  volatility_rating: high
+  hd: true
+  multiplier: 800.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Un Dia de Muertos
+  identifier: platipus:undiademuertos
+  identifier2: '553'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.0
+  description: 'The sun is setting down and the darkness settles in. With grave chill
+    and rattle of bones theskeletons approach... But it''s totally fine because they
+    are just here to party!Welcome to Platipus��� newest game Un Dia De Muertos which
+    will take you to one of the mostunusual places in the world, Night Carnival!Celebrated
+    by all kinds of unliving creatures this is truly a night to remember. Apart from
+    musiciansthis carnival packs a lot of pleasant bonuses: Free Spins, Jackpots,
+    and most importantly - BonusExtra Wild feature!While certainly having a colorful
+    name, this feature is quite simple but nonetheless exciting. Onlyduring Free Spins,
+    you may witness the rare romantic skeleton, Luis. This mystical symbol mayappear
+    only on the 1st and 5th reels. But should you get both of them, not only you will
+    get threeFree Spins, but all the symbols between them, will transform into Wild
+    symbols!And since hitting 6 or more Wilds will trigger a Jackpot, this is almost
+    a guaranteed one!So don''t waste any time and be the to start dance at the Night
+    Carnival in Platipus'' newestgame Un Dia De Muertos.'
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 2548.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Ways of the Gauls
+  identifier: platipus:WaysoftheGauls
+  identifier2: '563'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 12348
+  payout: 95.03
+  hit_rate: 28.76
+  volatility_rating: high
+  hd: true
+  bonus_buy: true
+  multiplier: 12250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wealth of Wisdom
+  identifier: platipus:wealthofwisdom
+  identifier2: '540'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  hit_rate: 37.8
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  released_at: 2021-01-21
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Webby Heroes
+  identifier: platipus:webbyheroes
+  identifier2: '526'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 95.01
+  description: Webby Heroes is a 5x3 reels and 30 lines video slot with a Bonus game
+    feature and Expanding Wilds. This slot takes you to the atmosphere of rugby and
+    puts you in the shoes of a real rugby player on his way to win the championship
+    and big prizes that come along with it. Hit and enjoy the bonus game with Free
+    Spins and Multiplier by catching at least 3 scatters anywhere on the reels. The
+    feature can get re-triggered during the Bonus game with the same multiplier to
+    bring even more wins. The superior quality of graphics coupled with extensive
+    and easy gameplay makes Webby Heroes a must play and a potentially very rewarding
+    experience for all players to enjoy.
+  volatility_rating: high
+  hd: true
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Crowns
+  identifier: platipus:wildcrowns
+  identifier2: '564'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 95.06
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-06-23
+  multiplier: 8859.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Justice
+  identifier: platipus:wildjustice
+  identifier2: '551'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.09
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 4200.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Spin
+  identifier: platipus:wildspin
+  identifier2: '536'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  description: This glamourous game will take you on an unforgettable adventure through
+    the neon filled casinos of Las Vegas. It features classic five reels, three lines
+    and 25 paylines, offers extra wild freespins and rocks the Jackpot Wheel. To trigger
+    the Jackpot Wheel, fill the payline with five identical symbols and let it take
+    you for a bountiful spin. This spin will award you with one of the jackpots, a
+    jackpot with multiplier or a combination of jackpots. There are 42 different combinations
+    that you can get for some truly colossal payouts! If you will manage to land three
+    or more scatters, an extra game with up to 25 free spins will start. To provide
+    you with extra wild experience, the whole fifth reel will be filled with Wilds
+    throughout the extra game. So, what are you waiting for? Dive right into the world
+    of dazzling light and alluring profits with this fascinating game.
+  volatility_rating: low-medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1063.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Xmas Avalanche
+  identifier: platipus:xmasavalanche
+  identifier2: '571'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: x_mas_and_new_year
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.69
+  volatility_rating: medium
+  hd: true
+  released_at: 2022-12-08
+  bonus_buy: true
+  multiplier: 5100.0
+  restrictions:
+    default:
+      blacklist: []
