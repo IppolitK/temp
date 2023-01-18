@@ -1,0 +1,1992 @@
+---
+- title: Aces and Faces
+  identifier: platipus:acesandfaces
+  identifier2: '577'
+  provider: platipus
+  producer: platipus
+  category: video_poker
+  theme: retro
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 99.25
+  volatility_rating: low-medium
+  hd: true
+  released_at: 2022-12-22
+  multiplier: 800.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Mistress of Amazon
+  identifier: platipus:amazonqueen
+  identifier2: '393'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 550.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Arabian Tales
+  identifier: platipus:arabiantales
+  identifier2: '417'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Aztec Coins
+  identifier: platipus:azteccoins
+  identifier2: '529'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.0
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 2750.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Aztec Temple
+  identifier: platipus:aztectemple
+  identifier2: '448'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Baccarat PRO
+  identifier: platipus:baccarat
+  identifier2: '99'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 98.94
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Baccarat mini
+  identifier: platipus:baccaratmini
+  identifier2: '489'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 98.76
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Baccarat VIP
+  identifier: platipus:baccaratvip
+  identifier2: '490'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 98.76
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Bamboo Grove
+  identifier: platipus:bamboogrove
+  identifier2: '549'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.0
+  hit_rate: 25.52
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 8100.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Bison Trail
+  identifier: platipus:bisontrail
+  identifier2: '491'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: western
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 1024
+  payout: 95.0
+  volatility_rating: high
+  hd: true
+  multiplier: 3000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Blackjack
+  identifier: platipus:blackjack
+  identifier2: '93'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 97.33
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Blackjack VIP
+  identifier: platipus:blackjackvip
+  identifier2: '487'
+  provider: platipus
+  producer: platipus
+  category: card
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 97.33
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Book of Egypt
+  identifier: platipus:bookofegypt
+  identifier2: '465'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Book of Light
+  identifier: platipus:BookofLight
+  identifier2: '567'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: book_off
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 94.0
+  hit_rate: 38.33
+  volatility_rating: high
+  hd: true
+  released_at: 2022-08-04
+  bonus_buy: true
+  multiplier: 5100.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Caishen's Gifts
+  identifier: platipus:caishensgifts
+  identifier2: '534'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.03
+  volatility_rating: high
+  hd: true
+  multiplier: 3500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Chilli Fiesta
+  identifier: platipus:chillifiesta
+  identifier2: '539'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 95.0
+  hit_rate: 33.81
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 3500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Chinese Tigers
+  identifier: platipus:chinesetigers
+  identifier2: '530'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 700.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Cinderella
+  identifier: platipus:cinderella
+  identifier2: '477'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 200.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Coinfest
+  identifier: platipus:coinfest
+  identifier2: '569'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  released_at: 2022-09-01
+  bonus_buy: true
+  multiplier: 5570.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Crazy Jelly
+  identifier: platipus:crazyjelly
+  identifier2: '443'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: sweets
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 600.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Crocoman
+  identifier: platipus:crocoman
+  identifier2: '409'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Crystal Sevens
+  identifier: platipus:crystalsevens
+  identifier2: '425'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 450.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Da Ji Da Li
+  identifier: platipus:dajidali
+  identifier2: '537'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 95.25
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 1640.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Diamond Hunt
+  identifier: platipus:diamondhunt
+  identifier2: '555'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 4096
+  payout: 95.0
+  volatility_rating: high
+  hd: true
+  released_at: 2021-11-18
+  multiplier: 15600.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Dragon's Element
+  identifier: platipus:dragonselement
+  identifier2: '533'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.03
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Dynasty Warriors
+  identifier: platipus:dynastywarriors
+  identifier2: '538'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.03
+  hit_rate: 30.15
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Cleo's Gold
+  identifier: platipus:egyptiangold
+  identifier2: '386'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: egypt
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 2500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: European Roulette
+  identifier: platipus:EuropeanRoulette
+  identifier2: '110'
+  provider: platipus
+  producer: platipus
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 97.0
+  volatility_rating: low
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+- title: Extra Gems
+  identifier: platipus:extragems
+  identifier2: '568'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.01
+  hd: true
+  released_at: 2022-09-29
+  bonus_buy: true
+  multiplier: 5005.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Fairy Forest
+  identifier: platipus:fairyforest
+  identifier2: '400'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: low
+  hd: true
+  multiplier: 250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Frozen Mirror
+  identifier: platipus:frozenmirror
+  identifier2: '554'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 95.0
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  released_at: 2021-12-16
+  bonus_buy: true
+  multiplier: 2070.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Fruit Boost
+  identifier: platipus:fruitboost
+  identifier2: '572'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fruits
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.69
+  hit_rate: 35.4
+  volatility_rating: medium
+  hd: true
+  released_at: 2022-11-17
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Fruity Sevens
+  identifier: platipus:fruitysevens
+  identifier2: '424'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Great Ocean
+  identifier: platipus:greatocean
+  identifier2: '486'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: underwater_world
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: high
+  hd: true
+  multiplier: 10000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Guises of Dracula
+  identifier: platipus:guisesofdracula
+  identifier2: '547'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: horrors
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.09
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 4179.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Hallowin
+  identifier: platipus:hallowin
+  identifier2: '570'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: halloween
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.0
+  hit_rate: 36.8
+  volatility_rating: medium
+  hd: true
+  released_at: 2022-10-20
+  bonus_buy: true
+  multiplier: 1380.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Hawaiian Night
+  identifier: platipus:hawaiiannight
+  identifier2: '543'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: party
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1065.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 7 & Hot Fruits
+  identifier: platipus:hotfruits
+  identifier2: '545'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 5
+  payout: 95.0
+  volatility_rating: low-medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1040.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jackpot Lab
+  identifier: platipus:jackpotlab
+  identifier2: '531'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 95.2
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jacks or Better
+  identifier: platipus:jacksorbetter
+  identifier2: '562'
+  provider: platipus
+  producer: platipus
+  category: poker
+  theme: retro
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 99.54
+  volatility_rating: low-medium
+  hd: true
+  released_at: 2022-10-13
+  multiplier: 800.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jade Valley
+  identifier: platipus:jadevalley
+  identifier2: '485'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jewel Bang
+  identifier: platipus:jewelblast
+  identifier2: '395'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 94.0
+  volatility_rating: low
+  hd: true
+  multiplier: 800.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Joker Chase
+  identifier: platipus:jokerchase
+  identifier2: '556'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: joker
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.0
+  hit_rate: 32.23
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  released_at: 2022-01-20
+  bonus_buy: true
+  multiplier: 1760.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Juicy Spins
+  identifier: platipus:juicyspins
+  identifier2: '428'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fruits
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Jungle Spin
+  identifier: platipus:junglespin
+  identifier2: '423'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 1600.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Legend of Atlantis
+  identifier: platipus:legendofatlantis
+  identifier2: '442'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  volatility_rating: low
+  hd: true
+  multiplier: 400.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Leprechaun's Coins
+  identifier: platipus:leprechauns
+  identifier2: '550'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: st_patrick_day
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.0
+  hit_rate: 27.38
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  bonus_buy: true
+  multiplier: 2226.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Little Witchy
+  identifier: platipus:littlewitchy
+  identifier2: '552'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 10
+  payout: 95.03
+  volatility_rating: medium-high
+  hd: true
+  bonus_buy: true
+  multiplier: 12853.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lord of the Sun
+  identifier: platipus:lordofthesun
+  identifier2: '544'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: egypt
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 5000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Love is
+  identifier: platipus:loveis
+  identifier2: '476'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: st_valentines_day
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Cat
+  identifier: platipus:luckycat
+  identifier2: '527'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: high
+  has_jackpot: true
+  hd: true
+  multiplier: 4300.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Dolphin
+  identifier: platipus:luckydolphin
+  identifier2: '427'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: underwater_world
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 15
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Lucky Money
+  identifier: platipus:luckymoney
+  identifier2: '475'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Magical Mirror
+  identifier: platipus:magicalmirror
+  identifier2: '446'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 15
+  payout: 94.01
+  volatility_rating: medium
+  hd: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Magical Wolf
+  identifier: platipus:magicalwolf
+  identifier2: '394'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 1200.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Mega Drago
+  identifier: platipus:megadrago
+  identifier2: '450'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Might of Zeus
+  identifier: platipus:mightofzeus
+  identifier2: '548'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.04
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 4111.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Monkey's Journey
+  identifier: platipus:monkeysjourney
+  identifier2: '480'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Neon Classic
+  identifier: platipus:neonclassic
+  identifier2: '488'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.01
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 1080.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 9 Dragon Kings
+  identifier: platipus:ninedragonkings
+  identifier2: '560'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.0
+  hit_rate: 9.07
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-05-05
+  multiplier: 1776.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 9 Gems
+  identifier: platipus:ninegems
+  identifier2: '561'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: st_patrick_day
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 5
+  payout: 95.0
+  volatility_rating: low
+  has_jackpot: true
+  hd: true
+  released_at: 2022-03-03
+  multiplier: 1100.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pearls of the Ocean
+  identifier: platipus:pearlsoftheocean
+  identifier2: '565'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: underwater_world
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 95.04
+  hit_rate: 17.34
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-07-14
+  multiplier: 1234.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pharaoh's Empire
+  identifier: platipus:pharaohsempire
+  identifier2: '492'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: low
+  hd: true
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Piedra del Sol
+  identifier: platipus:piedradelsol
+  identifier2: '559'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: ancient_civilizations
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.0
+  hit_rate: 30.52
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  released_at: 2022-04-07
+  bonus_buy: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Pirates Map
+  identifier: platipus:piratesmap
+  identifier2: '532'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: pirates
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1100.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Posh Cats
+  identifier: platipus:poshcats
+  identifier2: '557'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 27
+  payout: 95.0
+  volatility_rating: medium
+  has_jackpot: true
+  hd: true
+  released_at: 2022-02-10
+  multiplier: 2122.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Power of Gods
+  identifier: platipus:powerofgods
+  identifier2: '483'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Power Of Poseidon
+  identifier: platipus:powerofposeidon
+  identifier2: '452'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.03
+  volatility_rating: medium
+  hd: true
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Princess of Birds
+  identifier: platipus:princessofbirds
+  identifier2: '401'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  volatility_rating: low
+  hd: true
+  multiplier: 250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Rhino Mania
+  identifier: platipus:rhinomania
+  identifier2: '528'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 4096
+  payout: 95.0
+  volatility_rating: high
+  hd: true
+  multiplier: 6000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Richy Witchy
+  identifier: platipus:richywitchy
+  identifier2: '429'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 40
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 850.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Royal Lotus
+  identifier: platipus:RoyalLotus
+  identifier2: '541'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 720
+  payout: 95.0
+  hit_rate: 24.45
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 2400.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Safari Adventures
+  identifier: platipus:safariadventure
+  identifier2: '426'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 460.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Sakura Wind
+  identifier: platipus:sakuragarden
+  identifier2: '469'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 94.0
+  volatility_rating: medium-high
+  hd: true
+  multiplier: 500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Santa's Bag
+  identifier: platipus:santasbag
+  identifier2: '542'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 5
+  payout: 95.0
+  hit_rate: 32.3
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Fiery Planet
+  identifier: platipus:spacequest
+  identifier2: '392'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 94.0
+  volatility_rating: medium
+  hd: true
+  multiplier: 900.0
+  restrictions:
+    default:
+      blacklist: []
+- title: The Ancient Four
+  identifier: platipus:theancientfour
+  identifier2: '535'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.02
+  volatility_rating: high
+  hd: true
+  multiplier: 2250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: The Big Score
+  identifier: platipus:thebigscore
+  identifier2: '574'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 720
+  payout: 95.16
+  hit_rate: 31.11
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2023-01-12
+  bonus_buy: true
+  multiplier: 5503.0
+  restrictions:
+    default:
+      blacklist: []
+- title: 1001 Spins
+  identifier: platipus:thousandonespins
+  identifier2: '546'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 95.0
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 2700.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Triple Dragon
+  identifier: platipus:tripledragon
+  identifier2: '444'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 94.0
+  volatility_rating: high
+  hd: true
+  multiplier: 800.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Un Dia de Muertos
+  identifier: platipus:undiademuertos
+  identifier2: '553'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 243
+  payout: 95.0
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 2548.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Ways of the Gauls
+  identifier: platipus:WaysoftheGauls
+  identifier2: '563'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: fantasy
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  ways: 12348
+  payout: 95.03
+  hit_rate: 28.76
+  volatility_rating: high
+  hd: true
+  bonus_buy: true
+  multiplier: 12250.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wealth of Wisdom
+  identifier: platipus:wealthofwisdom
+  identifier2: '540'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  hit_rate: 37.8
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  released_at: 2021-01-21
+  multiplier: 2000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Webby Heroes
+  identifier: platipus:webbyheroes
+  identifier2: '526'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 30
+  payout: 95.01
+  volatility_rating: high
+  hd: true
+  multiplier: 1500.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Crowns
+  identifier: platipus:wildcrowns
+  identifier2: '564'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 95.06
+  volatility_rating: medium-high
+  hd: true
+  released_at: 2022-06-23
+  multiplier: 8859.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Justice
+  identifier: platipus:wildjustice
+  identifier2: '551'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: other
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.09
+  volatility_rating: medium-high
+  has_jackpot: true
+  hd: true
+  multiplier: 4200.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Wild Spin
+  identifier: platipus:wildspin
+  identifier2: '536'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: luxury_life
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 25
+  payout: 95.0
+  volatility_rating: low-medium
+  has_jackpot: true
+  hd: true
+  multiplier: 1063.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Xmas Avalanche
+  identifier: platipus:xmasavalanche
+  identifier2: '571'
+  provider: platipus
+  producer: platipus
+  category: slots
+  theme: x_mas_and_new_year
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 95.69
+  volatility_rating: medium
+  hd: true
+  released_at: 2022-12-08
+  bonus_buy: true
+  multiplier: 5100.0
+  restrictions:
+    default:
+      blacklist: []
