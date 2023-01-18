@@ -712,7 +712,7 @@
       blacklist: []
 - title: Fruity Sevens
   identifier: platipus:fruitysevens
-  identifier2: '424'
+
   provider: platipus
   producer: platipus
   category: slots
