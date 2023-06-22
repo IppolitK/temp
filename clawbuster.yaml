@@ -1,0 +1,52 @@
+---
+- title: Crazy Claw
+  identifier: clawbuster:CrazyClaw
+  identifier2: MP_ORDER
+  provider: clawbuster
+  producer: clawbuster
+  category: slots
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  hit_rate: 35.0
+  volatility_rating: medium
+  has_live: true
+  has_jackpot: true
+  hd: true
+  recalled: true
+  recalled_at: 2023-06-07
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist: []
+- title: Crazy Claw 2049
+  identifier: clawbuster:CrazyClaw2049
+  identifier2: BASIC_CLAW
+  provider: clawbuster
+  producer: clawbuster
+  category: slots
+  theme: other
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  payout: 97.0
+  hit_rate: 15.0
+  volatility_rating: high
+  has_live: true
+  has_jackpot: true
+  hd: true
+  multiplier: 5500.0
+  restrictions:
+    default:
+      blacklist: []
