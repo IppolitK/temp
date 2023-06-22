@@ -1,0 +1,53 @@
+---
+- title: 20 Super Blazing Hot
+  identifier: barbarabang:20SuperBlazingHot
+  identifier2: SuperBlazingHot20
+  provider: barbarabang
+  producer: barbarabang
+  category: slots
+  theme: fruits
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 20
+  payout: 95.78
+  hit_rate: 17.33
+  hd: true
+  multiplier: 1000.0
+  restrictions:
+    default:
+      blacklist:
+      - AU
+      - GB
+      - NZ
+      - US
+- title: Admiral
+  identifier: barbarabang:Admiral
+  identifier2: Admiral
+  provider: barbarabang
+  producer: barbarabang
+  category: slots
+  theme: military
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  payout: 96.0
+  hit_rate: 37.38
+  hd: true
+  released_at: 2023-03-02
+  multiplier: 3456.0
+  restrictions:
+    default:
+      blacklist:
+      - AU
+      - GB
+      - NZ
+      - US
