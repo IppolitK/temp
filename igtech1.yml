@@ -1,0 +1,35 @@
+---
+- title: Aladdin
+  identifier: igtech:Aladdin
+  identifier2: vs50persianprince
+  provider: igtech
+  producer: igtech
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 96.58
+  
+- title: Amazing Kong
+  identifier: igtech:AmazingKong
+  identifier2: vs50amazingkong
+  provider: igtech
+  producer: igtech
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 96.64
+  
