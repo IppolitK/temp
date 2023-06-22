@@ -1,0 +1,56 @@
+---
+- title: Aladdin
+  identifier: igtech:Aladdin
+  identifier2: vs50persianprince
+  provider: igtech
+  producer: igtech
+  category: slots
+  theme: asia
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 96.58
+  description: Help the mischievous Aladdin stack the symbols on reels and find the
+    Djinn's Lamp in Aladdin, the 4x5, 50 lines video slot. Once you discover the lamp,
+    you can summon the Djinn and win up to 10,500 bonus points or enter the Free Spins
+    round to pile up your wins in up to 50 free spins with 2x multipliers.
+  volatility_rating: low
+  hd: true
+  multiplier: 745.0
+  restrictions:
+    default:
+      whitelist:
+      - AU
+- title: Amazing Kong
+  identifier: igtech:AmazingKong
+  identifier2: vs50amazingkong
+  provider: igtech
+  producer: igtech
+  category: slots
+  theme: africa
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  lines: 50
+  payout: 96.64
+  description: Attack the giant gorilla in his own lair in Amazing Kong, the 4x5,
+    50 lines videoslot. If WILD is on the middle reel it expands to fill the whole
+    reel and when you get the chance to meet Amazing Kong himself, he will take you
+    on journey around the world in the Free Spins round, where you can select up to
+    40 Free Spins and up to 8x multiplier.
+  volatility_rating: low
+  hd: true
+  multiplier: 955.0
+  restrictions:
+    default:
+      whitelist:
+      - AU
