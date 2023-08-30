@@ -1,0 +1,50 @@
+table_id;sysname;name;category;type;tags;provider;game_type;enabled
+0;alg_live_alg;ALGnet;Live;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+1;alg_live_roulette_69_studio;Portomaso Casino;Croupier roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+2;alg_live_automatic_roulette;Absolute Black;Automatic Roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+3;alg_live_portomaso_roulette;Oracle Blaze;Croupier roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+4;alg_live_oracle_roulette_360;Portomaso VIP;Croupier roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+5;alg_live_oracle_roulette_classic;Absolute Brown;Automatic Roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+14;alg_live_fruit_salad;Fruit Salad;RNG Roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;6;1
+15;alg_live_msc_casino_roulette;MSC Casino;Croupier roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+18;alg_live_absolute_bright_roulette;Absolute Bright;Automatic Roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+20;alg_live_portomaso_lumia_roulette;Portomaso Lumia;Automatic Roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+30;alg_live_american_roulette;American Roulette;Automatic Roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;2;1
+31;alg_live_las_vegas_roulette;Las Vegas Roulette;Automatic Roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+32;alg_live_bond_roulette;Bond Roulette;Automatic Roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+37;alg_live_roulette_360;Roulette 360;Croupier roulette;live;bonuses_not_available,no_fun,burns_bonuses;algnet;1;1
+170;alg_live_punto_banco_table_a_roulette;Golden Baccarat;Baccarat;live;bonuses_not_available,no_fun,burns_bonuses;algnet;10;1
+171;alg_live_super_six_table_a_roulette;Golden Super Six;Baccarat;live;bonuses_not_available,no_fun,burns_bonuses;algnet;4;1
+172;alg_live_dragon_bonus_table_a_roulette;Golden Dragon Bonus;Baccarat;live;bonuses_not_available,no_fun,burns_bonuses;algnet;8;1
+301;alg_live_golden_blackjack;Golden Blackjack;Blackjack;live;bonuses_not_available,no_fun,burns_bonuses;algnet;13;0
+2001;alg_tvbet_backgammon;Backgammon;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2002;alg_tvbet_wheelbet;Wheelbet;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2003;alg_tvbet_poker;Poker;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2004;alg_tvbet_21bet;21Bet;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2005;alg_tvbet_war_of_elements;War Of Elements;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2006;alg_tvbet_5bet;5Bet;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2007;alg_tvbet_7bet;7Bet;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2008;alg_tvbet_jokerbet;Jokerbet;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2009;alg_tvbet_keno;Keno;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2010;alg_tvbet_1bet;1Bet;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2011;alg_tvbet_teen_patti;Teen Patti;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2012;alg_tvbet_lucky6;Lucky6;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2014;alg_tvbet_fruitrace;FruitRace;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2015;alg_tvbet_mega6;Mega6;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+2017;alg_tvbet_andar_bahar;Andar Bahar;Tvbet;live;bonuses_not_available,no_fun,burns_bonuses;tvbet;111;1
+7001;alg_slot_mystery_of_gods;Mystery of Gods;Slots;slot;no_fun;altente;11;1
+7002;alg_slot_infinity_space;Infinity Space;Slots;slot;no_fun;altente;11;1
+7003;alg_slot_wild_gemz;Wild GemZ;Slots;slot;no_fun;altente;11;1
+7004;alg_slot_treasure_of_olympus;Treasure of Olympus;Slots;slot;no_fun;altente;11;1
+7005;alg_slot_tropicano;Tropicano;Slots;slot;no_fun;altente;11;1
+7006;alg_slot_big_gold_fish;Big Gold Fish;Slots;slot;no_fun;altente;11;1
+7007;alg_slot_greedy_owl;Greedy Owl;Slots;slot;no_fun;altente;11;1
+7008;alg_slot_mystery_of_evenbet;Mystery of Evenbet;Slots;slot;no_fun;altente;11;1
+7009;alg_slot_rise_of_dragons;Rise of dragons;Slots;slot;no_fun;altente;11;1
+7010;alg_slot_lost_civilization;Lost Civilization;Slots;slot;no_fun;altente;11;1
+7011;alg_slot_lamp_of_genie;Lamp of Genie;Slots;slot;no_fun;altente;11;1
+7012;alg_slot_death_pages;Death Pages;Slots;slot;no_fun;altente;11;1
+7013;alg_slot_hot_girls;Hot Girls;Slots;slot;no_fun;altente;11;1
+7014;alg_slot_valkyries_tavern;Valkyrie's Tavern;Slots;slot;no_fun;altente;11;1
+7016;alg_slot_genesis;Genesis;Slots;slot;no_fun;altente;11;1
+7017;alg_slot_fruit_storm;Fruit Storm;Slots;slot;no_fun;altente;11;1
