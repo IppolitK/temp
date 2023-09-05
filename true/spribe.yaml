@@ -1,0 +1,90 @@
+- title: Aviator
+  identifier: spribe:aviator
+  provider: spribe
+  producer: spribe
+  category: crash
+  has_freespins: true
+  feature_group: basic_mt_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dice
+  identifier: spribe:dice
+  provider: spribe
+  producer: spribe
+  category: crash
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Goal
+  identifier: spribe:goal
+  provider: spribe
+  producer: spribe
+  category: crash
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hilo
+  identifier: spribe:hilo
+  provider: spribe
+  producer: spribe
+  category: crash
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hotline
+  identifier: spribe:hotline
+  provider: spribe
+  producer: spribe
+  category: casual
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Keno
+  identifier: spribe:keno
+  provider: spribe
+  producer: spribe
+  category: crash
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mines
+  identifier: spribe:mines
+  provider: spribe
+  producer: spribe
+  category: crash
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mini Roulette
+  identifier: spribe:miniroulette
+  provider: spribe
+  producer: spribe
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Plinko
+  identifier: spribe:plinko
+  provider: spribe
+  producer: spribe
+  category: crash
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

@@ -1,0 +1,285 @@
+- title: Arcane Woods
+  identifier: zillion:ArcaneWoods
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Aztec's Legend
+  identifier: zillion:AztecsLegend
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Book Of Spells
+  identifier: zillion:bookOfSpells
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Buffalo's Sun
+  identifier: zillion:BuffalosSun
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Candy Stash
+  identifier: zillion:CandyStash
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Christmas with Hor
+  identifier: zillion:christmasHor
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Christmas Of Pyramid
+  identifier: zillion:christmasPyramid
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cleo's Secrets
+  identifier: zillion:cleosSecrets
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Eagle's Gold
+  identifier: zillion:eaglesGold
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fruits Five Lines
+  identifier: zillion:FruitsFive
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Golden Dragon
+  identifier: zillion:GoldenDragon
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Guardians Of Valhalla
+  identifier: zillion:GuardiansOfValhalla
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: HalloWin
+  identifier: zillion:HalloWin
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jurassic Fight
+  identifier: zillion:JurassicFight
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Leprechaun's Gold
+  identifier: zillion:LeprechaunsGold
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mistress Of Pyramid
+  identifier: zillion:mistressOfPyramid
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: NFTreasure
+  identifier: zillion:NFTreasure
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: false
+  feature_group: betu
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Ocean's Treasures
+  identifier: zillion:OceansTreasures
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pirate Spirit
+  identifier: zillion:PirateSpirit
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Santa's Jackpot
+  identifier: zillion:SantasJackpot
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Savannah Spirits
+  identifier: zillion:SavannahSpirits
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+- title: Shark's Bay
+  identifier: zillion:SharksBay
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Storm Joker
+  identifier: zillion:StormJoker
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: The Book Of Hor
+  identifier: zillion:TheBookOfHor
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Totems Of Gold
+  identifier: zillion:TotemsOfGold
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: XMas Party
+  identifier: zillion:XMasParty
+  provider: zillion
+  producer: zillion
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10

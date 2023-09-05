@@ -1,0 +1,1544 @@
+- title: 88FA
+  identifier: epicmedia:88fa
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Aztec Twist
+  identifier: epicmedia:AztecTwist
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Bikini Queen Dating
+  identifier: epicmedia:bikiniqueendating
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Bikini Queens
+  identifier: epicmedia:bikiniqueens
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bikini Queens XMAS
+  identifier: epicmedia:bikiniqueensxmas
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bingo Fun
+  identifier: epicmedia:bingofun
+  provider: epicmedia
+  producer: mannaplay
+  category: lottery
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Blazing Star
+  identifier: epicmedia:BlazingStar
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Born Wild
+  identifier: epicmedia:BornWildE
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 26
+- title: Bounty Hunter
+  identifier: epicmedia:bountyhunter
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Boxes
+  identifier: epicmedia:Boxes
+  provider: epicmedia
+  producer: hacksaw
+  category: casual
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Break the Ice
+  identifier: epicmedia:BreaktheIce
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Buffalo Stack’n’Sync
+  identifier: epicmedia:BuffaloStacknSync
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bull FaFa
+  identifier: epicmedia:bullfafa
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Candy Rocket
+  identifier: epicmedia:candyrocket
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Carnival Beats
+  identifier: epicmedia:carnivalbeats
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Cash Compass
+  identifier: epicmedia:CashCompass
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cash Pool
+  identifier: epicmedia:CashPool
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Quest
+  identifier: epicmedia:CashQuest
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Scratch
+  identifier: epicmedia:CashScratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Vault I
+  identifier: epicmedia:CashVaultI
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Vault II
+  identifier: epicmedia:CashVaultII
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Chaos Crew
+  identifier: epicmedia:ChaosCrew
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Chaos Crew Scratch
+  identifier: epicmedia:ChaosCrewScratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Cleopatra's Code
+  identifier: epicmedia:cleopatrascode
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Coins
+  identifier: epicmedia:Coins
+  provider: epicmedia
+  producer: hacksaw
+  category: casual
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Convertus Aurum
+  identifier: epicmedia:ConvertusAurum
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cougar Gold
+  identifier: epicmedia:cougargold
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Cougar Roar
+  identifier: epicmedia:cougarroar
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Crazy Donuts
+  identifier: epicmedia:CrazyDonuts
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Cubes
+  identifier: epicmedia:Cubes
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Cubes 2
+  identifier: epicmedia:Cubes2
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Cut the Grass
+  identifier: epicmedia:CuttheGrass
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Dashing Derby
+  identifier: epicmedia:DashingDerby
+  provider: epicmedia
+  producer: kiron
+  category: virtual_sports
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: Diamond Rush
+  identifier: epicmedia:DiamondRush
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Diamond Storm
+  identifier: epicmedia:diamondstorm
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Double Dragons
+  identifier: epicmedia:doubledragons
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Double Rainbow
+  identifier: epicmedia:DoubleRainbow
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Salary - 1 Year
+  identifier: epicmedia:DoubleSalary1Year
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Triple Chance
+  identifier: epicmedia:DoubleTripleChance
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dragon Emperor
+  identifier: epicmedia:dragonemperor
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dragon Reborn
+  identifier: epicmedia:dragonreborn
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dragon Reborn Rush
+  identifier: epicmedia:dragonrebornrush
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dragons Treasure
+  identifier: epicmedia:DragonsTreasure
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dragon X Tiger
+  identifier: epicmedia:dragonxtiger
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dream Car Speed
+  identifier: epicmedia:DreamCarSpeed
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Dream Car SUV
+  identifier: epicmedia:DreamCarSUV
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Dream Car Urban
+  identifier: epicmedia:DreamCarUrban
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Eggstra Cash
+  identifier: epicmedia:EggstraCash
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: El Torero
+  identifier: epicmedia:ElTorero
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Elves Kingdom
+  identifier: epicmedia:elveskingdom
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: English Fast League Football Match
+  identifier: epicmedia:EnglishFastLeagueFootballMatch
+  provider: epicmedia
+  producer: kiron
+  category: virtual_sports
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: English Fast League Football Single
+  identifier: epicmedia:EnglishFastLeagueFootballSingle
+  provider: epicmedia
+  producer: kiron
+  category: virtual_sports
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: Express 200 Scratch
+  identifier: epicmedia:Express200Scratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Extra Wild
+  identifier: epicmedia:ExtraWild
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Eye Of Horus
+  identifier: epicmedia:EyeOfHorus
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fancy Alice
+  identifier: epicmedia:fancyalice
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Football Scratch
+  identifier: epicmedia:FootballScratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Fortune Dragon
+  identifier: epicmedia:fortunedragonii
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Frogs Scratch
+  identifier: epicmedia:FrogsScratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Splash
+  identifier: epicmedia:fruitsplash
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Frutz
+  identifier: epicmedia:Frutz
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Ganesha Shine
+  identifier: epicmedia:ganeshashine
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Gem Hunter
+  identifier: epicmedia:gemhunter
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Gem Hunter Crash
+  identifier: epicmedia:gemhuntercrash
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Gem Princess
+  identifier: epicmedia:gemsprincess
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Gladiator Legends
+  identifier: epicmedia:GladiatorLegends
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Gold Coins
+  identifier: epicmedia:GoldCoins
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Gold Cup
+  identifier: epicmedia:GoldCup
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Golden Dragon 2
+  identifier: epicmedia:goldendragon2
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Golden Mouse
+  identifier: epicmedia:goldenmouse
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Gold Rush
+  identifier: epicmedia:GoldRush
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Go Panda
+  identifier: epicmedia:GoPanda
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Hand Of Anubis
+  identifier: epicmedia:HandOfAnubis
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Happy Scratch
+  identifier: epicmedia:HappyScratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Harvest Wilds
+  identifier: epicmedia:HarvestWilds
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Hop'n'pop
+  identifier: epicmedia:Hopnpop
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Ice Hockey
+  identifier: epicmedia:IceHockey
+  provider: epicmedia
+  producer: kiron
+  category: lottery
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: Italian Fast League Football Single
+  identifier: epicmedia:ItalianFastLeagueFootballSingle
+  provider: epicmedia
+  producer: kiron
+  category: virtual_sports
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: Itero
+  identifier: epicmedia:Itero
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: It's bananas!
+  identifier: epicmedia:Itsbananas
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Bombs
+  identifier: epicmedia:JokerBombs
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Keno
+  identifier: epicmedia:Keno
+  provider: epicmedia
+  producer: kiron
+  category: casual
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: King Carrot
+  identifier: epicmedia:KingCarrot
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: King Treasure
+  identifier: epicmedia:KingTreasure
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Koi Cash
+  identifier: epicmedia:KoiCash
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Koi Jump
+  identifier: epicmedia:koijump
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Legend of Atlantis
+  identifier: epicmedia:legendofatlantis
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Legend of Piggies Royal Edition
+  identifier: epicmedia:legendofpiggiesre
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Let it Snow
+  identifier: epicmedia:LetitSnow
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: LOVE is all you need
+  identifier: epicmedia:LOVEisallyouneed
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Cat & Maid
+  identifier: epicmedia:luckycatmaid
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky Numbers x12
+  identifier: epicmedia:LuckyNumbersx12
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Numbers x16
+  identifier: epicmedia:LuckyNumbersx16
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Numbers x20
+  identifier: epicmedia:LuckyNumbersx20
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Numbers x8
+  identifier: epicmedia:LuckyNumbersx8
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Pharaoh
+  identifier: epicmedia:LuckyPharaoh
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Scratch
+  identifier: epicmedia:LuckyScratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Shot
+  identifier: epicmedia:LuckyShot
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Magic Mirror Deluxe II
+  identifier: epicmedia:MagicMirrorDeluxeII
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Max Car Motor Racing
+  identifier: epicmedia:MaxCarMotorRacing
+  provider: epicmedia
+  producer: kiron
+  category: virtual_sports
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: Miami Multiplier
+  identifier: epicmedia:MiamiMultiplier
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Mines
+  identifier: epicmedia:Mines
+  provider: epicmedia
+  producer: hacksaw
+  category: casual
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Muay Thai Unlimited II
+  identifier: epicmedia:muaythaiunlimitedii
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Multi Wild
+  identifier: epicmedia:MultiWild
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Mystery Motel
+  identifier: epicmedia:MysteryMotel
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Ninja Master
+  identifier: epicmedia:ninjamaster
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: OmNom
+  identifier: epicmedia:OmNom
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Outlaws Inc
+  identifier: epicmedia:OutlawsInc
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 26
+- title: Pirate‘s Gold
+  identifier: epicmedia:piratesgold
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Platinum Hounds
+  identifier: epicmedia:PlatinumHounds
+  provider: epicmedia
+  producer: kiron
+  category: virtual_sports
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: Prince Treasure
+  identifier: epicmedia:PrinceTreasure
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Pro-Pong Table Tennis
+  identifier: epicmedia:ProPongTableTennis
+  provider: epicmedia
+  producer: kiron
+  category: virtual_sports
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: Queen Treasure
+  identifier: epicmedia:QueenTreasure
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Rat Riches
+  identifier: epicmedia:RatRiches
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Rocket Reels
+  identifier: epicmedia:RocketReels
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Ruby Rush
+  identifier: epicmedia:RubyRush
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Savanna Stampede
+  identifier: epicmedia:SavannaStampede
+  provider: epicmedia
+  producer: merkur
+  category: slots
+  has_freespins: false
+  feature_group: merkur
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: SCRATCH! Bronze
+  identifier: epicmedia:SCRATCHBronze
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Scratch’em
+  identifier: epicmedia:Scratchem
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: SCRATCH! Gold
+  identifier: epicmedia:SCRATCHGold
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: SCRATCH! Platinum
+  identifier: epicmedia:SCRATCHPlatinum
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: SCRATCH! Silver
+  identifier: epicmedia:SCRATCHSilver
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Scratchy
+  identifier: epicmedia:Scratchy
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Scratchy Big
+  identifier: epicmedia:ScratchyBig
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Scratchy Mini
+  identifier: epicmedia:ScratchyMini
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Shave the Beard
+  identifier: epicmedia:ShavetheBeard
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Shave the Sheep
+  identifier: epicmedia:ShavetheSheep
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Snow Scratcher
+  identifier: epicmedia:SnowScratcher
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Spanish Fast League Football Single
+  identifier: epicmedia:SpanishFastLeagueFootballSingle
+  provider: epicmedia
+  producer: kiron
+  category: virtual_sports
+  has_freespins: false
+  feature_group: kiron
+  devices:
+  - desktop
+  - mobile
+- title: Spooky Scary Scratchy
+  identifier: epicmedia:SpookyScaryScratchy
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Stack'EM
+  identifier: epicmedia:StackEM
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Stack'Em Scratch
+  identifier: epicmedia:StackEmScratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Stick‘em
+  identifier: epicmedia:Stickem
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Sushi Cat
+  identifier: epicmedia:sushicat
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Sweet Paradise
+  identifier: epicmedia:sweetparadise
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Taisho Samurai
+  identifier: epicmedia:taishosamurai
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Tasty Treats
+  identifier: epicmedia:TastyTreats
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: The Bowery Boys
+  identifier: epicmedia:TheBoweryBoys
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Gold of Horus
+  identifier: epicmedia:theeyeofhorus
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The perfect Scratch
+  identifier: epicmedia:TheperfectScratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Tiger Scratch
+  identifier: epicmedia:TigerScratch
+  provider: epicmedia
+  producer: hacksaw
+  category: lottery
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Tokyo Sweeties
+  identifier: epicmedia:tokyosweeties
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Toshi Video Club
+  identifier: epicmedia:ToshiVideoClub
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Treasure Comet
+  identifier: epicmedia:treasurecomet
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+- title: Wanted Dead or a Wild
+  identifier: epicmedia:WantedDeadoraWild
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Warrior Ways
+  identifier: epicmedia:WarriorWays
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Pirates
+  identifier: epicmedia:wildpirates
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Xpander
+  identifier: epicmedia:Xpander
+  provider: epicmedia
+  producer: hacksaw
+  category: slots
+  has_freespins: false
+  feature_group: hacksaw_basic
+  devices:
+  - desktop
+  - mobile
+- title: Yokai Village
+  identifier: epicmedia:yokaivillage
+  provider: epicmedia
+  producer: mannaplay
+  category: slots
+  has_freespins: false
+  feature_group: mannaplay
+  devices:
+  - desktop
+  - mobile
+  lines: 9

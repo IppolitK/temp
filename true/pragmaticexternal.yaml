@@ -1,0 +1,5916 @@
+- title: 30 Ball Bingo
+  identifier: pragmaticexternal:30BallBingo1
+  provider: pragmaticexternal
+  producer: bingo
+  category: lottery
+  has_freespins: true
+  feature_group: bingo
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 3 Buzzing Wilds
+  identifier: pragmaticexternal:3BuzzingWilds
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 3 Dancing Monkeys
+  identifier: pragmaticexternal:3DancingMonkeys
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 5 Lions
+  identifier: pragmaticexternal:5Lions
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: 5 Lions Dance
+  identifier: pragmaticexternal:5LionsDance
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: 5 Lions Gold
+  identifier: pragmaticexternal:5LionsGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+  has_jackpot: true
+- title: 5 Lions Megaways
+  identifier: pragmaticexternal:5LionsMegaways1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: 75 Ball Bingo
+  identifier: pragmaticexternal:75BallBingo
+  provider: pragmaticexternal
+  producer: bingo
+  category: lottery
+  has_freespins: true
+  feature_group: bingo_test
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 75 Ball Bingo
+  identifier: pragmaticexternal:75BallBingo1
+  provider: pragmaticexternal
+  producer: bingo
+  category: lottery
+  has_freespins: true
+  feature_group: bingo
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 7 Piggies
+  identifier: pragmaticexternal:7Piggies
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: 7 Piggies 5 000
+  identifier: pragmaticexternal:7Piggies5000
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 80 Ball Bingo
+  identifier: pragmaticexternal:80BallBingo
+  provider: pragmaticexternal
+  producer: bingo
+  category: lottery
+  has_freespins: true
+  feature_group: bingo_test
+  devices:
+  - desktop
+  - mobile
+- title: 888 Dragons
+  identifier: pragmaticexternal:888Dragons
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 888 Gold
+  identifier: pragmaticexternal:888Gold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 90 Ball Bingo
+  identifier: pragmaticexternal:90BallBingo
+  provider: pragmaticexternal
+  producer: bingo
+  category: lottery
+  has_freespins: true
+  feature_group: bingo_test
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 90 Ball Bingo
+  identifier: pragmaticexternal:90BallBingo1
+  provider: pragmaticexternal
+  producer: bingo
+  category: lottery
+  has_freespins: true
+  feature_group: bingo
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: African Elephant
+  identifier: pragmaticexternal:AfricanElephant
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Aladdin and the Sorcerer
+  identifier: pragmaticexternal:AladdinandtheSorcerer
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: American Blackjack
+  identifier: pragmaticexternal:AmericanBlackjack
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ancient Egypt
+  identifier: pragmaticexternal:AncientEgypt
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Ancient Egypt Classic
+  identifier: pragmaticexternal:AncientEgyptClassic
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Andar Bahar
+  identifier: pragmaticexternal:AndarBahar
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Asgard
+  identifier: pragmaticexternal:Asgard
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Auto Mega Roulette
+  identifier: pragmaticexternal:AutoMegaRoulette
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Auto-Roulette 1
+  identifier: pragmaticexternal:AutoRoulette
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Aztec Blaze
+  identifier: pragmaticexternal:AztecBlaze
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Aztec Bonanza
+  identifier: pragmaticexternal:AztecBonanza
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Aztec Gems
+  identifier: pragmaticexternal:AztecGems
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Aztec Gems Deluxe
+  identifier: pragmaticexternal:AztecGemsDeluxe1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Baccarat
+  identifier: pragmaticexternal:Baccarat
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+- title: Baccarat 7
+  identifier: pragmaticexternal:Baccarat7
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat 8
+  identifier: pragmaticexternal:Baccarat8
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat Lobby
+  identifier: pragmaticexternal:BaccaratLobby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Barn Festival
+  identifier: pragmaticexternal:BarnFestival
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Big Bass Amazon Xtreme
+  identifier: pragmaticexternal:BigBassAmazonXtreme
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Big Bass Bonanza
+  identifier: pragmaticexternal:BigBassBonanza
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Big Bass Bonanza Jackpot Play
+  identifier: pragmaticexternal:BigBassBonanzaJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Big Bass Bonanza Megaways
+  identifier: pragmaticexternal:BigBassBonanzaMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Big Bass - Hold & Spinner
+  identifier: pragmaticexternal:BigBassHoldandSpinner
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Big Bass Hold & Spinner Megaways
+  identifier: pragmaticexternal:BigBassHoldSpinnerMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Big Bass - Keeping it Reel
+  identifier: pragmaticexternal:BigBassKeepingitReel
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Big Bass Splash
+  identifier: pragmaticexternal:BigBassSplash
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Big Bass Splash Jackpot Play
+  identifier: pragmaticexternal:BigBassSplashJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Bigger Bass Blizzard - Christmas Catch
+  identifier: pragmaticexternal:BiggerBassBlizzardChristmasCatch
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Bigger Bass Bonanza
+  identifier: pragmaticexternal:BiggerBassBonanza
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Big Juan
+  identifier: pragmaticexternal:BigJuan
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Bingo Blast
+  identifier: pragmaticexternal:BingoBlast
+  provider: pragmaticexternal
+  producer: bingo
+  category: lottery
+  has_freespins: true
+  feature_group: bingo
+  devices:
+  - desktop
+  - mobile
+- title: Black Bull
+  identifier: pragmaticexternal:BlackBull
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Blackjack 17 - Azure 2
+  identifier: pragmaticexternal:Blackjack17Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 18 - Azure 2
+  identifier: pragmaticexternal:Blackjack18Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 19 - Azure 2
+  identifier: pragmaticexternal:Blackjack19Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 20 - Azure 2
+  identifier: pragmaticexternal:Blackjack20Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 21 - Azure 2
+  identifier: pragmaticexternal:Blackjack21Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: BlackJack 22 - Azure
+  identifier: pragmaticexternal:BlackJack22Azure
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: BlackJack 23 - Azure
+  identifier: pragmaticexternal:BlackJack23Azure
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: BlackJack 24 - Azure
+  identifier: pragmaticexternal:BlackJack24Azure
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: BlackJack 25 - Azure
+  identifier: pragmaticexternal:BlackJack25Azure
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: BlackJack 26 - Azure
+  identifier: pragmaticexternal:BlackJack26Azure
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 27 - Azure 2
+  identifier: pragmaticexternal:Blackjack27Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 28 - Azure 2
+  identifier: pragmaticexternal:Blackjack28Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 29 - Azure 2
+  identifier: pragmaticexternal:Blackjack29Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 30 - Azure 2
+  identifier: pragmaticexternal:Blackjack30Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 31 - Azure 2
+  identifier: pragmaticexternal:Blackjack31Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 32 - Azure 2
+  identifier: pragmaticexternal:Blackjack32Azure2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 33 – The Club
+  identifier: pragmaticexternal:Blackjack33TheClub
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 34 – The Club
+  identifier: pragmaticexternal:Blackjack34TheClub
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 35 – The Club
+  identifier: pragmaticexternal:Blackjack35TheClub
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 36 – The Club
+  identifier: pragmaticexternal:Blackjack36TheClub
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 37 - Ruby
+  identifier: pragmaticexternal:Blackjack37Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 38 - Ruby
+  identifier: pragmaticexternal:Blackjack38Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 39 - Ruby
+  identifier: pragmaticexternal:Blackjack39Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 40 - Ruby
+  identifier: pragmaticexternal:Blackjack40Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 41 - Ruby
+  identifier: pragmaticexternal:Blackjack41Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 42 - Ruby
+  identifier: pragmaticexternal:Blackjack42Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 43 - Ruby
+  identifier: pragmaticexternal:Blackjack43Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 44 - Ruby
+  identifier: pragmaticexternal:Blackjack44Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 45 - Ruby
+  identifier: pragmaticexternal:Blackjack45Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 46 - Ruby
+  identifier: pragmaticexternal:Blackjack46Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 47 - Ruby
+  identifier: pragmaticexternal:Blackjack47Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 48 - Ruby
+  identifier: pragmaticexternal:Blackjack48Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 49 - Ruby
+  identifier: pragmaticexternal:Blackjack49Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 50 - Ruby
+  identifier: pragmaticexternal:Blackjack50Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 51 - Ruby
+  identifier: pragmaticexternal:Blackjack51Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 52 - Ruby
+  identifier: pragmaticexternal:Blackjack52Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 53 - Ruby
+  identifier: pragmaticexternal:Blackjack53Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 54 - Ruby
+  identifier: pragmaticexternal:Blackjack54Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 55 - Ruby
+  identifier: pragmaticexternal:Blackjack55Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 56 - Ruby
+  identifier: pragmaticexternal:Blackjack56Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 57 - Azure
+  identifier: pragmaticexternal:Blackjack57Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 58 - Azure
+  identifier: pragmaticexternal:Blackjack58Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 59 - Azure
+  identifier: pragmaticexternal:Blackjack59Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 60 - Azure
+  identifier: pragmaticexternal:Blackjack60Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 61 - Azure
+  identifier: pragmaticexternal:Blackjack61Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 62 - Azure
+  identifier: pragmaticexternal:Blackjack62Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 63 - Azure
+  identifier: pragmaticexternal:Blackjack63Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 64 - Ruby
+  identifier: pragmaticexternal:Blackjack64Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 65 - Ruby
+  identifier: pragmaticexternal:Blackjack65Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 9 - Ruby
+  identifier: pragmaticexternal:Blackjack66Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 10 - Ruby
+  identifier: pragmaticexternal:Blackjack67Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 11 - Ruby
+  identifier: pragmaticexternal:Blackjack68Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 12 - Ruby
+  identifier: pragmaticexternal:Blackjack69Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 70 - Ruby
+  identifier: pragmaticexternal:Blackjack70Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 71 - Ruby
+  identifier: pragmaticexternal:Blackjack71Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 72 - Ruby
+  identifier: pragmaticexternal:Blackjack72Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 73 - Ruby
+  identifier: pragmaticexternal:Blackjack73Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 74 - Ruby
+  identifier: pragmaticexternal:Blackjack74Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 11
+  identifier: pragmaticexternal:BlackjackA
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 3 - Azure
+  identifier: pragmaticexternal:BlackjackAzureA
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 6 - Azure
+  identifier: pragmaticexternal:BlackjackAzureB
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 7 - Azure
+  identifier: pragmaticexternal:BlackjackAzureC
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 4 - Azure
+  identifier: pragmaticexternal:BlackjackAzureD
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 1 - Azure
+  identifier: pragmaticexternal:BlackjackAzureE
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 9 - Azure
+  identifier: pragmaticexternal:BlackjackAzureF
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 10 - Azure
+  identifier: pragmaticexternal:BlackjackAzureG
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 5 - Azure
+  identifier: pragmaticexternal:BlackjackAzureH
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 2 - Azure
+  identifier: pragmaticexternal:BlackjackAzureI
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 8 - Azure
+  identifier: pragmaticexternal:BlackjackAzureJ
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 16
+  identifier: pragmaticexternal:BlackjackE
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Lobby
+  identifier: pragmaticexternal:BlackjackLobby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Turkish 1
+  identifier: pragmaticexternal:BlackjackTurkish1
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_native
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bomb Bonanza
+  identifier: pragmaticexternal:BombBonanza
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Book of the Fallen
+  identifier: pragmaticexternal:BookofFallen
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Golden Sands
+  identifier: pragmaticexternal:BookofGoldenSands
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Book of Kingdoms
+  identifier: pragmaticexternal:BookofKingdoms1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Book of Tut Jackpot Play
+  identifier: pragmaticexternal:BookofTutJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Book of Tut Megaways
+  identifier: pragmaticexternal:BookofTutMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book of Vikings
+  identifier: pragmaticexternal:BookofVikings
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Boom City
+  identifier: pragmaticexternal:BoomCity
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bounty Gold
+  identifier: pragmaticexternal:BountyGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Brazilian Roulette
+  identifier: pragmaticexternal:BrazilianRoulette
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bronco Spirit
+  identifier: pragmaticexternal:BroncoSpirit
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Buffalo King
+  identifier: pragmaticexternal:BuffaloKing
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Buffalo King Megaways
+  identifier: pragmaticexternal:BuffaloKingMegaways1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Caishen's Cash
+  identifier: pragmaticexternal:CaishensCash
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Caishen's Gold
+  identifier: pragmaticexternal:CaishensGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+  has_jackpot: true
+- title: Candy Blitz
+  identifier: pragmaticexternal:CandyBlitz
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Candy Stars
+  identifier: pragmaticexternal:CandyStars
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Cash Bonanza
+  identifier: pragmaticexternal:CashBonanza
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Cash Box
+  identifier: pragmaticexternal:CashBox
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Elevator
+  identifier: pragmaticexternal:CashElevator1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cash Patrol
+  identifier: pragmaticexternal:CashPatrol
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Chicken Chase
+  identifier: pragmaticexternal:ChickenChase
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Chicken Drop
+  identifier: pragmaticexternal:ChickenDrop
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Chilli Heat
+  identifier: pragmaticexternal:ChilliHeat
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Chilli Heat Megaways
+  identifier: pragmaticexternal:ChilliHeatMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Christmas Big Bass Bonanza
+  identifier: pragmaticexternal:ChristmasBassBananza
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Christmas Carol Megaways
+  identifier: pragmaticexternal:ChristmasCarolMegaways1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Cleocatra
+  identifier: pragmaticexternal:Cleocatra
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Clover Gold
+  identifier: pragmaticexternal:CloverGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Club Tropicana
+  identifier: pragmaticexternal:ClubTropicana
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Colossal Cash Zone
+  identifier: pragmaticexternal:ColossalCashZone
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Congo Cash
+  identifier: pragmaticexternal:CongoCash1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Cosmic Cash
+  identifier: pragmaticexternal:CosmicCash
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Country Farming
+  identifier: pragmaticexternal:CountryFarming
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Cowboy Coins
+  identifier: pragmaticexternal:CowboyCoins
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cowboys Gold
+  identifier: pragmaticexternal:Cowboysgold1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Crown of Fire
+  identifier: pragmaticexternal:CrownofFire
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Crystal Caverns Megaways
+  identifier: pragmaticexternal:CrystalCavernsMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Curse of the Werewolf Megaways
+  identifier: pragmaticexternal:CurseoftheWerewolfMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Cyclops Smash
+  identifier: pragmaticexternal:CyclopsSmash
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dance Party
+  identifier: pragmaticexternal:DanceParty
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Da Vinci's Treasure
+  identifier: pragmaticexternal:DaVincisTreasure
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Day of Dead
+  identifier: pragmaticexternal:DayofDead
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Diamond Cascade
+  identifier: pragmaticexternal:DiamondCascade
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Diamonds Of Egypt
+  identifier: pragmaticexternal:DiamondsOfEgypt
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 88
+  has_jackpot: true
+- title: Diamond Strike
+  identifier: pragmaticexternal:DiamondStrike
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Diamond Strike 100 000
+  identifier: pragmaticexternal:DiamondStrike100000
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Down the Rails
+  identifier: pragmaticexternal:DowntheRails
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Drago - Jewels of Fortune
+  identifier: pragmaticexternal:DragoJewelsofFortune
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Hero
+  identifier: pragmaticexternal:DragonHero
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dragon Hot Hold and Spin
+  identifier: pragmaticexternal:DragonHotHoldandSpin1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dragon Kingdom
+  identifier: pragmaticexternal:DragonKingdom
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dragon Kingdom - Eyes of Fire
+  identifier: pragmaticexternal:DragonKingdomEyesOfFire1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dragon Tiger
+  identifier: pragmaticexternal:DragonTiger
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Tiger
+  identifier: pragmaticexternal:DragonTiger1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Tiger
+  identifier: pragmaticexternal:DragonTigerLive
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Drill That Gold
+  identifier: pragmaticexternal:DrillThatGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Drop Pots
+  identifier: pragmaticexternal:DropPots
+  provider: pragmaticexternal
+  producer: bingo
+  category: lottery
+  has_freespins: true
+  feature_group: bingo_test
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Drops and Wins Lobby
+  identifier: pragmaticexternal:DropsandWinsLobby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: dropsandwins
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Dwarven Gold Deluxe
+  identifier: pragmaticexternal:DwarvenGoldDeluxe
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Egyptian Fortunes
+  identifier: pragmaticexternal:EgyptianFortunes
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 8 Dragons
+  identifier: pragmaticexternal:EightDragons
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Elemental Gems Megaways
+  identifier: pragmaticexternal:ElementalGemsMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Emerald King
+  identifier: pragmaticexternal:EmeraldKing
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Emerald King Rainbow Road
+  identifier: pragmaticexternal:EmeraldKingRainbowRoad
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Empty the Bank
+  identifier: pragmaticexternal:EmptytheBank1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Excalibur Unleashed
+  identifier: pragmaticexternal:ExcaliburUnleashed
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Extra Juicy
+  identifier: pragmaticexternal:ExtraJuicy
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Extra Juicy Megaways
+  identifier: pragmaticexternal:ExtraJuicyMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Eye of Cleopatra
+  identifier: pragmaticexternal:EyeofCleopatra
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Eye of the Storm
+  identifier: pragmaticexternal:EyeOfTheStorm1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fairytale Fortune
+  identifier: pragmaticexternal:FairytaleFortune
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Fantastic League
+  identifier: pragmaticexternal:FantasticLeague
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: virtual_sports
+  has_freespins: false
+  feature_group: vs
+  devices:
+  - desktop
+  - mobile
+- title: Fat Panda
+  identifier: pragmaticexternal:FatPanda
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fire 88
+  identifier: pragmaticexternal:Fire88
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: Fire Archer
+  identifier: pragmaticexternal:FireArcher
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Firebird Spirit
+  identifier: pragmaticexternal:FirebirdSpirit
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fire Hot 100
+  identifier: pragmaticexternal:FireHot100
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Fire Hot 20
+  identifier: pragmaticexternal:FireHot20
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fire Hot 40
+  identifier: pragmaticexternal:FireHot40
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fire Hot 5
+  identifier: pragmaticexternal:FireHot5
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fire Strike
+  identifier: pragmaticexternal:FireStrike
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fire Strike 2
+  identifier: pragmaticexternal:FireStrike2
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fish Eye
+  identifier: pragmaticexternal:FishEye
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fishin' Reels
+  identifier: pragmaticexternal:FishinReels
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Floating Dragon Hold&Spin
+  identifier: pragmaticexternal:FloatingDragon1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Floating Dragon - Dragon Boat Festival
+  identifier: pragmaticexternal:FloatingDragonDragonBoatFestival
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Floating Dragon Megaways
+  identifier: pragmaticexternal:FloatingDragonMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Force 1
+  identifier: pragmaticexternal:Force1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: virtual_sports
+  has_freespins: false
+  feature_group: vs
+  devices:
+  - desktop
+  - mobile
+- title: Forge of Olympus
+  identifier: pragmaticexternal:ForgeofOlympus
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fortune 6 Baccarat
+  identifier: pragmaticexternal:Fortune6Baccarat
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Fortune of Giza
+  identifier: pragmaticexternal:FortuneofGiza
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fortunes of Aztec
+  identifier: pragmaticexternal:FortunesofAztec
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Frozen Tropics
+  identifier: pragmaticexternal:FrozenTropics
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Party
+  identifier: pragmaticexternal:FruitParty1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruit Party 2
+  identifier: pragmaticexternal:FruitParty2
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruit Party Jackpot Play
+  identifier: pragmaticexternal:FruitPartyJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fruit Rainbow
+  identifier: pragmaticexternal:FruitRainbow
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fury of Odin Megaways
+  identifier: pragmaticexternal:FuryofOdinMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Game Show Lobby
+  identifier: pragmaticexternal:GameShowLobby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Gates of Olympus
+  identifier: pragmaticexternal:GatesOfOlympus1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gates of Olympus Jackpot Play
+  identifier: pragmaticexternal:GatesofOlympusJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Gates of Valhalla
+  identifier: pragmaticexternal:GatesofValhalla
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gems Bonanza
+  identifier: pragmaticexternal:GemsBonanza1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gems of Serengeti
+  identifier: pragmaticexternal:GemsofSerengeti
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Goblin Heist Powernudge
+  identifier: pragmaticexternal:GoblinHeistPowernudge
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gods of Giza
+  identifier: pragmaticexternal:GodsofGiza
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Golden Beauty
+  identifier: pragmaticexternal:GoldenBeauty
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Gold Party
+  identifier: pragmaticexternal:GoldParty
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Gold Rush
+  identifier: pragmaticexternal:GoldRush
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Gold Rush 250 000
+  identifier: pragmaticexternal:GoldRush250000
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gold Train
+  identifier: pragmaticexternal:GoldTrain
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: Gorilla Mayhem
+  identifier: pragmaticexternal:GorillaMayhem
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Great Rhino
+  identifier: pragmaticexternal:GreatRhino
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Great Rhino Deluxe
+  identifier: pragmaticexternal:GreatRhinoDeluxe
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Great Rhino Megaways
+  identifier: pragmaticexternal:GreatRhinoMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Greedy Wolf
+  identifier: pragmaticexternal:GreedyWolf
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Greek Gods
+  identifier: pragmaticexternal:GreekGods
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Greyhound Racing
+  identifier: pragmaticexternal:GreyhoundRacing
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: virtual_sports
+  has_freespins: false
+  feature_group: vs
+  devices:
+  - desktop
+  - mobile
+- title: Happy Hooves
+  identifier: pragmaticexternal:HappyHooves
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Heart Of Rio
+  identifier: pragmaticexternal:HeartofRio1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Heist for the Golden Nuggets
+  identifier: pragmaticexternal:HeistfortheGoldenNugget
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hellvis Wild
+  identifier: pragmaticexternal:HellvisWild
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hercules and Pegasus
+  identifier: pragmaticexternal:HerculesandPegasus
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hercules Son of Zeus
+  identifier: pragmaticexternal:HerculesSonZeus
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Honey Honey Honey
+  identifier: pragmaticexternal:HoneyHoneyHoney
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Horse Racing
+  identifier: pragmaticexternal:HorseRacing
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: virtual_sports
+  has_freespins: false
+  feature_group: vs
+  devices:
+  - desktop
+  - mobile
+- title: Hot Chilli
+  identifier: pragmaticexternal:HotChilli
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Hot Fiesta
+  identifier: pragmaticexternal:HotFiesta1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hot Pepper
+  identifier: pragmaticexternal:HotPepper
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Safari
+  identifier: pragmaticexternal:HotSafari
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hot Safari 50 000
+  identifier: pragmaticexternal:HotSafari50000
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hot to burn
+  identifier: pragmaticexternal:Hottoburn1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot to Burn Extreme
+  identifier: pragmaticexternal:HottoBurnExtreme
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Hot to Burn Hold and Spin
+  identifier: pragmaticexternal:HottoBurnHoldandSpin1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jade Butterfly
+  identifier: pragmaticexternal:JadeButterfly
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jane Hunter and the Mask of Montezuma
+  identifier: pragmaticexternal:JaneHunterandtheMaskofMontezuma
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jasmine Dreams
+  identifier: pragmaticexternal:JasmineDreams
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jewel Rush
+  identifier: pragmaticexternal:JewelRush
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: John Hunter and the Aztec Treasure
+  identifier: pragmaticexternal:JohnHunterandtheAztecTreasure
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: John Hunter and the Book of Tut
+  identifier: pragmaticexternal:JohnHunterandtheBookofTut
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: John Hunter and the Book of Tut Respin
+  identifier: pragmaticexternal:JohnHunterandtheBookofTutRespin
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: John Hunter and the Mayan Gods
+  identifier: pragmaticexternal:JohnHunterAndtheMayanGods
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: John Hunter and the Quest for Bermuda Riches
+  identifier: pragmaticexternal:JohnHunterandtheQuestforBermudaRiches
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: John Hunter and the Tomb of the Scarab Queen
+  identifier: pragmaticexternal:JohnHunterandtheTomboftheScarabQueen
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Joker King
+  identifier: pragmaticexternal:JokerKing1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Joker's Jewels
+  identifier: pragmaticexternal:JokersJewels
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Joker's Jewels Dice
+  identifier: pragmaticexternal:JokersJewelsDice
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Joker's Jewels Jackpot Play
+  identifier: pragmaticexternal:JokersJewelsJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Journey to the West
+  identifier: pragmaticexternal:JourneytotheWest
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Juicy Fruits
+  identifier: pragmaticexternal:JuicyFruits
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Jungle Gorilla
+  identifier: pragmaticexternal:JungleGorilla1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jurassic Giants
+  identifier: pragmaticexternal:JurassicGiants
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 4096
+- title: Kingdom of The Dead
+  identifier: pragmaticexternal:KingdomofTheDead
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Knight Hot Spotz
+  identifier: pragmaticexternal:KnightHotSpotz
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lady Godiva
+  identifier: pragmaticexternal:LadyGodiva
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lamp Of Infinity
+  identifier: pragmaticexternal:LampOfInfinity
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Leprechaun Carol
+  identifier: pragmaticexternal:LeprechaunCarol
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Leprechaun Song
+  identifier: pragmaticexternal:LeprechaunSong
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Little Gem
+  identifier: pragmaticexternal:LittleGem
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Baccarat 1
+  identifier: pragmaticexternal:LiveBaccaratA
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat 2
+  identifier: pragmaticexternal:LiveBaccaratB
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat 3
+  identifier: pragmaticexternal:LiveBaccaratC
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat 5
+  identifier: pragmaticexternal:LiveBaccaratD
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat 6
+  identifier: pragmaticexternal:LiveBaccaratE
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 12
+  identifier: pragmaticexternal:LiveBlackjackB
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 14
+  identifier: pragmaticexternal:LiveBlackjackC
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 15
+  identifier: pragmaticexternal:LiveBlackjackD
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 2
+  identifier: pragmaticexternal:LiveRouletteA
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Casino Lobby
+  identifier: pragmaticexternal:lobby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Lobby Roulette
+  identifier: pragmaticexternal:LobbyRoulette
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Lobster Bob's Crazy Crab Shack
+  identifier: pragmaticexternal:LobsterBobsCrazyCrabShack
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Dragons
+  identifier: pragmaticexternal:LuckyDragons
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lucky Dreams Roulette
+  identifier: pragmaticexternal:LuckyDreamsRoulette
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: luckydreams
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Lucky Grace and Charm
+  identifier: pragmaticexternal:LuckyGraceandCharm
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Lightning
+  identifier: pragmaticexternal:LuckyLightning1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Lucky New Year
+  identifier: pragmaticexternal:LuckyNewYear
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Madame Destiny
+  identifier: pragmaticexternal:MadameDestiny
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Madame Destiny Megaways
+  identifier: pragmaticexternal:MadameDestinyMegaways1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Magic Crystals
+  identifier: pragmaticexternal:MagicCrystals
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Magician's Secrets
+  identifier: pragmaticexternal:MagiciansSecrets
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Magic Journey
+  identifier: pragmaticexternal:MagicJourney
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Money Maze
+  identifier: pragmaticexternal:MagicMoneyMaze
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mammoth Gold Megaways
+  identifier: pragmaticexternal:MammothGoldMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Master Chen's Fortune
+  identifier: pragmaticexternal:MasterChensFortune
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Master Joker
+  identifier: pragmaticexternal:MasterJoker
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Mega Baccarat
+  identifier: pragmaticexternal:MegaBaccarat
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Mega Roulette
+  identifier: pragmaticexternal:MegaRoulette
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Mega Sic Bo
+  identifier: pragmaticexternal:MegaSicBo
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Mega Wheel
+  identifier: pragmaticexternal:MegaWheel
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Might of Ra
+  identifier: pragmaticexternal:MightofRa
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mighty Kong
+  identifier: pragmaticexternal:MightyKong
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mochimon
+  identifier: pragmaticexternal:Mochimon
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Money Mouse
+  identifier: pragmaticexternal:MoneyMouse
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Monkey Madness
+  identifier: pragmaticexternal:MonkeyMadness
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Monkey Warrior
+  identifier: pragmaticexternal:MonkeyWarrior
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Monster Superlanche
+  identifier: pragmaticexternal:MonsterSuperlanche
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Muertos Multiplier Megaways
+  identifier: pragmaticexternal:MuertosMultiplierMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Multihand Blackjack
+  identifier: pragmaticexternal:MultihandBlackjack
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mustang Gold
+  identifier: pragmaticexternal:MustangGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mustang Trail
+  identifier: pragmaticexternal:MustangTrail
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mysterious
+  identifier: pragmaticexternal:Mysterious
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Mysterious Egypt
+  identifier: pragmaticexternal:MysteriousEgypt
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mystery of the Orient
+  identifier: pragmaticexternal:MysteryoftheOrient
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Mystic Chief
+  identifier: pragmaticexternal:MysticChief
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 576
+- title: No Comm Baccarat 1
+  identifier: pragmaticexternal:NoCommBaccarat1
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: No Comm Speed Baccarat 1
+  identifier: pragmaticexternal:NoCommSpeedBaccarat1
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: No Comm Speed Baccarat 2
+  identifier: pragmaticexternal:NoCommSpeedBaccarat2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: North Guardians
+  identifier: pragmaticexternal:NorthGuardians
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Octobeer Fortunes
+  identifier: pragmaticexternal:OctobeerFortunes
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: ONE Blackjack
+  identifier: pragmaticexternal:ONEBlackjack
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: ONE Blackjack 2 - Ruby
+  identifier: pragmaticexternal:ONEBlackjack2Indigo
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Panda's Fortune
+  identifier: pragmaticexternal:PandaFortune
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Panda Fortune 2
+  identifier: pragmaticexternal:PandaFortune21
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Panda Gold 10 000
+  identifier: pragmaticexternal:PandaGold10000
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Panther Queen
+  identifier: pragmaticexternal:PantherQueen
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Peak Power
+  identifier: pragmaticexternal:PeakPower
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Peaky Blinders
+  identifier: pragmaticexternal:PeakyBlinders
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: branded_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Peking Luck
+  identifier: pragmaticexternal:PekingLuck
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Penalty Shootout
+  identifier: pragmaticexternal:PenaltyShootout
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: virtual_sports
+  has_freespins: false
+  feature_group: vs
+  devices:
+  - desktop
+  - mobile
+- title: Phoenix Forge
+  identifier: pragmaticexternal:PhoenixForge1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Piggy Bank Bills
+  identifier: pragmaticexternal:PiggyBankBills
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Piggy Bankers
+  identifier: pragmaticexternal:PiggyBankers
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pinup Girls
+  identifier: pragmaticexternal:PinupGirls
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pirate Gold
+  identifier: pragmaticexternal:PirateGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Pirate Gold Deluxe
+  identifier: pragmaticexternal:PirateGoldDeluxe1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Pirate Golden Age
+  identifier: pragmaticexternal:PirateGoldenAge
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pirates Pub
+  identifier: pragmaticexternal:PiratesPub
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Pixie Wings
+  identifier: pragmaticexternal:PixieWings
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: PIZZA! PIZZA? PIZZA!
+  identifier: pragmaticexternal:PIZZAPIZZAPIZZA
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Power of Merlin Megaways
+  identifier: pragmaticexternal:PowerofMerlinMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Power of Thor Megaways
+  identifier: pragmaticexternal:PowerofThorMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: PowerUP Roulette
+  identifier: pragmaticexternal:PowerUPRoulette
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Prive Lounge Blackjack 1
+  identifier: pragmaticexternal:PriveLoungeBlackjack1
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Prive Lounge Blackjack 2
+  identifier: pragmaticexternal:PriveLoungeBlackjack2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Prive Lounge Blackjack 3
+  identifier: pragmaticexternal:PriveLoungeBlackjack3
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Prive Lounge Blackjack 4
+  identifier: pragmaticexternal:PriveLoungeBlackjack4
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Prive Lounge Blackjack 5
+  identifier: pragmaticexternal:PriveLoungeBlackjack5
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Pub Kings
+  identifier: pragmaticexternal:PubKings
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pyramid King
+  identifier: pragmaticexternal:PyramidKing1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queenie
+  identifier: pragmaticexternal:Queenie
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Queen of Atlantis
+  identifier: pragmaticexternal:QueenOfAtlantis
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Queen of Gods
+  identifier: pragmaticexternal:QueenofGods
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Queen of Gold
+  identifier: pragmaticexternal:QueenOfGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen of Gold 100 000
+  identifier: pragmaticexternal:QueenofGold100000
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rabbit Garden
+  identifier: pragmaticexternal:RabbitGarden
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rainbow Gold
+  identifier: pragmaticexternal:RainbowGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Reel Banks
+  identifier: pragmaticexternal:ReelBanks
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Reels Room
+  identifier: pragmaticexternal:ReelsRoom
+  provider: pragmaticexternal
+  producer: bingo
+  category: lottery
+  has_freespins: true
+  feature_group: bingo_test
+  devices:
+  - desktop
+  - mobile
+- title: Release the Kraken
+  identifier: pragmaticexternal:ReleasetheKraken
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Release the Kraken 2
+  identifier: pragmaticexternal:ReleasetheKraken2
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Return of the Dead
+  identifier: pragmaticexternal:ReturnOftheDead1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rise of Giza PowerNudge
+  identifier: pragmaticexternal:RiseofGizaPowerNudge
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rocket Blast Megaways
+  identifier: pragmaticexternal:RocketBlastMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rock Vegas
+  identifier: pragmaticexternal:RockVegas
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Roulette 10 - Ruby
+  identifier: pragmaticexternal:Roulette10Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 11 - Dutch
+  identifier: pragmaticexternal:Roulette11Dutch
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 12 - Romanian
+  identifier: pragmaticexternal:Roulette12Romanian
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 14 - Spanish
+  identifier: pragmaticexternal:Roulette14Spanish
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 6 - Turkish
+  identifier: pragmaticexternal:Roulette6Turkish
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 7 - Italian
+  identifier: pragmaticexternal:Roulette7Italian
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 8 Indian
+  identifier: pragmaticexternal:Roulette8Indian
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Roulette - The Club
+  identifier: pragmaticexternal:Roulette9TheClub
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 1 - Azure
+  identifier: pragmaticexternal:RouletteAzure
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette Crystal
+  identifier: pragmaticexternal:RouletteCrystal
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Roulette 5 - German
+  identifier: pragmaticexternal:RouletteGermany
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 3 - Macao
+  identifier: pragmaticexternal:RouletteMacao
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 4 - Russian
+  identifier: pragmaticexternal:RouletteRussia
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Safari King
+  identifier: pragmaticexternal:SafariKing
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Santa
+  identifier: pragmaticexternal:Santa
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Santa's Great Gifts
+  identifier: pragmaticexternal:SantasGreatGifts
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Santa's Wonderland
+  identifier: pragmaticexternal:SantasWonderland
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Secret City Gold
+  identifier: pragmaticexternal:SecretCityGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 7 Monkeys
+  identifier: pragmaticexternal:SevenMonkeys
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: Shield of Sparta
+  identifier: pragmaticexternal:ShieldofSparta
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Shining Hot 100
+  identifier: pragmaticexternal:ShiningHot100
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Shining Hot 20
+  identifier: pragmaticexternal:ShiningHot20
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Shining Hot 40
+  identifier: pragmaticexternal:ShiningHot40
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Shining Hot 5
+  identifier: pragmaticexternal:ShiningHot5
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sky Bounty
+  identifier: pragmaticexternal:SkyBounty
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Smugglers Cove
+  identifier: pragmaticexternal:SmugglersCove
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Snakes & Ladders 2 - Snake Eyes
+  identifier: pragmaticexternal:SnakesandLadders2SnakeEyes
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Snakes & Ladders Live
+  identifier: pragmaticexternal:SnakesAndLaddersLive
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Snakes and Ladders Megadice
+  identifier: pragmaticexternal:SnakesandLaddersMegadice
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Spaceman
+  identifier: pragmaticexternal:Spaceman
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: crash
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Spartan King
+  identifier: pragmaticexternal:SpartanKing
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Speed Auto-Roulette 1
+  identifier: pragmaticexternal:SpeedAutoRoulette1
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 10
+  identifier: pragmaticexternal:SpeedBaccarat100
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 11
+  identifier: pragmaticexternal:SpeedBaccarat11
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 12
+  identifier: pragmaticexternal:SpeedBaccarat12
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 13
+  identifier: pragmaticexternal:SpeedBaccarat13
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 14
+  identifier: pragmaticexternal:SpeedBaccarat14
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 15
+  identifier: pragmaticexternal:SpeedBaccarat15
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 7
+  identifier: pragmaticexternal:SpeedBaccarat7
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 8
+  identifier: pragmaticexternal:SpeedBaccarat8
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 9
+  identifier: pragmaticexternal:SpeedBaccarat9
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 1
+  identifier: pragmaticexternal:SpeedBaccaratA
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 2
+  identifier: pragmaticexternal:SpeedBaccaratB
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 3
+  identifier: pragmaticexternal:SpeedBaccaratC
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 5
+  identifier: pragmaticexternal:SpeedBaccaratD
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 6
+  identifier: pragmaticexternal:SpeedBaccaratE
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 10 - Ruby
+  identifier: pragmaticexternal:SpeedBlackjack10Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 11 - Azure
+  identifier: pragmaticexternal:SpeedBlackjack11Azure
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 12 - Azure
+  identifier: pragmaticexternal:SpeedBlackjack12Azure
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 14 - Azure
+  identifier: pragmaticexternal:SpeedBlackjack14Azure
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack - 15 Ruby
+  identifier: pragmaticexternal:SpeedBlackjack15Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack - 16 Ruby
+  identifier: pragmaticexternal:SpeedBlackjack16Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack - 17 Ruby
+  identifier: pragmaticexternal:SpeedBlackjack17Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack - 18 Ruby
+  identifier: pragmaticexternal:SpeedBlackjack18Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 19 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack19Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 20 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack20Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 21 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack21Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 22 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack22Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 24 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack24Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 25 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack25Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 26 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack26Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 27 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack27Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 28 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack28Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 29 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack29Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 30 - Emerald
+  identifier: pragmaticexternal:SpeedBlackjack30Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 3 – Ruby
+  identifier: pragmaticexternal:SpeedBlackjack3Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 4 – Ruby
+  identifier: pragmaticexternal:SpeedBlackjack4Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 5 - Ruby
+  identifier: pragmaticexternal:SpeedBlackjack5Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 6 - Ruby
+  identifier: pragmaticexternal:SpeedBlackjack6Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 7 - Ruby
+  identifier: pragmaticexternal:SpeedBlackjack7Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 8 - Ruby
+  identifier: pragmaticexternal:SpeedBlackjack8Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack 9 - Ruby
+  identifier: pragmaticexternal:SpeedBlackjack9Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_classic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Blackjack Turkish 1
+  identifier: pragmaticexternal:SpeedBlackjackTurkish1
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_native
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Roulette
+  identifier: pragmaticexternal:SpeedRoulette
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Roulette 2
+  identifier: pragmaticexternal:SpeedRoulette2
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Spellbinding Mystery
+  identifier: pragmaticexternal:SpellbindingMystery
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Spin & Score Megaways
+  identifier: pragmaticexternal:SpinandScoreMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spirit of Adventure
+  identifier: pragmaticexternal:SpiritofAdventure
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Star Bounty
+  identifier: pragmaticexternal:StarBounty
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Starlight Christmas
+  identifier: pragmaticexternal:StarlightChristmas
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Starlight Princess
+  identifier: pragmaticexternal:StarlightPrincess
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Starlight Princess Jackpot Play
+  identifier: pragmaticexternal:StarlightPrincessJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Star Pirates Code
+  identifier: pragmaticexternal:StarPiratesCode
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Starz Megaways
+  identifier: pragmaticexternal:StarzMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Steeplechase
+  identifier: pragmaticexternal:Steeplechase
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: virtual_sports
+  has_freespins: false
+  feature_group: vs
+  devices:
+  - desktop
+  - mobile
+- title: Sticky Bees
+  identifier: pragmaticexternal:StickyBees
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Street Racer
+  identifier: pragmaticexternal:StreetRace
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Striking Hot 5
+  identifier: pragmaticexternal:StrikingHot5
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sugar Rush
+  identifier: pragmaticexternal:SugarRush1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sugar Rush Jackpot Play
+  identifier: pragmaticexternal:SugarRushJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Super 7s
+  identifier: pragmaticexternal:Super7s
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Super 8 Baccarat
+  identifier: pragmaticexternal:Super8Baccarat
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Super Joker
+  identifier: pragmaticexternal:SuperJoker
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Super X
+  identifier: pragmaticexternal:SuperX
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sweet Bonanza
+  identifier: pragmaticexternal:SweetBonanza
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sweet Bonanza Candyland
+  identifier: pragmaticexternal:SweetBonanzaCandyland
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Sweet Bonanza Dice
+  identifier: pragmaticexternal:SweetBonanzaDice
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sweet Bonanza Jackpot Play
+  identifier: pragmaticexternal:SweetBonanzaJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Sweet Bonanza Xmas
+  identifier: pragmaticexternal:SweetBonanzaXmas
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sweet Powernudge
+  identifier: pragmaticexternal:SweetPowernudge
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sword of Ares
+  identifier: pragmaticexternal:SwordofAres
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Temujin Treasures
+  identifier: pragmaticexternal:TemujinTreasures
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: The Amazing Money Machine
+  identifier: pragmaticexternal:TheAmazingMoneyMachine1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: The Champions
+  identifier: pragmaticexternal:TheChampions
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Dog House
+  identifier: pragmaticexternal:TheDogHouse
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Dog House Dice Show
+  identifier: pragmaticexternal:TheDogHouseDiceShow
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Dog House Jackpot Play
+  identifier: pragmaticexternal:TheDogHouseJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: The Dog House Megaways
+  identifier: pragmaticexternal:TheDogHouseMegaways1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: The Dog House Megaways Jackpot Play
+  identifier: pragmaticexternal:TheDogHouseMegawaysJackpotPlay
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: false
+  feature_group: jp
+  devices:
+  - desktop
+  - mobile
+  lines: 117649
+  has_jackpot: true
+- title: The Dog House Multihold
+  identifier: pragmaticexternal:TheDogHouseMultihold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Great Chicken Escape
+  identifier: pragmaticexternal:TheGreatChickenEscape
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Great Stick-Up
+  identifier: pragmaticexternal:TheGreatStickUp
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Hand of Midas
+  identifier: pragmaticexternal:TheHandOfMidas
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Knight King
+  identifier: pragmaticexternal:TheKnightKing
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Magic Cauldron - Enchanted Brew
+  identifier: pragmaticexternal:TheMagicCauldronEnchantedBrew1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Red Queen
+  identifier: pragmaticexternal:TheRedQueen
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Ultimate 5
+  identifier: pragmaticexternal:TheUltimate5
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: The Wild Machine
+  identifier: pragmaticexternal:TheWildMachine
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 3 Genie Wishes
+  identifier: pragmaticexternal:ThreeGenieWishes
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 3 Kingdoms - Battle of Red Cliffs
+  identifier: pragmaticexternal:ThreeKindoms
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Three Star Fortune
+  identifier: pragmaticexternal:ThreeStarFortune
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Tic Tac Take
+  identifier: pragmaticexternal:TicTacTake
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Towering Fortunes
+  identifier: pragmaticexternal:ToweringFortunes
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Treasure Horse
+  identifier: pragmaticexternal:TreasureHorse
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: Treasure Wild
+  identifier: pragmaticexternal:TreasureWild
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tree of Riches
+  identifier: pragmaticexternal:TreeofRiches
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Triple Dragons
+  identifier: pragmaticexternal:TripleDragons
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Triple Jokers
+  identifier: pragmaticexternal:TripleJokers
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Triple Tigers
+  identifier: pragmaticexternal:TripleTigers
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Tropical Tiki
+  identifier: pragmaticexternal:TropicalTiki
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ultra Burn
+  identifier: pragmaticexternal:UltraBurn
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Ultra Hold and Spin
+  identifier: pragmaticexternal:UltraHoldandSpin
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Vampires vs Wolves
+  identifier: pragmaticexternal:VampiresvsWolves
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Vegas Ball Bonanza
+  identifier: pragmaticexternal:VegasBallBonanza
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Vegas Magic
+  identifier: pragmaticexternal:VegasMagic
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Vegas Nights
+  identifier: pragmaticexternal:VegasNights
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: VIP Blackjack 1 - Ruby
+  identifier: pragmaticexternal:VIPBlackjack1Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 2 – Ruby
+  identifier: pragmaticexternal:VIPBlackjack2Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 3 – Ruby
+  identifier: pragmaticexternal:VIPBlackjack3Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 4 – Ruby
+  identifier: pragmaticexternal:VIPBlackjack4Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 5 – Ruby
+  identifier: pragmaticexternal:VIPBlackjack5Ruby
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 6 - Emerald
+  identifier: pragmaticexternal:VIPBlackjack6Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 7 - Emerald
+  identifier: pragmaticexternal:VIPBlackjack7Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack 8 - Emerald
+  identifier: pragmaticexternal:VIPBlackjack8Emerald
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_vip
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack Turkish 1
+  identifier: pragmaticexternal:VIPBlackjackTurkish1
+  provider: pragmaticexternal
+  producer: pragmaticplaylive
+  category: card
+  has_freespins: false
+  feature_group: live_native
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Voodoo Magic
+  identifier: pragmaticexternal:VoodooMagic
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Beach Party
+  identifier: pragmaticexternal:WildBeachParty
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Bison Charge
+  identifier: pragmaticexternal:WildBisonCharge
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Booster
+  identifier: pragmaticexternal:WildBooster1
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Celebrity Bus Megaways
+  identifier: pragmaticexternal:WildCelebrityBusMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Depth
+  identifier: pragmaticexternal:WildDepth
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Gladiators
+  identifier: pragmaticexternal:WildGladiators
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Hop & Drop
+  identifier: pragmaticexternal:WildHopDrop
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Pixies
+  identifier: pragmaticexternal:WildPixies
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Spells
+  identifier: pragmaticexternal:WildSpells
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Walker
+  identifier: pragmaticexternal:WildWalker
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild West Duels
+  identifier: pragmaticexternal:WildWestDuels
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Wild West Gold
+  identifier: pragmaticexternal:WildWestGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild West Gold Megaways
+  identifier: pragmaticexternal:WildWestGoldMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Wild Wild Bananas
+  identifier: pragmaticexternal:WildWildBananas
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Wild Wild Riches
+  identifier: pragmaticexternal:WildWildRiches
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Wild Wild Riches Megaways
+  identifier: pragmaticexternal:WildWildRichesMegaways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Wisdom of Athena
+  identifier: pragmaticexternal:WisdomofAthena
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wolf Gold
+  identifier: pragmaticexternal:WolfGold
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wolf Gold 1 000 000
+  identifier: pragmaticexternal:WolfGold1000000
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Yum Yum Powerways
+  identifier: pragmaticexternal:YumYumPowerways
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Zeus vs Hades - Gods of War
+  identifier: pragmaticexternal:ZeusvsHadesGodsofWar
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Zombie Carnival
+  identifier: pragmaticexternal:ZombieCarnival
+  provider: pragmaticexternal
+  producer: pragmaticplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

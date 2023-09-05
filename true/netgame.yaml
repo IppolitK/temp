@@ -1,0 +1,754 @@
+- title: 'African King: Hold ''n'' Link'
+  identifier: netgame:AfricanKingHoldnLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Aladdin’s Chest
+  identifier: netgame:AladdinsChest
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Bandit''s Bounty: Cash Pool'
+  identifier: netgame:BanditsBountyCashPool
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Big Catch Bonanza
+  identifier: netgame:BigCatchBonanza
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: test
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: 'Book of Nile: HOLD ''N'' LINK'
+  identifier: netgame:BookofNileHOLDNINK
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Book of Nile: Lost Chapter'
+  identifier: netgame:BookOfNileLostChapter
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Nile Magic choice
+  identifier: netgame:BookofNileMagicChoice
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Book of Nile: Revenge'
+  identifier: netgame:BookofNileRevenge
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: B.U.C.K.S.
+  identifier: netgame:BUCKS
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Cactus Riches: Cash Pool'
+  identifier: netgame:CactusRichesCashPool
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 'Carnival Cat: Bonus Combo'
+  identifier: netgame:CarnivalCatBonusCombo
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cash Kingdom
+  identifier: netgame:CashKingdom
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Cash Vault Hold ‘n’ Link
+  identifier: netgame:CashVaultHoldnLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Charming Gold: Hold ''n'' Link'
+  identifier: netgame:CharmingGoldHoldnLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cleo's Heart
+  identifier: netgame:CleosHeart
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dancing Lanterns
+  identifier: netgame:DancingLanterns
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Dancing Lanterns 2
+  identifier: netgame:DancingLanterns2
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Diamond Shot
+  identifier: netgame:DiamondShot
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Diamond Shot Blitz
+  identifier: netgame:DiamondShotBlitz
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 120
+  has_jackpot: true
+- title: Dolphin Queen
+  identifier: netgame:DolphinQueen
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Dragon Sevens
+  identifier: netgame:DragonSevens
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+  has_jackpot: true
+- title: Eagle Gold
+  identifier: netgame:EagleGold
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Explorers Gold Cash Blast
+  identifier: netgame:ExplorersGoldCashBlast
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Fortune Cash
+  identifier: netgame:FortuneCash
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Fortune Skulls
+  identifier: netgame:FortuneSculls
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Frosty Fruits
+  identifier: netgame:FrostyFruits
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruit Burst
+  identifier: netgame:FruitBurst
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Fruit Cash Hold n' Link
+  identifier: netgame:FruitCashHoldnLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fu Yin Yang
+  identifier: netgame:FuYinYang
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Grand Koala: Hold ''N'' Link'
+  identifier: netgame:GrandKoalaHoldNLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Heat Hit Hold 'n' Link
+  identifier: netgame:HeatHitHoldNLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hit in Vegas
+  identifier: netgame:HitinVegas
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 'Hot Cash: Hold ‘n’ Link'
+  identifier: netgame:HotCashHoldnLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Inferno Fruits
+  identifier: netgame:InfernoFruits
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jackpot Sevens
+  identifier: netgame:JackpotSevens
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Jungle 2
+  identifier: netgame:Jungle2
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+  has_jackpot: true
+- title: 'Just Gems: Hold ''n'' Link'
+  identifier: netgame:JustGemsHoldnLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Loteria en Baril
+  identifier: netgame:LoteriaenBaril
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: false
+  feature_group: test
+  devices:
+  - desktop
+  - mobile
+- title: Lotus Fortune
+  identifier: netgame:LotusFortune
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Luxor Relics
+  identifier: netgame:LuxorRelics
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Magic Tree 2
+  identifier: netgame:MagicTree2
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: false
+  feature_group: test
+  devices:
+  - desktop
+  - mobile
+- title: Mighty Horses Cash Connect
+  identifier: netgame:MightyHorsesCashConnect
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Money Hive Hold n Link
+  identifier: netgame:MoneyHiveHoldnLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Mriya
+  identifier: netgame:Mriya
+  provider: netgame
+  producer: netgame
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mystery Dragons
+  identifier: netgame:MysteryDragons
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Osiris Gold Hold ‘n’ Link
+  identifier: netgame:OsirisGoldHoldnLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Pompeii Gold: Rapid Link'
+  identifier: netgame:PompeiiGoldRapidLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Power of Zorro
+  identifier: netgame:PowerofZorro
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+  has_jackpot: true
+- title: Rapid Strike
+  identifier: netgame:RapidStrike
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Red Hot Chili 7's
+  identifier: netgame:RedHotChili7s
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Reel Rider: Rapid Link'
+  identifier: netgame:ReelRiderRapidLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Royal Fruits 20
+  identifier: netgame:RoyalFruits20
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Royal Fruits 40
+  identifier: netgame:RoyalFruits40
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 'Royal Fruits 5: Hold ''n'' Link'
+  identifier: netgame:RoyalFruits5HoldnLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Savanna Squad
+  identifier: netgame:SavannaSquad
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Shining Princess: Rapid Link'
+  identifier: netgame:ShiningPrincessRapidLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Space Rocks 2
+  identifier: netgame:SpaceRocks2
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Squid Slot
+  identifier: netgame:SquidSlot
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: The Big Game Hold'N'Link
+  identifier: netgame:TheBigGameHoldNLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: The One Armed Pirate
+  identifier: netgame:TheOneArmedPirate
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Thunderstrike
+  identifier: netgame:Thunderstrike
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 96
+  has_jackpot: true
+- title: Tumblin’ Dublin
+  identifier: netgame:TumblinDublin
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: false
+  feature_group: test
+  devices:
+  - desktop
+  - mobile
+- title: Volcano Fruits
+  identifier: netgame:VolcanoFruits
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Wild Buffalo
+  identifier: netgame:WildBuffalo
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Wild Buffalo Fortune Wheel
+  identifier: netgame:WildBuffaloFortuneWheel
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+  has_jackpot: true
+- title: Wild Buffalo Hold 'N' Link
+  identifier: netgame:WildBuffaloHoldNLink
+  provider: netgame
+  producer: netgame
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+  has_jackpot: true

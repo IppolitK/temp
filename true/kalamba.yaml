@@ -1,0 +1,1625 @@
+- title: 9 Blazing Cashpots
+  identifier: kalamba:9BlazingCashpots_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 9 Blazing Cashpots Megaways
+  identifier: kalamba:9BlazingCashpotsMegaways_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Agent 51
+  identifier: kalamba:Agent51_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Age of Dragons
+  identifier: kalamba:AgeofDragons_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Age of Dragons Mini-Max
+  identifier: kalamba:AgeofDragonsMiniMax_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Age of Huracan
+  identifier: kalamba:AgeOfHuracan_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Age of Ice Dragons
+  identifier: kalamba:AgeofIceDragons_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Ancient Magic
+  identifier: kalamba:AncientMagic_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Atlantis Thunder
+  identifier: kalamba:AtlantisThunder_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Atlantis Thunder St. Patrick's Day
+  identifier: kalamba:AtlantisThunderStPatricksDay_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Bangkok Dreams
+  identifier: kalamba:BangkokDreams_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Beautiful Nature
+  identifier: kalamba:BeautifulNature_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Beers on Reels
+  identifier: kalamba:BeersonReels_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Big Bounty Bill BoomBoom
+  identifier: kalamba:BigBountyBillBoomBoom_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Big Bounty Bill
+  identifier: kalamba:BigBountyBill_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Black Beauty
+  identifier: kalamba:BlackBeauty_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Blazing Bull 2
+  identifier: kalamba:BlazingBull2_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Blazing Bull: Cash Quest'
+  identifier: kalamba:BlazingBullCashQuest
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blazing Bull
+  identifier: kalamba:BlazingBull_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blazing Bull Remastered
+  identifier: kalamba:BlazingBullRemastered_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blood Moon Express
+  identifier: kalamba:BloodMoonExpress_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 120
+- title: Book of Ages
+  identifier: kalamba:BookofAges_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Crazy Chicken
+  identifier: kalamba:BookofCrazyChicken_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Romeo and Julia
+  identifier: kalamba:BookofRomeoandJulia_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Books & Bulls
+  identifier: kalamba:BooksBulls_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Burning Diamonds
+  identifier: kalamba:BurningDiamonds_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Caribbean Anne 2
+  identifier: kalamba:CaribbeanAnne2_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Caribbean Anne
+  identifier: kalamba:CaribbeanAnne_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Cashpot Kegs
+  identifier: kalamba:CashpotKegs_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Cashpot Kegs Megaways
+  identifier: kalamba:CashpotKegsMegaways_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cosmic Charms
+  identifier: kalamba:CosmicCharms_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Crystal Ball
+  identifier: kalamba:CrystalBall_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Crystal Cavern
+  identifier: kalamba:CrystalCavern_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Deep Rush
+  identifier: kalamba:DeepRush_k
+  provider: kalamba
+  producer: kalamba
+  category: crash
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Desert Gem
+  identifier: kalamba:DesertGem_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Diamond Bounty 7s Hold and Win
+  identifier: kalamba:DiamondBounty7sHoldandWin_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dino Odyssey
+  identifier: kalamba:DinoOdyssey_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Disc of Athena
+  identifier: kalamba:DiscofAthena_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Divine Gongs
+  identifier: kalamba:DivineGongs_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Doctor Electro
+  identifier: kalamba:DoctorElectro_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Double Joker
+  identifier: kalamba:DoubleJoker_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Ducks Till Dawn
+  identifier: kalamba:DucksTillDawn_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: El Vigilante
+  identifier: kalamba:ElVigilante_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fancy Fruits
+  identifier: kalamba:FancyFruits_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Finnegan's Banditos
+  identifier: kalamba:FinnegansBanditos
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Finnegan's Formula
+  identifier: kalamba:FinnegansFormula_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Firedrake's Fortune
+  identifier: kalamba:FiredrakesFortune_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fire Eagle
+  identifier: kalamba:FireEagle_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 120
+- title: Flaming Scarabs
+  identifier: kalamba:FlamingScarabs_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Football Blast
+  identifier: kalamba:FootballBlast_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Forever Diamonds
+  identifier: kalamba:ForeverDiamonds_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fort Brave
+  identifier: kalamba:FortBrave_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fruit Mania
+  identifier: kalamba:FruitMania_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 'FruitMax: CashLinez'
+  identifier: kalamba:FruitMaxCashlinez_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gates of Babylon
+  identifier: kalamba:GatesofBabylon_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Gates of Babylon Mini-Max
+  identifier: kalamba:GatesofBabylonMiniMax_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gates of Persia
+  identifier: kalamba:GatesofPersia_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 'Goblins & Gemstones: Hit ''n'' Roll'
+  identifier: kalamba:GoblinsGemstonesHitnRoll
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Goblins & Gemstones
+  identifier: kalamba:GoblinsGemstones_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gold Fire 7s
+  identifier: kalamba:GoldFire7s_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Gold Tracker 7s
+  identifier: kalamba:GoldTracker7s_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Great Warrior
+  identifier: kalamba:GreatWarrior_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Griffin's Quest
+  identifier: kalamba:GriffinsQuest_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Griffin's Quest Xmas
+  identifier: kalamba:GriffinsQuestXmas_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Heimdall's Gate
+  identifier: kalamba:HeimdallsGate_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Holmes: Reel Detective'
+  identifier: kalamba:HOLMESReelDetective_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hong Bao
+  identifier: kalamba:HongBao_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Hyper Blitz Hold and Win
+  identifier: kalamba:HyperBlitzHoldandWin_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Jewels of Jupiter
+  identifier: kalamba:JewelsofJupiter_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 120
+  has_jackpot: true
+- title: Joker 3600
+  identifier: kalamba:Joker3600_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Joker Fortune Blitz
+  identifier: kalamba:JokerFortuneBlitz_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Joker Lanterns Hit 'n' Roll
+  identifier: kalamba:JokerLanternsHitnRoll_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Joker Lanterns
+  identifier: kalamba:JokerLanterns_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Joker Leprechauns Hit’n’Roll
+  identifier: kalamba:JokerLeprechaunsHitnRoll_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Joker Leprechauns
+  identifier: kalamba:JokerLeprechauns_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 'Joker Max: Hit ''n'' Roll'
+  identifier: kalamba:JokerMaxHitnRoll
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Joker Max Hit'n'Roll X-mas Edition
+  identifier: kalamba:JokerMaxHitnRollXmasEdition_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Joker Max
+  identifier: kalamba:JokerMax_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Joker Rainbows
+  identifier: kalamba:JokerRainbows_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Joker Supreme
+  identifier: kalamba:JokerSupreme_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Joker Supreme Xmas Edition
+  identifier: kalamba:JokerSupremeXmasEdition_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 44410
+  has_jackpot: true
+- title: Joker Times
+  identifier: kalamba:JokerTimes_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Joker Times Xmas
+  identifier: kalamba:JokerTimesXmas_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: King of the Jungle
+  identifier: kalamba:KingoftheJungle_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: King & Queen
+  identifier: kalamba:KingQueen_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: La Dolce Vita
+  identifier: kalamba:LaDolceVita_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lady Lava
+  identifier: kalamba:LadyLava_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Land Of Heroes
+  identifier: kalamba:LandOfHeroes_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Legend of Senteng
+  identifier: kalamba:LegendofSenteng
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lightning Fortune
+  identifier: kalamba:LightningFortune_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Maaax Diamonds
+  identifier: kalamba:MaaaxDiamonds_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Machina Megaways
+  identifier: kalamba:MachinaMegaways
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Machina Reloaded Megaways
+  identifier: kalamba:MachinaReloadedMegaways_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mammoth Chase Easter Edition
+  identifier: kalamba:MammothChaseEasterEdition_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Mammoth Chase
+  identifier: kalamba:MammothChase_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Maui Millions
+  identifier: kalamba:MauiMillions_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Megaways Bushido Princess
+  identifier: kalamba:MegawaysBushidoPrincess_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Megaways Duel of the Dead BoomBoom
+  identifier: kalamba:MegawaysDueloftheDeadBoomBoom_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Megaways Duel of the Dead
+  identifier: kalamba:MegawaysDueloftheDead_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mermaids Galore
+  identifier: kalamba:MermaidsGalore_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Miami Bonus Wheel Hit'n'Roll
+  identifier: kalamba:MiamiBonusWheelHitnRoll_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Miami Bonus Wheel
+  identifier: kalamba:MiamiBonusWheel_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Midas Treasure
+  identifier: kalamba:MidasTreasure_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Midas Treasure Mini-Max
+  identifier: kalamba:MidasTreasureMiniMax_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Mighty Dragon
+  identifier: kalamba:MightyDragon_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Monkey God Buy Feature
+  identifier: kalamba:MonkeyGodBuyFeature_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Monkey God
+  identifier: kalamba:MonkeyGod_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Moonrise Fortunes Hold and Win
+  identifier: kalamba:MoonriseFortunesHoldandWin_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Night Wolves
+  identifier: kalamba:NightWolves_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Old Fisherman
+  identifier: kalamba:OldFisherman_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Diamond Hunt
+  identifier: kalamba:OperationDiamondHunt_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Operation Diamond Hunt Mini-Max
+  identifier: kalamba:OperationDiamondHuntMiniMax_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pawprints of Purrsia
+  identifier: kalamba:PawprintsofPurrsia_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pearls of Aphrodite
+  identifier: kalamba:PearlsofAphrodite_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Phantom's Mirror
+  identifier: kalamba:PhantomsMirror_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pharao's Riches
+  identifier: kalamba:PharaosRiches_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Pharaoh’s Reign
+  identifier: kalamba:Pharoah'sReign_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Phat Cats Megaways
+  identifier: kalamba:PhatCatsMegaways_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pyro Pixie
+  identifier: kalamba:PyroPixie_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Ramses Book
+  identifier: kalamba:RamsesBook_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Roman Legion Extreme
+  identifier: kalamba:RomanLegionExtreme_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Roman Legion
+  identifier: kalamba:RomanLegion_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Royal Seven
+  identifier: kalamba:RoyalSeven_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Royal Seven XXL
+  identifier: kalamba:RoyalSevenXXL_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ruby Hunter
+  identifier: kalamba:RubyHunter_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Rumble Ratz Megaways
+  identifier: kalamba:RumbleRatzMegaways_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Sadie Swift: Guns and Glyphs'
+  identifier: kalamba:SadieSwiftGunsandGlyphs_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Safari Chase: Hit ''n'' Roll'
+  identifier: kalamba:SafariChaseHitnRoll
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Safari Chase
+  identifier: kalamba:SafariChase_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Savanna Moon
+  identifier: kalamba:SavannaMoon_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Simply the Best
+  identifier: kalamba:SimplytheBest_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sky Hunters
+  identifier: kalamba:SkyHunters_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Speakeasy Boost
+  identifier: kalamba:SpeakeasyBoost
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sticky Diamonds
+  identifier: kalamba:StickyDiamonds_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sunny Sevens
+  identifier: kalamba:SunnySevens_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Super Duper Cherry
+  identifier: kalamba:SuperDuperCherry_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Super Size Atlas
+  identifier: kalamba:SuperSizeAtlas
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Take 5
+  identifier: kalamba:Take5_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Temple Of Heroes
+  identifier: kalamba:TempleOfHeroes_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Mighty King
+  identifier: kalamba:TheMightyKing_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Tiger Claws
+  identifier: kalamba:TigerClaws_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Tree of Gold
+  identifier: kalamba:TreeofGold_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 120
+- title: Vegas Blast
+  identifier: kalamba:VegasBlast
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Vegas Blast Minimax
+  identifier: kalamba:VegasBlastMinimax_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wildcraft
+  identifier: kalamba:Wildcraft_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Wild Rapa Nui
+  identifier: kalamba:WildRapaNui_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: true
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wild Rubies
+  identifier: kalamba:WildRubies_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wilds from the Crypt
+  identifier: kalamba:WildsfromtheCrypt_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wilds Gone Wild
+  identifier: kalamba:WildsGoneWild_k
+  provider: kalamba
+  producer: gamomat
+  category: slots
+  has_freespins: false
+  feature_group: gamomat_standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Zombie Queen
+  identifier: kalamba:ZombieQueen_k
+  provider: kalamba
+  producer: kalamba
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50

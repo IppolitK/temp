@@ -1,0 +1,1133 @@
+- title: Aces and Faces
+  identifier: platipus:acesandfaces
+  provider: platipus
+  producer: platipus
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mistress of Amazon
+  identifier: platipus:amazonqueen
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Arabian Tales
+  identifier: platipus:arabiantales
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Aztec Coins
+  identifier: platipus:azteccoins
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Aztec Temple
+  identifier: platipus:aztectemple
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Baccarat PRO
+  identifier: platipus:baccarat
+  provider: platipus
+  producer: platipus
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Baccarat mini
+  identifier: platipus:baccaratmini
+  provider: platipus
+  producer: platipus
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Baccarat VIP
+  identifier: platipus:baccaratvip
+  provider: platipus
+  producer: platipus
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bamboo Grove
+  identifier: platipus:bamboogrove
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Bison Trail
+  identifier: platipus:bisontrail
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: bitStarz Element
+  identifier: platipus:bitstarzelement
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: bitstarz
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Blackjack
+  identifier: platipus:blackjack
+  provider: platipus
+  producer: platipus
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blackjack VIP
+  identifier: platipus:blackjackvip
+  provider: platipus
+  producer: platipus
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Deuces Wild
+  identifier: platipus:bonusdeuceswild
+  provider: platipus
+  producer: platipus
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book of Egypt
+  identifier: platipus:bookofegypt
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Light
+  identifier: platipus:BookofLight
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Books of Giza
+  identifier: platipus:BooksofGiza
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Caishen's Gifts
+  identifier: platipus:caishensgifts
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Casino Hold'em
+  identifier: platipus:casinoholdem
+  provider: platipus
+  producer: platipus
+  category: card
+  has_freespins: false
+  feature_group: promo
+  devices:
+  - desktop
+  - mobile
+- title: Catch the Leprechaun
+  identifier: platipus:catchtheleprechaun
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+  has_jackpot: true
+- title: Chilli Fiesta
+  identifier: platipus:chillifiesta
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Chinese Tigers
+  identifier: platipus:chinesetigers
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Cinderella
+  identifier: platipus:cinderella
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Coinfest
+  identifier: platipus:coinfest
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Crazy Jelly
+  identifier: platipus:crazyjelly
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Crocoman
+  identifier: platipus:crocoman
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Crystal Sevens
+  identifier: platipus:crystalsevens
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Da Ji Da Li
+  identifier: platipus:dajidali
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Diamond Hunt
+  identifier: platipus:diamondhunt
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon's Element
+  identifier: platipus:dragonselement
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Dragon's Element Deluxe
+  identifier: platipus:dragonselementdeluxe
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Dynasty Warriors
+  identifier: platipus:dynastywarriors
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Cleo's Gold
+  identifier: platipus:egyptiangold
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: European Roulette
+  identifier: platipus:EuropeanRoulette
+  provider: platipus
+  producer: platipus
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Extra Gems
+  identifier: platipus:extragems
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fairy Forest
+  identifier: platipus:fairyforest
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Frozen Mirror
+  identifier: platipus:frozenmirror
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Fruit Boost
+  identifier: platipus:fruitboost
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruity Sevens
+  identifier: platipus:fruitysevens
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Goodman Crowns
+  identifier: platipus:goodmancrowns
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: goodman
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Great Ocean
+  identifier: platipus:greatocean
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Guises of Dracula
+  identifier: platipus:guisesofdracula
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Hallowin
+  identifier: platipus:hallowin
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hawaiian Night
+  identifier: platipus:hawaiiannight
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 7 & Hot Fruits
+  identifier: platipus:hotfruits
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Jackpot Lab
+  identifier: platipus:jackpotlab
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Jacks or Better
+  identifier: platipus:jacksorbetter
+  provider: platipus
+  producer: platipus
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jade Valley
+  identifier: platipus:jadevalley
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Jewel Bang
+  identifier: platipus:jewelblast
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Joker Chase
+  identifier: platipus:jokerchase
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Juicy Spins
+  identifier: platipus:juicyspins
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Jungle Spin
+  identifier: platipus:junglespin
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Legend of Atlantis
+  identifier: platipus:legendofatlantis
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Leprechaun's Coins
+  identifier: platipus:leprechauns
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Little Witchy
+  identifier: platipus:littlewitchy
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lord of the Sun
+  identifier: platipus:lordofthesun
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Love is
+  identifier: platipus:loveis
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lucky Cat
+  identifier: platipus:luckycat
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Lucky Dolphin
+  identifier: platipus:luckydolphin
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lucky Money
+  identifier: platipus:luckymoney
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Magical Mirror
+  identifier: platipus:magicalmirror
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Magical Wolf
+  identifier: platipus:magicalwolf
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mega Drago
+  identifier: platipus:megadrago
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Might of Zeus
+  identifier: platipus:mightofzeus
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Miss Gypsy
+  identifier: platipus:missgypsy
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Monkey's Journey
+  identifier: platipus:monkeysjourney
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Neon Classic
+  identifier: platipus:neonclassic
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 9 Dragon Kings
+  identifier: platipus:ninedragonkings
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 9 Gems
+  identifier: platipus:ninegems
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Pearls of the Ocean
+  identifier: platipus:pearlsoftheocean
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Pharaoh's Empire
+  identifier: platipus:pharaohsempire
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Piedra del Sol
+  identifier: platipus:piedradelsol
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Pirate's Legacy
+  identifier: platipus:pirateslegacy
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Pirates Map
+  identifier: platipus:piratesmap
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Posh Cats
+  identifier: platipus:poshcats
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Power of Gods
+  identifier: platipus:powerofgods
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Power Of Poseidon
+  identifier: platipus:powerofposeidon
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Princess of Birds
+  identifier: platipus:princessofbirds
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rhino Mania
+  identifier: platipus:rhinomania
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Richy Witchy
+  identifier: platipus:richywitchy
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Royal Lotus
+  identifier: platipus:RoyalLotus
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Safari Adventures
+  identifier: platipus:safariadventure
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Sakura Wind
+  identifier: platipus:sakuragarden
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Santa's Bag
+  identifier: platipus:santasbag
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Skycrown
+  identifier: platipus:skycrown
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: skycrown
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fiery Planet
+  identifier: platipus:spacequest
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Texas Hold'em
+  identifier: platipus:texasholdem
+  provider: platipus
+  producer: platipus
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Ancient Four
+  identifier: platipus:theancientfour
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: The Big Score
+  identifier: platipus:thebigscore
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Thor Turbo Power
+  identifier: platipus:thorturbopower
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 1001 Spins
+  identifier: platipus:thousandonespins
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Triple Dragon
+  identifier: platipus:tripledragon
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 2 Ways Royal
+  identifier: platipus:twowaysroyal
+  provider: platipus
+  producer: platipus
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Un Dia de Muertos
+  identifier: platipus:undiademuertos
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Ways of the Gauls
+  identifier: platipus:WaysoftheGauls
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wealth of Wisdom
+  identifier: platipus:wealthofwisdom
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Webby Heroes
+  identifier: platipus:webbyheroes
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wild Crowns
+  identifier: platipus:wildcrowns
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Justice
+  identifier: platipus:wildjustice
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Wild Spin
+  identifier: platipus:wildspin
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Wild Spin Deluxe
+  identifier: platipus:wildspindeluxe
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Wizard of the Wild
+  identifier: platipus:wizardofthewild
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: promo
+  devices:
+  - desktop
+  - mobile
+- title: Xmas Avalanche
+  identifier: platipus:xmasavalanche
+  provider: platipus
+  producer: platipus
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

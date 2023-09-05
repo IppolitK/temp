@@ -1,0 +1,6470 @@
+- title: 100 Juicy Fruits
+  identifier: spinomenal:100JuicyFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 100 Lucky Chillies
+  identifier: spinomenal:100LuckyChilies
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 100 Lucky Fruits
+  identifier: spinomenal:100LuckyFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 100 Lucky Fruits Extreme
+  identifier: spinomenal:100LuckyFruitsExtreme
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 100 Lucky Pin-ups
+  identifier: spinomenal:100LuckyPinups
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 100 Lucky Pinups Spin'O'wheel
+  identifier: spinomenal:100LuckyPinupsSOW
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 100 Spinning Dice
+  identifier: spinomenal:100SpinningDiceDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: dice1
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 1 Reel Baba Yaga
+  identifier: spinomenal:1ReelBabaYaga
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Beauty
+  identifier: spinomenal:1ReelBeauty
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Buffalo
+  identifier: spinomenal:1ReelBuffalo
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel - Caribbean Treasure
+  identifier: spinomenal:1ReelCaribbeanTreasure
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Demi Gods II
+  identifier: spinomenal:1ReelDemiGodsII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Demi Gods III
+  identifier: spinomenal:1ReelDemiGodsIII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Demi Gods IV
+  identifier: spinomenal:1ReelDemiGodsIV
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Egypt
+  identifier: spinomenal:1ReelEgypt
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Elves
+  identifier: spinomenal:1ReelElves
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Fruits
+  identifier: spinomenal:1ReelFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel - Frutis Craze
+  identifier: spinomenal:1ReelFrutisCraze
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Golden Piggy
+  identifier: spinomenal:1ReelGoldenPiggy
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Halloween
+  identifier: spinomenal:1ReelHalloween
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Hawaiian Bliss
+  identifier: spinomenal:1ReelHawaiianBliss
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Joker
+  identifier: spinomenal:1ReelJoker
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Majestic King
+  identifier: spinomenal:1ReelMajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Mammoth
+  identifier: spinomenal:1ReelMammoth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Monkey
+  identifier: spinomenal:1ReelMonkey
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Panther
+  identifier: spinomenal:1ReelPanther
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Patrick
+  identifier: spinomenal:1ReelPatrick
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Patrick Dice
+  identifier: spinomenal:1ReelPatrickDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Reef
+  identifier: spinomenal:1ReelReef
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Shamrock
+  identifier: spinomenal:1ReelShamrock
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 1 Reel Thanksgiving
+  identifier: spinomenal:1ReelThanksgiving
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Wolf Fang
+  identifier: spinomenal:1ReelWolfFang
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1 Reel Xmas
+  identifier: spinomenal:1ReelXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 1st Of May
+  identifier: spinomenal:1stOfMay
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 20bet Book of Xmas
+  identifier: spinomenal:20betBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: 20bet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 40 Lucky Fruits
+  identifier: spinomenal:40LuckyFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Spinning Dice
+  identifier: spinomenal:40SpinningDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 4 Horsemen
+  identifier: spinomenal:4Horsemen
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 4 Horsemen II
+  identifier: spinomenal:4HorsemenII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 777 Candies
+  identifier: spinomenal:777Candies
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Classic
+  identifier: spinomenal:777Classic
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Electro Spin
+  identifier: spinomenal:777ElectroSpin
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Oktoberfest
+  identifier: spinomenal:777Oktoberfest
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 777 Space
+  identifier: spinomenal:777Space
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Summer
+  identifier: spinomenal:777Summer
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Valentine's
+  identifier: spinomenal:777Valentines
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Vegas
+  identifier: spinomenal:777Vegas
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Western
+  identifier: spinomenal:777Western
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Xmas
+  identifier: spinomenal:777Xmas
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 88 Fortune Cats
+  identifier: spinomenal:88FortuneCats
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 8 lucky dice
+  identifier: spinomenal:8luckydice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: African Drum
+  identifier: spinomenal:AfricanDrum
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: African Fortune
+  identifier: spinomenal:AfricanFortune
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: African Luck
+  identifier: spinomenal:AfricanLuck
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: African Rampage
+  identifier: spinomenal:AfricanRampage
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Age Of Pirates
+  identifier: spinomenal:AgeOfPirates
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Age of Pirates - 15 Lines
+  identifier: spinomenal:AgeofPirates15Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Age Of Pirates Expanded Edition
+  identifier: spinomenal:AgeOfPiratesExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Amok Casino Queen Of Fire
+  identifier: spinomenal:AmokCasinoQueenOfFire
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: amok
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Athena's Glory
+  identifier: spinomenal:AthenasGlory
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Athena's Glory - Story Of Arachne
+  identifier: spinomenal:AthenasGloryStoryOfArachne
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Athena's Glory - The Golden Era
+  identifier: spinomenal:AthenasGloryTheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Avalon78 Poseidon's Rising
+  identifier: spinomenal:Avalon78PoseidonsRising
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: avalon78
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Azino Book of Xmas
+  identifier: spinomenal:AzinoBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: azino777
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Azino Fruits
+  identifier: spinomenal:AzinoFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: azino
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Aztec Spell
+  identifier: spinomenal:AztecSpell
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Aztec Spell - 10 Lines
+  identifier: spinomenal:AztecSpell10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Aztec Spell - Forgotten Empire
+  identifier: spinomenal:AztecSpellForgottenEmpire
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Baba Yaga Tales
+  identifier: spinomenal:BabaYagaTales
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Bavarian Riches
+  identifier: spinomenal:BavarianRiches
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beer Collection - 10 Lines
+  identifier: spinomenal:BeerCollection10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Beer Collection - 20 Lines
+  identifier: spinomenal:BeerCollection20Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beer Collection - 30 Lines
+  identifier: spinomenal:BeerCollection30Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Beer Collection - 40 Lines
+  identifier: spinomenal:BeerCollection40Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Beer n' Dice
+  identifier: spinomenal:BeernDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Beer O'clock
+  identifier: spinomenal:BeerOclock
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Betamo Majestic King
+  identifier: spinomenal:BetamoMajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: betamo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: BetFury’s Fire Queen
+  identifier: spinomenal:BetFurysFireQueen
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: betfury
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: BetFury’s Ice Queen
+  identifier: spinomenal:BetFurysIceQueen
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: betfury
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: BetFury’s Roulette
+  identifier: spinomenal:BetFurysRoulette
+  provider: spinomenal
+  producer: spinomenal
+  category: roulette
+  has_freespins: true
+  feature_group: betfury
+  devices:
+  - desktop
+  - mobile
+- title: Bizzo Casino Book of Xmas
+  identifier: spinomenal:BizzoCasinoBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: bizzo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Blaze Book of Xmas
+  identifier: spinomenal:BlazeBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Blue Panther
+  identifier: spinomenal:BluePanther
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Blue Panther Christmas Edition
+  identifier: spinomenal:BluePantherChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Bob Casino Book Of Rebirth
+  identifier: spinomenal:BobCasinoBookOfRebirth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: bobcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of 20Bet
+  identifier: spinomenal:BookOf20Bet
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: 20bet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of AboCasino
+  identifier: spinomenal:BookofAboCasino
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: abocasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Aphrodite
+  identifier: spinomenal:BookOfAphrodite
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Aphrodite - The Golden Era
+  identifier: spinomenal:BookOfAphroditeTheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Aphrodite - The Love Spell
+  identifier: spinomenal:BookOfAphroditeTheLoveSpell
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Arlekin
+  identifier: spinomenal:BookofArlekin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: arlekin
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Azino
+  identifier: spinomenal:BookOfAzino
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: azino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Azino Reloaded
+  identifier: spinomenal:BookOfAzinoReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: azino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Baba Yaga
+  identifier: spinomenal:BookOfBabaYaga
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Baba Yaga - Winter Spell
+  identifier: spinomenal:BookOfBabaYagaWinterSpell
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of BC.GAME
+  identifier: spinomenal:BookofBCGAME
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: bcgame
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Betibet
+  identifier: spinomenal:BookofBetibet
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: betibet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of BetSofa
+  identifier: spinomenal:BookofBetSofa
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: betsofa
+  devices:
+  - desktop
+  - mobile
+- title: Book of Biabet
+  identifier: spinomenal:BookofBiabet
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: digitain
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Bitstarz
+  identifier: spinomenal:BookOfBitstarz
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: bitstarz
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Bizzo Casino
+  identifier: spinomenal:BookofBizzoCasino
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: bizzo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Blaze
+  identifier: spinomenal:BookofBlaze
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Champions
+  identifier: spinomenal:BookOfChampions
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Champions Reloaded
+  identifier: spinomenal:BookofChampionsReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Champions - World Glory
+  identifier: spinomenal:BookOfChampionsWorldGlory
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Chips
+  identifier: spinomenal:BookOfChips
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: chipsgg
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Clovers
+  identifier: spinomenal:BookOfClovers
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Clovers Reloaded
+  identifier: spinomenal:BookOfCloversReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Cobra
+  identifier: spinomenal:BookOfCobra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: cobra
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Demi Gods II - The Golden Era
+  identifier: spinomenal:BookOfDemiGods2TheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Demi Gods II
+  identifier: spinomenal:BookOfDemiGodsII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Demi Gods II - Christmas Edition
+  identifier: spinomenal:BookOfDemiGodsIIChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Demi Gods III
+  identifier: spinomenal:BookOfDemiGodsIII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Demi Gods III Reloaded
+  identifier: spinomenal:BookOfDemiGodsIIIReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Demi Gods III - The Golden Era
+  identifier: spinomenal:BookOfDemiGodsIIITheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Demi Gods II - Reloaded
+  identifier: spinomenal:BookofDemiGodsIIReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Demi Gods IV
+  identifier: spinomenal:BookOfDemiGodsIV
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Demi Gods IV - Thunderstorm
+  identifier: spinomenal:BookOfDemiGodsIVThunderstorm
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Demi Gods IV - The Golden Era
+  identifier: spinomenal:BookOfDemiGodsTheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Diamonds
+  identifier: spinomenal:BookOfDiamonds
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Diamonds Reloaded
+  identifier: spinomenal:BookOfDiamondsReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Easter Piggy Bank
+  identifier: spinomenal:BookOfEasterPiggyBank
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Easter Wonders
+  identifier: spinomenal:BookOfEasterWonders
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Elves
+  identifier: spinomenal:BookOfElves
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Fairytale Beauties
+  identifier: spinomenal:BookOfFairytaleBeauties
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Favbet
+  identifier: spinomenal:BookOfFavbet
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: promo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Golden Joker
+  identifier: spinomenal:BookOfGoldenJoker
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Gunsbet
+  identifier: spinomenal:BookofGunsbet
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: gunsbet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Horror
+  identifier: spinomenal:BookofHorror
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Horror - Friday The 13th
+  identifier: spinomenal:BookOfHorrorFriday13th
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Irish Treasures
+  identifier: spinomenal:BookOfIrishTreasures
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Justice - Athena's Glory
+  identifier: spinomenal:BookOfJusticeAthenasGlory
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Book of Lucky Dreams
+  identifier: spinomenal:BookofLuckyDreams
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: luckydreams
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Lucky Jack - Baba Yaga’s Tales
+  identifier: spinomenal:BookOfLuckyJackBabaYagasTales
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Lucky Jack - The Lost Pearl
+  identifier: spinomenal:BookofLuckyJackTheLostPearl
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Majestic King
+  identifier: spinomenal:BookOfMajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Misr
+  identifier: spinomenal:BookOfMisr
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of MrBet
+  identifier: spinomenal:BookofMrBet
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: mrbet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Muertos
+  identifier: spinomenal:BookOfMuertos
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of National Casino
+  identifier: spinomenal:BookOfNationalCasino
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: nationalcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Night Wolf
+  identifier: spinomenal:BookOfNightWolf
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Panther
+  identifier: spinomenal:BookofPanther
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Panther - Wild Dawn
+  identifier: spinomenal:BookOfPantherWildDawn
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of Piggy Bank
+  identifier: spinomenal:BookofPiggyBank
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Piggy Bank - Riches
+  identifier: spinomenal:BookOfPiggyBankRiches
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Playamo
+  identifier: spinomenal:BookOfPlayamo
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: playamo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Pumpkin
+  identifier: spinomenal:BookofPumpkin
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Rampage
+  identifier: spinomenal:BookOfRampage
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Rampage 2
+  identifier: spinomenal:BookOfRampage2
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Rampage - Christmas Edition
+  identifier: spinomenal:BookofRampageChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Rampage Reloaded
+  identifier: spinomenal:BookOfRampageReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Rebirth
+  identifier: spinomenal:BookOfRebirth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Rebirth Dice
+  identifier: spinomenal:BookofRebirthDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Rebirth Reloaded
+  identifier: spinomenal:BookOfRebirthReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Reindeer
+  identifier: spinomenal:BookOfReindeer
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Rocketplay
+  identifier: spinomenal:BookofRocketplay
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: rocketplay
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Ruby
+  identifier: spinomenal:BookOfRuby
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Sirens
+  identifier: spinomenal:BookOfSirens
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Sirens – Golden Pearl
+  identifier: spinomenal:BookOfSirensGoldenPearl
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Sirens - The Golden Era
+  identifier: spinomenal:BookOfSirensTheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Skulls
+  identifier: spinomenal:BookOfSkulls
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Skulls Reloaded
+  identifier: spinomenal:BookofSkullsReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Skulls - Uncharted Treasure
+  identifier: spinomenal:BookOfSkullsUnchartedTreasure
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of SpinCity
+  identifier: spinomenal:BookOfSpinCity
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: spincity
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Stake
+  identifier: spinomenal:BookOfStake
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Stylebender
+  identifier: spinomenal:BookofStylebender
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of The Divine
+  identifier: spinomenal:BookOfTheDivine
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of The Divine - Egyptian Darkness
+  identifier: spinomenal:BookofTheDivineEgyptianDarkness
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of the Divine. Reloaded
+  identifier: spinomenal:BookoftheDivineReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of the Jungle
+  identifier: spinomenal:BookoftheJungle
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Tribes
+  identifier: spinomenal:BookOfTribes
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Tribes Reloaded
+  identifier: spinomenal:BookOfTribesReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Vulkan
+  identifier: spinomenal:BookOfVulkan
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: vulkan
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Winz
+  identifier: spinomenal:BookofWinz
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: winz
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Witchcraft
+  identifier: spinomenal:BookofWitchcraft
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Wolves
+  identifier: spinomenal:BookOfWolves
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Wolves - Full Moon
+  identifier: spinomenal:BookOfWolvesReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book Of Woo
+  identifier: spinomenal:BookOfWoo
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: woocasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Xmas
+  identifier: spinomenal:BookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Xmas - Jingle Bells
+  identifier: spinomenal:BookOfXmasJingleBells
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Xmas Reloaded
+  identifier: spinomenal:BookOfXmasReloaded
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of Zoome
+  identifier: spinomenal:BookofZoome
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: zoome
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Boxing Ring Champions
+  identifier: spinomenal:BoxingRingChampions
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Brazino Book of Xmas
+  identifier: spinomenal:BrazinoBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: brazino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Brazino King
+  identifier: spinomenal:BrazinoKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: brazino
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Buffalo Rampage
+  identifier: spinomenal:BuffaloRampage
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Casinobuck Book of Tribes
+  identifier: spinomenal:CasinobuckBookofTribes
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: casinobuck
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: CasinoBuck Poseidon’s Rising
+  identifier: spinomenal:CasinoBuckPoseidonsRising
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: casinobuck
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Casino Kakadu Majestic King
+  identifier: spinomenal:CasinoKakaduMajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: kakadu
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Casino Universe Book of Demi Gods II
+  identifier: spinomenal:CasinoUniverseBookofDemiGodsII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: universe
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Champions Circuit
+  identifier: spinomenal:ChampionsCircuit
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Champions Pick
+  identifier: spinomenal:ChampionsPick
+  provider: spinomenal
+  producer: spinomenal
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Childhood Sweets
+  identifier: spinomenal:ChildhoodSweets
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Childhood Sweets Christmas Edition
+  identifier: spinomenal:ChildhoodSweetsChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Club Of Legends
+  identifier: spinomenal:ClubOfLegends
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Colossus Fruits
+  identifier: spinomenal:ColossusFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Colossus Fruits - Christmas Edition
+  identifier: spinomenal:ColossusFruitsChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Comic Craze
+  identifier: spinomenal:ComicCraze
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Cookie Casino Queen Of Fire
+  identifier: spinomenal:CookieCasinoQueenOfFire
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: cookie
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Crazy Fox Book of Tribes
+  identifier: spinomenal:CrazyFoxBookofTribes
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: crazyfox
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cupid's Scratch
+  identifier: spinomenal:CupidsScratch
+  provider: spinomenal
+  producer: spinomenal
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dark Reels
+  identifier: spinomenal:DarkReels
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Dark Wolf
+  identifier: spinomenal:DarkWolf
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ded Moroz
+  identifier: spinomenal:DedMoroz
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Ded Moroz II
+  identifier: spinomenal:DedMorozII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Ded Moroz III
+  identifier: spinomenal:DedMorozIII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinupbrand
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Deep Sea Fortune
+  identifier: spinomenal:DeepSeaFortune
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Demi Gods II
+  identifier: spinomenal:DemiGodsII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Demi Gods II 15 Lines Series
+  identifier: spinomenal:DemiGodsII15LinesSeries
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Demi Gods II - Christmas Edition
+  identifier: spinomenal:DemiGodsIICE
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Demi Gods II-Expanded Edition
+  identifier: spinomenal:DemiGodsIIExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Demi Gods III
+  identifier: spinomenal:DemiGodsIII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Demi Gods III 15 Lines Series
+  identifier: spinomenal:DemiGodsIII15LinesSeries
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Demi Gods IV
+  identifier: spinomenal:DemiGodsIV
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Demi Gods IV Christmas Edition
+  identifier: spinomenal:DemiGodsIVChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Demi Gods IV - The Golden Era
+  identifier: spinomenal:DemiGodsIVTheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Demi Gods IV - Thunderstorm
+  identifier: spinomenal:DemiGodsIVThunderstorm
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Demi Gods V
+  identifier: spinomenal:DemiGodsV
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dice of Charms
+  identifier: spinomenal:DiceofCharms
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+- title: Dino Luck
+  identifier: spinomenal:DinoLuck
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dragon's Charms
+  identifier: spinomenal:DragonsCharms
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Duelbits Book of Demi Gods III
+  identifier: spinomenal:DuelbitsBookofDemiGodsIII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: duelbits
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Duelbits Book of Xmas
+  identifier: spinomenal:DuelbitsBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: duelbits
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Duxcasino Book of Rebirth
+  identifier: spinomenal:DuxcasinoBookofRebirth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: duxcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dux Casino Book of Xmas
+  identifier: spinomenal:DuxCasinoBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: duxcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Easter Dice
+  identifier: spinomenal:EasterDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+- title: Easter Gifts 10 Lines
+  identifier: spinomenal:EasterGifts
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Easter Gifts 20 Lines
+  identifier: spinomenal:EasterGifts20
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Easter Gifts 30 Lines
+  identifier: spinomenal:EasterGifts30
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Easter Gifts 40 Lines
+  identifier: spinomenal:EasterGifts40
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Easter Pick
+  identifier: spinomenal:EasterPick
+  provider: spinomenal
+  producer: spinomenal
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Easter Spin
+  identifier: spinomenal:EasterSpin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Egyptian Rebirth II
+  identifier: spinomenal:EgyptianRebirthII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Egyptian Rebirth II - 10 Lines
+  identifier: spinomenal:EgyptianRebirthII10Line
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Egyptian Rebirth II – Expanded Edition
+  identifier: spinomenal:EgyptianRebirthIIExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Egyptian Rebirth II - Frozen Flames
+  identifier: spinomenal:EgyptianRebirthIIFrozenFlames
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Egyptian Rebirth II: Mummy''s Return'
+  identifier: spinomenal:EgyptianRebirthIIMummysReturn
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Egyptian Sands
+  identifier: spinomenal:EgyptianSands
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Egyptian Myth – Tales of Fortune
+  identifier: spinomenal:EgyptianTale
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Egyptian Ways
+  identifier: spinomenal:EgyptianWays
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Egyptian Ways Dice
+  identifier: spinomenal:EgyptianWaysDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+- title: European Roulette
+  identifier: spinomenal:EuropeanRoulette
+  provider: spinomenal
+  producer: spinomenal
+  category: roulette
+  has_freespins: false
+  feature_group: dice1
+  devices:
+  - desktop
+  - mobile
+- title: European Roulette
+  identifier: spinomenal:EuropeanRouletteBR
+  provider: spinomenal
+  producer: spinomenal
+  category: roulette
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+- title: European Roulette Christmas Edition
+  identifier: spinomenal:EuropeanRouletteChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: European Roulette VIP
+  identifier: spinomenal:EuropeanRouletteVIP
+  provider: spinomenal
+  producer: spinomenal
+  category: roulette
+  has_freespins: false
+  feature_group: dice1
+  devices:
+  - desktop
+  - mobile
+- title: Euslot Majestic King
+  identifier: spinomenal:EuslotMajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: euslot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fairytale Beauties
+  identifier: spinomenal:FairytaleBeauties
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: FastPay Magical Amazon
+  identifier: spinomenal:FastPayMagicalAmazon
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: fastpay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Favbet Slot
+  identifier: spinomenal:FavbetSlot
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Forest of Wealth
+  identifier: spinomenal:ForestofWealth
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+- title: Fortuna De Los Muertos
+  identifier: spinomenal:FortunaDeLosMuertos
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Fortuna De Los Muertos II
+  identifier: spinomenal:FortunaDeLosMuertosII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fresh Spinning Lights
+  identifier: spinomenal:FreshSpinningLights
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Frosty Charms
+  identifier: spinomenal:FrostyCharms
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Frozen Fruits - Chase'N’Win
+  identifier: spinomenal:FrozenFruitsChaseNWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruits - Chase'N'Win
+  identifier: spinomenal:FruitsChaseNWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruits Collection – 10 Lines
+  identifier: spinomenal:FruitsCollection10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruits Collection – 20 Lines
+  identifier: spinomenal:FruitsCollection20Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruits Collection – 30 Lines
+  identifier: spinomenal:FruitsCollection30Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fruits Collection – 40 Lines
+  identifier: spinomenal:FruitsCollection40Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruits Craze
+  identifier: spinomenal:FruitsCraze
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruits on Ice
+  identifier: spinomenal:FruitsonIce
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Fruits On Ice Collection 10 Lines
+  identifier: spinomenal:FruitsOnIceCollection10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruits On Ice Collection 20 Lines
+  identifier: spinomenal:FruitsOnIceCollection20Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruits On Ice Collection 30 Lines
+  identifier: spinomenal:FruitsOnIceCollection30Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fruits On Ice Collection 40 Lines
+  identifier: spinomenal:FruitsOnIceCollection40Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruity Summer
+  identifier: spinomenal:FruitySummer
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Galactic Win
+  identifier: spinomenal:GalacticWin
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+- title: Gangster's Gold
+  identifier: spinomenal:GangstersGold
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Gangster's Gold - On The Run
+  identifier: spinomenal:GangstersGoldOnTheRun
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Ganobet’s Fruits Xtreme
+  identifier: spinomenal:GanobetsFruitstreme
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: ganobet
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Geisha’s Dream
+  identifier: spinomenal:GeishasDream
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Gioocasino Queen of Ice
+  identifier: spinomenal:GioocasinoQueenofIce
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: gioocasino
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Glowing Fruits
+  identifier: spinomenal:GlowingFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Glowing Fruits Dice
+  identifier: spinomenal:GlowingFruitsDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Goddess Of Lotus
+  identifier: spinomenal:GoddessOfLotus
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Goddess Of Lotus- 10 Lines
+  identifier: spinomenal:GoddessOfLotus10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Goddess Of Lotus - Blooming Wonder
+  identifier: spinomenal:GoddessOfLotusBloomingWonder
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Goddess of Lotus - Christmas Edition
+  identifier: spinomenal:GoddessofLotusChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 51
+- title: Golden Piggy Bank
+  identifier: spinomenal:GoldenPiggyBank
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Golden Piggy Bank - Bling Bling
+  identifier: spinomenal:GoldenPiggyBankBlingBling
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Piggy Bank Dice
+  identifier: spinomenal:GoldenPiggyBankDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+- title: Golden Star Queen of Ice
+  identifier: spinomenal:GoldenStarQueenofIce
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: goldenstar
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Grandpashabet - The Ankh Protector - Egyptian Darkness
+  identifier: spinomenal:GrandpashabetTheAnkhProtector
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: grandpashabet
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Grandpashabet Xtreme Fruits
+  identifier: spinomenal:GrandpashabetXtremeFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: grandpashabet
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Gslot Book Of Rebirth
+  identifier: spinomenal:GslotBookOfRebirth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: gslot
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gslot Queen of Fire
+  identifier: spinomenal:GslotQueenofFire
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: gslot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Halloween - Chase'N'Win
+  identifier: spinomenal:HalloweenChaseNWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hallow Pick
+  identifier: spinomenal:HallowPick
+  provider: spinomenal
+  producer: spinomenal
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Hallow Reels
+  identifier: spinomenal:HallowReels
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Hawaiian Bliss
+  identifier: spinomenal:HawaiianBliss
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Hejgo Book of Rebirth
+  identifier: spinomenal:HejgoBookofRebirth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: hejgo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hut With Chicken Legs
+  identifier: spinomenal:HutWithChickenLegs
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Ice Cold Fruits
+  identifier: spinomenal:IceColdFruits
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Irish Cheers
+  identifier: spinomenal:IrishCheers
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Irish Lucky Dice
+  identifier: spinomenal:IrishLuckyDiceDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: dice1
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Irish Treasures
+  identifier: spinomenal:IrishTreasures
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Irish Treasures - Leprechaun's Fortune
+  identifier: spinomenal:IrishTreasuresLeprechaunsFortune
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Joker Charms - Patrick's Day
+  identifier: spinomenal:JokerCharmsPatricksDay
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Joker Charms - Valentine's
+  identifier: spinomenal:JokerCharmsValentines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Joker Madness Christmas Edition
+  identifier: spinomenal:JokerMadnessChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Joker Madness
+  identifier: spinomenal:JokerMadnessDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: dice1
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Joker’s Charms - Halloween
+  identifier: spinomenal:JokersCharmsHalloween
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Joker’s Charms - Xmas
+  identifier: spinomenal:JokersCharmsXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Joker Win
+  identifier: spinomenal:JokerWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of Juegalo
+  identifier: spinomenal:JuegaloBookofDemiGods2
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: juegalo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Kakadu Book of Tribes
+  identifier: spinomenal:KakaduBookofTribes
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: kakadu
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: King Billy Book of the Divine
+  identifier: spinomenal:KingBillyBookoftheDivine
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: kingbilly
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: King Billy Queen of Fire
+  identifier: spinomenal:KingBillyQueenofFire
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: kingbilly
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Kitsune - Sakura Fortune
+  identifier: spinomenal:KitsuneSakuraFortune
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Kitsune's Scrolls
+  identifier: spinomenal:KitsunesScrolls
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Kitsune's Scrolls Expanded Edition
+  identifier: spinomenal:KitsunesScrollsExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Kitsune's Scrolls - Sacred Flames
+  identifier: spinomenal:KitsunesScrollsSacredFlames
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Koschei The Deathless
+  identifier: spinomenal:KoscheiTheDeathless
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Kupala
+  identifier: spinomenal:Kupala
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Kupala II
+  identifier: spinomenal:KupalaII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lobby
+  identifier: spinomenal:Lobby
+  provider: spinomenal
+  producer: vivogaming
+  category: card
+  has_freespins: false
+  feature_group: partners
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Lucky Dreams Book of Xmas
+  identifier: spinomenal:LuckyDreamsBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: luckydreams
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Dreams King
+  identifier: spinomenal:LuckyDreamsKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: luckydreams
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lucky Jack - Book Of Rebirth
+  identifier: spinomenal:LuckyJackBookOfRebirth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Jack - Book Of Rebirth - Egyptian Darkness
+  identifier: spinomenal:LuckyJackBookOfRebirthEgyptianDarkness
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Jack - Dagger Of Destiny
+  identifier: spinomenal:LuckyJackDaggerOfDestiny
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lucky Jack – Lost Jungle
+  identifier: spinomenal:LuckyJackLostJungle
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Jack Tut's Treasures
+  identifier: spinomenal:LuckyJackTutsTreasures
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lucky Mr. Patrick
+  identifier: spinomenal:LuckyMrPatrick
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Mrs. Patrick
+  identifier: spinomenal:LuckyMrsPatrick
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Lucky Score
+  identifier: spinomenal:LuckyScore
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Luxury Club
+  identifier: spinomenal:LuxuryClub
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magical Amazon
+  identifier: spinomenal:MagicalAmazon
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Majestic BetFury
+  identifier: spinomenal:MajesticBetfury
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: betfury
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Majestic King
+  identifier: spinomenal:MajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Majestic King - Christmas Edition
+  identifier: spinomenal:MajesticKingChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Majestic King - Expanded Edition
+  identifier: spinomenal:MajesticKingExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Majestic King - Sunset
+  identifier: spinomenal:MajesticKingSunset
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Majestic White Rhino
+  identifier: spinomenal:MajesticWhiteRhino
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Majestic Winter
+  identifier: spinomenal:MajesticWinter
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Majestic Winter - Avalanche
+  identifier: spinomenal:MajesticWinterAvalanche
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mammoth Rampage
+  identifier: spinomenal:MammothRampage
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Maneki Goddess of Lotus
+  identifier: spinomenal:ManekiGoddessofLotus
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: maneki
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mardi Gras Wild Party
+  identifier: spinomenal:MardiGrasWildParty
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mason Slots Egyptian Rebirth II
+  identifier: spinomenal:MasonSlotsEgyptianRebirth2
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: masonslots
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mega Slot Book of Rebirth
+  identifier: spinomenal:MegaSlotBookofRebirth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: megaslot
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Merit King
+  identifier: spinomenal:MeritKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: bethub
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mexican Chilies
+  identifier: spinomenal:MexicanChilies
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Midsummer's Fortune
+  identifier: spinomenal:MidsummersFortune
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: MMA Champions
+  identifier: spinomenal:MMAChampions
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: MrBet and Athena
+  identifier: spinomenal:MrBetandAthena
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: mrbet
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: MrBet Book of Xmas
+  identifier: spinomenal:MrBetBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: mrbet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mystery Of Venice
+  identifier: spinomenal:MysteryOfVenice
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mystical Creatures Of Greece
+  identifier: spinomenal:MysticalCreaturesOfGreece
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: N1 Winner
+  identifier: spinomenal:N1Winner
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: n1casino
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: National Casino Book of Xmas
+  identifier: spinomenal:NationalCasinoBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: nationalcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: New Year's Party
+  identifier: spinomenal:NewYearParty
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Nights of Egypt
+  identifier: spinomenal:NightsofEgpyt
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Nights Of Egypt - Expanded Edition
+  identifier: spinomenal:NightsOfEgyptExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Nights Of Magic
+  identifier: spinomenal:NightsOfMagic
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Nights Of Magic Expanded Edition
+  identifier: spinomenal:NightsOfMagicExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Night Wolf - Darkest Flame
+  identifier: spinomenal:NightWolfDarkestFlame
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Novi God
+  identifier: spinomenal:NoviGod
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Oktober Spin Fest
+  identifier: spinomenal:OktoberSpinFest
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Origins of Cobra
+  identifier: spinomenal:OriginsofCobra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: cobra
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Origins Of Lilith
+  identifier: spinomenal:OriginsOfLilith
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Origins Of Lilith - Expanded Edition
+  identifier: spinomenal:OriginsOfLilithExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Parimatch 4 Horsemen
+  identifier: spinomenal:Parimatch4Horsemen
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pmio
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Parimatch Demi Gods II
+  identifier: spinomenal:ParimatchDemiGodsII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pmio
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Parimatch Fruits Deluxe
+  identifier: spinomenal:ParimatchFruitsDeluxe
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pmio
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Parimatch Majestic King
+  identifier: spinomenal:ParimatchMajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pmio
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Parimatch Parrots Rock
+  identifier: spinomenal:ParimatchParrotsRock
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pmio
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Parimatch Siren’s Treasures
+  identifier: spinomenal:ParimatchSirensTreasures
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: pmio
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Parimatch Slot
+  identifier: spinomenal:ParimatchSlot
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pmio
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Parimatch Spinning Lights
+  identifier: spinomenal:ParimatchSpinningLights
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pmio
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Parrots Rock
+  identifier: spinomenal:ParrotsRock
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Patrick’s Charms
+  identifier: spinomenal:PatricksCharms
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Patrick's Collection 10 Lines
+  identifier: spinomenal:PatricksCollection10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Patrick's Collection 20 Lines
+  identifier: spinomenal:PatricksCollection20Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Patrick's Collection 30 Lines
+  identifier: spinomenal:PatricksCollection30Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Patrick's Collection 40 Lines
+  identifier: spinomenal:PatricksCollection40Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Patrick's Day - Chase’N’Win
+  identifier: spinomenal:PatricksDayChaseNWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Patrick's Pick
+  identifier: spinomenal:PatricksPick
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Penny Fruits
+  identifier: spinomenal:PennyFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Penny Fruits Xtreme
+  identifier: spinomenal:PennyFruitsXtreme
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Penny Fruits Xtreme Christmas Edition
+  identifier: spinomenal:PennyFruitsXtremeChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Pick a Fruit
+  identifier: spinomenal:PickaFruit
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Pick a Fruit - Fire Blaze
+  identifier: spinomenal:PickaFruitFireBlaze
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Piggy Bank Twins
+  identifier: spinomenal:PiggyBankTwins
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Piggy Bank Twins Xmas
+  identifier: spinomenal:PiggyBankTwinsXmas
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Pino Casino Book of Tribes
+  identifier: spinomenal:PinoCasinoBookofTribes
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinocasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pino Casino Book of Xmas
+  identifier: spinomenal:PinoCasinoBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinocasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pin-Up Athena's Glory
+  identifier: spinomenal:PinUpAthenasGlory
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: PinUp Aztec Spell
+  identifier: spinomenal:PinUpAztecSpell
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Pin-Up Book Of Demi Gods 2
+  identifier: spinomenal:PinUpBookOfDemiGods2
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pin-Up Book Of Rampage
+  identifier: spinomenal:PinUpBookOfRampage
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: PinUp Book Of Rebirth
+  identifier: spinomenal:PinUpBookOfRebirth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pinup Book of Xmas
+  identifier: spinomenal:PinupBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pinup Demi Gods II
+  identifier: spinomenal:PinupDemiGodsII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: PinUp Fortune
+  identifier: spinomenal:PinUpFortune
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Pinup Golden Piggy Bank
+  identifier: spinomenal:PinupGoldenPiggyBank
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+- title: Pinup Majestic King
+  identifier: spinomenal:PinupMajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pin-Up Queen of Fire
+  identifier: spinomenal:PinUpQueenofFire
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pin-Up Queen of Ice
+  identifier: spinomenal:PinUpQueenofIce
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pinup Snegurochka
+  identifier: spinomenal:PinupSnegurochka
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Pinup Story Of Egypt
+  identifier: spinomenal:PinupStoryOfEgypt
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Pinup Sweets
+  identifier: spinomenal:PinupSweets
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Pinup V.I.P Club
+  identifier: spinomenal:PinupVIPClub
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Playamo 4 Horsemen
+  identifier: spinomenal:Playamo4Horsemen
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: playamo
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Playamo Parrots Rock
+  identifier: spinomenal:PlayamoParrotsRock
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: playamo
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Pokermatch Book Of Rebirth
+  identifier: spinomenal:PokermatchBookOfRebirth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pokermatch
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pokermatch Book of Xmas
+  identifier: spinomenal:PokermatchBookofXmas
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pokermatch
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: PokerMatch Majestic King
+  identifier: spinomenal:PokerMatchMajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: PokerMatch Origins Of Lilith Flash Win
+  identifier: spinomenal:PokerMatchOriginsOfLilithFlashWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pokermatch's Gold
+  identifier: spinomenal:PokermatchsGold
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pokermatch
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Poseidon's Rising
+  identifier: spinomenal:PoseidonsRising
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Poseidon's Rising - 15 Lines
+  identifier: spinomenal:PoseidonsRising15Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Poseidon’s Rising Expanded Edition
+  identifier: spinomenal:PoseidonsRisingExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Poseidon's Rising - The Golden Era
+  identifier: spinomenal:PoseidonsRisingTheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Premier Book of Demi Gods II
+  identifier: spinomenal:PremierBookofDemiGodsII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: premiercasino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pumpkin's Dice
+  identifier: spinomenal:PumpkinsDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Pyramids of Mystery
+  identifier: spinomenal:PyramidsofMystery
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Queen Of Fire
+  identifier: spinomenal:QueenOfFire
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen Of Fire - Expanded Edition
+  identifier: spinomenal:QueenOfFireExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen Of Fire - Frozen Flames
+  identifier: spinomenal:QueenOfFireFrozenFlames
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Queen Of Ice
+  identifier: spinomenal:QueenOfIce
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen Of Ice - Christmas Edition
+  identifier: spinomenal:QueenOfIceChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen Of Ice Expanded Edition
+  identifier: spinomenal:QueenOfIceExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen Of Ice - Frozen Flames
+  identifier: spinomenal:QueenOfIceFrozenFlames
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Queen Of The Forest
+  identifier: spinomenal:QueenOfTheForest
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen Of The Forest - Night Whispers
+  identifier: spinomenal:QueenOfTheForestNightWhispers
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen Of Water
+  identifier: spinomenal:QueenOfWater
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ra's Golden Loot
+  identifier: spinomenal:RasGoldenLoot
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Red Hot Fruits
+  identifier: spinomenal:RedHotFruits
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+- title: 1 Reel Egypt Dice
+  identifier: spinomenal:ReelEgyptDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Reels of Blaze
+  identifier: spinomenal:ReelsofBlaze
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Reels Of Rio
+  identifier: spinomenal:ReelsOfRio
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Reels Of Rio – Party Time
+  identifier: spinomenal:ReelsOfRioPartyTime
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Reign Of Seth
+  identifier: spinomenal:ReignOfSeth
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Reign Of Seth - Egyptian Darkness
+  identifier: spinomenal:ReignOfSethEgyptianDarkness
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Reindeer Rampage
+  identifier: spinomenal:ReindeerRampage
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Retro 777
+  identifier: spinomenal:Retro777
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Retro Chilies
+  identifier: spinomenal:RetroChilies
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Retro Easter
+  identifier: spinomenal:RetroEaster
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Retro Fest
+  identifier: spinomenal:RetroFest
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Retro Gems
+  identifier: spinomenal:RetroGems
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Retro Gifts
+  identifier: spinomenal:RetroGifts
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Retro Horror
+  identifier: spinomenal:RetroHorror
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Retro Joker
+  identifier: spinomenal:RetroJoker
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+- title: Retro Love
+  identifier: spinomenal:RetroLove
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Retro Muertos
+  identifier: spinomenal:RetroMuertos
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Retro Party
+  identifier: spinomenal:RetroParty
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Retro Pumpkin
+  identifier: spinomenal:RetroPumpkin
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Retro Sweets
+  identifier: spinomenal:RetroSweets
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Retro Tiger
+  identifier: spinomenal:RetroTiger
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+- title: Retro Treasures
+  identifier: spinomenal:RetroTreasures
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Roulette
+  identifier: spinomenal:Roulette
+  provider: spinomenal
+  producer: vivogaming
+  category: roulette
+  has_freespins: false
+  feature_group: partners
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Rox Spinning Lights
+  identifier: spinomenal:RoxSpinningLights
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Run Chase
+  identifier: spinomenal:RunChase
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Samosa Queen of Ice
+  identifier: spinomenal:SamosaQueenofIce
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: samosa
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Santa’s Wild Night
+  identifier: spinomenal:SantasWildNight
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Santa's Wild Pick
+  identifier: spinomenal:SantasWildPick
+  provider: spinomenal
+  producer: spinomenal
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Savannah's Queen
+  identifier: spinomenal:SavannahsQueen
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Scratchy Bit
+  identifier: spinomenal:ScratchyBit
+  provider: spinomenal
+  producer: spinomenal
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Shield of Glory
+  identifier: spinomenal:ShieldofGlory
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Signs Of Fortune
+  identifier: spinomenal:SignsOfFortune
+  provider: spinomenal
+  producer: spinomenal
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: PokerMatch Colossus Fruits
+  identifier: spinomenal:SlotMachine_PokerMatch-ColossusFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Slotman
+  identifier: spinomenal:Slotman
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: slotman
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Snatch the Gold
+  identifier: spinomenal:SnatchtheGold
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Snatch The Gold Xmas
+  identifier: spinomenal:SnatchTheGoldXmas
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Snegurochka
+  identifier: spinomenal:Snegurochka
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Snegurochka II
+  identifier: spinomenal:SnegurochkaII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Snowing Gifts
+  identifier: spinomenal:SnowingGifts
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Soccer Dice
+  identifier: spinomenal:SoccerDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+- title: Spear Of Fire
+  identifier: spinomenal:SpearOfFire
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Spinia Kitsune's Scrolls
+  identifier: spinomenal:SpiniaKitsunesScrolls
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: spinia
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Spinning Beers
+  identifier: spinomenal:SpinningBeers
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Spinning Lights
+  identifier: spinomenal:SpinningLights
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Spinomenal Universe
+  identifier: spinomenal:SpinomenalUniverse
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: luckydreams
+  devices:
+  - desktop
+  - mobile
+- title: Stake Book of Tribes
+  identifier: spinomenal:StakeBookofTribes
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Stake Demi Gods II
+  identifier: spinomenal:StakeDemiGodsII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Stake Demi Gods III – 15 Lines
+  identifier: spinomenal:StakeDemiGodsIII15Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Stake Majestic King
+  identifier: spinomenal:StakeMajesticKing
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Stake's Book of The Divine - Mega Flash Win Edition
+  identifier: spinomenal:StakesBookofTheDivineMegaFlashWinEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Stake's King- Mega Flash Win Edition
+  identifier: spinomenal:StakesKingMegaFlashWinEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Story Of Alice
+  identifier: spinomenal:StoryOfAlice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Story Of Egypt
+  identifier: spinomenal:StoryOfEgypt
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Story of Egypt - 10 Lines
+  identifier: spinomenal:StoryofEgypt10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Story of Egypt - Christmas Edition
+  identifier: spinomenal:StoryofEgyptChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Story Of Egypt - Egyptian Darkness
+  identifier: spinomenal:StoryOfEgyptEgyptianDarkness
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Story of Gaia
+  identifier: spinomenal:StoryofGaia
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Story Of Hercules- 15 Lines Edition
+  identifier: spinomenal:StoryOfHercules
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Story Of Hercules
+  identifier: spinomenal:StoryOfHerculesBuyFeature
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Story Of Hercules - Expanded Edition
+  identifier: spinomenal:StoryOfHerculesExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Story Of Jarptitsa
+  identifier: spinomenal:StoryOfJarptitsa
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Story of Loki - Master of Illusions
+  identifier: spinomenal:StoryofLokiMasterofIllusions
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Story Of Love - Aphrodite's Spell
+  identifier: spinomenal:StoryOfLoveAphroditesSpell
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Story Of Medusa
+  identifier: spinomenal:StoryOfMedusa
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Story of Medusa II
+  identifier: spinomenal:StoryofMedusaII
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Story Of Medusa II - The Golden Era
+  identifier: spinomenal:StoryOfMedusaIITheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Story Of Odin
+  identifier: spinomenal:StoryOfOdin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Story Of The Little Mermaid
+  identifier: spinomenal:StoryOfTheLittleMermaid
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Story of the Samurai
+  identifier: spinomenal:StoryOfTheSamurai
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Story of the Samurai – 10 Lines
+  identifier: spinomenal:StoryOfTheSamurai10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Story Of The Samurai - The last Ronin
+  identifier: spinomenal:StoryOfTheSamuraiThelastRonin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Story of Vikings
+  identifier: spinomenal:StoryOfVikings
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Story Of Vikings 10 Lines Edition
+  identifier: spinomenal:StoryOfVikings10LinesEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Story of Vikings - Christmas Edition
+  identifier: spinomenal:StoryofVikingsChristmasEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Story Of Vikings - The Golden Era
+  identifier: spinomenal:StoryOfVikingsTheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Summer Chill
+  identifier: spinomenal:SummerChill
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Summer Of Luck
+  identifier: spinomenal:SummerOfLuck
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Summer Ways
+  identifier: spinomenal:SummerWays
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+- title: Sunpura Book of The Divine
+  identifier: spinomenal:SunpuraBookofTheDivine
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Super Mask
+  identifier: spinomenal:SuperMask
+  provider: spinomenal
+  producer: spinomenal
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Sweet Win
+  identifier: spinomenal:SweetWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Tennis Champions
+  identifier: spinomenal:TennisChampion
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Tennis Champions Dice
+  identifier: spinomenal:TennisChampionsDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Ankh Protector
+  identifier: spinomenal:TheAnkhProtector
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Ankh Protector - Egyptian Darkness
+  identifier: spinomenal:TheAnkhProtectorEgyptianDarkness
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: The Divine Book of Stake
+  identifier: spinomenal:TheDivineBookofStake
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Style Bender's Pick
+  identifier: spinomenal:TheStyleBendersPick
+  provider: spinomenal
+  producer: spinomenal
+  category: lottery
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+- title: The Trickster's Treasure
+  identifier: spinomenal:TheTrickstersTreasure
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Tiger's Charms
+  identifier: spinomenal:TigersCharms
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Times of Egypt
+  identifier: spinomenal:TimesOfEgypt
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Times Of Egypt - Egyptian Darkness
+  identifier: spinomenal:TimesOfEgyptEgyptianDarkness
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Times Of Egypt – Pharaoh's Reign
+  identifier: spinomenal:TimesOfEgyptPharaohsReign
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Titan’s Rising
+  identifier: spinomenal:TitansRising
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Titan's Rising - 15 Lines
+  identifier: spinomenal:TitansRising15Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Titan’s Rising - Expanded Edition
+  identifier: spinomenal:TitansRisingExpandedEdition
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Titan's Rising - The Golden Era
+  identifier: spinomenal:TitansRisingTheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Trojan Tales
+  identifier: spinomenal:TrojanTales
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Trojan Tales - The Golden Era
+  identifier: spinomenal:TrojanTalesTheGoldenEra
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Trout's Treasure - Payday
+  identifier: spinomenal:TroutsTreasurePayday
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Trueflip Poseidon's Rising
+  identifier: spinomenal:TrueflipPoseidonsRising
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: trueflip
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Turkish Roulette
+  identifier: spinomenal:TurkishRoulette
+  provider: spinomenal
+  producer: spinomenal
+  category: roulette
+  has_freespins: false
+  feature_group: pinupbrand
+  devices:
+  - desktop
+  - mobile
+- title: Twin Diamonds
+  identifier: spinomenal:TwinDiamonds
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Twin Diamonds Xmas
+  identifier: spinomenal:TwinDiamondsXmas
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Valentine Collection 10 Lines
+  identifier: spinomenal:ValentineCollection10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Valentine Collection 20 Lines
+  identifier: spinomenal:ValentineCollection20Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Valentine Collection 30 Lines
+  identifier: spinomenal:ValentineCollection30Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Valentine Collection 40 Lines
+  identifier: spinomenal:ValentineCollection40Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Valentine's Fortune
+  identifier: spinomenal:ValentinesFortune
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1000
+- title: Valentine's Fortune Dice
+  identifier: spinomenal:ValentinesFortuneDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+- title: Vegas - Chase'N'Win
+  identifier: spinomenal:VegasChaseNWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Victory Day
+  identifier: spinomenal:VictoryDay
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Vulkan Werewolf
+  identifier: spinomenal:VulkanWerewolf
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: vulkan
+  devices:
+  - desktop
+  - mobile
+- title: Wacky Monkey
+  identifier: spinomenal:WackyMonkey
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wacky Monkey - Chase'N'Win
+  identifier: spinomenal:WackyMonkeyChaseNWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wacky Monkey Dice
+  identifier: spinomenal:WackyMonkeyDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice_bcgame
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Werewolf - Darkest Flame
+  identifier: spinomenal:WerewolfDarkestFlame
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Werewolf - The Becoming
+  identifier: spinomenal:WerewolfTheBecoming
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Werewolf - The Hunt
+  identifier: spinomenal:WerewolfTheHunt
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Western Tales
+  identifier: spinomenal:WesternTales
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Bandura
+  identifier: spinomenal:WildBandura
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: pmio
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Wild Easter
+  identifier: spinomenal:WildEaster
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Wildfire Fruits
+  identifier: spinomenal:WildfireFruits
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wildfire Fruits Dice
+  identifier: spinomenal:WildfireFruitsDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wild Fortune Book of Tribes
+  identifier: spinomenal:WildFortuneBookofTribes
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: wildfortune
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Gold Fish
+  identifier: spinomenal:WildGoldFish
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Oktoberfest
+  identifier: spinomenal:WildOktoberfest
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Ox
+  identifier: spinomenal:WildOx
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Wild Patrick's Day
+  identifier: spinomenal:WildPatricksDay
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Penguin
+  identifier: spinomenal:WildPenguin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Wild Ranch
+  identifier: spinomenal:WildRanch
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Wild Santa
+  identifier: spinomenal:WildSanta
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Wild Santa 2
+  identifier: spinomenal:WildSanta2
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Wild Santa Dice
+  identifier: spinomenal:WildSantaDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Winners Gold
+  identifier: spinomenal:WinnersGold
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Winners Gold Dice
+  identifier: spinomenal:WinnersGoldDice
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Winter’s Gold
+  identifier: spinomenal:WintersGold
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolf Fang
+  identifier: spinomenal:WolfFang
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolf Fang - Ancient Greece
+  identifier: spinomenal:WolfFangAncientGreece
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolf Fang – Deep Forest
+  identifier: spinomenal:WolfFangDeepForest
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wolf Fang – Golden Sands
+  identifier: spinomenal:WolfFangGoldenSands
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolf Fang - Iron Wolf
+  identifier: spinomenal:WolfFangIronWolf
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolf Fang - Sakura Fortune
+  identifier: spinomenal:WolfFangSakuraFortune
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolf Fang - Snowfall
+  identifier: spinomenal:WolfFangSnowfall
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolf Fang - Spear Of Fire
+  identifier: spinomenal:WolfFangSpearOfFire
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wolf Fang - The Origins
+  identifier: spinomenal:WolfFangTheOrigins
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wolf Fang - The Polar Lights
+  identifier: spinomenal:WolfFangThePolarLights
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wolf Fang – The Wilderness
+  identifier: spinomenal:WolfFangTheWilderness
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wolf Fang - Treasure Island
+  identifier: spinomenal:WolfFangTreasureIsland
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolf Fang - Underworld
+  identifier: spinomenal:WolfFangUnderworld
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wolf Fang - Volcano
+  identifier: spinomenal:WolfFangVolcano
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolf Fang Winter Storm
+  identifier: spinomenal:WolfFangWinterStorm
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Women’s Day
+  identifier: spinomenal:WomensDay
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Xmas - Chase'N'Win
+  identifier: spinomenal:XmasChaseNWin
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Xmas Collection - 10 Lines
+  identifier: spinomenal:XmasCollection10Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Xmas Collection - 20 Lines
+  identifier: spinomenal:XmasCollection20Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Xmas Collection - 30 Lines
+  identifier: spinomenal:XmasCollection30Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Xmas Collection - 40 Lines
+  identifier: spinomenal:XmasCollection40Lines
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Year Of The Rabbit
+  identifier: spinomenal:YearOfTheRabbit
+  provider: spinomenal
+  producer: retrogaming
+  category: slots
+  has_freespins: false
+  feature_group: retro_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Year of the Rat
+  identifier: spinomenal:YearoftheRat
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Year Of The Tiger
+  identifier: spinomenal:YearOfTheTiger
+  provider: spinomenal
+  producer: spinomenal
+  category: slots
+  has_freespins: true
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 100

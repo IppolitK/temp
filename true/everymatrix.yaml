@@ -1,0 +1,746 @@
+- title: 15 Armadillos
+  identifier: everymatrix:15Armadillos
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+- title: Aladdin’s Rollover Respins
+  identifier: everymatrix:AladdinsRolloverRespins
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+- title: Armadillo Goes West
+  identifier: everymatrix:ArmadilloGoesWest
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Aztec Star
+  identifier: everymatrix:AztecStar
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Black Forest
+  identifier: everymatrix:BlackForest
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Blackjack
+  identifier: everymatrix:Blackjack
+  provider: everymatrix
+  producer: spearhead
+  category: card
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Blue Diamond Book
+  identifier: everymatrix:BlueDiamondBook
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Muertitos
+  identifier: everymatrix:BookofMuertitos
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Souls
+  identifier: everymatrix:BookofSouls
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Book of Souls II: El Dorado'
+  identifier: everymatrix:BookofSoulsIIElDorado
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Souls Remastered
+  identifier: everymatrix:BookOfSoulsRemastered
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Book Of Spies: Mission X'
+  identifier: everymatrix:BookOfSpiesMissionX
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Book of the Princess
+  identifier: everymatrix:BookOfThePrincess
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cuddles Royal
+  identifier: everymatrix:CuddlesRoyal
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dark Joker
+  identifier: everymatrix:DarkJoker
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Eternal Shogi
+  identifier: everymatrix:EternalShogi
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: European Roulette
+  identifier: everymatrix:EuropeanRoulette
+  provider: everymatrix
+  producer: spearhead
+  category: roulette
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fabulous Piggy Bank
+  identifier: everymatrix:FabulousPiggyBank
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fairy Fantasy Exotic Wilds
+  identifier: everymatrix:FairyFantasyExoticWilds
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+- title: FashionTV Highlife
+  identifier: everymatrix:FashionTVHighlife
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_branded_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 1280
+- title: FashionTV Highlife Scratchcard
+  identifier: everymatrix:FashionTVHighlifeScratchcard
+  provider: everymatrix
+  producer: spearhead
+  category: lottery
+  has_freespins: false
+  feature_group: spearhead_branded_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fortune Dragon Queen Exotic Wilds
+  identifier: everymatrix:FortuneDragonQueenExoticWilds
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Hot Bonanza
+  identifier: everymatrix:FruitHotBonanza
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruits and 777's
+  identifier: everymatrix:Fruitsand777s
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruit Slot
+  identifier: everymatrix:FruitSlot
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Giant Panda
+  identifier: everymatrix:GiantPanda
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Hot Hot Honey
+  identifier: everymatrix:HotHotHoney
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+- title: Jacks or Better
+  identifier: everymatrix:JacksOrBetter
+  provider: everymatrix
+  producer: spearhead
+  category: poker
+  has_freespins: false
+  feature_group: spearhead_basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: John Daly Scratch It And Win It
+  identifier: everymatrix:JohnDalyScratchItAndWinIt
+  provider: everymatrix
+  producer: spearhead
+  category: lottery
+  has_freespins: false
+  feature_group: spearhead_branded_lv
+  devices:
+  - desktop
+  - mobile
+- title: John Daly Spin It And Win It
+  identifier: everymatrix:JohnDalySpinItAndWinIt
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_branded_lv
+  devices:
+  - desktop
+  - mobile
+- title: Knights of Fortune
+  identifier: everymatrix:KnightsOfFortune
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Lara Jones is Cleopatra
+  identifier: everymatrix:LaraJonesisCleopatra
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lara Jones is Cleopatra 2
+  identifier: everymatrix:LaraJonesisCleopatra2
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lion's Riches
+  identifier: everymatrix:LionsRiches
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Lucky Heaven
+  identifier: everymatrix:LuckyHeaven
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Lucky Mr. Wild
+  identifier: everymatrix:LuckyMrWild
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Madame Clues
+  identifier: everymatrix:MadameClues
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Meganova
+  identifier: everymatrix:Meganova
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Midnight Madness TM
+  identifier: everymatrix:MidnightMadnessTM
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Money Wagon
+  identifier: everymatrix:MoneyWagon
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Mr. Alchemister
+  identifier: everymatrix:MrAlchemister
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: 'Muertitos: Video Bingo'
+  identifier: everymatrix:MuertitosVideoBingo
+  provider: everymatrix
+  producer: spearhead
+  category: lottery
+  has_freespins: false
+  feature_group: spearhead_basic
+  devices:
+  - desktop
+  - mobile
+- title: Mythological Mayhem Supreme Streaks
+  identifier: everymatrix:MythologicalMayhemSupremeStreaks
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+- title: Orango Tango
+  identifier: everymatrix:OrangoTango
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Pirates of the Mediterranean
+  identifier: everymatrix:PiratesoftheMediterranean
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pirates of the Mediterranean Remastered
+  identifier: everymatrix:PiratesoftheMediterraneanRemastered
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Popstar
+  identifier: everymatrix:Popstar
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Quartz SiO2
+  identifier: everymatrix:QuartzSiO2
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Queen of Egypt Exotic Wilds
+  identifier: everymatrix:QueenofEgyptExoticWilds
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Wild Empire - Rome
+  identifier: everymatrix:RomansLegionsOfGold
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Royal Crown
+  identifier: everymatrix:RoyalCrown
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Royal Crown 2 Respins of Spearhead
+  identifier: everymatrix:RoyalCrown2
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Ruler of Egypt
+  identifier: everymatrix:RulerofEgypt
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Spicy Fruits
+  identifier: everymatrix:SpicyFruits
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: SpinJoy Society
+  identifier: everymatrix:SpinJoySociety
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Super 7 Deluxe
+  identifier: everymatrix:Super7Deluxe
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sweet Gems
+  identifier: everymatrix:SweetGems
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Teutoburg
+  identifier: everymatrix:Teutoburg
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: The Lioness
+  identifier: everymatrix:TheLioness
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: The Spanish Life
+  identifier: everymatrix:TheSpanishLife
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Tiki Time Exotic Wilds
+  identifier: everymatrix:TikiTimeExoticWilds
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+- title: Total Summer Bliss
+  identifier: everymatrix:TotalSummerBliss
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Valholl - Hall of the Slain
+  identifier: everymatrix:ValhollHalloftheSlain
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Valley of the Muses
+  identifier: everymatrix:ValleyoftheMuses
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Weight of the Gun
+  identifier: everymatrix:WeightoftheGun
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Wild Gold
+  identifier: everymatrix:WildGold
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Reels
+  identifier: everymatrix:WildReels
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wilds Of Wall Street II
+  identifier: everymatrix:WildsOfWallStreetII
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Wild Willy’s Gold Rush
+  identifier: everymatrix:WildWillysGoldRush
+  provider: everymatrix
+  producer: armadillostudios
+  category: slots
+  has_freespins: false
+  feature_group: armadillo_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Xmas At The Cabin
+  identifier: everymatrix:XmasAtTheCabin
+  provider: everymatrix
+  producer: spearhead
+  category: slots
+  has_freespins: false
+  feature_group: spearhead_basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15

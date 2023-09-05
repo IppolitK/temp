@@ -1,0 +1,220 @@
+- title: Bounty Pop
+  identifier: avatarux:BountyPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cherry Pop
+  identifier: avatarux:CherryPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cherry Pop Deluxe
+  identifier: avatarux:CherryPopDeluxe
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Critter Pop
+  identifier: avatarux:CritterPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: HelioPOPolis
+  identifier: avatarux:HelioPOPolis
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: HipHopPop
+  identifier: avatarux:HipHopPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hippo Pop
+  identifier: avatarux:HippoPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Kitty POPpins
+  identifier: avatarux:KittyPOPpins
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: KokeshiPop
+  identifier: avatarux:KokeshiPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lolli Pop
+  identifier: avatarux:LolliPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: LooneyPop
+  identifier: avatarux:LooneyPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Monkey Pop
+  identifier: avatarux:MonkeyPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Papaya Pop
+  identifier: avatarux:PapayaPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Piggy Pop
+  identifier: avatarux:PiggyPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: PixiePOP
+  identifier: avatarux:PixiePOP
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: POP O'Gold
+  identifier: avatarux:POPOGold
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pop Rocks
+  identifier: avatarux:PopRocks
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Raging Pop
+  identifier: avatarux:RagingPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: ReefPop
+  identifier: avatarux:ReefPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tiki Pop
+  identifier: avatarux:TikiPop
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Pops
+  identifier: avatarux:WildPops
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Zombie aPOPalypse
+  identifier: avatarux:ZombieaPOPalypse
+  provider: avatarux
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

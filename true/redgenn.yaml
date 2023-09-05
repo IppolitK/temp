@@ -1,0 +1,1052 @@
+- title: '15 Dragon Pearls: Hold and Win'
+  identifier: redgenn:15DragonPearlsHoldandWin
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 3 Coins
+  identifier: redgenn:3Coins
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 3 Coins Egypt
+  identifier: redgenn:3CoinsEgypt
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: '3 Pots Riches: Hold and Win'
+  identifier: redgenn:3PotsRichesHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Aztec Fire
+  identifier: redgenn:AztecFire
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Aztec Sun Hold and Win
+  identifier: redgenn:AztecSunHoldandWin
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Big Heist
+  identifier: redgenn:BigHeist
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Black Wolf
+  identifier: redgenn:BlackWolf
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+- title: 'Book del Sol: Multiplier'
+  identifier: redgenn:BookdelSol
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Book of Gold: Multichance'
+  identifier: redgenn:BookofGoldMultichance
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Book of Sun Multichance
+  identifier: redgenn:BookofSunMultichance
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Boom! Boom! Gold!
+  identifier: redgenn:BoomBoomGold
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+- title: Bozo Cats
+  identifier: redgenn:BozoCats
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Buffalo Power 2: Hold and Win'
+  identifier: redgenn:BuffaloPower2HoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Buffalo Power: Christmas'
+  identifier: redgenn:BuffaloPowerChristmas
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Buffalo Power Hold and Win
+  identifier: redgenn:BuffaloPowerHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Buffalo Power Megaways
+  identifier: redgenn:BuffaloPowerMegaways
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_premium_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Burning Fortunator
+  identifier: redgenn:BurningFortunator
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 'Burning Wins: classic 5 lines'
+  identifier: redgenn:BurningWinsclassic5lines
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Candy Boom
+  identifier: redgenn:CandyBoom
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+- title: 'Coin Strike: Hold and Win'
+  identifier: redgenn:CoinStrikeHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Coin Volcano
+  identifier: redgenn:CoinVolcano
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: 'Diamond Fortunator: Hold and Win'
+  identifier: redgenn:DiamondFortunatorHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Diamond Wins Hold and Win
+  identifier: redgenn:DiamondWinsHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Divine Dragon: Hold and Win'
+  identifier: redgenn:DivineDragonHoldAndWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Dragon Pearls: hold and win'
+  identifier: redgenn:DragonPearls
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dragon Wealth
+  identifier: redgenn:DragonWealth
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Eagle Power: Hold and WIn'
+  identifier: redgenn:EaglePowerHoldandWIn
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Egypt Fire
+  identifier: redgenn:EgyptFire
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Empire Gold: Hold and Win'
+  identifier: redgenn:EmpireGoldHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Giza Nights: Hold and Win'
+  identifier: redgenn:GizaNightsHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Goddess of Egypt
+  identifier: redgenn:GoddessofEgypt
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Golden Dancing Lion
+  identifier: redgenn:GoldenDancingLion
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Gold Express
+  identifier: redgenn:GoldExpress
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Grab the Gold!
+  identifier: redgenn:GrabtheGold
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Great Panda: Hold and Win'
+  identifier: redgenn:GreatPandaHoldandWin
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Green Chilli
+  identifier: redgenn:GreenChilli
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Hand of Gold
+  identifier: redgenn:HandofGold
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hit more Gold!
+  identifier: redgenn:HitmoreGold
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Hit the Bank: Hold and Win'
+  identifier: redgenn:HittheBankHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+- title: Hit the Gold! Hold and Win
+  identifier: redgenn:HittheGoldHoldandWin
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hot Burning Wins
+  identifier: redgenn:HotBurningWins
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 'Hot Coins: Hold and Win'
+  identifier: redgenn:HotCoinsHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  lines: 5
+  has_jackpot: true
+- title: 'Joker''s Coins: Hold and Win'
+  identifier: redgenn:JokersCoinsHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Juice Inc.
+  identifier: redgenn:JuiceInc
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Lady Fortune
+  identifier: redgenn:LadyFortune
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+- title: Legend of Cleopatra Megaways
+  identifier: redgenn:LegendofCleopatraMegaways
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_premium_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Lion Gems: Hold and Win'
+  identifier: redgenn:LionGemsHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Lotus Charm
+  identifier: redgenn:LotusCharm
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Luxor Gold: Hold and Win'
+  identifier: redgenn:LuxorGoldHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Magic Apple: Hold and Win'
+  identifier: redgenn:MagicApple
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Magic Apple 2
+  identifier: redgenn:MagicApple2
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Mammoth Peak: Hold and Win'
+  identifier: redgenn:MammothPeakHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Maya Sun
+  identifier: redgenn:MayaSun
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 'Moon Sisters: Hold and Win'
+  identifier: redgenn:MoonSistersHoldandWin
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: More Magic Apple
+  identifier: redgenn:MoreMagicApple
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Olympian Gods
+  identifier: redgenn:OlympianGods
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 'Pearl Beauty: Hold and Win'
+  identifier: redgenn:PearlBeautyHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Pearl Diver
+  identifier: redgenn:PearlDiver
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Pearl Diver 2: Treasure Chest'
+  identifier: redgenn:PearlDiver2TreasureChest
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Pirate Chest: Hold and Win'
+  identifier: redgenn:PirateChestHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Pirate Sharky
+  identifier: redgenn:PirateSharky
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Queen of the Sun
+  identifier: redgenn:QueenoftheSun
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Rich Diamonds: Hold and Win'
+  identifier: redgenn:RichDiamondsHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Rio Gems
+  identifier: redgenn:RioGems
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Royal Coins 2: Hold and Win'
+  identifier: redgenn:RoyalCoins2HoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Royal Coins: Hold and Win'
+  identifier: redgenn:RoyalCoinsHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Royal Fortunator: Hold and Win'
+  identifier: redgenn:RoyalFortunatorHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Royal Joker: Hold and Win'
+  identifier: redgenn:RoyalJokerHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Ruby Hit: Hold and Win'
+  identifier: redgenn:RubyHitHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Scarab Boost
+  identifier: redgenn:ScarabBoost
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Scarab Temple
+  identifier: redgenn:ScarabTemple
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Solar Queen
+  identifier: redgenn:SolarQueen
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Solar Queen Megaways
+  identifier: redgenn:SolarQueenMegaways
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_premium
+  devices:
+  - desktop
+  - mobile
+- title: Solar Temple
+  identifier: redgenn:SolarTemple
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Spirit of Egypt: Hold and Win'
+  identifier: redgenn:SpiritofEgyptHoldandWin
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sticky Piggy
+  identifier: redgenn:StickyPiggy
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sunlight Princess
+  identifier: redgenn:SunlightPrincess
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Sun of Egypt
+  identifier: redgenn:SunofEgypt
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Sun of Egypt 2
+  identifier: redgenn:SunOfEgypt2
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Sun of Egypt 3
+  identifier: redgenn:SunofEgypt3
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Sunny Fruits
+  identifier: redgenn:SuperSunnyFruits
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Thunder of Olympus
+  identifier: redgenn:ThunderofOlympus
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tiger Gems
+  identifier: redgenn:TigerGems
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Tiger Jungle
+  identifier: redgenn:TigerJungle
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Tiger''s Gold: Hold and Win'
+  identifier: redgenn:TigersGoldHoldandWin
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Tiger Stone
+  identifier: redgenn:TigerStone
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Treasures of Fire
+  identifier: redgenn:TreasuresofFire
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+- title: Wolf Night
+  identifier: redgenn:WolfNight
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Wolf Power: Hold and Win'
+  identifier: redgenn:WolfPower
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Wolf Power Megaways
+  identifier: redgenn:WolfPowerMegaways
+  provider: redgenn
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_premium
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Wolf Saga
+  identifier: redgenn:WolfSaga
+  provider: redgenn
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25

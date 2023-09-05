@@ -1,0 +1,1034 @@
+- title: 10 Swords
+  identifier: pushgaming:10Swords
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 10 Swords
+  identifier: pushgaming:10Swords94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Big Bamboo
+  identifier: pushgaming:BigBamboo
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Big Bamboo
+  identifier: pushgaming:BigBamboo94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Big Bamboo
+  identifier: pushgaming:BigBamboo95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Bison Battle
+  identifier: pushgaming:BisonBattle
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Bison Battle
+  identifier: pushgaming:BisonBattle94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Bison Battle
+  identifier: pushgaming:BisonBattle95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+- title: Blaze of Ra
+  identifier: pushgaming:blazeofra1-01
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Blaze of Ra
+  identifier: pushgaming:blazeofra1-02
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Blaze of Ra
+  identifier: pushgaming:blazeofra1-03
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Booty Bay
+  identifier: pushgaming:bootybay
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Booty Bay
+  identifier: pushgaming:bootybay-02
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+- title: Booty Bay
+  identifier: pushgaming:bootybay-03
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Crystal Catcher
+  identifier: pushgaming:CrystalCatcher
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Crystal Catcher
+  identifier: pushgaming:CrystalCatcher94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Deadly 5
+  identifier: pushgaming:Deadly5
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Deadly 5
+  identifier: pushgaming:Deadly594
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Deadly 5
+  identifier: pushgaming:Deadly595
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dino P.D.
+  identifier: pushgaming:DinoPD
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dino P.D.
+  identifier: pushgaming:DinoPD94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dinopolis
+  identifier: pushgaming:dinopolis
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dinopolis
+  identifier: pushgaming:dinopolis-02
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dinopolis
+  identifier: pushgaming:dinopolis-03
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fat Banker
+  identifier: pushgaming:FatBanker
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fat Banker
+  identifier: pushgaming:FatBanker94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fat Banker
+  identifier: pushgaming:FatBanker95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fat Drac
+  identifier: pushgaming:fatdrac
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fat Drac
+  identifier: pushgaming:fatdrac94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fat Drac
+  identifier: pushgaming:fatdrac95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fat Rabbit
+  identifier: pushgaming:fatrabbit
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fat Rabbit
+  identifier: pushgaming:fatrabbit94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fat Rabbit
+  identifier: pushgaming:fatrabbit95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fat Santa
+  identifier: pushgaming:fatsanta
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fat Santa
+  identifier: pushgaming:fatsanta94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fat Santa
+  identifier: pushgaming:fatsanta95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fire Hopper
+  identifier: pushgaming:FireHopper
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fire Hopper
+  identifier: pushgaming:FireHopper94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fire Hopper
+  identifier: pushgaming:FireHopper95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+- title: Generous Jack
+  identifier: pushgaming:generousjack-01
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Generous Jack
+  identifier: pushgaming:generousjack-02
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+- title: Generous Jack
+  identifier: pushgaming:generousjack-03
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Giga Jar
+  identifier: pushgaming:GigaJar
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Giga Jar
+  identifier: pushgaming:GigaJar94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Goat Getter
+  identifier: pushgaming:GoatGetter
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Goat Getter
+  identifier: pushgaming:GoatGetter94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jammin' Jars
+  identifier: pushgaming:jamminjars
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 64
+- title: Jammin' Jars 2
+  identifier: pushgaming:jamminjars2
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jammin' Jars 2
+  identifier: pushgaming:jamminjars2-03
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jammin' Jars 2
+  identifier: pushgaming:jamminjars2de90
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basicde_90_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jammin' Jars 2
+  identifier: pushgaming:jamminjars2de95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jammin' Jars
+  identifier: pushgaming:jamminjars94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 64
+- title: Jammin' Jars
+  identifier: pushgaming:jamminjarsde90
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basicde_90_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 64
+- title: Jammin' Jars
+  identifier: pushgaming:jamminjarsde95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 64
+- title: Joker Troupe
+  identifier: pushgaming:jokertroupe
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Joker Troupe
+  identifier: pushgaming:jokertroupe94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Joker Troupe
+  identifier: pushgaming:jokertroupe95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Land of Zenith
+  identifier: pushgaming:landofzenith
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Mad Cars
+  identifier: pushgaming:MadCars
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mad Cars
+  identifier: pushgaming:MadCars94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mad Cars
+  identifier: pushgaming:MadCars95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mount Magmas
+  identifier: pushgaming:MountMagmas1
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mount Magmas
+  identifier: pushgaming:MountMagmas94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mount Magmas
+  identifier: pushgaming:MountMagmas95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mystery Mission - To The Moon
+  identifier: pushgaming:mysterymissiontothemoon-01
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mystery Mission - To The Moon
+  identifier: pushgaming:mysterymissiontothemoon-02
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mystery Mission - To The Moon
+  identifier: pushgaming:mysterymissiontothemoon-03
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mystery Museum
+  identifier: pushgaming:mysterymuseum
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mystery Museum
+  identifier: pushgaming:mysterymuseum94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mystery Museum
+  identifier: pushgaming:mysterymuseum95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Nightfall
+  identifier: pushgaming:Nightfall
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Nightfall
+  identifier: pushgaming:Nightfall94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Nightfall
+  identifier: pushgaming:Nightfall95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rat King
+  identifier: pushgaming:RatKing
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: Rat King
+  identifier: pushgaming:RatKing94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: Razor Returns
+  identifier: pushgaming:RazorReturns
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Razor Returns
+  identifier: pushgaming:RazorReturns94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Razor Shark
+  identifier: pushgaming:razorshark
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Razor Shark
+  identifier: pushgaming:razorshark94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Razor Shark
+  identifier: pushgaming:razorsharkde90
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basicde_90_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Razor Shark
+  identifier: pushgaming:razorsharkde95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Retro Tapes
+  identifier: pushgaming:retrotapes-01
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Retro Tapes
+  identifier: pushgaming:retrotapes-02
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Retro Tapes
+  identifier: pushgaming:retrotapes-03
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: The Shadow Order
+  identifier: pushgaming:shadoworder
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Space Stacks
+  identifier: pushgaming:spacestacks-01
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Space Stacks
+  identifier: pushgaming:spacestacks-02
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+- title: Space Stacks
+  identifier: pushgaming:spacestacks-03
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Tiki Tumble
+  identifier: pushgaming:TikiTumble1
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tiki Tumble
+  identifier: pushgaming:TikiTumble90
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basicde_90_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tiki Tumble
+  identifier: pushgaming:TikiTumble94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tiki Tumble
+  identifier: pushgaming:TikiTumble95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Viking Clash
+  identifier: pushgaming:vikingclash
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wheel of Wonders
+  identifier: pushgaming:wheelofwonders
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Wild Swarm
+  identifier: pushgaming:wildswarm
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Swarm
+  identifier: pushgaming:wildswarm94
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Swarm
+  identifier: pushgaming:wildswarm95
+  provider: pushgaming
+  producer: pushgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp95_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20

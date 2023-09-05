@@ -1,0 +1,3494 @@
+- title: '15 Crystal Roses: A Tale of Love'
+  identifier: playngo:15CrystalRosesATaleofLove
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 24K Dragon
+  identifier: playngo:24KDragon
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 3-Hand Casino Hold'em
+  identifier: playngo:3HandCasinoHoldem
+  provider: playngo
+  producer: playngo
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ace of Spades
+  identifier: playngo:AceofSpades
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Agent Destiny
+  identifier: playngo:AgentDestiny
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Agent of Hearts
+  identifier: playngo:AgentofHearts
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Alice Cooper And the Tome of Madness
+  identifier: playngo:AliceCoopertheTombofMadness
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Animal Madness
+  identifier: playngo:AnimalMadness
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Ankh of Anubis
+  identifier: playngo:AnkhofAnubis
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Annihilator
+  identifier: playngo:Annihilator
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Athena Ascending
+  identifier: playngo:AthenaAscending
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Aztec Idols
+  identifier: playngo:AztecIdols
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Aztec Warrior Princess
+  identifier: playngo:AztecWarriorPrincess
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Baker's Treat
+  identifier: playngo:BakersTreat
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Banana Rock
+  identifier: playngo:BananaRock
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Battle Royal
+  identifier: playngo:BattleRoyal
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beast of Wealth
+  identifier: playngo:BeastofWealth
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Beasts of Fire
+  identifier: playngo:BeastsofFire
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Bell of Fortune
+  identifier: playngo:BellofFortune
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Big Win 777
+  identifier: playngo:BigWin777
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Big Win Cat
+  identifier: playngo:BigWinCat
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: BlackJack MH
+  identifier: playngo:BlackJackMH
+  provider: playngo
+  producer: playngo
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Black Mamba
+  identifier: playngo:BlackMamba
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Blazin' Bullfrog
+  identifier: playngo:BlazinBullfrog
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blinged
+  identifier: playngo:Blinged
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Boat Bonanza
+  identifier: playngo:BoatBonanza
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Boat Bonanza - Colossal Catch
+  identifier: playngo:BoatBonanzaColossalCatch
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Book of Dead
+  identifier: playngo:BookofDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bugs Party
+  identifier: playngo:BugsParty
+  provider: playngo
+  producer: playngo
+  category: lottery
+  has_freespins: false
+  feature_group: partners_bugs
+  devices:
+  - desktop
+  - mobile
+  lines: 4
+- title: Bull in a China Shop
+  identifier: playngo:BullinaChinaShop
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bull in a Rodeo
+  identifier: playngo:BullinaRodeo
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Candy Island Princess
+  identifier: playngo:CandyIslandPrincess
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Canine Carnage
+  identifier: playngo:CanineCarnage
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 'Captain Glum: Pirate Hunter'
+  identifier: playngo:CaptainGlumPirateHunter
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Captain Xeno's Earth Adventure
+  identifier: playngo:CaptainXenosEarthAdventure
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Cash-a-Cabana
+  identifier: playngo:CashaCabana
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cash of Command
+  identifier: playngo:CashofCommand
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Cash Pump
+  identifier: playngo:CashPump
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cash Vandal
+  identifier: playngo:CashVandal
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Casino Hold'em
+  identifier: playngo:CasinoHoldem
+  provider: playngo
+  producer: playngo
+  category: card
+  has_freespins: false
+  feature_group: partners_holdem
+  devices:
+  - desktop
+  - mobile
+- title: Casino Stud Poker
+  identifier: playngo:CasinoStudPoker
+  provider: playngo
+  producer: playngo
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cats and Cash
+  identifier: playngo:CatsandCash
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Cat Wilde and the Doom of Dead
+  identifier: playngo:CatWildeandtheDoomofDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cat Wilde and the Lost Chapter
+  identifier: playngo:CatWildeandtheLostChapter
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cat Wilde and the Pyramids of Dead
+  identifier: playngo:CatWildeandthePyramidsofDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Cat Wilde in the Eclipse of the Sun God
+  identifier: playngo:CatWildeInTheEclipseOfTheSunGod
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Celebration of Wealth
+  identifier: playngo:CelebrationofWealth
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Champions of Mithrune
+  identifier: playngo:ChampionsofMithrune
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Charlie Chance in Hell to Pay
+  identifier: playngo:CharlieChance
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Charlie Chance
+  identifier: playngo:CharlieChanceXReelz
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Chinese New Year
+  identifier: playngo:ChineseNewYear
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Chronos Joker
+  identifier: playngo:ChronosJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Clash of Camelot
+  identifier: playngo:ClashofCamelot
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cloud Quest
+  identifier: playngo:CloudQuest
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Coils of Cash
+  identifier: playngo:CoilsOfCash
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Colt Lightning
+  identifier: playngo:ColtLightning
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Contact
+  identifier: playngo:Contact
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Cops'n'Robbers
+  identifier: playngo:CopsnRobbers
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Count Jokula
+  identifier: playngo:CountJokula
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Court of Hearts
+  identifier: playngo:CourtofHearts
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Coywolf Cash
+  identifier: playngo:CoywolfCash
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Craps
+  identifier: playngo:Craps
+  provider: playngo
+  producer: playngo
+  category: craps
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Crazy Cows
+  identifier: playngo:CrazyCows
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Crystal Sun
+  identifier: playngo:CrystalSun
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Curse of Cleopatra
+  identifier: playngo:CurseofCleopatra
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Dawn of Egypt
+  identifier: playngo:DawnofEgypt
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Def Leppard: Hysteria'
+  identifier: playngo:DefLeppardHysteria
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Demon
+  identifier: playngo:Demon
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Derby Wheel
+  identifier: playngo:DerbyWheel
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Diamonds of the Realm
+  identifier: playngo:DiamondsoftheRealm
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Diamond Vortex
+  identifier: playngo:DiamondVortex
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Dio - Killing the Dragon
+  identifier: playngo:DioKillingtheDragon
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+- title: Disco Diamonds
+  identifier: playngo:DiscoDiamonds
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Divine Showdown
+  identifier: playngo:DivineShowdown
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Doom of Egypt
+  identifier: playngo:DoomofEgypt
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dragon Maiden
+  identifier: playngo:DragonMaiden
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Ship
+  identifier: playngo:DragonShip
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Dr. Toonz
+  identifier: playngo:DrToonz
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Easter Eggs
+  identifier: playngo:EasterEggs
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Enchanted Crystals
+  identifier: playngo:EnchantedCrystals
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Enchanted Meadow
+  identifier: playngo:EnchantedMeadow
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Energoonz
+  identifier: playngo:Energoonz
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: European BlackJack MH
+  identifier: playngo:EuropeanBlackJackMH
+  provider: playngo
+  producer: playngo
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: European Roulette Pro
+  identifier: playngo:EuropeanRoulette
+  provider: playngo
+  producer: playngo
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Eye of Atum
+  identifier: playngo:EyeofAtum
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Eye of the Kraken
+  identifier: playngo:EyeoftheKraken
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Fat Frankies
+  identifier: playngo:FatFrankies
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Feline Fury
+  identifier: playngo:FelineFury
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Firefly Frenzy
+  identifier: playngo:FireflyFrenzy
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fire Joker
+  identifier: playngo:FireJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fire Joker Freeze
+  identifier: playngo:FireJokerFreeze
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fire Toad
+  identifier: playngo:FireToad
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Flying Pigs
+  identifier: playngo:FlyingPigs
+  provider: playngo
+  producer: playngo
+  category: lottery
+  has_freespins: false
+  feature_group: partners_pigs
+  devices:
+  - desktop
+  - mobile
+  lines: 4
+- title: Forge of Fortunes
+  identifier: playngo:ForgeofFortunes
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Forge of Gems
+  identifier: playngo:ForgeofGems
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Fortune Rewind
+  identifier: playngo:FortuneRewind
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fortunes of Ali Baba
+  identifier: playngo:FortunesofAliBaba
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fortune Teller
+  identifier: playngo:FortuneTeller
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fox Mayhem
+  identifier: playngo:FoxMayhem
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Free Reelin' Joker
+  identifier: playngo:FreeReelinJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Free Reelin Joker 1000
+  identifier: playngo:FreeReelinJoker1000
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Frozen Gems
+  identifier: playngo:FrozenGems
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Bonanza
+  identifier: playngo:FruitBonanza
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+  has_jackpot: true
+- title: Fu Er Dai
+  identifier: playngo:FuErDai
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Game of Gladiators
+  identifier: playngo:GameofGladiators
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Game of Gladiators Uprising
+  identifier: playngo:GameofGladiatorsUprising
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Gates of Troy
+  identifier: playngo:GatesofTroy
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: GEMiX
+  identifier: playngo:GEMiX
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Gemix 2
+  identifier: playngo:Gemix2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Gerard's Gambit
+  identifier: playngo:GerardsGambit
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Ghost of Dead
+  identifier: playngo:GhostofDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gift Shop
+  identifier: playngo:GiftShop
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Gigantoonz
+  identifier: playngo:Gigantoonz
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Golden Caravan
+  identifier: playngo:GoldenCaravan
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Golden Colts
+  identifier: playngo:GoldenColts
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Golden Goal
+  identifier: playngo:GoldenGoal
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Golden Legend
+  identifier: playngo:GoldenLegend
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Golden Osiris
+  identifier: playngo:GoldenOsiris
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Golden Ticket
+  identifier: playngo:GoldenTicket
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Golden Ticket 2
+  identifier: playngo:GoldenTicket2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gold King
+  identifier: playngo:GoldKing
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gold Trophy 2
+  identifier: playngo:GoldTrophyII
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gold Volcano
+  identifier: playngo:GoldVolcano
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Grim Muerto
+  identifier: playngo:GrimMuerto
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Gunslinger: Reloaded'
+  identifier: playngo:GunslingerReloaded
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Hammer Fall
+  identifier: playngo:HammerFall
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Happy Halloween
+  identifier: playngo:HappyHalloween
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Helloween
+  identifier: playngo:Helloween
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Highway Legends
+  identifier: playngo:HighwayLegends
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Holiday Season
+  identifier: playngo:HolidaySeason
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Holiday Spirits
+  identifier: playngo:HolidaySpirits
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Honey Rush
+  identifier: playngo:HoneyRush
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Honey Rush 100
+  identifier: playngo:HoneyRush100
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hooligan Hustle
+  identifier: playngo:HooliganHustle
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Hotel Yeti-Way
+  identifier: playngo:HotelYetiWay
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: House of Doom
+  identifier: playngo:HouseofDoom
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: House of Doom Crypt 2
+  identifier: playngo:HouseofDoomCrypt2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hugo
+  identifier: playngo:Hugo
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: partners3
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hugo 2
+  identifier: playngo:Hugo2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: partners3
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hugo Carts
+  identifier: playngo:HugoCarts
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: partners3
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Hugo Goal
+  identifier: playngo:HugoGoal
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: partners3
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hugo Legacy
+  identifier: playngo:HugoLegacy
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: partners3
+  devices:
+  - desktop
+  - mobile
+- title: Hugo's Adventures
+  identifier: playngo:HugosAdventure
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: partners3
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Ice Joker
+  identifier: playngo:IceJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Idol of Fortune
+  identifier: playngo:IdolofFortune
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: ImmorTails of Egypt
+  identifier: playngo:ImmorTailsofEgypt
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Imperial Opera
+  identifier: playngo:ImperialOpera
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Inferno Joker
+  identifier: playngo:InfernoJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Inferno Star
+  identifier: playngo:InfernoStar
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Invading Vegas
+  identifier: playngo:InvadingVegas
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Irish Gold
+  identifier: playngo:IrishGold
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Iron Girl
+  identifier: playngo:IronGirl
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jade Magician
+  identifier: playngo:JadeMagician
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Jewel Box
+  identifier: playngo:JewelBox
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Jolly Roger
+  identifier: playngo:JollyRoger
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Jolly Roger 2
+  identifier: playngo:JollyRoger2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Keno
+  identifier: playngo:Keno
+  provider: playngo
+  producer: playngo
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - mobile
+- title: King's Mask
+  identifier: playngo:KingsMask
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: KISS Reels of Rock
+  identifier: playngo:KISSReelsofRock
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Lady of Fortune
+  identifier: playngo:LadyofFortune
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Legacy of Dead
+  identifier: playngo:LegacyofDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Legacy of Egypt
+  identifier: playngo:LegacyofEgypt
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Legacy of Inca
+  identifier: playngo:LegacyofInca
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Legend of the Ice Dragon
+  identifier: playngo:LegendoftheIceDragon
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Legion Gold
+  identifier: playngo:LegionGold
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Leprechaun goes Egypt
+  identifier: playngo:LeprechaungoesEgypt
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Leprechaun goes to Hell
+  identifier: playngo:LeprechaungoestoHell
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Leprechaun Goes Wild
+  identifier: playngo:LeprechaunGoesWild
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Leprechaun's Vault
+  identifier: playngo:LeprechaunsVault
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lordi Reel Monsters
+  identifier: playngo:LordiReelMonsters
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+- title: Lord Merlin and the Lady of the Lake
+  identifier: playngo:LordMerlinAndTheLadyOfTheLake
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Love Joker
+  identifier: playngo:LoveJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Luchamigos
+  identifier: playngo:Luchamigos
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Diamonds
+  identifier: playngo:LuckyDiamonds
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Madame Ink
+  identifier: playngo:MadameInk
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Mahjong 88
+  identifier: playngo:Mahjong88
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Matsuri
+  identifier: playngo:Matsuri
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mega Don
+  identifier: playngo:MegaDon
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Merlin and the Ice Queen Morgana
+  identifier: playngo:MerlinandtheIceQueenMorgana
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Merlin: Journey of Flame'
+  identifier: playngo:MerlinJourneyofFlame
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Merlin's Grimoire
+  identifier: playngo:MerlinsGrimoire
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mermaid's Diamond
+  identifier: playngo:MermaidsDiamond
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Merry Xmas
+  identifier: playngo:MerryXmas
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Miner Donkey Trouble
+  identifier: playngo:MinerDonkeyTrouble
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Mini Baccarat
+  identifier: playngo:MiniBaccarat
+  provider: playngo
+  producer: playngo
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mission Cash
+  identifier: playngo:MissionCash
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Money Wheel
+  identifier: playngo:MoneyWheel
+  provider: playngo
+  producer: playngo
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Moon Princess
+  identifier: playngo:MoonPrincess
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Moon princess 100
+  identifier: playngo:moonprincess100
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Moon Princess: Christmas Kingdom'
+  identifier: playngo:MoonPrincessChristmasKingdom
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Moon Princess Trinity
+  identifier: playngo:MoonPrincessTrinity
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Mötley Crüe
+  identifier: playngo:MotleyCrue
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mount M
+  identifier: playngo:MountM
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Muerto En Mictlan
+  identifier: playngo:MuertoEnMictlan
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: MULTIFRUIT 81
+  identifier: playngo:MULTIFRUIT81
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Mystery Joker
+  identifier: playngo:MysteryJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Mystery Joker 6000
+  identifier: playngo:MysteryJoker6000
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Myth
+  identifier: playngo:Myth
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Naughty Nick's Book
+  identifier: playngo:NaughtyNicksBook
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: New Year Riches
+  identifier: playngo:NewYearRiches
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ninja Fruits
+  identifier: playngo:NinjaFruits
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: "*NSYNC Pop"
+  identifier: playngo:NSYNCPop
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Octopus Treasure
+  identifier: playngo:OctopusTreasure
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Odin: Protector of Realms'
+  identifier: playngo:OdinProtectorofRealms
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pack & Cash
+  identifier: playngo:Pack&Cash
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Pandora's Box of Evil
+  identifier: playngo:PandorasBoxofEvil
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pearl Lagoon
+  identifier: playngo:PearlLagoon
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pearls of India
+  identifier: playngo:PearlsofIndia
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Perfect Gems
+  identifier: playngo:PerfectGems
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Phoenix Reborn
+  identifier: playngo:PhoenixReborn
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Photo Safari
+  identifier: playngo:PhotoSafari
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Piggy Bank Farm
+  identifier: playngo:PiggyBankFarm
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Pilgrim of Dead
+  identifier: playngo:PilgrimofDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pimped
+  identifier: playngo:Pimped
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Planet Fortune
+  identifier: playngo:PlanetFortune
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Prism of Gems
+  identifier: playngo:PrismofGems
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Prissy Princess
+  identifier: playngo:PrissyPrincess
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Prosperity Palace
+  identifier: playngo:ProsperityPalace
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Puebla Parade
+  identifier: playngo:PueblaParade
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 421
+- title: Queen's Day Tilt
+  identifier: playngo:QueensDayTilt
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Rabbit Hole Riches
+  identifier: playngo:RabbitHoleRiches
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Rage to Riches
+  identifier: playngo:RagetoRiches
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Raging Rex
+  identifier: playngo:RagingRex
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Raging Rex 2
+  identifier: playngo:RagingRex2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Rainforest Magic
+  identifier: playngo:RainforestMagic
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Rainforest Magic Bingo
+  identifier: playngo:RainforestMagicBingo
+  provider: playngo
+  producer: playngo
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Rally 4 Riches
+  identifier: playngo:Rally4Riches
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Rascal Riches
+  identifier: playngo:RascalRiches
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Reactoonz
+  identifier: playngo:Reactoonz_desktop
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Reactoonz 2
+  identifier: playngo:reactoonztwo
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Riches of RA
+  identifier: playngo:RichesofRA
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Riches of Robin
+  identifier: playngo:RichesofRobin
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Rich Wilde and the Amulet of the Dead
+  identifier: playngo:RichWildeandtheAmuletoftheDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rich Wilde and the Shield of Athena
+  identifier: playngo:RichWildeandtheShieldofAthena
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rich Wilde and the Wandering City
+  identifier: playngo:RichWildeandtheWanderingCity
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 'Riddle Reels: A Case of Riches'
+  identifier: playngo:RiddleReelsACaseofRiches
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Ring of Odin
+  identifier: playngo:RingofOdin
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rise of Athena
+  identifier: playngo:RiseOfAthena
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rise of Dead
+  identifier: playngo:RiseofDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Rise of Gods: Reckoning'
+  identifier: playngo:RiseofGodsReckoning
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rise of Merlin
+  identifier: playngo:RiseofMerlin
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rise of Olympus
+  identifier: playngo:RiseofOlympus
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Rise of Olympus 100
+  identifier: playngo:RiseofOlympus100
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Rocco Gallo
+  identifier: playngo:RoccoGallo
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Ronin's Honour
+  identifier: playngo:RoninsHonour
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Rotiki
+  identifier: playngo:Rotiki
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Royal Masquerade
+  identifier: playngo:RoyalMasquerade
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sabaton
+  identifier: playngo:Sabaton
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Safari of Wealth
+  identifier: playngo:SafariofWealth
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Sails of Gold
+  identifier: playngo:SailsofGold
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Samba Carnival
+  identifier: playngo:SambaCarnival
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Saxon
+  identifier: playngo:Saxon
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Scales of Dead
+  identifier: playngo:ScalesofDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Scroll of Dead
+  identifier: playngo:ScrollofDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Scroll of Seth
+  identifier: playngo:ScrollofSeth
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Sea Hunter
+  identifier: playngo:SeaHunter
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Secret Of Dead
+  identifier: playngo:SecretOfDead
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Shamrock Miner
+  identifier: playngo:ShamrockMiner
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sisters of the Sun
+  identifier: playngo:SistersoftheSun
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sizzling Spins
+  identifier: playngo:SizzlingSpins
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Slashimi
+  identifier: playngo:Slashimi
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Snakebite
+  identifier: playngo:Snakebite
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Space Race
+  identifier: playngo:SpaceRace
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sparky and Shortz Hidden Joules
+  identifier: playngo:SparkyandShortzHiddenJoules
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sparky & Shortz
+  identifier: playngo:SparkyShortz
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Speed Cash
+  identifier: playngo:SpeedCash
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Spin Party
+  identifier: playngo:SpinParty
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Star Joker
+  identifier: playngo:StarJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sticky Joker
+  identifier: playngo:StickyJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Street Magic
+  identifier: playngo:StreetMagic
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Super Flip
+  identifier: playngo:SuperFlip
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Super Wheel
+  identifier: playngo:SuperWheel
+  provider: playngo
+  producer: playngo
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sweet Alchemy
+  identifier: playngo:SweetAlchemy
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Sweet Alchemy 100
+  identifier: playngo:SweetAlchemy100
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Sweet Alchemy 2
+  identifier: playngo:SweetAlchemy2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sweet Alchemy Bingo
+  identifier: playngo:SweetAlchemyBingo
+  provider: playngo
+  producer: playngo
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sweet 27
+  identifier: playngo:SweetIIVII
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Tale of Kyubiko
+  identifier: playngo:TaleofKyubiko
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 'Tales of Asgard: Freya''s Wedding'
+  identifier: playngo:TalesofAsgardFreyasWedding
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Tales of Asgard - Lokis Fortune
+  identifier: playngo:TalesofAsgardLokisFortune
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Temple of Prosperity
+  identifier: playngo:TempleofProsperity
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Temple of Wealth
+  identifier: playngo:TempleofWealth
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Ternion
+  identifier: playngo:Ternion
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Testament
+  identifier: playngo:Testament
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: That's Rich
+  identifier: playngo:ThatsRich
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Faces of Freya
+  identifier: playngo:TheFacesOfFreya
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Green Knight
+  identifier: playngo:TheGreenKnight
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Last Sundown
+  identifier: playngo:TheLastSundown
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: The Paying Piano Club
+  identifier: playngo:ThePayingPianoClub
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: The Shimmering Woods
+  identifier: playngo:TheShimmeringWoods
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Sword and The Grail
+  identifier: playngo:TheSwordandTheGrail
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: The Wild Class
+  identifier: playngo:TheWildClass
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 3 Clown Monty
+  identifier: playngo:ThreeClownMonty
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Thunder Screech
+  identifier: playngo:ThunderScreech
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rich Wilde and the Tome of Madness
+  identifier: playngo:TomeofMadness
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Tower Quest
+  identifier: playngo:TowerQuest
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Troll Hunters
+  identifier: playngo:TrollHunters
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Troll Hunters 2
+  identifier: playngo:TrollHunters2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Twisted Sister
+  identifier: playngo:TwistedSister
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: USA Flip
+  identifier: playngo:USAFlip
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 7 Sins
+  identifier: playngo:VIISins
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Viking Runecraft
+  identifier: playngo:VikingRunecraft
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 'Viking Runecraft: Apocalypse'
+  identifier: playngo:VikingRunecraftApocalypse
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Viking Runecraft Bingo
+  identifier: playngo:VikingRunecraftBingo
+  provider: playngo
+  producer: playngo
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 5x Magic
+  identifier: playngo:VxMagic
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wild Bandolier
+  identifier: playngo:WildBandolier
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Blood
+  identifier: playngo:WildBlood
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Wild Blood 2
+  identifier: playngo:WildBlood2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Falls
+  identifier: playngo:WildFalls
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Falls 2
+  identifier: playngo:WildFalls2
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Frames
+  identifier: playngo:WildFrames
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Wildhound Derby
+  identifier: playngo:WildhoundDerby
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wild Melon
+  identifier: playngo:WildMelon
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Wild North
+  identifier: playngo:WildNorth
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Wild Rails
+  identifier: playngo:WildRails
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wild Trigger
+  identifier: playngo:WildTrigger
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Win a Beest
+  identifier: playngo:WinaBeest
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Wizard of Gems
+  identifier: playngo:WizardofGems
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Xmas Joker
+  identifier: playngo:XmasJoker
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Xmas Magic
+  identifier: playngo:XmasMagic
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: ZZ Top Roadside Riches
+  identifier: playngo:ZZTopRoadsideRiches
+  provider: playngo
+  producer: playngo
+  category: slots
+  has_freespins: true
+  feature_group: branded4
+  devices:
+  - desktop
+  - mobile
+  lines: 20

@@ -1,0 +1,499 @@
+- title: Book of Bamboo
+  identifier: onlyplay:BookofBamboo
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Eye
+  identifier: onlyplay:BookofEye
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Brazil Farm
+  identifier: onlyplay:BrazilFarm
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Chervona Kalyna
+  identifier: onlyplay:ChervonaKalyna
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Chervona Kalyna Megaways
+  identifier: onlyplay:ChervonaKalynaMegaways
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Christmas Seven
+  identifier: onlyplay:ChristmasSeven
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Combo Seven
+  identifier: onlyplay:ComboSeven
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cricket Crash
+  identifier: onlyplay:CricketCrash
+  provider: onlyplay
+  producer: onlyplay
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Crystal Cascade
+  identifier: onlyplay:CrystalCascade
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: F777 Fighter
+  identifier: onlyplay:F777Fighter
+  provider: onlyplay
+  producer: onlyplay
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Fruity Book
+  identifier: onlyplay:FruityBook
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Clover
+  identifier: onlyplay:GoldenClover
+  provider: onlyplay
+  producer: onlyplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Happy Cookie
+  identifier: onlyplay:HappyCookie
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot & Spicy
+  identifier: onlyplay:HotandSpicy
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hot & Spicy Jackpot
+  identifier: onlyplay:HotandSpicyJackpot
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Hot & Spicy Megaways
+  identifier: onlyplay:HotSpicyMegaways
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Iggy Racing
+  identifier: onlyplay:IggyRacing
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Inca Son
+  identifier: onlyplay:IncaSon
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jack Potter
+  identifier: onlyplay:JackPotter
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Jack Potter Deluxe
+  identifier: onlyplay:JackPotterDeluxe
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Jack Potter Megaways
+  identifier: onlyplay:JackPotterMegaways
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jack Potter X-MAS
+  identifier: onlyplay:JackPotterXMAS
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Joker Coins
+  identifier: onlyplay:JokerCoins
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Joker Coins Megaways
+  identifier: onlyplay:JokerCoinsMegaways
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Joker Coins X-MAS
+  identifier: onlyplay:JokerCoinsXMAS
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Juicy Crush
+  identifier: onlyplay:JuicyCrush
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jungle Gold
+  identifier: onlyplay:JungleGold
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jungle Gold Megaways
+  identifier: onlyplay:JungleGoldMegaways
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Liga Fortuna Megaways
+  identifier: onlyplay:LigaFortunaMegaways
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Liga Fortuna Megaways PRO
+  identifier: onlyplay:LigaFortunaMegawaysPRO
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Limbo Cat
+  identifier: onlyplay:LimboCat
+  provider: onlyplay
+  producer: onlyplay
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Clover
+  identifier: onlyplay:LuckyClover
+  provider: onlyplay
+  producer: onlyplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Coin
+  identifier: onlyplay:LuckyCoin
+  provider: onlyplay
+  producer: onlyplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Ocean
+  identifier: onlyplay:LuckyOcean
+  provider: onlyplay
+  producer: onlyplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Punch
+  identifier: onlyplay:luckypunch
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: King of Bitstarz
+  identifier: onlyplay:luckypunchbitstarz
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: bitstarz
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Lucky Punch Megaways
+  identifier: onlyplay:LuckyPunchMegaways
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Tanks
+  identifier: onlyplay:LuckyTanks
+  provider: onlyplay
+  producer: onlyplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Myths of Bastet
+  identifier: onlyplay:MythsofBastet
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Need for X
+  identifier: onlyplay:NeedforX
+  provider: onlyplay
+  producer: onlyplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Quantum X
+  identifier: onlyplay:QuantumX
+  provider: onlyplay
+  producer: onlyplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Royal Kitties
+  identifier: onlyplay:RoyalKitties
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Thimbles
+  identifier: onlyplay:TheThimbles
+  provider: onlyplay
+  producer: onlyplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Thimbles
+  identifier: onlyplay:TheThimbles1
+  provider: onlyplay
+  producer: onlyplay
+  category: casual
+  has_freespins: false
+  feature_group: betb2b
+  devices:
+  - desktop
+  - mobile
+- title: Troll Dice
+  identifier: onlyplay:TrollDice
+  provider: onlyplay
+  producer: onlyplay
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Troyan Gems
+  identifier: onlyplay:TroyanGems
+  provider: onlyplay
+  producer: onlyplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: When Lambo
+  identifier: onlyplay:WhenLambo
+  provider: onlyplay
+  producer: onlyplay
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

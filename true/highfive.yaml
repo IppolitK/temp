@@ -1,0 +1,2819 @@
+- title: 1000 Pearls
+  identifier: highfive:1000Pearls
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: All That Cash
+  identifier: highfive:AllThatCash
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: All That Cash Power Bet
+  identifier: highfive:AllThatCashPowerBet
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: A Night of Mystery
+  identifier: highfive:ANightofMystery
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Art of the Steal
+  identifier: highfive:ArtoftheSteal
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: A Visit From St. Nick
+  identifier: highfive:AVisitFromStNick
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Banana Splits
+  identifier: highfive:BananaSplits
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Beat The House
+  identifier: highfive:BeatTheHouse
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beer Barrel Bash
+  identifier: highfive:BeerBarrelBash
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+- title: Belle and the Beast
+  identifier: highfive:BelleandtheBeast
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Betti The Yetti
+  identifier: highfive:BettiTheYetti
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bewitching Beauties
+  identifier: highfive:BewitchingBeauties
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Big Bad Buffalo
+  identifier: highfive:BigBadBuffalo
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: promotion
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Big Dragon Lounge
+  identifier: highfive:BigDragonLounge
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Black Sail Beauties
+  identifier: highfive:BlackSailBeauties
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Bourbon Street Bash
+  identifier: highfive:BourbonStreetBash
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Buffalo Canyon
+  identifier: highfive:BuffaloCanyon
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Build Your Empire
+  identifier: highfive:BuildYourEmpire
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Build Your Empire
+  identifier: highfive:BuildYourEmpire1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bushido Bounty
+  identifier: highfive:BushidoBounty
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cabaret Nights
+  identifier: highfive:CabaretNights
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Canadian Wild
+  identifier: highfive:CanadianWild
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: CandyBlasted
+  identifier: highfive:CandyBlasted1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cannon Cove
+  identifier: highfive:CannonCove
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Captain Payback
+  identifier: highfive:CaptainPayback
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Captain Payback 2
+  identifier: highfive:CaptainPayback2
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Cat Gangster
+  identifier: highfive:CatGangster
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cat to the Future
+  identifier: highfive:CattotheFuture
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Caught in the Widow's Web
+  identifier: highfive:CaughtintheWidowsWeb
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Celtic Courage
+  identifier: highfive:CelticCourage
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Charmstones
+  identifier: highfive:Charmstones
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cherry Mischief
+  identifier: highfive:CherryMischief
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Cocktail Cash
+  identifier: highfive:CocktailCash
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cool Loot
+  identifier: highfive:CoolLoot
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cosmic Convoy
+  identifier: highfive:CosmicConvoy1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cosmic Heart
+  identifier: highfive:CosmicHeart
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cosmic Jewels
+  identifier: highfive:CosmicJewels
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Crystal Chasers
+  identifier: highfive:CrystalChasers
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dangerous Beauty
+  identifier: highfive:DangerousBeauty
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 'Dangerous Beauty: Blade''s Edge'
+  identifier: highfive:DangerousBeautyBladesEdge
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dangerous Beauty Power Bet
+  identifier: highfive:DangerousBeautyPowerBet
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Da Vinci
+  identifier: highfive:DaVinci
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Da Vinci Creations
+  identifier: highfive:DaVinciCreations
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Da Vinci DeluxeWays
+  identifier: highfive:DaVinciDeluxeWays
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Da Vinci EXTREME
+  identifier: highfive:DaVinciEXTREME
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Da Vinci Gems
+  identifier: highfive:DaVinciGems1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Da Vinci Muse
+  identifier: highfive:DaVinciMuse
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Da Vinci Ways
+  identifier: highfive:DaVinciWays
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dazzling Dragons
+  identifier: highfive:DazzlingDragons
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Defenders of Asgard
+  identifier: highfive:DefendersofAsgard
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Defenders of the Realm
+  identifier: highfive:DefendersoftheRealm
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Derby Dash
+  identifier: highfive:DerbyDash
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Diamonds of Athens
+  identifier: highfive:DiamondsofAthens
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dino Dollars
+  identifier: highfive:DinoDollars
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Divine Luck
+  identifier: highfive:DivineLuck
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dollar Llama
+  identifier: highfive:DollarLlama
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Double Da Vinci Diamonds
+  identifier: highfive:DoubleDaVinciDiamonds
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Double Dinosaur Deluxe
+  identifier: highfive:DoubleDinosaurDeluxe
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dragon Guard Jackpot Dash
+  identifier: highfive:DragonGuardJackpotDash
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dragon's Blessings
+  identifier: highfive:DragonsBlessings
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon's Blessings Prosperity
+  identifier: highfive:DragonsBlessingsProsperity
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Dragon's Keeper
+  identifier: highfive:DragonsKeeper
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dream Beauty
+  identifier: highfive:DreamBeauty
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Eagles' Flight
+  identifier: highfive:EaglesFlight
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Empress of the Nile
+  identifier: highfive:EmpressoftheNile
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 'Empress of Time: Destiny'
+  identifier: highfive:EmpressofTimeDestiny
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Escape.Reset.Recharge
+  identifier: highfive:EscapeResetRecharge
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Feather of the Nile
+  identifier: highfive:FeatheroftheNile
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Figaro
+  identifier: highfive:Figaro
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 466
+- title: Fishing for Cash
+  identifier: highfive:FishingforCash
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Forces of Nature
+  identifier: highfive:ForcesofNature
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fort of Fortune
+  identifier: highfive:FortofFortune1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Founding Fortunes Wins
+  identifier: highfive:FoundingFortunesWins
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: FoxFire
+  identifier: highfive:FoxFire
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Foxy Dynamite
+  identifier: highfive:FoxyDynamite
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 99
+- title: Fugitive Gold
+  identifier: highfive:FugitiveGold
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gameshow Glory
+  identifier: highfive:GameshowGlory
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Genie's Palace
+  identifier: highfive:GeniesPalace
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Glinda Glitters
+  identifier: highfive:GlindaGlitters
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Glory On Ice
+  identifier: highfive:GloryOnIce
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Gobblers Gone Wild
+  identifier: highfive:GobblersGoneWild
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Goddess of Valhalla
+  identifier: highfive:GoddessofValhalla
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Golden Gladiator
+  identifier: highfive:GoldenGladiator
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Knight
+  identifier: highfive:GoldenKnight
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Golden Knight II
+  identifier: highfive:GoldenKnightII
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Golden Peony
+  identifier: highfive:GoldenPeony
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Golden Sheep
+  identifier: highfive:GoldenSheep
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Golden Three Kingdom
+  identifier: highfive:GoldenThreeKingdom
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Gold O'Plenty
+  identifier: highfive:GoldOPlenty
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Goldstruck
+  identifier: highfive:Goldstruck
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Goldstruck Blasts!
+  identifier: highfive:GoldstruckBlasts
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Great Balloon Adventure
+  identifier: highfive:GreatBalloonAdventure
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Green Machine Supreme
+  identifier: highfive:GreenMachineSupreme
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Guardians of the Deep
+  identifier: highfive:GuardiansoftheDeep
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gypsy
+  identifier: highfive:Gypsy
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gypsy 3 Triple Tarot
+  identifier: highfive:Gypsy3TripleTarot
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hail King of Fortune
+  identifier: highfive:HailKingofFortune
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Harlequin Wins
+  identifier: highfive:HarlequinWins
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hollywood Queen
+  identifier: highfive:HollywoodQueen
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hootie's Fortune
+  identifier: highfive:HootiesFortune
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hoot Loot
+  identifier: highfive:HootLoot
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Blox
+  identifier: highfive:HotBlox
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Indiana Bones
+  identifier: highfive:IndianaBones
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: I Need A Hero
+  identifier: highfive:INeedAHero
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Interstellar Attack
+  identifier: highfive:InterstellarAttack
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jaguar Princess
+  identifier: highfive:JaguarPrincess
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Jaguar Princess Ways
+  identifier: highfive:JaguarPrincessWays
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jazz
+  identifier: highfive:Jazz
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 178
+- title: Jenson Matlock and the Gold Peacock
+  identifier: highfive:JensonMatlockandtheGoldPeacock
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker's Riches
+  identifier: highfive:JokersRiches
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Joker's Riches 2
+  identifier: highfive:JokersRiches2
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jungle Jack
+  identifier: highfive:JungleJack
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Kingdom of Gold Mystic Ways
+  identifier: highfive:KingdomofGoldMysticWays
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Kiss of the Rose
+  identifier: highfive:KissoftheRose
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: promo1
+  devices:
+  - desktop
+  - mobile
+- title: Lady Helsing
+  identifier: highfive:LadyHelsing
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Lawless Love
+  identifier: highfive:LawlessLove
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Legacy of the Nile
+  identifier: highfive:LegacyoftheNile
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Legacy of the Nile Extreme
+  identifier: highfive:LegacyoftheNileExtreme
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Legends of the Tomb
+  identifier: highfive:LegendsoftheTomb
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Legends of Troy
+  identifier: highfive:LegendsofTroy
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 'Legends of Troy: Achilles'' Glory'
+  identifier: highfive:LegendsofTroyAchillesGlory
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Legends of Troy: The Siege'
+  identifier: highfive:LegendsofTroyTheSiege
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Liger Loot
+  identifier: highfive:LigerLoot
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lion Heart
+  identifier: highfive:LionHeart
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Lucha Loot
+  identifier: highfive:LuchaLoot
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Horse
+  identifier: highfive:LuckyHorse
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 466
+- title: Lucky Lassie
+  identifier: highfive:LuckyLassie
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Pug
+  identifier: highfive:LuckyPug
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Rooster
+  identifier: highfive:LuckyRooster
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Strip
+  identifier: highfive:LuckyStrip
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Madame Fortune
+  identifier: highfive:MadameFortune
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Magnificent Jewels
+  identifier: highfive:MagnificentJewels
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Majestic Cats
+  identifier: highfive:MajesticCats
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Majestic Sea
+  identifier: highfive:MajesticSea
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Majestic Sea 2
+  identifier: highfive:MajesticSea2
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Mayan Goddess
+  identifier: highfive:MayanGoddess
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Medusa's Wild
+  identifier: highfive:MedusasWild
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Mega Multi Diamonds
+  identifier: highfive:MegaMultiDiamonds
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Michelangelo
+  identifier: highfive:Michelangelo
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 99
+- title: Michelangelo
+  identifier: highfive:Michelangelo1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 99
+- title: Midnight Eclipse
+  identifier: highfive:MidnightEclipse
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Moonlit Mermaids
+  identifier: highfive:MoonlitMermaids
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Moon Warriors
+  identifier: highfive:MoonWarriors
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Morgan Le Faye
+  identifier: highfive:MorganLeFaye
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Multiply Like Bunnies
+  identifier: highfive:MultiplyLikeBunnies
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mystery Train
+  identifier: highfive:MysteryTrain
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Night Jasmine
+  identifier: highfive:NightJasmine
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Night of the Wolf
+  identifier: highfive:NightoftheWolf
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Ocean's Opulence
+  identifier: highfive:OceansOpulence
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Old Mac Dollars
+  identifier: highfive:OldMacDollars
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: promo
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Old Money Deluxe
+  identifier: highfive:OldMoneyDeluxe
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Outback Walkabout
+  identifier: highfive:OutbackWalkabout
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pegasus Power
+  identifier: highfive:PegasusPower
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pele's Paradise
+  identifier: highfive:PelesParadise
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pele's Paradise Extreme
+  identifier: highfive:PelesParadiseExtreme
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pick-Nik Park
+  identifier: highfive:PickNikPark1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Platinum Goddess
+  identifier: highfive:PlatinumGoddess
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Platinum Goddess EXTREME
+  identifier: highfive:PlatinumGoddessEXTREME
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Platinum Goddess Power Bet
+  identifier: highfive:PlatinumGoddessPowerBet
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Platinum Goddess Ways
+  identifier: highfive:PlatinumGoddessWays
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Potion Payday
+  identifier: highfive:PotionPayday
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Potion Payday
+  identifier: highfive:PotionPayday1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pride and Prejudice
+  identifier: highfive:PrideandPrejudice
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Prince of the Night
+  identifier: highfive:PrinceoftheNight
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Purrates of the Catibbean
+  identifier: highfive:PurratesoftheCatibbean
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Quad Cat
+  identifier: highfive:QuadCat
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Quad Cat
+  identifier: highfive:QuadCat1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Quadruple DaVinci Diamonds
+  identifier: highfive:QuadrupleDaVinciDiamonds1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Queen Isabella
+  identifier: highfive:QueenIsabella
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Queen of the Gods
+  identifier: highfive:QueenoftheGods
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Queen's Guard
+  identifier: highfive:QueensGuard
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rainbow Trinkets
+  identifier: highfive:RainbowTrinkets
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rainbow Trinkets
+  identifier: highfive:RainbowTrinkets95
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Realm of Hades
+  identifier: highfive:RealmofHades
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Renoir Riches
+  identifier: highfive:RenoirRiches
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 99
+- title: Retro Riches
+  identifier: highfive:RetroRiches
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Riddle of Riches
+  identifier: highfive:RiddleofRiches
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Rise to Power
+  identifier: highfive:RisetoPower
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rise to Power
+  identifier: highfive:RisetoPower1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rocket Man
+  identifier: highfive:RocketMan
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 99
+- title: Roman Revelry
+  identifier: highfive:RomanRevelry
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Royal Rhino
+  identifier: highfive:RoyalRhinoPromo
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Run Amuck
+  identifier: highfive:RunAmuck
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Run Amuck
+  identifier: highfive:RunAmuck1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Russian Wolf
+  identifier: highfive:RussianWolf
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sailing the 7 Skies
+  identifier: highfive:Sailingthe7Skies
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 466
+- title: Santa's World
+  identifier: highfive:SantasWorld
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sapphire Tiger
+  identifier: highfive:SapphireTiger
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Secrets of the Festival
+  identifier: highfive:SecretsoftheFestival
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Secrets of the Forest
+  identifier: highfive:SecretsoftheForest
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 99
+- title: Secrets of the Forest 2 Pixie Paradise
+  identifier: highfive:SecretsoftheForest2PixieParadise
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Secrets of the Forest EXTREME
+  identifier: highfive:SecretsoftheForestEXTREME
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Secrets of the Pixies
+  identifier: highfive:SecretsofthePixies
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Shadow Diamond: Noir'
+  identifier: highfive:ShadowDiamondNoir
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Shadow of the Panther
+  identifier: highfive:ShadowofthePanther
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 'Shadow of the Panther: Power Bet'
+  identifier: highfive:ShadowofthePantherPowerBet
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+- title: Shark Shore
+  identifier: highfive:SharkShore
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Shark Squad
+  identifier: highfive:SharkSquad
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Silk and Steel
+  identifier: highfive:SilkandSteel
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Silver Enchantress
+  identifier: highfive:SilverEnchantress
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Silver Enchantress
+  identifier: highfive:SilverEnchantress1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Silver Enchantress Extreme
+  identifier: highfive:SilverEnchantressExtreme
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sirens
+  identifier: highfive:Sirens
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Siren's Cove
+  identifier: highfive:SirensCove
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Snow Monkeys
+  identifier: highfive:SnowMonkeys
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spin Again 7s
+  identifier: highfive:SpinAgain7s
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Spin-vention
+  identifier: highfive:Spinvention
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Split Dragon
+  identifier: highfive:SplitDragon
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Stackin' Kracken 7s
+  identifier: highfive:StackinKracken7s
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Tales of Hercules
+  identifier: highfive:TalesofHercules
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Teatime Treasures
+  identifier: highfive:TeatimeTreasures
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Temple of the Golden Monkey
+  identifier: highfive:TempleoftheGoldenMonkey
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 99
+- title: The Amulet and the Charm
+  identifier: highfive:TheAmuletandtheCharm
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 'The Amulet and the Charm: Power Bet'
+  identifier: highfive:TheAmuletandtheCharmPowerBet
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: The Charleston
+  identifier: highfive:TheCharleston
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 466
+- title: The Enchantment
+  identifier: highfive:TheEnchantment
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Flower Bride
+  identifier: highfive:TheFlowerBride
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Golden Vault of the Pharaohs
+  identifier: highfive:TheGoldenVaultofthePharaohs
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Golden Vault of the Pharaohs Power Bet
+  identifier: highfive:TheGoldenVaultofthePharaohsPowerBet
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: The Green Machine Deluxe
+  identifier: highfive:TheGreenMachineDeluxe
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Green Machine Deluxe Power Bet
+  identifier: highfive:TheGreenMachineDeluxePowerBet
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Green Machine Deluxe Racking Up Riches
+  identifier: highfive:TheGreenMachineDeluxeRackingUpRiches
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Haunted Horseman
+  identifier: highfive:TheHauntedHorseman
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 99
+- title: The Lady of Hope
+  identifier: highfive:TheLadyofHope
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Leprechaun King
+  identifier: highfive:TheLeprechaunKing
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: The Lovely Outlaws
+  identifier: highfive:TheLovelyOutlaws
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 99
+- title: The Swordsman
+  identifier: highfive:TheSwordsman
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: The Three Graces
+  identifier: highfive:TheThreeGraces
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: The Widow's Ways
+  identifier: highfive:TheWidowsWays
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Thundering Buffalo
+  identifier: highfive:ThunderingBuffalo
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Thundering Buffalo: Jackpot Dash'
+  identifier: highfive:ThunderingBuffaloJackpotDash
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tiki Idol
+  identifier: highfive:TikiIdol
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Time and Again
+  identifier: highfive:TimeandAgain
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Timeless Rose
+  identifier: highfive:TimelessRose
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tiny Treasures
+  identifier: highfive:TinyTreasures
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tokens of Fortune
+  identifier: highfive:TokensofFortune
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Trial By Fire
+  identifier: highfive:TrialByFire
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Triple Buffalo
+  identifier: highfive:TripleBuffalo
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Triple Double Da Vinci Diamonds
+  identifier: highfive:TripleDoubleDaVinciDiamonds
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Triple Hoot
+  identifier: highfive:TripleHoot
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Triple Monkey
+  identifier: highfive:TripleMonkey
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Triple Raven
+  identifier: highfive:TripleRaven
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Triple Topaz
+  identifier: highfive:TripleTopaz
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tumbling Together
+  identifier: highfive:TumblingTogether
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Turkey Revolt Extreme
+  identifier: highfive:TurkeyRevoltExtreme
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Twin Turbos
+  identifier: highfive:TwinTurbos
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Twin Win
+  identifier: highfive:TwinWin
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Ultimate Heist
+  identifier: highfive:UltimateHeist
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Valkyrie Queen
+  identifier: highfive:ValkyrieQueen
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Valley of Fortunes
+  identifier: highfive:ValleyofFortunes
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Vegas Ways
+  identifier: highfive:VegasWays
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Vivaldi's Seasons
+  identifier: highfive:VivaldisSeasons
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Warrior Maiden
+  identifier: highfive:WarriorMaiden
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Way Out Wilds
+  identifier: highfive:WayOutWilds
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+- title: Wellspring
+  identifier: highfive:Wellspring
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wellspring Eternal
+  identifier: highfive:WellspringEternal
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Western Champions
+  identifier: highfive:WesternChampions
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: West Journey Treasure Hunt
+  identifier: highfive:WestJourneyTreasureHunt
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: When Pigs Fly
+  identifier: highfive:WhenPigsFly
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: White Falls
+  identifier: highfive:WhiteFalls
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 466
+- title: Wild Horses
+  identifier: highfive:WildHorses
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Tusks
+  identifier: highfive:WildTusks
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Witches Riches
+  identifier: highfive:WitchesRiches
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wizard's Critters
+  identifier: highfive:WizardsCritters1
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wolf Guardian
+  identifier: highfive:WolfGuardian
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Workshop Wonders
+  identifier: highfive:WorkshopWonders
+  provider: highfive
+  producer: highfive
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

@@ -1,0 +1,2645 @@
+- title: 10000 BC DoubleMax
+  identifier: yggdrasil:10000BCDoubleMax
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 10 Hot Hotfire
+  identifier: yggdrasil:10HotHotfire
+  provider: yggdrasil
+  producer: acerun
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 10x Rewind
+  identifier: yggdrasil:10xRewind
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 12 Trojan Mysteries
+  identifier: yggdrasil:12TrojanMysteries
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 3021 The Bounty Hunter Gigablox
+  identifier: yggdrasil:3021TheBountyHunterGigablox
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 3 Lucky Leprechauns
+  identifier: yggdrasil:3LuckyLeprechauns
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 4 Fantastic Fish
+  identifier: yggdrasil:4FantasticFish
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 4 Fantastic Fish in Egypt
+  identifier: yggdrasil:4FantasticFishinEgypt
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 5 Clans
+  identifier: yggdrasil:5Clans
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 60 Second Heist
+  identifier: yggdrasil:60SecondHeist
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 7 Gold Gigablox
+  identifier: yggdrasil:7GoldGigablox
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 90k Yeti Gigablox
+  identifier: yggdrasil:90kYetiGigablox
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 46656
+- title: 9k Yeti
+  identifier: yggdrasil:9kYeti
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Achilles
+  identifier: yggdrasil:Achilles
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Age of Asgard
+  identifier: yggdrasil:AgeofAsgard
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Age of Beasts Infinity Reels
+  identifier: yggdrasil:AgeofBeastsInfinityReels
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Alchymedes
+  identifier: yggdrasil:Alchymedes
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Aldo's Journey
+  identifier: yggdrasil:AldosJourney
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 65
+- title: Ancient Eclipse
+  identifier: yggdrasil:AncientEclipse
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: ARRR! 10K Ways
+  identifier: yggdrasil:ARRR10KWays
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Vault of Fortune
+  identifier: yggdrasil:ArtefactsVaultofFortune
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Arthurs Fortune
+  identifier: yggdrasil:ArthursFortune
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Arctic Sorcerer Gigablox
+  identifier: yggdrasil:ArticSorcerer
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Atlantean GigaRise
+  identifier: yggdrasil:AtlanteanGigaRise
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Avatars Gateway Guardians
+  identifier: yggdrasil:AvatarsGatewayGuardians
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Badger Miners
+  identifier: yggdrasil:BadgerMiners
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bananaz 10K Ways
+  identifier: yggdrasil:Bananaz10KWays
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Barbarossa DoubleMax
+  identifier: yggdrasil:BarbarossaDoubleMax
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Baron Samedi
+  identifier: yggdrasil:BaronSamedi
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Beauty and the Beast
+  identifier: yggdrasil:BeautyAndTheBeast
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bicicleta
+  identifier: yggdrasil:Bicicleta
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Big Benji Bonanza
+  identifier: yggdrasil:BigBenjiBonanza
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Big Blox
+  identifier: yggdrasil:BigBlox
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Big Bucks Bandits Megaways
+  identifier: yggdrasil:BigBucksBanditsMegaways
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Big Bucks Buffalo Gigablox
+  identifier: yggdrasil:BigBucksBuffaloGigablox
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Blood Moon Wilds
+  identifier: yggdrasil:BloodMoonWilds
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Boilin’ Pots
+  identifier: yggdrasil:BoilinPots
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 16807
+  has_jackpot: true
+- title: Book Hotfire
+  identifier: yggdrasil:BookHotfire
+  provider: yggdrasil
+  producer: acerun
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Books
+  identifier: yggdrasil:BookofBooks
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bounty Pop
+  identifier: yggdrasil:BountyPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+- title: Brazil Bomba
+  identifier: yggdrasil:BrazilBomba
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 6
+- title: Bucks and Doe 10K Ways
+  identifier: yggdrasil:BucksandDoe10KWays
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Buffalo Blox Gigablox
+  identifier: yggdrasil:BuffaloBloxGigablox
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bugs Money
+  identifier: yggdrasil:BugsMoney
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Buster Hammer Carnival
+  identifier: yggdrasil:BusterHammerCarnival
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Calavera Crush
+  identifier: yggdrasil:CalaveraCrush
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Candyfinity
+  identifier: yggdrasil:Candyfinity
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 46656
+- title: Carol Of The Elves
+  identifier: yggdrasil:CarolOfTheElves
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cauldron
+  identifier: yggdrasil:Cauldron
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cazino Cosmos
+  identifier: yggdrasil:CazinoCosmos
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cazino Zeppelin
+  identifier: yggdrasil:CazinoZeppelin
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cazino Zeppelin Reloaded
+  identifier: yggdrasil:CazinoZeppelinReloaded
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Champion of the Underworld
+  identifier: yggdrasil:ChampionoftheUnderworld
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Champions of Rome
+  identifier: yggdrasil:ChampionsofRome
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cherry Pop
+  identifier: yggdrasil:CherryPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+- title: Cherry Pop Deluxe
+  identifier: yggdrasil:CherryPopDeluxe
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+  lines: 118098
+- title: Chibeasties
+  identifier: yggdrasil:Chibeasties
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Christmas Plaza Doublemax
+  identifier: yggdrasil:ChristmasPlazaDoublemax
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Critter Pop
+  identifier: yggdrasil:CritterPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+  lines: 65536
+- title: Crystal Falls Multimax
+  identifier: yggdrasil:CrystalFallsMultimax
+  provider: yggdrasil
+  producer: bulletproof
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cthulhu
+  identifier: yggdrasil:Cthulhu
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dark Vortex
+  identifier: yggdrasil:DarkVortex
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dead Man's Fingers
+  identifier: yggdrasil:DeadMansFingers
+  provider: yggdrasil
+  producer: gamevy
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Desperate Dawgs
+  identifier: yggdrasil:DesperateDawgs
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Desperate Dawgs 2 Gigablox
+  identifier: yggdrasil:DesperateDawgs2Gigablox
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Devour The Weak
+  identifier: yggdrasil:DevourTheWeak
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Diamond Symphony DoubleMax
+  identifier: yggdrasil:DiamondSymphonyDoubleMax
+  provider: yggdrasil
+  producer: bulletproof
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Double Dragons
+  identifier: yggdrasil:DoubleDragons
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Double Lucky Mushrooms DoubleMax
+  identifier: yggdrasil:DoubleLuckyMushroomsDoubleMax
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dragon Blox Gigablox
+  identifier: yggdrasil:DragonBloxGigablox
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dragon Lore Gigarise
+  identifier: yggdrasil:DragonLoreGigarise
+  provider: yggdrasil
+  producer: bulletproof
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Dr Fortuno
+  identifier: yggdrasil:DrFortuno
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Dublin Up Doublemax
+  identifier: yggdrasil:DublinUpDoublemax
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dungeon Tower MultiMax
+  identifier: yggdrasil:DungeonTowerMultiMax
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dwarf Mine
+  identifier: yggdrasil:DwarfMine
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Easter Island
+  identifier: yggdrasil:EasterIsland
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 103
+- title: Easter Island 2
+  identifier: yggdrasil:EasterIsland2
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 55
+- title: E-Force
+  identifier: yggdrasil:EForce
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Eldorado Infinity Reels
+  identifier: yggdrasil:EldoradoInfinityReels
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Elysian Jackpots
+  identifier: yggdrasil:ElysianJackpots
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Enchanted Waters
+  identifier: yggdrasil:EnchantedWaters
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Eye of Persia 2
+  identifier: yggdrasil:EyeofPersia2
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fast Fruits DoubleMax
+  identifier: yggdrasil:FastFruitsDoubleMax
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Festival 10K Ways
+  identifier: yggdrasil:Festival10KWays
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Firekick! MultiMax
+  identifier: yggdrasil:FirekickMultiMax
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Florageddon! DuoMax
+  identifier: yggdrasil:FlorageddonDuoMax
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Football Glory
+  identifier: yggdrasil:FootballGlory
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Frost Queen Jackpots
+  identifier: yggdrasil:FrostQueenJackpots
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fruit Combinator
+  identifier: yggdrasil:FruitCombinator
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 707
+- title: Fruit Gemz Splitz
+  identifier: yggdrasil:FruitGemzSplitz
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 19773
+- title: Fruitoids
+  identifier: yggdrasil:Fruitoids
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fury of Hyde Megaways
+  identifier: yggdrasil:FuryofHydeMegaways
+  provider: yggdrasil
+  producer: jelly
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gargoyle Infinity Reels
+  identifier: yggdrasil:GargoyleInfinityReels
+  provider: yggdrasil
+  producer: boomerangstudios
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gator Gold Deluxe Gigablox
+  identifier: yggdrasil:GatorGoldDeluxeGigablox
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gator Gold - Gigablox
+  identifier: yggdrasil:GatorGoldGigablox
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gem Rocks
+  identifier: yggdrasil:GemRocks
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gems Infinity Reels
+  identifier: yggdrasil:GemsInfinityReels
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: GigaGong GigaBlox
+  identifier: yggdrasil:GigaGongGigaBlox
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: promo
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Giganimals GigaBlox
+  identifier: yggdrasil:GiganimalsGigaBlox
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Giza Infinity Reels
+  identifier: yggdrasil:GizaInfinityReels
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: mal
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Gods VS Gigablox
+  identifier: yggdrasil:GodsVSGigablox
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Going Wild in Vegas Wild Fight
+  identifier: yggdrasil:GoingWildinVegasWildFight
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Golden Fishtank
+  identifier: yggdrasil:GoldenFishtank
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Golden Fish Tank 2 Gigablox
+  identifier: yggdrasil:GoldenFishtTank2Gigablox
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Golden Gorgon
+  identifier: yggdrasil:GoldenGorgon
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Golden Haul Infinity Reels
+  identifier: yggdrasil:GoldenHaulInfinityReels
+  provider: yggdrasil
+  producer: 4theplayer
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gold Fever
+  identifier: yggdrasil:GoldFever
+  provider: yggdrasil
+  producer: acerun
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hades
+  identifier: yggdrasil:Hades
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Hammer of Gods
+  identifier: yggdrasil:HammerofGods
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 729
+- title: Hanzo's Dojo
+  identifier: yggdrasil:HanzosDojo
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: HelioPOPolis
+  identifier: yggdrasil:HelioPOPolis
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+- title: Hell's Hogs
+  identifier: yggdrasil:HellsHogs
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hercules 10K Ways
+  identifier: yggdrasil:Hercules10KWays
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Hillbilly Vegas
+  identifier: yggdrasil:HillbillyVegas
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: HipHopPop
+  identifier: yggdrasil:HipHopPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+  lines: 118098
+- title: HippoPop
+  identifier: yggdrasil:HippoPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+- title: Holmes and the Stolen Stones
+  identifier: yggdrasil:Holmes
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Hunter Moon Gigablox
+  identifier: yggdrasil:HunterMoonGigablox
+  provider: yggdrasil
+  producer: bulletproof
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Hyper Burst
+  identifier: yggdrasil:HyperBurst
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hypernova 10K Ways
+  identifier: yggdrasil:Hypernova10KWays
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: false
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Hyper Respins
+  identifier: yggdrasil:HyperRespins
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Incinerator
+  identifier: yggdrasil:Incinerator
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jackpot Express
+  identifier: yggdrasil:JackpotExpress
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Jackpot Raiders
+  identifier: yggdrasil:JackpotRaiders
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Jaguar Super Ways
+  identifier: yggdrasil:JaguarSuperWays
+  provider: yggdrasil
+  producer: baddingo
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jekyllz Wild Ultranudge
+  identifier: yggdrasil:JekyllzWildUltranudge
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Johnan Legendarian
+  identifier: yggdrasil:JohnanLegendarian
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jokerizer
+  identifier: yggdrasil:Jokerizer
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jokrz Wild UltraNudge
+  identifier: yggdrasil:JokrzWildUltraNudge
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Jokrz Wild Ultranudge Gigablox
+  identifier: yggdrasil:JokrzWildUltranudgeGigablox
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Jumbo Jellies
+  identifier: yggdrasil:JumboJellies
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jungle Books
+  identifier: yggdrasil:JungleBooks
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 68
+- title: Krazy Klimber
+  identifier: yggdrasil:KrazyKlimber
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lady Merlin
+  identifier: yggdrasil:LadyMerlin
+  provider: yggdrasil
+  producer: boomerangstudios
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lady Merlin MultiMax
+  identifier: yggdrasil:LadyMerlinMultiMax
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Legend of the Golden Monkey
+  identifier: yggdrasil:LegendOfTheGoldenMonkey
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Legion Hot 1
+  identifier: yggdrasil:LegionHot1
+  provider: yggdrasil
+  producer: hotrisegames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lightning Joker
+  identifier: yggdrasil:LightningJoker
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: LolliPop
+  identifier: yggdrasil:LolliPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+  lines: 33614
+- title: Lucha Maniacs
+  identifier: yggdrasil:LuchaManiacs
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Neko
+  identifier: yggdrasil:LuckyNeko
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 85
+- title: Martian Miner Infinity Reels
+  identifier: yggdrasil:MartianMinerInfinityReels
+  provider: yggdrasil
+  producer: bbgames
+  category: slots
+  has_freespins: true
+  feature_group: test
+  devices:
+  - desktop
+  - mobile
+- title: Mayan Waterfalls
+  identifier: yggdrasil:MayanWaterfalls
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Medusa Hot 1
+  identifier: yggdrasil:MedusaHot1
+  provider: yggdrasil
+  producer: hotrisegames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Mega Cash Stacks
+  identifier: yggdrasil:MegaCashStacks
+  provider: yggdrasil
+  producer: bulletproof
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: MegaPearl Gigablox
+  identifier: yggdrasil:MegaPearlGigablox
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: MexoMax!
+  identifier: yggdrasil:MexoMax
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Midway Money
+  identifier: yggdrasil:MidwayMoney
+  provider: yggdrasil
+  producer: reellifegames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Money Mariachi Infinity Reels
+  identifier: yggdrasil:MoneyMariachiInfinityReels
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: MonkeyPop
+  identifier: yggdrasil:MonkeyPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+- title: Monster Blox Gigablox
+  identifier: yggdrasil:MonsterBloxGigablox
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Monsters Vs Gigablox
+  identifier: yggdrasil:MonstersVsGigablox
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Multifly
+  identifier: yggdrasil:Multifly
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Neon Rush
+  identifier: yggdrasil:NeonRush
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Neon Villains DoubleMax
+  identifier: yggdrasil:NeonVillainsDoubleMax
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Nice Catch DoubleMax
+  identifier: yggdrasil:NiceCatchDoubleMax
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Nightmares VS GigaBlox
+  identifier: yggdrasil:NightmaresVSGigaBlox
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Nirvana
+  identifier: yggdrasil:Nirvana
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Notre-Dame Tales GigaBlox
+  identifier: yggdrasil:NotreDameTalesGigaBlox
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Odin Infinity Reels
+  identifier: yggdrasil:OdinInfinityReels
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Of Sabers and Monsters
+  identifier: yggdrasil:OfSabersandMonsters
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Orca's Wild Bonanza
+  identifier: yggdrasil:OrcasWildBonanza
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Orient Express
+  identifier: yggdrasil:OrientExpress
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ozwin's Jackpots
+  identifier: yggdrasil:OzwinsJackpots
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Papaya Pop
+  identifier: yggdrasil:PapayaPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+  lines: 118098
+- title: Penguin City
+  identifier: yggdrasil:PenguinCity
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Peter Hunter
+  identifier: yggdrasil:PeterHunter
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pharaoh's Gaze Doublemax
+  identifier: yggdrasil:PharaohsGazeDoublemax
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: PiggyPop
+  identifier: yggdrasil:PiggyPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+- title: 'Pirates 2: Mutiny'
+  identifier: yggdrasil:Pirates2Mutiny
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 6
+- title: 'Pirates: Smugglers Paradise'
+  identifier: yggdrasil:PiratesSmugglersParadise
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 6
+- title: Power Of Love
+  identifier: yggdrasil:PowerOfLove
+  provider: yggdrasil
+  producer: reellifegames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Prized Pets Gigablox
+  identifier: yggdrasil:PrizedPetsGigablox
+  provider: yggdrasil
+  producer: northernlights
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Professor Clank’s Combinator
+  identifier: yggdrasil:ProfessorClanksCombinator
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Pumpkin Smash
+  identifier: yggdrasil:PumpkinSmash
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Purrfect Potions
+  identifier: yggdrasil:PurrfectPotions
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pushy Cats
+  identifier: yggdrasil:PushyCats
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: RagingPop
+  identifier: yggdrasil:RagingPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+  lines: 235298
+- title: Ragnawolves WildEnergy
+  identifier: yggdrasil:RagnawolvesWildEnergy
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rainbow Power Potz UltraNudge
+  identifier: yggdrasil:RainbowPowerPotzUltraNudge
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Rainbow Ryan
+  identifier: yggdrasil:RainbowRyan
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Raptor Doublemax
+  identifier: yggdrasil:RaptorDoublemax
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Reel Desire
+  identifier: yggdrasil:ReelDesire
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Return of the Valkyrie Splitz
+  identifier: yggdrasil:RiseoftheValkyrieSplitz
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15552
+- title: Roamin’ Romans UltraNudge
+  identifier: yggdrasil:RoaminRomansUltraNudge
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Robin Nottingham Raiders
+  identifier: yggdrasil:RobinNottinghamRaiders
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Robin Sherwood Marauders
+  identifier: yggdrasil:RobinSherwoodMarauders
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Royal Dragon Infinity Reels
+  identifier: yggdrasil:RoyalDragonInfinityReels
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: Sahara Nights
+  identifier: yggdrasil:SaharaNights
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Savanna Roar
+  identifier: yggdrasil:SavannaRoar
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Seasons
+  identifier: yggdrasil:Seasons
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Serendipity
+  identifier: yggdrasil:Serendipity
+  provider: yggdrasil
+  producer: gamevy
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Shadow Raiders MultiMax
+  identifier: yggdrasil:ShadowRaidersMultiMax
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Shaker Club
+  identifier: yggdrasil:ShakerClub
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spina Colada
+  identifier: yggdrasil:SpinaColada
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Starfire Fortunes TopHit
+  identifier: yggdrasil:StarfireFortunesTopHit
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Suncatcher Gigablox
+  identifier: yggdrasil:SuncatcherGigablox
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sunny Shores
+  identifier: yggdrasil:SunnyShores
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Super Cash Drop
+  identifier: yggdrasil:SuperCashDrop
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Super Cash Drop Gigablox
+  identifier: yggdrasil:SuperCashDropGigablox
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Syncronite - Splitz
+  identifier: yggdrasil:SyncroniteSplitz
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Syncronite - Splitz
+  identifier: yggdrasil:SyncroniteSplitz1
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Tempered Steel
+  identifier: yggdrasil:TemperedSteel
+  provider: yggdrasil
+  producer: bulletproof
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Temple Stacks: Splitz'
+  identifier: yggdrasil:TempleStacksSplitz
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Dark Joker Rizes
+  identifier: yggdrasil:TheDarkJokerRizes
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Hot Offer
+  identifier: yggdrasil:TheHotOffer
+  provider: yggdrasil
+  producer: bangbanggames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Legend of Musashi
+  identifier: yggdrasil:TheLegendofMusashi
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The One Armed Bandit
+  identifier: yggdrasil:TheOneArmedBandit
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Royal Family
+  identifier: yggdrasil:TheRoyalFamily
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Thor Infinity Reels
+  identifier: yggdrasil:ThorInfinityReels
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: false
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Thunderhawk
+  identifier: yggdrasil:Thunderhawk
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tiger Tiger
+  identifier: yggdrasil:TigerTiger
+  provider: yggdrasil
+  producer: gamevy
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Tiki Infinity Reels Megaways
+  identifier: yggdrasil:TikiInfinityReelsMegaways
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+- title: TikiPop
+  identifier: yggdrasil:TikiPop
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+- title: Tiki Runner 2 DoubleMax
+  identifier: yggdrasil:TikiRunner2DoubleMax
+  provider: yggdrasil
+  producer: bulletproof
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Time Machine
+  identifier: yggdrasil:TimeMachine
+  provider: yggdrasil
+  producer: reflexgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Time Travel Tigers
+  identifier: yggdrasil:TimeTravelTigers
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Towering Pays Excalibur
+  identifier: yggdrasil:ToweringPaysExcalibur
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Towering Pays Valhalla
+  identifier: yggdrasil:ToweringPaysValhalla
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Trolls Bridge
+  identifier: yggdrasil:TrollsBridge
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tut's Twister
+  identifier: yggdrasil:TutsTwister
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Valhalla Saga. Thunder of Thor
+  identifier: yggdrasil:ValhallaSagaThunderofThor
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Valkyries
+  identifier: yggdrasil:Valkyries
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Valley Of The Gods
+  identifier: yggdrasil:ValleyOfTheGods
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Valley of the Gods 2
+  identifier: yggdrasil:ValleyoftheGods2
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Vikings Go Berzerk Reloaded
+  identifier: yggdrasil:VikingGoBerzekReloaded
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Vikings Go Berzerk
+  identifier: yggdrasil:VikingsGoBerzerk
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Vikings go to Hell
+  identifier: yggdrasil:VikingsgotoHell
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Vikings Go To Valhalla
+  identifier: yggdrasil:VikingsGoToValhalla
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Vikings Go Wild
+  identifier: yggdrasil:VikingsGoWild
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Voodoo Hex
+  identifier: yggdrasil:VoodooHex
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: WaterBlox Gigablox
+  identifier: yggdrasil:WaterBloxGigablox
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wild Duel
+  identifier: yggdrasil:WildDuel
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Fishin' Wild Ways
+  identifier: yggdrasil:WildFishinWildWays
+  provider: yggdrasil
+  producer: jelly
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1944
+- title: Wild Joker Stacks
+  identifier: yggdrasil:WildJokerStacks
+  provider: yggdrasil
+  producer: reelplay
+  category: slots
+  has_freespins: true
+  feature_group: reelplay
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild One
+  identifier: yggdrasil:WildOne
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Wild Pops
+  identifier: yggdrasil:WildPops
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: false
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+- title: Wild Robo Factory
+  identifier: yggdrasil:WildRoboFactory
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wilhelm Tell
+  identifier: yggdrasil:WilhelmTell
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Winfall in Paradise
+  identifier: yggdrasil:WinfallinParadise
+  provider: yggdrasil
+  producer: reellifegames
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Winterberries
+  identifier: yggdrasil:Winterberries
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Winterberries 2
+  identifier: yggdrasil:Winterberries2
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wolf Hunters
+  identifier: yggdrasil:WolfHunters
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Xibalba
+  identifier: yggdrasil:Xibalba
+  provider: yggdrasil
+  producer: petersons
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Yokozuna Clash
+  identifier: yggdrasil:YokozunaClash
+  provider: yggdrasil
+  producer: yggdrasil
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Zombie aPOPalypse
+  identifier: yggdrasil:ZombieaPOPalypse
+  provider: yggdrasil
+  producer: avatarux
+  category: slots
+  has_freespins: true
+  feature_group: basicaux
+  devices:
+  - desktop
+  - mobile
+  lines: 6250

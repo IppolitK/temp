@@ -1,0 +1,154 @@
+- title: AutoRoulette 1
+  identifier: luckystreak:AutoRoulette1
+  provider: luckystreak
+  producer: luckystreak
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Autoroulette 2
+  identifier: luckystreak:Autoroulette2
+  provider: luckystreak
+  producer: luckystreak
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat
+  identifier: luckystreak:Baccarat
+  provider: luckystreak
+  producer: luckystreak
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat 4
+  identifier: luckystreak:Baccarat4
+  provider: luckystreak
+  producer: luckystreak
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 16
+  identifier: luckystreak:Blackjack16
+  provider: luckystreak
+  producer: luckystreak
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 2
+  identifier: luckystreak:Blackjack2
+  provider: luckystreak
+  producer: luckystreak
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 6
+  identifier: luckystreak:Blackjack6
+  provider: luckystreak
+  producer: luckystreak
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 7
+  identifier: luckystreak:Blackjack7
+  provider: luckystreak
+  producer: luckystreak
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack VIP
+  identifier: luckystreak:BlackjackVIP
+  provider: luckystreak
+  producer: luckystreak
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: BlackjackVIP2
+  identifier: luckystreak:BlackjackVIP2
+  provider: luckystreak
+  producer: luckystreak
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Oracle 360
+  identifier: luckystreak:Oracle360
+  provider: luckystreak
+  producer: luckystreak
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Portomaso Oracle Roulette 2
+  identifier: luckystreak:PortomasoOracleRoulette2
+  provider: luckystreak
+  producer: luckystreak
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 1
+  identifier: luckystreak:Roulette1
+  provider: luckystreak
+  producer: luckystreak
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette 3
+  identifier: luckystreak:Roulette3
+  provider: luckystreak
+  producer: luckystreak
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true

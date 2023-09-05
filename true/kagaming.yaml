@@ -1,0 +1,6068 @@
+- title: 4 Dragon Kings
+  identifier: kagaming:4DragonKings
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 777 Vegas
+  identifier: kagaming:777Vegas
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Aces & Eights
+  identifier: kagaming:AcesAndEights
+  provider: kagaming
+  producer: kagaming
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Acrobats
+  identifier: kagaming:Acrobats
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Africa Run
+  identifier: kagaming:AfricaRun
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Agent Angels
+  identifier: kagaming:AgentAngels
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Air Combat 1942
+  identifier: kagaming:AirCombat1942
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Artificial Intelligence
+  identifier: kagaming:Al
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Aladdin
+  identifier: kagaming:Aladdin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Alexander the Great
+  identifier: kagaming:AlexanderTheGreat
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 192
+- title: Alice In MegaLand
+  identifier: kagaming:AliceInMegaLand
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Alice In Wonderland
+  identifier: kagaming:AliceInWonderland
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Alter World
+  identifier: kagaming:AlterWorld
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: American Burger
+  identifier: kagaming:AmericanBurger
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Angry Piggies
+  identifier: kagaming:AngryPiggies
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Animal Dojo
+  identifier: kagaming:AnimalDojo
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Animal Fishing
+  identifier: kagaming:AnimalFishing
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Animal Land
+  identifier: kagaming:AnimalLand
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Apes
+  identifier: kagaming:Apes
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Apollo And Artemis
+  identifier: kagaming:ApolloAndArtemis
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Archer Robin Hood
+  identifier: kagaming:ArcherRobinHood
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Arctic Storm
+  identifier: kagaming:ArcticStorm
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ares God of War
+  identifier: kagaming:Ares
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Artist Studio
+  identifier: kagaming:ArtistStudio
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: A Thirsty Crow
+  identifier: kagaming:AThirstyCrow
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Atlantide
+  identifier: kagaming:Atlantide
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Aurora
+  identifier: kagaming:Aurora
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Baccarat
+  identifier: kagaming:Baccarat
+  provider: kagaming
+  producer: kagaming
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bakery Sweetness
+  identifier: kagaming:Bakery
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Baseball Fever
+  identifier: kagaming:BaseballFever
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ba Wang Bie Ji
+  identifier: kagaming:BaWangBieJi
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Bear Run
+  identifier: kagaming:BearRun
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Beautiful Lady
+  identifier: kagaming:BeautifulLady
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beauty Trap
+  identifier: kagaming:BeautyTrap
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Big Apple
+  identifier: kagaming:BigApple
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bigfoot Yeti
+  identifier: kagaming:BigfootYeti
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Bionic Human
+  identifier: kagaming:BionicHuman
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Black Rider
+  identifier: kagaming:BlackRider
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Blocky Blocks
+  identifier: kagaming:BlockyBlocks
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blocky Blocks 2
+  identifier: kagaming:BlockyBlocks2
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bollywood Romance
+  identifier: kagaming:BollywoodRomance
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bombing Fruit
+  identifier: kagaming:BombingFruit
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Mania
+  identifier: kagaming:BonusMania
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Bonus Mania Deluxe
+  identifier: kagaming:BonusManiaDeluxe
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Bonus Poker
+  identifier: kagaming:BonusPoker
+  provider: kagaming
+  producer: kagaming
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Vending
+  identifier: kagaming:BonusVending
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Book of Mummy
+  identifier: kagaming:BookOfMummy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Boom X
+  identifier: kagaming:BoomX
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bounty Hunter
+  identifier: kagaming:BountyHunter
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Boxing Roo
+  identifier: kagaming:BoxingRoo
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Boy Toys
+  identifier: kagaming:BoyToys
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bubble Double
+  identifier: kagaming:BubbleDouble
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bull Stampede
+  identifier: kagaming:BullStampede
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Bumble Bee
+  identifier: kagaming:BumbleBee
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Bunny Girl
+  identifier: kagaming:BunnyGirl
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Butterfly Lovers
+  identifier: kagaming:ButterflyLovers
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cai Shen Dao
+  identifier: kagaming:CaiShenDao
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cai Yuan Guang Jin
+  identifier: kagaming:CaiYuanGuangJin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Calabash Boys
+  identifier: kagaming:CalabashBoys
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Calorie Killer
+  identifier: kagaming:CalorieKiller
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Can Can
+  identifier: kagaming:Cancan
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Candy Mania
+  identifier: kagaming:CandyMania
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Candy Storm
+  identifier: kagaming:CandyStorm
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cantonese Fried Noodles
+  identifier: kagaming:CantoneseFriedNoodles
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Cat and Mouse
+  identifier: kagaming:CatandMouse
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Catch The Thief
+  identifier: kagaming:CatchTheThief
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cat Museum
+  identifier: kagaming:CatMuseum
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Chai Gong
+  identifier: kagaming:ChaiGong
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Chain of Wild
+  identifier: kagaming:ChainOfWild
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Charlottes Web
+  identifier: kagaming:CharlottesWeb
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Charming Sorceress
+  identifier: kagaming:CharmingSorceress
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cheerleading Team
+  identifier: kagaming:CheerleadingTeam
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cheer Up
+  identifier: kagaming:CheerUp
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Chinese Ancient Tomb
+  identifier: kagaming:ChineseAncientTomb
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Chinese Feast
+  identifier: kagaming:ChineseFeast
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Chinese Opera
+  identifier: kagaming:ChineseOpera
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Chinese Pastry
+  identifier: kagaming:ChinesePastry
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Chinese Quyi
+  identifier: kagaming:ChineseQuyi
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Chinese Valentines Day
+  identifier: kagaming:ChineseValentinesDay
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Chivalrous Girl
+  identifier: kagaming:ChivalrousGirl
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Chi You
+  identifier: kagaming:ChiYou
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Christmas Candy
+  identifier: kagaming:ChristmasCandy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Glass Slipper
+  identifier: kagaming:Cinderella
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Clean House
+  identifier: kagaming:CleanHouse
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cocorico
+  identifier: kagaming:Cocorico
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Coffee Wild
+  identifier: kagaming:CoffeeWild
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Come On Rhythm
+  identifier: kagaming:ComeOnRhythm
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: County Seat
+  identifier: kagaming:CountySeat
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Cowboys
+  identifier: kagaming:Cowboys
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Crazy Circus
+  identifier: kagaming:CrazyCircus
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Crazy Gym
+  identifier: kagaming:CrazyGym
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Crazy Womens Jail
+  identifier: kagaming:CrazyWomensJail
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Creator Ra
+  identifier: kagaming:CreatorRa
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cricket Winner
+  identifier: kagaming:CricketWinner
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cthulhu Secret
+  identifier: kagaming:CthulhuSecret
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cu Ju
+  identifier: kagaming:CuJu
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cupid And Psyche
+  identifier: kagaming:CupidAndPsyche
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Da Guan Yuan
+  identifier: kagaming:DaGuanYuan
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dark Family
+  identifier: kagaming:DarkFamily
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dark Fortress
+  identifier: kagaming:DarkFortress
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: da Vinci
+  identifier: kagaming:DaVinci
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dia De Muertos
+  identifier: kagaming:DayOfDead
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Deep Sea Adventure
+  identifier: kagaming:DeepSea
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Demon Fox
+  identifier: kagaming:DemonFox
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Detective Dee
+  identifier: kagaming:DetectiveDee
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Devil Buster
+  identifier: kagaming:DevilBuster
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Diamond Power
+  identifier: kagaming:DiamondPower
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dim Sum
+  identifier: kagaming:DimSum
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Don Quixote
+  identifier: kagaming:DonQuixote
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Double Fortune
+  identifier: kagaming:DoubleFortune
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Double Happiness
+  identifier: kagaming:DoubleHappiness
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: Dracula
+  identifier: kagaming:Dracula
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dragon Ball
+  identifier: kagaming:DragonBall
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Boat
+  identifier: kagaming:DragonBoat
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dragon Boat 2 Lock 2 Spin Treasure
+  identifier: kagaming:DragonBoat2Lock2Spin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dragon Gate
+  identifier: kagaming:DragonGate
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Dragon Inn
+  identifier: kagaming:DragonInn
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Legend of Dragons
+  identifier: kagaming:DragonsLegend
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon's Way
+  identifier: kagaming:DragonsWay
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Turtle
+  identifier: kagaming:DragonTurtle
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Dreamcatcher
+  identifier: kagaming:Dreamcatcher
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Dr. Geek
+  identifier: kagaming:DrGeek
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dwarf Miner
+  identifier: kagaming:DwarfMiner
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Earth God
+  identifier: kagaming:EarthGod
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: EasterEggParty
+  identifier: kagaming:EasterEggParty
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mysterious Pyramid
+  identifier: kagaming:Egypt
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Egyptian Empress
+  identifier: kagaming:EgyptianEmpress
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Egyptian Mythology
+  identifier: kagaming:EgyptianMythology
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Eight Treasures
+  identifier: kagaming:EightTreasures
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Elite Games
+  identifier: kagaming:EliteGames
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Emoji
+  identifier: kagaming:Emoji
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Emperor Qin
+  identifier: kagaming:EmperorQin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Empty City
+  identifier: kagaming:EmptyCity
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Enchanted
+  identifier: kagaming:Enchanted
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Endorser of Thor
+  identifier: kagaming:EndorserOfThor
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Erlang Shen
+  identifier: kagaming:ErlangShen
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: European Roulette
+  identifier: kagaming:EuropeanRoulette
+  provider: kagaming
+  producer: kagaming
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Evil Pumpkin
+  identifier: kagaming:EvilPumpkin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fa Cai Destiny
+  identifier: kagaming:FaCaiDestiny
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Fairy Dust
+  identifier: kagaming:FairyDust
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fairy Forest Tale
+  identifier: kagaming:FairyForestTale
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Fantasy 777
+  identifier: kagaming:Fantasy777
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fantasy Dragons
+  identifier: kagaming:FantasyDragons
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fantasy Park
+  identifier: kagaming:FantasyPark
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: Fashion Bones
+  identifier: kagaming:FashionBones
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fast Blast
+  identifier: kagaming:FastBlast
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fastbreak
+  identifier: kagaming:Fastbreak
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fighting Girls
+  identifier: kagaming:FightingGirls
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fire Dragons
+  identifier: kagaming:FireDragons
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Firefighters
+  identifier: kagaming:Firefighters
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fire Hit
+  identifier: kagaming:FireHit
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fishing Expedition
+  identifier: kagaming:FishingExpedition
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Five Fortune Gods
+  identifier: kagaming:FiveFortuneGods
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Five Heroes
+  identifier: kagaming:FiveHeroes
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Five Sound Fortune
+  identifier: kagaming:FiveSoundFortune
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Flaming 7's
+  identifier: kagaming:Flaming7
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Flower Goddess Festival
+  identifier: kagaming:FlowerGoddessFestival
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Fruit Mountain
+  identifier: kagaming:FlowersFruitMountain
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Fluffy Buddy
+  identifier: kagaming:FluffyBuddy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Food Coma
+  identifier: kagaming:FoodComa
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Football Mania
+  identifier: kagaming:FootballMania
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Force of Dragon
+  identifier: kagaming:ForceOfDragon
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Formosan Birds
+  identifier: kagaming:FormosanBirds
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fortuna
+  identifier: kagaming:Fortuna
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fortune Beauty Megaways
+  identifier: kagaming:FortuneBeauty
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fortune Feast Fusion Reels
+  identifier: kagaming:FortuneFeast
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fortune Fu
+  identifier: kagaming:FortuneFu
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Fortune Ganesha
+  identifier: kagaming:FortuneGanesha
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fortune God
+  identifier: kagaming:FortuneGod
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fortune Lions
+  identifier: kagaming:FortuneLions
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fortune Piggy Bank
+  identifier: kagaming:FortunePiggyBank
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fortune Rabbit Lock 2 Spin
+  identifier: kagaming:FortuneRabbit
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fortune Star Lock 2 Spin
+  identifier: kagaming:FortuneStar
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Four Beauties
+  identifier: kagaming:FourBeauties
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: The Four Scholars
+  identifier: kagaming:FourScholars
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Foxy Mama
+  identifier: kagaming:FoxyMama
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Frankenstein
+  identifier: kagaming:Frankenstein
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fruit Party
+  identifier: kagaming:FruitParty
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fu Lu Shou
+  identifier: kagaming:FuLuShou
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fu Shenlong
+  identifier: kagaming:FuShenlong
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Gangster
+  identifier: kagaming:Gangster
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Geisha
+  identifier: kagaming:Geisha
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: A Girl's Best Friend
+  identifier: kagaming:Gem
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Genghis Khan
+  identifier: kagaming:GenghisKhan
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Ghostbuster
+  identifier: kagaming:Ghostbuster
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ghost Festival
+  identifier: kagaming:GhostFestival
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Ghosts Fortune
+  identifier: kagaming:GhostsFortune
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Giant Fish Hunter
+  identifier: kagaming:GiantFishHunter
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Giants
+  identifier: kagaming:Giants
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Glacial Epoch
+  identifier: kagaming:GlacialEpoch
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: God of Gamblers
+  identifier: kagaming:GodOfGamblers
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: God of Love
+  identifier: kagaming:GodofLove
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: Go Escape
+  identifier: kagaming:GoEscape
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Go Go Magic Cat
+  identifier: kagaming:GoGoMagicCat
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: GO GO Magic Dog
+  identifier: kagaming:GOGOMagicDog
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Go Go Monsters
+  identifier: kagaming:GoGoMonsters
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gokudo Bentou
+  identifier: kagaming:GokudoBentou
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Golden 777
+  identifier: kagaming:Golden777
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Golden Ball
+  identifier: kagaming:GoldenBall
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Bull
+  identifier: kagaming:GoldenBull
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Dragon
+  identifier: kagaming:GoldenDragon
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Fish
+  identifier: kagaming:GoldenFish
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Golden Fish Hunter
+  identifier: kagaming:GoldenFishHunter
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Shanghai
+  identifier: kagaming:GoldenShanghai
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gold Magic
+  identifier: kagaming:GoldMagic
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: California Gold Rush
+  identifier: kagaming:GoldRush
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Great Courtyard
+  identifier: kagaming:GreatCourtyard
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Great Doctor
+  identifier: kagaming:GreatDoctor
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Great Luck
+  identifier: kagaming:GreatLuck
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Great Voyages
+  identifier: kagaming:GreatVoyages
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 192
+- title: Greedy Night
+  identifier: kagaming:GreedyNight
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Green Party
+  identifier: kagaming:GreenParty
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Guan Yun Chang
+  identifier: kagaming:GuanYunChang
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Hamlet
+  identifier: kagaming:Hamlet
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hanabi
+  identifier: kagaming:Hanabi
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hansel and Gretel
+  identifier: kagaming:HanselAndGretel
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Happy Animal Farm
+  identifier: kagaming:HappyAnimalFarm
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Farm Mania
+  identifier: kagaming:HappyFarm
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Happy Food Hunter
+  identifier: kagaming:HappyFoodHunter
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Happy Indian Chef
+  identifier: kagaming:HappyIndianChef
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Happy Thanksgiving
+  identifier: kagaming:HappyThanksgiving
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hare vs Tortoise
+  identifier: kagaming:HareVSTortoise
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: Hat Seller
+  identifier: kagaming:HatSeller
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Heng and Ha
+  identifier: kagaming:HengandHa
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Heroines of the Marsh
+  identifier: kagaming:HeroinesOfTheMarsh
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Hip Hop
+  identifier: kagaming:HipHop
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Holiday Carol Lock 2 Spin
+  identifier: kagaming:HolidayCarol
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Holy Beast
+  identifier: kagaming:HolyBeast
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Home Run X
+  identifier: kagaming:HomeRunX
+  provider: kagaming
+  producer: kagaming
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Honey Money
+  identifier: kagaming:HoneyMoney
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hong Kong 60s
+  identifier: kagaming:HongKong60s
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Horoscope
+  identifier: kagaming:Horoscope
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hou Yi
+  identifier: kagaming:HouYi
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hua Mulan
+  identifier: kagaming:HuaMulan
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hu Hu Fighting
+  identifier: kagaming:HuHuFighting
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 108
+- title: Hungry Shark
+  identifier: kagaming:HungryShark
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hungry Shark Cthulhu
+  identifier: kagaming:HungrySharkCthulhu
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hunter Helibu
+  identifier: kagaming:HunterHelibu
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hu Yeh
+  identifier: kagaming:HuYeh
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hypersonic X
+  identifier: kagaming:HypersonicX
+  provider: kagaming
+  producer: kagaming
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Idun's Garden Fusion Reels
+  identifier: kagaming:IdunsGarden
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Imperial Girls
+  identifier: kagaming:ImperialGirls
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ming Imperial Guards
+  identifier: kagaming:ImperialGuards
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Impossible X
+  identifier: kagaming:ImpossibleX
+  provider: kagaming
+  producer: kagaming
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Infinity X
+  identifier: kagaming:InfinityX
+  provider: kagaming
+  producer: kagaming
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Irish Coins
+  identifier: kagaming:IrishCoins
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Iron Chicken Hunter
+  identifier: kagaming:IronChickenHunter
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jade Power
+  identifier: kagaming:JadePower
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: James Bond
+  identifier: kagaming:JamesBond
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Japanese 7 Heroes
+  identifier: kagaming:Japanese7Heroes
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jellymania
+  identifier: kagaming:JellyMania
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Jingwei
+  identifier: kagaming:Jingwei
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Fruit
+  identifier: kagaming:JokerFruit
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Slot
+  identifier: kagaming:JokerSlot
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Journey to the West
+  identifier: kagaming:JourneyToWest
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jungle
+  identifier: kagaming:Jungle
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: KA Fish Hunter
+  identifier: kagaming:KAFishHunter
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: KA Fish Party
+  identifier: kagaming:KAFishParty
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Kai Feng Fu
+  identifier: kagaming:KaiFengFu
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Kick Pumpkin
+  identifier: kagaming:KickPumpkin
+  provider: kagaming
+  producer: kagaming
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: King Octopus
+  identifier: kagaming:KingOctopus
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: King Of Dragon
+  identifier: kagaming:KingOfDragon
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Kitty Living
+  identifier: kagaming:Kitty
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Medieval Knights
+  identifier: kagaming:Knights
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: KungFu Kash
+  identifier: kagaming:KungFu
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: KungFu Kaga
+  identifier: kagaming:KungFuKaga
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lady KAKA
+  identifier: kagaming:LadyKAKA
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lady Racer
+  identifier: kagaming:LadyRacer
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Land Of Dwarfs
+  identifier: kagaming:LandOfDwarfs
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Lands of Gold
+  identifier: kagaming:LandOfGold
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lantern Festival
+  identifier: kagaming:LanternFestival
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Last Fantasy
+  identifier: kagaming:LastFantasy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: La Tomatina
+  identifier: kagaming:LaTomatina
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lazy Rich
+  identifier: kagaming:LazyRich
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Daji
+  identifier: kagaming:LeagueOfGods
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Legend Of Akihiro
+  identifier: kagaming:LegendOfAkihiro
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Legend Of Athena
+  identifier: kagaming:LegendOfAthena
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Legend Of Erlang
+  identifier: kagaming:LegendOfErlang
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Legend Of Fox Spirit
+  identifier: kagaming:LegendOfFoxSpirit
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Legend of Legends
+  identifier: kagaming:LegendofLegends
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Legend of Paladin
+  identifier: kagaming:LegendOfPaladin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Leprechauns
+  identifier: kagaming:Leprechauns
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lightning Goddess
+  identifier: kagaming:LightningGoddess
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lilith
+  identifier: kagaming:Lilith
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lion Dance
+  identifier: kagaming:LionDance
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lion King And Eagle King
+  identifier: kagaming:LionKingAndEagleKing
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lion VS Shark
+  identifier: kagaming:LionVSShark
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Little Monk
+  identifier: kagaming:LittleMonk
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Live Streaming Star
+  identifier: kagaming:LiveStreamingStar
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lounge Club
+  identifier: kagaming:LoungeClub
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Love Amongst War
+  identifier: kagaming:LoveAmongstWar
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Love Game
+  identifier: kagaming:LoveGame
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Love In Memory
+  identifier: kagaming:LoveInMemory
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: Luck88
+  identifier: kagaming:Luck88
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Ailurus
+  identifier: kagaming:LuckyAilurus
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lucky Casino
+  identifier: kagaming:LuckyCasino
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Lucky Cat
+  identifier: kagaming:LuckyCat
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lucky Gem Fusion Reels
+  identifier: kagaming:LuckyGem
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Lucky God
+  identifier: kagaming:LuckyGod
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lucky Inn
+  identifier: kagaming:LuckyInn
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lucky Lucky
+  identifier: kagaming:LuckyLucky
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Penguins
+  identifier: kagaming:LuckyPenguins
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Star
+  identifier: kagaming:LuckyStar
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Tumbler
+  identifier: kagaming:LuckyTumbler
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Video Poker
+  identifier: kagaming:LuckyVideoPoker
+  provider: kagaming
+  producer: kagaming
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Luxury Garage
+  identifier: kagaming:LuxuryGarage
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: Magical Store
+  identifier: kagaming:MagicalStore
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Magic Apprentice
+  identifier: kagaming:MagicApprentice
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Magician House
+  identifier: kagaming:MagicianHouse
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Magic Queen
+  identifier: kagaming:MagicQueen
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Magic Witches
+  identifier: kagaming:MagicWitches
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mahjong Master
+  identifier: kagaming:MahjongMaster
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Masquerade
+  identifier: kagaming:Masquerade
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Master of Wulin Lock 2 Spin
+  identifier: kagaming:MasterOfWulin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mayan Gold
+  identifier: kagaming:MayanGold
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mazu
+  identifier: kagaming:Mazu
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Medal Winner Megaways
+  identifier: kagaming:MedalWinner
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Medusa
+  identifier: kagaming:Medusa
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Meerkat's Family
+  identifier: kagaming:MeerkatsFamily
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Meowfia
+  identifier: kagaming:Meowfia
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mermaid Seas
+  identifier: kagaming:Mermaid
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Mermaid Hunter
+  identifier: kagaming:MermaidHunter
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mermaid Legend
+  identifier: kagaming:MermaidLegend
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mermaid World
+  identifier: kagaming:MermaidWorld
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mexicaliente
+  identifier: kagaming:Mexicaliente
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Midas Touch
+  identifier: kagaming:MidasTouch
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Milk Girl
+  identifier: kagaming:MilkGirl
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Millennium Love
+  identifier: kagaming:MillenniumLove
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Millionaires
+  identifier: kagaming:Millionaires
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mirror House
+  identifier: kagaming:MirrorHouse
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Miss Joker
+  identifier: kagaming:MissJoker
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Miss Tiger
+  identifier: kagaming:MissTiger
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Monkey And Crab
+  identifier: kagaming:MonkeyAndCrab
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Monkey Maniac
+  identifier: kagaming:MonkeyManiac
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Monster Buster
+  identifier: kagaming:MonsterBuster
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Monster Collector
+  identifier: kagaming:MonsterCollector
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Monster File
+  identifier: kagaming:MonsterFile
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Monster Island
+  identifier: kagaming:MonsterIsland
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Monster Parade
+  identifier: kagaming:MonsterParade
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Moon Goddess
+  identifier: kagaming:MoonGoddess
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Moulin Rouge
+  identifier: kagaming:MoulinRouge
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Muay Thai
+  identifier: kagaming:MuayThai
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Muscle Cars
+  identifier: kagaming:MuscleCars
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Trippy Mushrooms
+  identifier: kagaming:Mushrooms
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Musketeers
+  identifier: kagaming:Musketeers
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Mystery Alahemy
+  identifier: kagaming:MysteryAlchemy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mystery Shoot
+  identifier: kagaming:MysteryShoot
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Mythic
+  identifier: kagaming:Mythic
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 36
+- title: Mythical Beast
+  identifier: kagaming:MythicalBeast
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mythological Creatures
+  identifier: kagaming:MythologicalCreatures
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Naughty Witches
+  identifier: kagaming:NaughtyWitches
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Neanderthals
+  identifier: kagaming:Neanderthals
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Nezha
+  identifier: kagaming:Nezha
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Nian
+  identifier: kagaming:Nian
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Nie Xiaoqian
+  identifier: kagaming:NieXiaoqian
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Night on the Nile
+  identifier: kagaming:NightOnTheNile
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Nine Lucks
+  identifier: kagaming:NineLucks
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Ninja
+  identifier: kagaming:Ninja
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: No Fly Zone
+  identifier: kagaming:NoFlyZone
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Nvwa
+  identifier: kagaming:Nvwa
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ocean Princess
+  identifier: kagaming:OceanPrincess
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ocean Star Hunting
+  identifier: kagaming:OceanStarHunting
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Oktoberfest
+  identifier: kagaming:Oktoberfest
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Onmyoji
+  identifier: kagaming:Onmyoji
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Oriental Beast
+  identifier: kagaming:OrientalBeast
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Oriental Monster
+  identifier: kagaming:OrientalMonster
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Origin Of Fire
+  identifier: kagaming:OriginOfFire
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Owl In Forest
+  identifier: kagaming:OwlInForest
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Panda Family
+  identifier: kagaming:PandaFamily
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pandora's Box
+  identifier: kagaming:Pandora
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Party Girl
+  identifier: kagaming:PartyGirl
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Party Girl Ways
+  identifier: kagaming:PartyGirlWays
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Penalty Kick
+  identifier: kagaming:PenaltyKick
+  provider: kagaming
+  producer: kagaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Penguin Family Lock 2 Spin
+  identifier: kagaming:PenguinFamily
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Persia Bonanza Megaways
+  identifier: kagaming:PersiaBonanza
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Peter Pan
+  identifier: kagaming:PeterPan
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: Pets
+  identifier: kagaming:Pets
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Phoenix Rising
+  identifier: kagaming:PhoenixRising
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Pied Piper
+  identifier: kagaming:PiedPiper
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Piggy Bank Machine
+  identifier: kagaming:PiggyBankMachine
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Pinata
+  identifier: kagaming:Pinata
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pinocchio
+  identifier: kagaming:Pinocchio
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Captain Pirate
+  identifier: kagaming:Pirate
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pirate King
+  identifier: kagaming:PirateKing
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Plague Doctor
+  identifier: kagaming:PlagueDoctor
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: PlinkoS
+  identifier: kagaming:PlinkoS
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Po Chi Lam
+  identifier: kagaming:PoChiLam
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Polaroid
+  identifier: kagaming:Polaroid
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Polynesian
+  identifier: kagaming:Polynesian
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Poseidon's Treasure
+  identifier: kagaming:Poseidon
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Poseidon Battle
+  identifier: kagaming:PoseidonBattle
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Poseidon Secret
+  identifier: kagaming:PoseidonSecret
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Priceless Museum Fusion Reels
+  identifier: kagaming:PricelessMuseum
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Primeval Rainforest
+  identifier: kagaming:PrimevalForest
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Puffer Swimming
+  identifier: kagaming:PufferSwimming
+  provider: kagaming
+  producer: kagaming
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pumpkin Win
+  identifier: kagaming:PumpkinWin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Quadruple Dragons
+  identifier: kagaming:QuadrupleDragons
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Quick Play Candy
+  identifier: kagaming:QuickPlayCandy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Quick Play Jewels
+  identifier: kagaming:QuickPlayJewels
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Quick Play Mahjong
+  identifier: kagaming:QuickPlayMahjong
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Rabbit Party
+  identifier: kagaming:RabbitParty
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rarities
+  identifier: kagaming:Rarities
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Red Baron
+  identifier: kagaming:RedBaron
+  provider: kagaming
+  producer: kagaming
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Red Boy
+  identifier: kagaming:RedBoy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Red Cliff
+  identifier: kagaming:RedCliff
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Red Riding Hood
+  identifier: kagaming:RedRidingHood
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: Red Sorghum
+  identifier: kagaming:RedSorghum
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Rich Diwali
+  identifier: kagaming:RichDiwali
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Rich Farm
+  identifier: kagaming:RichFarm
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rich Squire
+  identifier: kagaming:RichSquire
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Robots
+  identifier: kagaming:Robots
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Robot Wars
+  identifier: kagaming:RobotWars
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Romance In England
+  identifier: kagaming:RomanceInEngland
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Rouran Khaganate
+  identifier: kagaming:RouranKhaganate
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Route 66
+  identifier: kagaming:Route66
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Royal Demeanor
+  identifier: kagaming:RoyalDemeanor
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Safari Slots
+  identifier: kagaming:Safari
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Sailor Man
+  identifier: kagaming:SailorMan
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Samurai Way
+  identifier: kagaming:Samurai
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Santa Bumble Bee Hold and Win
+  identifier: kagaming:SantaBumbleBeeHoldandWin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Scary Clown
+  identifier: kagaming:ScaryClown
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Seagull
+  identifier: kagaming:Seagull
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Secret Agent
+  identifier: kagaming:SecretAgent
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Secret Of Ocean
+  identifier: kagaming:SecretOfOcean
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Seediq
+  identifier: kagaming:Seediq
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Seven Heroines
+  identifier: kagaming:SevenHeroines
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Modern 7 Wonders
+  identifier: kagaming:SevenWonders
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Sexy Lips
+  identifier: kagaming:SexyLips
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Shadow Play
+  identifier: kagaming:ShadowPlay
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Shaolin Legend
+  identifier: kagaming:ShaolinLegend
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Shaolin Soccer
+  identifier: kagaming:ShaolinSoccer
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Shark Fight
+  identifier: kagaming:SharkFight
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sharpshooter
+  identifier: kagaming:Sharpshooter
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Shen Nong
+  identifier: kagaming:Shennong
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Shock Tower
+  identifier: kagaming:ShockTower
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Shopping Fiend
+  identifier: kagaming:ShoppingFiend
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Siberian Wolves
+  identifier: kagaming:SiberianWolves
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Silk Road
+  identifier: kagaming:SilkRoad
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: Sinbad
+  identifier: kagaming:Sinbad
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Sky Force
+  identifier: kagaming:SkyForce
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sky Journey
+  identifier: kagaming:SkyJourney
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Slap It
+  identifier: kagaming:SlapIt
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sleepwalking Sheep
+  identifier: kagaming:SleepwalkingSheep
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Snow Goddess
+  identifier: kagaming:SnowGoddess
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Snow Leopards
+  identifier: kagaming:SnowLeopards
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Snow Queen
+  identifier: kagaming:SnowQueen
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Snow White
+  identifier: kagaming:SnowWhite
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: SNS Friends
+  identifier: kagaming:SNS
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Soldiers
+  identifier: kagaming:Soldiers
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Solomon's Treasure
+  identifier: kagaming:SolomonsTreasure
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Soul Gems Fusion Reels
+  identifier: kagaming:SoulGems
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spinning In Space
+  identifier: kagaming:Space
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Space Cat
+  identifier: kagaming:SpaceCat
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Space Cowboy
+  identifier: kagaming:SpaceCowboy
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Space Storm
+  identifier: kagaming:SpaceStorm
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Speakeasy
+  identifier: kagaming:Speakeasy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Special OPS
+  identifier: kagaming:SpecialOPS
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Street Racing
+  identifier: kagaming:Speed
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spider Goblin
+  identifier: kagaming:SpiderGoblin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Spring Blossom
+  identifier: kagaming:SpringBlossom
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Squid Party Lock 2 Spin
+  identifier: kagaming:SquidParty
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Steampunk Lock 2 Spin
+  identifier: kagaming:Steampunk
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Stocked Bar
+  identifier: kagaming:StockedBar
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Stonehenge
+  identifier: kagaming:Stonehenge
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Summer Samba
+  identifier: kagaming:SummerSamba
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sumo
+  identifier: kagaming:Sumo
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sunny Bikini
+  identifier: kagaming:SunnyBikini
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Super Bonus Mania
+  identifier: kagaming:SuperBonusMania
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Super Dragon Tiger
+  identifier: kagaming:SuperDragonTiger
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Super Energy
+  identifier: kagaming:SuperEnergy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Keno
+  identifier: kagaming:SuperKeno
+  provider: kagaming
+  producer: kagaming
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: SuperShot
+  identifier: kagaming:SuperShot
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: SuperShot 2
+  identifier: kagaming:SuperShot2
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Super Slime
+  identifier: kagaming:SuperSlime
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Super Video Poker
+  identifier: kagaming:SuperVideoPoker
+  provider: kagaming
+  producer: kagaming
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Surprise Box
+  identifier: kagaming:SurpriseBox
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sushi Ninja
+  identifier: kagaming:SushiNinja
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sweet Maid
+  identifier: kagaming:SweetMaid
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Sweetopia
+  identifier: kagaming:Sweetopia
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tai Chi
+  identifier: kagaming:TaiChi
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Taiwan Black Bear
+  identifier: kagaming:TaiwanBlackBear
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Taketori Monogatari
+  identifier: kagaming:TaketoriMonogatari
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tao
+  identifier: kagaming:Tao
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: The Boy Who Cried Wolf
+  identifier: kagaming:TheBoyWhoCriedWolf
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: The Deep Monster
+  identifier: kagaming:TheDeepMonster
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Door Gods
+  identifier: kagaming:TheDoorGods
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Gingerbread Land
+  identifier: kagaming:TheGingerbreadLand
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Golden Ax
+  identifier: kagaming:TheGoldenAx
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Grandmaster
+  identifier: kagaming:TheGrandmaster
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: The Guard Of Hades
+  identifier: kagaming:TheGuardOfHades
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Happy Prince
+  identifier: kagaming:TheHappyPrince
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: The King of Dinosaurs
+  identifier: kagaming:TheKingofDinosaurs
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: The King Producer
+  identifier: kagaming:TheKingProducer
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Legend of Heroes
+  identifier: kagaming:TheLegendofHeroes
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 24
+- title: The Little Prince Lock 2 Spin
+  identifier: kagaming:TheLittlePrince
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+  has_jackpot: true
+- title: The Lotus Lamp
+  identifier: kagaming:TheLotusLamp
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Nut Cracker
+  identifier: kagaming:TheNutCracker
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Peony Pavilion
+  identifier: kagaming:ThePeonyPavilion
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Three Bandits
+  identifier: kagaming:ThreeBandits
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Three Gods
+  identifier: kagaming:ThreeGods
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Three Headed Dragon
+  identifier: kagaming:ThreeHeadedDragon
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Three Heroes
+  identifier: kagaming:ThreeHeroes
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Romance of the Three Kingdoms
+  identifier: kagaming:ThreeKingdoms
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Three Little Pigs
+  identifier: kagaming:ThreeLittlePigs
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Three Monkeys
+  identifier: kagaming:ThreeMonkeys
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Thunder Land
+  identifier: kagaming:ThunderLand
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tiger Girl
+  identifier: kagaming:TigerGirl
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tomb Heroes
+  identifier: kagaming:TombHeroes
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Tower of Babel
+  identifier: kagaming:TowerofBabel
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Toy World
+  identifier: kagaming:ToyWorld
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Treasure Bowl
+  identifier: kagaming:TreasureBowl
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Treasure Bowl Megaways
+  identifier: kagaming:TreasureBowlMegaways
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15625
+- title: Treasure Carp
+  identifier: kagaming:TreasureCarp
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Treasure Raider
+  identifier: kagaming:TreasureRaider
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Treasure Tiger
+  identifier: kagaming:TreasureTiger
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Triple Dragons
+  identifier: kagaming:TripleDragons
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Tuan Yuan
+  identifier: kagaming:TuanYuan
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: UFO
+  identifier: kagaming:UFO
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Undersea Battle
+  identifier: kagaming:UnderseaBattle
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Undersea Treasure
+  identifier: kagaming:UnderseaTreasure
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Unicorn Party
+  identifier: kagaming:UnicornParty
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Up Helly Aa
+  identifier: kagaming:UpHellyAa
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Vampire's Tale
+  identifier: kagaming:Vampire
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Veggies Plot
+  identifier: kagaming:VeggiesPlot
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Age of Vikings
+  identifier: kagaming:Viking
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Volcano Adventure
+  identifier: kagaming:VolcanoAdventure
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Walking Oz
+  identifier: kagaming:WalkingOz
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: WanFu JinAn
+  identifier: kagaming:WanFuJinAn
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: War of Thrones
+  identifier: kagaming:WarOfThrones
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wealth Toad
+  identifier: kagaming:WealthToad
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Welcome Fortune
+  identifier: kagaming:WelcomeFortune
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Princess Wencheng
+  identifier: kagaming:Wencheng
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wen Ding
+  identifier: kagaming:WenDing
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Werewolf Is Coming
+  identifier: kagaming:WerewolfIsComing
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: West Chamber
+  identifier: kagaming:WestChamber
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Whale Wild
+  identifier: kagaming:WhaleWild
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: White Deer
+  identifier: kagaming:WhiteDeer
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: White Nose Cat
+  identifier: kagaming:WhiteNoseCat
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Who Let the Dogs Out
+  identifier: kagaming:WhoLetTheDogsOut
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wild Alaska
+  identifier: kagaming:WildAlaska
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Jungle
+  identifier: kagaming:WildJungle
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Vick
+  identifier: kagaming:WildVick
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wild Vick 2 Adventure Journey
+  identifier: kagaming:WildVick2AdventureJourney
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Wild Wild Bell
+  identifier: kagaming:WildWildBell
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Witch Academy
+  identifier: kagaming:WitchAcademy
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Wizard of Oz
+  identifier: kagaming:WizardofOz
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 36
+- title: Wizard of Wild
+  identifier: kagaming:WizardofWild
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wizardry
+  identifier: kagaming:Wizardry
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 38
+- title: Wolf Warrior
+  identifier: kagaming:WolfWarrior
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wong Tai Sin
+  identifier: kagaming:WongTaiSin
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Won Won Catching
+  identifier: kagaming:WonWonCatching
+  provider: kagaming
+  producer: kagaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Won Won Rich
+  identifier: kagaming:WonWonRich
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: World of Lord Elf King
+  identifier: kagaming:WorldOfLordElfKing
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: World of Lord Witch King
+  identifier: kagaming:WorldOfLordWitchKing
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wu Gang
+  identifier: kagaming:WuGang
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wu Song
+  identifier: kagaming:WuSong
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wu Zetian
+  identifier: kagaming:WuZetian
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: X-Bomber
+  identifier: kagaming:XBomber
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: X-Elements
+  identifier: kagaming:XElements
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Xmas Wishes
+  identifier: kagaming:XmasWishes
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Yamato
+  identifier: kagaming:Yamato
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Year of the Rabbit
+  identifier: kagaming:YearOfTheRabbit
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Year Of The Tiger
+  identifier: kagaming:YearOfTheTiger
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Yue Fei
+  identifier: kagaming:YueFei
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Yu Gong
+  identifier: kagaming:YuGong
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Yun Cai Tong Zi
+  identifier: kagaming:YunCaiTongZi
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Zashiki God
+  identifier: kagaming:ZashikiGod
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Zhong Yi and Dragon
+  identifier: kagaming:ZhongYiandDragon
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Zombie Chicken
+  identifier: kagaming:ZombieChicken
+  provider: kagaming
+  producer: kagaming
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Zombie Expert Lock 2 Spin
+  identifier: kagaming:ZombieExpert
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Zombie Land
+  identifier: kagaming:ZombieLand
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: The Mask of Zorro
+  identifier: kagaming:Zorro
+  provider: kagaming
+  producer: kagaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40

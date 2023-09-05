@@ -1,0 +1,5341 @@
+- title: 1-Of-A-Kind
+  identifier: playtech:1OfAKind
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 28 Mansions
+  identifier: playtech:28Mansions
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: 3 Card Brag
+  identifier: playtech:3CardBrag
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Absolutely Mammoth
+  identifier: playtech:AbsolutelyMammoth
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Absolutely Mammoth Power Play Jackpot
+  identifier: playtech:AbsolutelyMammothPowerPlayJackpot
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Ace Ventura
+  identifier: playtech:AceVentura
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Adventures Beyond Wonderland Live
+  identifier: playtech:AdventuresBeyondWonderlandLive
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+  has_jackpot: true
+- title: Age of Egypt
+  identifier: playtech:AgeofEgypt
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Age of Gods Norse: Norse Legends'
+  identifier: playtech:AgeofGodsNorseNorseLegends
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Age of the Gods
+  identifier: playtech:AgeoftheGods
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Age of the Gods: Apollo Power'
+  identifier: playtech:AgeoftheGodsApolloPower
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: 'Age of the Gods: Book of Oracle'
+  identifier: playtech:AgeOfTheGodsBookOfOracle
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Age of the Gods Epic Troy
+  identifier: playtech:AgeoftheGodsEpicTroy
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Age of the Gods Glorious Griffin
+  identifier: playtech:AgeoftheGodsGloriousGriffin
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Age of the Gods: God of Storms 3'
+  identifier: playtech:AgeoftheGodsGodofStorms3
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Age of the Gods: God of Storms II'
+  identifier: playtech:AgeoftheGodsGodofStormsII
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 90
+  has_jackpot: true
+- title: 'Age of the Gods: Helios'
+  identifier: playtech:AgeoftheGodsHelios
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 'Age of the Gods: King of Asgard'
+  identifier: playtech:AgeoftheGodsKingofAsgard
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: 'Age of the Gods: King of Olympus Megaways'
+  identifier: playtech:AgeoftheGodsKingofOlympusMegaways
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Age of the Gods: Maze Keeper'
+  identifier: playtech:AgeoftheGodsMazeKeeper
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Age of the Gods Norse: Book of Dwarves'
+  identifier: playtech:AgeoftheGodsNorseBookofDwarves
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: 'Age of the Gods Norse: Gods and Giants'
+  identifier: playtech:AgeoftheGodsNorseGodsandGiants
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Age of the Gods Bonus Roulette
+  identifier: playtech:AgeOftheGodsRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+  has_jackpot: true
+- title: 'Age of the Gods: Ruler of Dead'
+  identifier: playtech:AgeOftheGodsRulerOfDead
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Age of the Gods: Ruler of the Seas'
+  identifier: playtech:AgeoftheGodsRuleroftheSeas
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 90
+  has_jackpot: true
+- title: 'Age of the Gods: Spin a Win'
+  identifier: playtech:AgeoftheGodsSpinaWin
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Age of the Gods. Wheel of Olympus
+  identifier: playtech:AgeoftheGodsWheelofOlympus
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 'Age of the Gods: Wonder Warrior'
+  identifier: playtech:AgeoftheGodsWonderWarrior
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Age Of The Norse Ways of Thunder
+  identifier: playtech:AgeOfTheNorseWaysofThunder
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: All bets Blackjack
+  identifier: playtech:AllbetsBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+  has_jackpot: true
+- title: Alohawaii Cash Collect
+  identifier: playtech:AlohawaiiCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Alohawaii Cash Collect
+  identifier: playtech:AlohawaiiCashCollect95
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Amazon Wild
+  identifier: playtech:AmazonWild
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: American Roulette
+  identifier: playtech:AmericanRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Anaconda Uncoiled
+  identifier: playtech:AnacondaUncoiled
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Anaconda Wild
+  identifier: playtech:AnacondaWild
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Anaconda Wild 2
+  identifier: playtech:AnacondaWild2
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Anaconda Wild 2 Power Play
+  identifier: playtech:AnacondaWild2PowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Anaconda Wild Scratch
+  identifier: playtech:AnacondaWildScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Andar Bahar
+  identifier: playtech:AndarBahar
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Arabic Roulette
+  identifier: playtech:ArabicRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Archer
+  identifier: playtech:Archer
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Arowanas Luck
+  identifier: playtech:ArowanasLuck
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Atlantis Cash Collect
+  identifier: playtech:AtlantisCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Atlantis Queen
+  identifier: playtech:AtlantisQueen
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Auto Roulette 2
+  identifier: playtech:AutoRoulette2
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Azteca Bonus Lines
+  identifier: playtech:AztecaBonusLines
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 'Azteca Bonus Lines: PowerPlay Jackpot'
+  identifier: playtech:AztecaBonusLinesPowerPlayJackpot
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Azteca: Cash Collect'
+  identifier: playtech:AztecaCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Aztec Expedition Thundershots
+  identifier: playtech:AztecExpeditionThundershots
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Baccarat
+  identifier: playtech:Baccarat
+  provider: playtech
+  producer: playtech
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Baccarat
+  identifier: playtech:Baccarat1
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat 1
+  identifier: playtech:Baccarat1TC
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat & Sicbo Lobby
+  identifier: playtech:Baccarat&SicboLobby
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bai Shi
+  identifier: playtech:BaiShi
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Banca Francesa
+  identifier: playtech:BancaFrancesa
+  provider: playtech
+  producer: playtech
+  category: craps
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Beach Life
+  identifier: playtech:BeachLife
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Bounty of the Beanstalk
+  identifier: playtech:Beanstalk
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Bee Frenzy
+  identifier: playtech:BeeFrenzy
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bermuda Triangle
+  identifier: playtech:BermudaTriangle
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Bet on Baccarat
+  identifier: playtech:BetonBaccarat
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bet On Dragon Tiger
+  identifier: playtech:BetOnDragonTiger
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bet on Poker
+  identifier: playtech:BetonPoker
+  provider: playtech
+  producer: playtech
+  category: poker
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Better Wilds
+  identifier: playtech:BetterWilds
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Better Wilds: Power Play'
+  identifier: playtech:BetterWildsPowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Big Bad Wolf Live
+  identifier: playtech:BigBadWolfLive
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Big Shots
+  identifier: playtech:BigShots
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blackjack 1
+  identifier: playtech:Blackjack1
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 2
+  identifier: playtech:Blackjack2
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 3
+  identifier: playtech:Blackjack3
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 4
+  identifier: playtech:Blackjack4
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 5
+  identifier: playtech:Blackjack5
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 6
+  identifier: playtech:Blackjack6
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 7
+  identifier: playtech:Blackjack7
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 8
+  identifier: playtech:Blackjack8
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 9
+  identifier: playtech:Blackjack9
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Italiano 1
+  identifier: playtech:BlackjackItaliano1
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Italiano 2
+  identifier: playtech:BlackjackItaliano2
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Italiano VIP
+  identifier: playtech:BlackjackItalianoVIP
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Lobby
+  identifier: playtech:BlackjackLobby
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blazing Bells
+  identifier: playtech:BlazingBells
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: 'Blazing Bells: Power Play'
+  identifier: playtech:BlazingBellsPowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Blitz Scratch
+  identifier: playtech:BlitzScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: Blue Wizard
+  identifier: playtech:BlueWizard
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bobby George Sporting Legends
+  identifier: playtech:BobbyGeorgeSportingLegends
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Bobby George Sporting Legends Scratch
+  identifier: playtech:BobbyGeorgeSportingLegendsScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Bombs
+  identifier: playtech:Bombs
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bonus Bears
+  identifier: playtech:BonusBears
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Bonus Train Bandit
+  identifier: playtech:BonusTrainBandit
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of Kings
+  identifier: playtech:BookofKings
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Kings 2 PP Jackpot
+  identifier: playtech:BookofKings2PPJackpot
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Book of Kings: Power Play'
+  identifier: playtech:BookOfKingsPowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Breakout Bob
+  identifier: playtech:BreakoutBob
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 6
+  has_jackpot: true
+- title: Brian Lara Sporting Legends
+  identifier: playtech:BrianLaraSportingLegends
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: brandedjpint
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Brian Lara Sporting Legends Scratch
+  identifier: playtech:BrianLaraSportingLegendsScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: brandedint
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Brussels Roulette
+  identifier: playtech:BrusselsRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Buccaneer Bells
+  identifier: playtech:BuccaneerBells
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Buccaneer Blast
+  identifier: playtech:BuccaneerBlast
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bucharest Roulette French
+  identifier: playtech:BucharestRouletteFrench
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Buffalo Blitz
+  identifier: playtech:BuffaloBlitz
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 6
+- title: Buffalo Blitz II
+  identifier: playtech:BuffaloBlitzII
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Buffalo Blitz Live Slots
+  identifier: playtech:BuffaloBlitzLive
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: true
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Buffalo Blitz: Mega Merge'
+  identifier: playtech:BuffaloBlitzMegaMerge
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Buffalo Blitz Megaways
+  identifier: playtech:BuffaloBlitzMegaways
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 324
+  has_jackpot: true
+- title: Buffalo Blitz Show
+  identifier: playtech:BuffaloBlitzShowEspana
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Captain's Treasure
+  identifier: playtech:CaptainTreasure
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Caribbean Stud Poker
+  identifier: playtech:Caribbean
+  provider: playtech
+  producer: playtech
+  category: poker
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+- title: Cascading Cave
+  identifier: playtech:CascadingCave
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cash Collect Scratch
+  identifier: playtech:CashCollectScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: CASH IT
+  identifier: playtech:CASHIT
+  provider: playtech
+  producer: playtech
+  category: crash
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Cash Plane X5000
+  identifier: playtech:CashPlaneX5000
+  provider: playtech
+  producer: playtech
+  category: crash
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Casino Charms
+  identifier: playtech:CasinoCharms
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+- title: Casino Hold 'Em
+  identifier: playtech:CasinoHoldEm
+  provider: playtech
+  producer: playtech
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Casino Hold'em
+  identifier: playtech:CasinoHoldemLive
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: livepremium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Casino Stud Poker
+  identifier: playtech:CasinoStudPoker
+  provider: playtech
+  producer: playtech
+  category: poker
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Cat in Vegas
+  identifier: playtech:CatinVegas
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Cat Queen
+  identifier: playtech:CatQueen
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Cheltenham Sporting Legends
+  identifier: playtech:CheltenhamSportingLegends
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Chests of Plenty
+  identifier: playtech:ChestsofPlenty
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Chilli Eruption Thundershots
+  identifier: playtech:ChilliEruptionThundershots
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Chilli Xtreme
+  identifier: playtech:ChilliXtreme
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Chilli Xtreme Powerplay
+  identifier: playtech:ChilliXtremePowerplay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Chinese Kitchen
+  identifier: playtech:ChineseKitchen
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Christmas Jackpot Bells
+  identifier: playtech:ChristmasJackpotBells
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Circus Launch
+  identifier: playtech:CircusLaunch
+  provider: playtech
+  producer: playtech
+  category: poker
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Coin Coin Coin
+  identifier: playtech:CoinCoinCoin
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Crazy 7
+  identifier: playtech:Crazy7
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Crocodile Blitz
+  identifier: playtech:CrocodileBlitz
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Curse of Anubis
+  identifier: playtech:CurseofAnibus
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Da Vinci's Vault
+  identifier: playtech:DaVincisVault
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Deal or No Deal: The Big Draw'
+  identifier: playtech:DealorNoDealTheBigDraw
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: true
+  feature_group: livepremiumendemol
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Desert Treasure
+  identifier: playtech:DesertTreasure
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Deutsches Blackjack
+  identifier: playtech:DeutschesBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Deutsches Roulette
+  identifier: playtech:DeutschesRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Devil Wilds
+  identifier: playtech:DevilWilds
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Diamond Rise
+  identifier: playtech:DiamondRise
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: 'Djinn of Storms: Power Play'
+  identifier: playtech:DjinnOfStormsPowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Dolphin Reef
+  identifier: playtech:DolphinReef
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dragon Champions
+  identifier: playtech:DragonChampions
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Chi
+  identifier: playtech:DragonChi
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: 'Dragon: Nian Nian You Yu'
+  identifier: playtech:DragonNianNianYouYu
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+  has_jackpot: true
+- title: Dragon's Hall Thundershots
+  identifier: playtech:DragonsHallThundershots
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dragon Spark
+  identifier: playtech:DragonSpark
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Tiger Turtle Dragon Phoenix
+  identifier: playtech:DragonTigerPhoenixTurtle
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Easter Surprise
+  identifier: playtech:EasterSurprise
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Egyptian Emeralds
+  identifier: playtech:EgyptianEmeralds
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Egyptian Emeralds: Power Play'
+  identifier: playtech:EgyptianEmeraldsPowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Eliminators
+  identifier: playtech:Eliminators
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: ELT TEST Blackjack
+  identifier: playtech:elttestBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: stage
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Empire Treasures Vikings
+  identifier: playtech:EmpireTreasuresVikings
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Epic Ape
+  identifier: playtech:EpicApe
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Epic Ape II
+  identifier: playtech:EpicApeII
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Eternal Lady
+  identifier: playtech:EternalLady
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: European Football Roulette
+  identifier: playtech:EuropeanFootballRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Everybody's Jackpot Live
+  identifier: playtech:EverybodysJackpotLive
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: true
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+  has_jackpot: true
+- title: Extreme Fruits 20
+  identifier: playtech:ExtremeFruits20
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Extreme Fruits 5
+  identifier: playtech:ExtremeFruits5
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: roxexclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Eye of Anubis
+  identifier: playtech:EyeofAnibus
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Fashion TV Jackpot Baccarat
+  identifier: playtech:FashionTVJackpotBaccarat
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: livebranded
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+  has_jackpot: true
+- title: Fei Long Zai Tian
+  identifier: playtech:FeiLongZaiTian
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Fire 4: Cash Collect Quattro'
+  identifier: playtech:Fire4CashCollectQuattro
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Fire Blaze Classic Blue Wizard Megaways
+  identifier: playtech:FireBlazeClassicBlueWizardMegaways
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: 'Fire Blaze: Fire Fighter'
+  identifier: playtech:FireBlazeFireFighter
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fire Blaze Golden Amazing Factory
+  identifier: playtech:FireBlazeGoldenAmazingFactory
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fire Blaze Golden Tundra Wolf
+  identifier: playtech:FireBlazeGoldenTundraWolf
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fire Blaze Jackpots Adventure Trail
+  identifier: playtech:FireBlazeJackpotsAdventureTrail
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fire Blaze Jinns Moon
+  identifier: playtech:FireBlazeJinnsMoon
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Fire Blaze Pharaoh's Daughter
+  identifier: playtech:FireBlazePharaohsDaughter
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: FireBlaze Quattro Celtic Charm
+  identifier: playtech:FireBlazeQuatroCelticCharms
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Fire Blaze River Empress
+  identifier: playtech:FireBlazeRiverEmpress
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Fire Blaze Scratch
+  identifier: playtech:FireBlazeScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: Fire Blaze Sisters Gift
+  identifier: playtech:FireBlazeSistersGift
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: 'Fire Blaze: Toltec Blocks'
+  identifier: playtech:FireBlazeToltecBlocks
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: 'Fire Blaze: Tsai Shen''s Gift'
+  identifier: playtech:FireBlazeTsaiShensGift
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Fishin Bonanza
+  identifier: playtech:FishingBonanza
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Football Flaming Bars
+  identifier: playtech:FlamingBars
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Football Card Showdown Live
+  identifier: playtech:FootballCardShowdownLive
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Football Cash Collect
+  identifier: playtech:FootballCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Football Rules
+  identifier: playtech:FootballRules
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Football Scratch Power Play
+  identifier: playtech:FootballScratchPowerPlay
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+  has_jackpot: true
+- title: Forest Prince
+  identifier: playtech:ForestPrince
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fortunate Five
+  identifier: playtech:FortunateFive
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: Fortune Fortune Thundershots
+  identifier: playtech:FortuneFortuneThundershots
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fortunes of the Fox
+  identifier: playtech:FoxyFortune
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Frankie Dettori's Magic Seven
+  identifier: playtech:FrankieDettorisMagicSeven
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: brandedjpint
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Frankie Dettori's Roulette
+  identifier: playtech:FrankieDettorisRoulette
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: brandedjpint
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Frog's Gift
+  identifier: playtech:FrogsGift
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruity Showers
+  identifier: playtech:FruityShowers
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Full Moon White Panda
+  identifier: playtech:FullMoonWhitePanda
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Full Moon Wild Track
+  identifier: playtech:FullMoonWildTrack
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Funky Fruits
+  identifier: playtech:FunkyFruits
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Funky Monkey
+  identifier: playtech:FunkyMonkey
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 'Age of the Gods: Furious Four'
+  identifier: playtech:FuriousFour
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Gaelic Luck
+  identifier: playtech:GaelicLuck
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Galactic Streak
+  identifier: playtech:GalacticStreak
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Game Shows Lobby
+  identifier: playtech:GameShowsLobby
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Geisha Story
+  identifier: playtech:GeishaStory
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Gem Splash Kings Court
+  identifier: playtech:GemSplashKingsCourt
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Gem Splash Marylin Monroe
+  identifier: playtech:GemSplashMarylinMonroe
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Gem Splash Rainbows Gift
+  identifier: playtech:GemSplashRainbowsGift
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Gladiator Jackpot
+  identifier: playtech:GladiatorJackpot
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Gladiator Road to Rome
+  identifier: playtech:GladiatorRoadtoRome
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Glorious Guardians
+  identifier: playtech:GloriousGuardians
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Speed 6 Scanner Baccarat
+  identifier: playtech:GoldenBaccarat
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Golden Guns - Grand Junction
+  identifier: playtech:GoldenGunsGrandJunction
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Golden Macaque
+  identifier: playtech:GoldenMacaque
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Golden Tour
+  identifier: playtech:GoldenTour
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 'Gold Hit: Dragon Bonanza'
+  identifier: playtech:GoldHitDragonBonanza
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: 'Gold Hit: Dragon Bonanza'
+  identifier: playtech:GoldHitDragonBonanza95
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+- title: 'Gold Hit: O’Reilly’s Riches'
+  identifier: playtech:GoldHitOReillysRiches
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: 'Gold Hit: Shrine of Anubis'
+  identifier: playtech:GoldHitShrineofAnubis
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Gold Pile New Year's Gold
+  identifier: playtech:GoldPileNewYearsGold
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Gold Pile Orangutan!
+  identifier: playtech:GoldPileOrangutan
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gold Pile Toltec Treasure
+  identifier: playtech:GoldPileToltecTreasure
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Gold Rally
+  identifier: playtech:GoldRally
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+  has_jackpot: true
+- title: Gold Rush Cash Collect
+  identifier: playtech:GoldRushCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Gold Rush Scratch
+  identifier: playtech:GoldRushScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+- title: 'Gold Splash: Toots Froots'
+  identifier: playtech:GoldSlpashTootsFroots
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Grand Blackjack
+  identifier: playtech:GrandBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Grand Junction: Enchanted Inca'
+  identifier: playtech:GrandJunctionEnchantedInca
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Grand Junction Mountain Express
+  identifier: playtech:GrandJunctionMountainExpress
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Grease
+  identifier: playtech:Grease
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Great Blue
+  identifier: playtech:GreatBlue
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Greek Quantum Roulette
+  identifier: playtech:GreekQuantumRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Greek Roulette
+  identifier: playtech:GreekRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Green Wizard Fire Blaze Classics
+  identifier: playtech:GreenWizardFireBlazeClassics
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Hainan Ice
+  identifier: playtech:HainanIce
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Halloween Fortune
+  identifier: playtech:HalloweenFortune
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Halloween Fortune II
+  identifier: playtech:HalloweenFortuneII
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Halloween Fortune Scratch
+  identifier: playtech:HalloweenFortuneScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Haunted House
+  identifier: playtech:HauntedHouse
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Heart of the Frontier
+  identifier: playtech:HeartoftheFrontier
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Heart of the Jungle
+  identifier: playtech:HeartoftheJungle
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Highway Kings
+  identifier: playtech:HighwayKings
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Hindi Roulette
+  identifier: playtech:HindiRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Hit Bar
+  identifier: playtech:HitBar
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Hit Bar: Gold'
+  identifier: playtech:HitBarGold
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hit Bar PP
+  identifier: playtech:HitBarPP
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Honey Gems
+  identifier: playtech:HoneyGems
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Honey Gems
+  identifier: playtech:HoneyGemsJP
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hot Crown Deluxe
+  identifier: playtech:HotCrownDeluxe
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hot Gems
+  identifier: playtech:HotGems
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hot Gems Extreme PowerPlay
+  identifier: playtech:HotGemsExtremePowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hot Gems Extreme Scratch
+  identifier: playtech:HotGemsExtremeScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Hot Gem's Xtreme
+  identifier: playtech:HotGemsXtreme
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Ice Cave
+  identifier: playtech:IceCave
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Irish Luck
+  identifier: playtech:IrishLuck
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Ishtar Power Zones
+  identifier: playtech:IshtarPowerZones
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Jackpot Bells
+  identifier: playtech:JackpotBells
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Jackpot Blitz Rhino Blitz
+  identifier: playtech:JackpotBlitzRhinoBlitz
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Jacks or Better
+  identifier: playtech:JacksorBetter
+  provider: playtech
+  producer: playtech
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jade Baccarat
+  identifier: playtech:JadeBaccarat
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Jade Baccarat NC
+  identifier: playtech:JadeBaccaratNC
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Jade Blackjack
+  identifier: playtech:JadeBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Jade Emperor
+  identifier: playtech:JadeEmperor
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jane Jones Book of Kings 2
+  identifier: playtech:JaneJonesBookofKings2
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Japanese Squeeze Baccarat
+  identifier: playtech:JapaneseSqueezeBaccarat
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Japanese Squeeze Baccarat NC
+  identifier: playtech:JapaneseSqueezeBaccaratNC
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ji Xiang 8
+  identifier: playtech:JiXiang8
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Joker Hot Reels
+  identifier: playtech:JokerHotReels
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Joker Rush
+  identifier: playtech:JokerRush
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Joker Rush: PowerPlay Jackpot'
+  identifier: playtech:JokerRushPowerPlayJackpot
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Juego De La Oca
+  identifier: playtech:JuegoDeLaOca
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jungle Giants
+  identifier: playtech:JungleGiants
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Jungle Trouble
+  identifier: playtech:JungleTrouble
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Jurassic Island
+  identifier: playtech:JurassicIsland
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Jurassic Island 2
+  identifier: playtech:JurassicIsland2
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: King Blitz
+  identifier: playtech:KingBlitz
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: King Kong
+  identifier: playtech:KingKong
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Age of the Gods: King of Olympus'
+  identifier: playtech:KingofOlympus
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Koi Harmony
+  identifier: playtech:KoiHarmony
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Legacy of the Wild
+  identifier: playtech:LegacyoftheWild
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Legacy of the Wild 2
+  identifier: playtech:LegacyoftheWild2
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Legend of Hydra Power Zones
+  identifier: playtech:LegendofHydraPowerZones
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Leprechaun's Luck
+  identifier: playtech:LeprechaunsLuck
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Leprechauns Luck: Cash Collect'
+  identifier: playtech:LeprechaunsLuckCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Lie Yan Zuan Shi
+  identifier: playtech:LieYanZuanShi
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Speed Baccarat
+  identifier: playtech:LiveBaccarat
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Royale Blackjack 1
+  identifier: playtech:LiveBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Dragon Tiger
+  identifier: playtech:LiveDragonTiger
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Football French Roulette
+  identifier: playtech:LiveFootballFrenchRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Football Roulette
+  identifier: playtech:LiveFootballRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live French Roulette
+  identifier: playtech:LiveFrenchRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Hi-Lo
+  identifier: playtech:LiveHiLo
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live No Commission Baccarat
+  identifier: playtech:LiveNoCommissionBaccarat1
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Spin a Win
+  identifier: playtech:LiveSpinaWin
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Unlimited Blackjack
+  identifier: playtech:LiveUnlimitedBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Lock & Hit: Red Knight'
+  identifier: playtech:LockAndHitRedKnight
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Lockdown Loot
+  identifier: playtech:LockdownLoot
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lockdown Loot
+  identifier: playtech:LockdownLoot95
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lotto Madness
+  identifier: playtech:LottoMadness
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Love fool
+  identifier: playtech:Lovefool
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Lucky Emeralds
+  identifier: playtech:LuckyEmeralds
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: LuckyU
+  identifier: playtech:LuckyU
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Luminous Life
+  identifier: playtech:LuminousLife
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Magical Stacks
+  identifier: playtech:MagicalStacks
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Majority Rules Speed Blackjack
+  identifier: playtech:MajorityRulesSpeedBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Mayan Blocks
+  identifier: playtech:MayanBlocks
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Mayan Blocks Power Play
+  identifier: playtech:MayanBlocksPowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Mega FireBlaze Roulette
+  identifier: playtech:MegaFireBlazaRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Mega Fire Blaze Big Circus
+  identifier: playtech:MegaFireBlazeBigCircus
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Mega Fire Blaze Blackjack Live
+  identifier: playtech:MegaFireBlazeBlackjackLive
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Mega Fire Blaze: Emperor Of Rome'
+  identifier: playtech:MegaFireBlazeEmperorOfRome
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Mega Fire Blaze Jackpots Legacy of the Tiger
+  identifier: playtech:MegaFireBlazeJackpotsLegacyoftheTiger
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Mega Fire Blaze Khonsu God of Moon
+  identifier: playtech:MegaFireBlazeKhonsuGodofMoon
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 'Mega Fire Blaze: Khonsu God of Moon Powerplay Jackpot'
+  identifier: playtech:MegaFireBlazeKhonsuGodofMoonPowerplayJackpot
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Mega Fire Blaze Lucky Ball Brasileiro
+  identifier: playtech:MegaFireBlazeLuckyBallBrasileiro
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Mega Fire Blaze Roulette
+  identifier: playtech:MegaFireBlazeRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Mega Fire Blaze Ruleta Espana
+  identifier: playtech:MegaFireBlazeRouletteSpain
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Midnight Wilds
+  identifier: playtech:MidnightWilds
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: 'Mighty Hat: Lamp of Gold'
+  identifier: playtech:MightyHatLampofGold
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Mighty Hat Mine O’Mine
+  identifier: playtech:MightyHatMineOMine
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Mini Roulette
+  identifier: playtech:MiniRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Miss Fortune
+  identifier: playtech:MissFortune
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Money Drop Live
+  identifier: playtech:MoneyDropLive
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: livebranded
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Monkey and Rat
+  identifier: playtech:MonkeyandRat
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Monsters Multipliers
+  identifier: playtech:MonstersMultipliers
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Mr. Cashback
+  identifier: playtech:MrCashback
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Mystic Tales - Mighty Hat
+  identifier: playtech:MysticTalesMightyHat
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Nederlandse Roulette
+  identifier: playtech:NederlandseRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: New Year's Bonanza
+  identifier: playtech:NewYearsBonanza
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: A Night Out
+  identifier: playtech:nightout
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ni Shu Shen Me
+  identifier: playtech:NiShuShenMe
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Ox Riches
+  identifier: playtech:OxRiches
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+- title: Panther Moon
+  identifier: playtech:PantherMoon
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Panther Pays
+  identifier: playtech:PantherPays
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Panther Pays Power Play JP
+  identifier: playtech:PantherPaysPowerPlayJP
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Pearls Pearls Pearls
+  identifier: playtech:PearlsPearlsPearls
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Peru Colombia BJ
+  identifier: playtech:PeruColombiaBJ
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Peru Spin A Win Wild Live
+  identifier: playtech:PeruSpinAWinWildLive
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Pharaoh's Secrets
+  identifier: playtech:PharaohsSecrets
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pharaoh's Treasure Deluxe
+  identifier: playtech:PharaohsTreasureDeluxe
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Pigeons from Space!
+  identifier: playtech:PigeonsfromSpace
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 36
+- title: Piggies and the Bank
+  identifier: playtech:PiggiesandtheBank
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Piggies and the Bank
+  identifier: playtech:PiggiesandtheBank95
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Pixel Samurai
+  identifier: playtech:PixelSamurai
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Playtech Live Games
+  identifier: playtech:PlaytechLiveGames
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: vlive
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Plenty O`Fortune
+  identifier: playtech:PlentyOFortune
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Plunder Ahoy Thundershots
+  identifier: playtech:PlunderAhoyThundershots
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Poker Lobby
+  identifier: playtech:PokerLobby
+  provider: playtech
+  producer: playtech
+  category: poker
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'PowerPlay: Wild LinX'
+  identifier: playtech:PowerPlayWildLinX
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Power Zones: Pyramid Valley'
+  identifier: playtech:PowerZonesPyramidValley
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Premium Baccarat
+  identifier: playtech:PremiumBaccarat
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Premium Blackjack
+  identifier: playtech:PremiumBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Premium European Roulette
+  identifier: playtech:PremiumEuropeanRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Prestige Roulette
+  identifier: playtech:PrestigeRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Pride of Persia Empire Treasures
+  identifier: playtech:PrideofPersiaEmpireTreasures
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Speed Auto Roulette
+  identifier: playtech:PrimeSlingshot
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Age of the Gods: Prince of Olympus'
+  identifier: playtech:PrinceofOlympus
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Pumpkin Bonanza
+  identifier: playtech:PumpkinBonanza
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Purple Hot
+  identifier: playtech:PurpleHot
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Pyramid Linx
+  identifier: playtech:PyramidLinx
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Qins Empire
+  identifier: playtech:QinsEmpire
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Qin’s Empire Caishen’s Temple
+  identifier: playtech:QinsEmpireCaishensTemple
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Bucharest Quantum Roulette
+  identifier: playtech:QuantumAutoRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Quantum Blackjack Instant Play
+  identifier: playtech:QuantumBlackjackInstantPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Quantum Blackjack Plus
+  identifier: playtech:QuantumBlackjackPlus
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Quantum Roulette
+  identifier: playtech:QuantumRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Quantum Ruleta Espana
+  identifier: playtech:QuantumRuletaEspana
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Quest West
+  identifier: playtech:QuestWest
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Ready to Blow: Thundershots'
+  identifier: playtech:ReadytoBlowThundershots
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Record's Riches
+  identifier: playtech:RecordsRiches
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: Red Wizard Fire Blaze
+  identifier: playtech:RedWizardFireBlaze
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Retro Rush
+  identifier: playtech:RetroRush
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 'Rich Roll: Lust for Gold!'
+  identifier: playtech:RichRollLustforGold
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 'Roberto Carlos: Sporting Legends'
+  identifier: playtech:RobertoCarlosSportingLegends
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Robocop
+  identifier: playtech:Robocop
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Rocky
+  identifier: playtech:RockyB1
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Rogues Draw
+  identifier: playtech:RoguesDraw
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Rogues Draw
+  identifier: playtech:RoguesDraw95
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+- title: Roleta Brasileira
+  identifier: playtech:RoletaBrasileria
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Rome&Glory
+  identifier: playtech:Rome&Glory
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Roulette Italiana
+  identifier: playtech:RouletteItaliana
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette Lobby
+  identifier: playtech:RouletteLobby
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette
+  identifier: playtech:RouletteLounge
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Royale Blackjack 2
+  identifier: playtech:RoyalBlackjack2
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Royale Blackjack 3
+  identifier: playtech:RoyaleBlackjack3
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Royale Blackjack 5
+  identifier: playtech:RoyaleBlackjack5
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Royale Blackjack 4
+  identifier: playtech:RoyaleBlackjackk4
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Royal Respin Deluxe
+  identifier: playtech:RoyalRespinDeluxe
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Ruleta Automatica Cuantica
+  identifier: playtech:RuletaAutomaticaCuantica
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ruyi French Roulette
+  identifier: playtech:RuyiFrenchRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ruyi Roulette
+  identifier: playtech:RuyiRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ru Yi Speed Baccarat
+  identifier: playtech:RuYiSpeedBaccarat
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ru Yi Speed Baccarat NC
+  identifier: playtech:RuYiSpeedBaccaratNC
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Sacred Stones
+  identifier: playtech:SacredStones
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Safari Heat
+  identifier: playtech:SafariHeat
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Sahara Riches Cash Collect
+  identifier: playtech:SaharaRichesCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Sahara Riches Megaways Cash Collect
+  identifier: playtech:SaharaRichesMegawaysCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Santa Surprise
+  identifier: playtech:SantaSurprise
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Savage Jungle
+  identifier: playtech:SavageJungle
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Secrets of the Amazon
+  identifier: playtech:SecretsoftheAmazon
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Selfie Elfie
+  identifier: playtech:SelfieElfie
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Sette E Mezzo
+  identifier: playtech:SetteEMezzo
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Shark Blitz!
+  identifier: playtech:SharkBlitz
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Shields of Rome
+  identifier: playtech:ShieldsofRome
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Sic Bo Deluxe
+  identifier: playtech:SicBoDeluxe
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Sic Bo
+  identifier: playtech:SiccBo
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Silent Samurai
+  identifier: playtech:SilentSamurai
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Silver Bullet
+  identifier: playtech:SilverBullet
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Silver Bullet Bandit: Cash Collect'
+  identifier: playtech:SilverBulletBanditCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Sinbad's Golden Voyage
+  identifier: playtech:SinbadsGoldenVoyage
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+- title: Sky Queen
+  identifier: playtech:SkyQueen
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Auto Roulette
+  identifier: playtech:Slingshot
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Slingshot Ruleta Espana
+  identifier: playtech:SlingshotRuletaEspana
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Soho All Bets Blackjack
+  identifier: playtech:SohoAllBetsBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Soiree Blackjack 1
+  identifier: playtech:SoireeBlackjack1
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Soiree Elite Blackjack 1
+  identifier: playtech:SoireeEliteBlackjack1
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Soiree Elite Blackjack 2
+  identifier: playtech:SoireeEliteBlackjack2
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Soiree Elite VIP Blackjack
+  identifier: playtech:SoireeEliteVIPBlackjack
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Soiree Elite VIP Blackjack 2
+  identifier: playtech:SoireeEliteVIPBlackjack2
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Sorcerer's Guild of Magic
+  identifier: playtech:SorcerersGuildofMagic
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Space Hunters: Shoot for Cash'
+  identifier: playtech:SpaceHuntersShootforCash
+  provider: playtech
+  producer: playtech
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Korean Speed Baccarat
+  identifier: playtech:SpeedBaccarat1
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat 1 NC
+  identifier: playtech:SpeedBaccarat1NC
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat Brasileira
+  identifier: playtech:SpeedBaccarat2
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat Brasileira NC
+  identifier: playtech:SpeedBaccarat2NC
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Roulette
+  identifier: playtech:SpeedRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Spin till you Win Roulette
+  identifier: playtech:SpintillyouWinRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sporting Legends - Frank Bruno
+  identifier: playtech:SportingLegendsFrankBruno
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: 'Sporting Legends: Frankie Dettori'
+  identifier: playtech:SportingLegendsFrankieDettori
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Sporting Legends Grand National
+  identifier: playtech:SportingLegendsGrandNational
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: brandedjp
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Peru Spread Bet Roulette
+  identifier: playtech:SpreadBetRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Spy Rise
+  identifier: playtech:SpyRise
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Stallion Strike
+  identifier: playtech:StallionStrike
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Stallion Strike Power Play
+  identifier: playtech:StallionStrikePowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Stars Ablaze
+  identifier: playtech:StarsAblaze
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Stars Awakening
+  identifier: playtech:StarsAwakening
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Storms of Ice Power Play Jackpot
+  identifier: playtech:StormsofIcePowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Streak of Luck
+  identifier: playtech:StreakofLuck
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Sun Wu Kong
+  identifier: playtech:SunWuKong
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Teen Patti
+  identifier: playtech:TeenPatti
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Thai Paradise
+  identifier: playtech:ThaiParadise
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: The Glass Slipper
+  identifier: playtech:TheGlassSlipper
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: The Greatest Cards Show
+  identifier: playtech:TheGreatestCardsShow
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: The Mummy Book of Amun Ra
+  identifier: playtech:TheMummyBooksofAmunRa
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Perfect Heist
+  identifier: playtech:ThePerfectHeist
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Queens Curse Empire Treasures
+  identifier: playtech:TheQueensCurseEmpireTreasures
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: The Riches of Don Quixote
+  identifier: playtech:TheRichesofDonQuixote
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Walking Dead
+  identifier: playtech:TheWalkingDead
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 'The Walking Dead: Cash Collect'
+  identifier: playtech:TheWalkingDeadCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: The Walking Dead Scratch
+  identifier: playtech:TheWalkingDeadScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Thunder Birds Power Zones
+  identifier: playtech:ThunderBirdsPowerZones
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Thundershots Fairy Gathering
+  identifier: playtech:ThundershotsFairyGathering
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Tigers Pride: Gold Pile'
+  identifier: playtech:TigersPrideGoldPile
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tiger Stacks
+  identifier: playtech:TigerStacks
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Tip Top Totems
+  identifier: playtech:TipTopTotems
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tip Top Totems Power Play
+  identifier: playtech:TipTopTotemsPowerPlay
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Toads Gift
+  identifier: playtech:ToadsGift
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Torrente
+  identifier: playtech:Torrente
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: brandedint
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Triple Stop: Mermaids Find'
+  identifier: playtech:TripleStopMermaidsFind
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Bucharest Roulette
+  identifier: playtech:TriumphRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: True Love
+  identifier: playtech:TrueLove
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Turkish Roulette
+  identifier: playtech:TurkishRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: UK Roulette
+  identifier: playtech:UKRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Vacation Station
+  identifier: playtech:VacationStation
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Vacation Station Deluxe
+  identifier: playtech:VacationStationDeluxe
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: VIP Baccarat
+  identifier: playtech:VIPBaccarat
+  provider: playtech
+  producer: playtech
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Walking Dead 2
+  identifier: playtech:WalkingDead2
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ways of the Genie – Thundershots
+  identifier: playtech:WaysoftheGenieThundershots
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ways Of The Phoenix
+  identifier: playtech:WaysOfThePhoenix
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wheels of Flame
+  identifier: playtech:WheelsofFlame
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: White King
+  identifier: playtech:WhiteKing
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: White King 2
+  identifier: playtech:WhiteKing2
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Who Wants To Be A Millionaire Roulette
+  identifier: playtech:WhoWantsToBeAMillionaireRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: livebranded
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Wild Crusade Empire Treasures
+  identifier: playtech:WildCrusadeEmpireTreasures
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Empire Treasures Scratch Card
+  identifier: playtech:WildCrusadeEmpireTreasuresScratchCard
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+- title: Wild Gambler
+  identifier: playtech:WildGambler
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Gambler 2
+  identifier: playtech:WildGambler2
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Lava
+  identifier: playtech:WildLava
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Lava Scratch
+  identifier: playtech:WildLavaScratch
+  provider: playtech
+  producer: playtech
+  category: lottery
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Wild Linx Low
+  identifier: playtech:WildLinxLow
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Pistolero MegaFire Blaze
+  identifier: playtech:WildPistoleroMegaFireBlaze
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wild West Wild
+  identifier: playtech:WildWestWild
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Winnings of Oz
+  identifier: playtech:WinningsofOz
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: jackpot
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Witches - Cash Collect
+  identifier: playtech:WitchesCashCollect
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wolves! Wolves! Wolves!
+  identifier: playtech:Wolves
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wu Long
+  identifier: playtech:WuLong
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wushu Punch
+  identifier: playtech:WushuPunch
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: x1000 Quantum Roulette
+  identifier: playtech:x1000QuantumRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Express Ruleta
+  identifier: playtech:XiangLongRoulette
+  provider: playtech
+  producer: playtech
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Zhao Cai Jin Bao
+  identifier: playtech:ZhaoCaiJinBao
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Zodiac Charms
+  identifier: playtech:ZodiacCharms
+  provider: playtech
+  producer: playtech
+  category: slots
+  has_freespins: true
+  feature_group: gpas
+  devices:
+  - desktop
+  - mobile

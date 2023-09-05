@@ -1,0 +1,2602 @@
+- title: 100 Bulky Fruits
+  identifier: egt:100BulkyFruits
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: 100 Burning Hot
+  identifier: egt:100BurningHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: 100 Cats
+  identifier: egt:100Cats
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: 100 Dice
+  identifier: egt:100Dice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 100 Power Hot
+  identifier: egt:100PowerHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: 100 Super Dice
+  identifier: egt:100SuperDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 100 Super Hot
+  identifier: egt:100SuperHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: 10 Burning Heart
+  identifier: egt:10BurningHeart
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 20 Bulky Fruits
+  identifier: egt:20BulkyFruits
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 20 Burning Dice
+  identifier: egt:20BurningDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Burning Hot
+  identifier: egt:20BurningHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Dazzling Hot
+  identifier: egt:20DazzlingHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Diamonds
+  identifier: egt:20Diamonds
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Golden Coins
+  identifier: egt:20GoldenCoins
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Golden Dice
+  identifier: egt:20GoldenDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Hot Blast
+  identifier: egt:20HotBlast
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Joker Dice
+  identifier: egt:20JokerDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Joker Reels
+  identifier: egt:20JokerReels
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Power Hot
+  identifier: egt:20PowerHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Super Dice
+  identifier: egt:20SuperDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Super Hot
+  identifier: egt:20SuperHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Super Hot EQ
+  identifier: egt:20SuperHotEQ
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic_eq
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 27 Dice
+  identifier: egt:27Dice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 27 Eternal Hot
+  identifier: egt:27EternalHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 27 Wins
+  identifier: egt:27Wins
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 2 Dragons
+  identifier: egt:2Dragons
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 30 Spicy Dice
+  identifier: egt:30SpicyDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 30 Spicy Fruits
+  identifier: egt:30SpicyFruits
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 30 Summer Bliss
+  identifier: egt:30SummerBliss
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 40 Almighty Ramses II
+  identifier: egt:40AlmightyRamsesII
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Bulky Fruits
+  identifier: egt:40BulkyFruits
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Burning Dice
+  identifier: egt:40BurningDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Burning Hot
+  identifier: egt:40BurningHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Burning Hot 6 Reels
+  identifier: egt:40BurningHot6Reels
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Hot & Cash
+  identifier: egt:40HotandCash
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 40
+  has_jackpot: true
+- title: 40 King
+  identifier: egt:40King
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Lucky King
+  identifier: egt:40LuckyKing
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Luxury Dice
+  identifier: egt:40LuxuryDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Mega Clover
+  identifier: egt:40MegaClover
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Power Hot
+  identifier: egt:40PowerHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Super Dice
+  identifier: egt:40SuperDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Super Hot
+  identifier: egt:40SuperHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Ultra Respin
+  identifier: egt:40UltraRespin
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 4 of a Kind Bonus Poker
+  identifier: egt:4OfAKind
+  provider: egt
+  producer: egt
+  category: video_poker
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  has_jackpot: true
+- title: 50 Amazons' Battle
+  identifier: egt:50AmazonsBattle
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: 50 Horses
+  identifier: egt:50Horses
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: 5 Burning Heart
+  identifier: egt:5BurningHeart
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 5 Dazzling Hot
+  identifier: egt:5DazzlingHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 5 Great Star
+  identifier: egt:5GreatStar
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 5 Hot Dice
+  identifier: egt:5HotDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 5 Juggle Fruits
+  identifier: egt:5JuggleFruits
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 81 Dice
+  identifier: egt:81Dice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+- title: 81 Wins
+  identifier: egt:81Wins
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Action Money
+  identifier: egt:ActionMoney
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Age of Troy
+  identifier: egt:AgeOfTroy
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Almighty Ramses II
+  identifier: egt:AlmightyRamsesII
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Aloha Party
+  identifier: egt:AlohaParty
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Amazing Amazonia
+  identifier: egt:AmazingAmazonia
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Amazons' Battle
+  identifier: egt:AmazonsBattle
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Amazons' Story
+  identifier: egt:AmazonsStory
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Ancient Dynasty
+  identifier: egt:AncientDynasty
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Art of Gold
+  identifier: egt:ArtofGold
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Aztec Forest
+  identifier: egt:AztecForest
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Aztec Glory
+  identifier: egt:AztecGlory
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Blue Heart
+  identifier: egt:BlueHeart
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Blue Oceans
+  identifier: egt:BlueOceans
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of Dice
+  identifier: egt:BookofDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of Magic
+  identifier: egt:BookOfMagic
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Brave Cat
+  identifier: egt:BraveCat
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 40
+  has_jackpot: true
+- title: Brilliant Dice
+  identifier: egt:BrilliantDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bulky Dice
+  identifier: egt:BulkyDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Bulky Fruits
+  identifier: egt:BulkyFruits
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Burning Dice
+  identifier: egt:BurningDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Burning Hot
+  identifier: egt:BurningHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Burning Hot 6 Reels
+  identifier: egt:BurningHot6reels
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Burning Hot EQ
+  identifier: egt:BurningHotEQ
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic_eq
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Burning Keno
+  identifier: egt:BurningKeno
+  provider: egt
+  producer: egt
+  category: lottery
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Candy Palace
+  identifier: egt:CandyPalace
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Caramel Dice
+  identifier: egt:CaramelDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Caramel Hot
+  identifier: egt:CaramelHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Casino Mania
+  identifier: egt:CasinoMania
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Cats Royal
+  identifier: egt:CatsRoyal
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Circus Brilliant
+  identifier: egt:CircusBrilliant
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Circus Brilliant EQ
+  identifier: egt:CircusBrilliantEQ
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic_eq
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cocktail Rush
+  identifier: egt:CocktailRush
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Coral Island
+  identifier: egt:CoralIsland
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Crazy Bugs II
+  identifier: egt:CrazyBugsII
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Dark Queen
+  identifier: egt:DarkQueen
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Diamond Plus
+  identifier: egt:DiamondPlus
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Dice and Roll
+  identifier: egt:DiceAndRoll
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Dice High
+  identifier: egt:DiceHigh
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Dice of Magic
+  identifier: egt:DiceofMagic
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dice of Ra
+  identifier: egt:DiceofRa
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Dorothy's Fairyland
+  identifier: egt:DorothysFairyland
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Dragon Hot
+  identifier: egt:DragonHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Dragon Reborn
+  identifier: egt:DragonReborn
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Dragon Reels
+  identifier: egt:DragonReels
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Dragon Spirit
+  identifier: egt:DragonSpirit
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Drops of Water
+  identifier: egt:DropsofWater
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dynamic European Roulette
+  identifier: egt:DynamicPaytableRoulette
+  provider: egt
+  producer: egt
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dynamic Roulette 120x
+  identifier: egt:DynamicRoulette120x
+  provider: egt
+  producer: egt
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Egypt Dice
+  identifier: egt:EgyptDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Egypt Sky
+  identifier: egt:EgyptSky
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Egypt Sky EQ
+  identifier: egt:EgyptSkyEQ
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic_eq
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Emperor's Palace
+  identifier: egt:EmperorsPalace
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Empress Charm
+  identifier: egt:EmpressCharm
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: The Explorers
+  identifier: egt:Explorers
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 15
+  has_jackpot: true
+- title: Extra Crown
+  identifier: egt:ExtraCrown
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Extra Joker
+  identifier: egt:ExtraJoker
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Extra Stars
+  identifier: egt:ExtraStars
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Extreme Dice
+  identifier: egt:ExtremeDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Extremely Hot
+  identifier: egt:ExtremelyHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Fast Money
+  identifier: egt:FastMoney
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Flaming Dice
+  identifier: egt:FlamingDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Flaming Hot
+  identifier: egt:FlamingHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Flaming Hot 6 Reels
+  identifier: egt:FlamingHot6Reels
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Flaming Hot Extreme
+  identifier: egt:FlamingHotExtreme
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Forest Band
+  identifier: egt:ForestBand
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Forest Tale
+  identifier: egt:ForestTale
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: Fortune Spells
+  identifier: egt:FortuneSpells
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Froggy Dice
+  identifier: egt:FroggyDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Frog Story
+  identifier: egt:FrogStory
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fruits & Gold
+  identifier: egt:FruitsandGold
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruits Kingdom
+  identifier: egt:FruitsKingdom
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Fruity Time
+  identifier: egt:FruityTime
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Game of Luck
+  identifier: egt:GameOfLuck
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Genius of Leonardo
+  identifier: egt:GeniusOfLeonardo
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 30
+  has_jackpot: true
+- title: Gold Dust
+  identifier: egt:GoldDust
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Grace of Cleopatra
+  identifier: egt:GraceOfCleopatra
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Great 27
+  identifier: egt:Great27
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Great Adventure
+  identifier: egt:GreatAdventure
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 25
+  has_jackpot: true
+- title: The Great Egypt
+  identifier: egt:GreatEgypt
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Great Empire
+  identifier: egt:GreatEmpire
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Greek Fortune
+  identifier: egt:GreekFortune
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Halloween
+  identifier: egt:Halloween
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Halloween Dice
+  identifier: egt:HalloweenDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Halloween EQ
+  identifier: egt:HalloweenEQ
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic_eq
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hot & Cash
+  identifier: egt:HotAndCash
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Hot Deco
+  identifier: egt:HotDeco
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hot Keno
+  identifier: egt:HotKeno
+  provider: egt
+  producer: egt
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ice Dice
+  identifier: egt:IceDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ice Valley
+  identifier: egt:IceValley
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Imperial Dice
+  identifier: egt:ImperialDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Imperial Wars
+  identifier: egt:ImperialWars
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Inca Gold II
+  identifier: egt:IncaGold2
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Jacks or Better
+  identifier: egt:JacksOrBetter
+  provider: egt
+  producer: egt
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  has_jackpot: true
+- title: Joker Poker
+  identifier: egt:JokerPoker
+  provider: egt
+  producer: egt
+  category: card
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  has_jackpot: true
+- title: Jungle Adventure
+  identifier: egt:JungleAdventure
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 10
+  has_jackpot: true
+- title: Kamakura
+  identifier: egt:Kamakura
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Kangaroo Land
+  identifier: egt:KangarooLand
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Kashmir Gold
+  identifier: egt:KashmirGold
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Keno Universe
+  identifier: egt:KenoUniverse
+  provider: egt
+  producer: egt
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  has_jackpot: true
+- title: Knight's Heart
+  identifier: egt:KnightsHeart
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Legendary Rome
+  identifier: egt:LegendaryRome
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Like a Diamond
+  identifier: egt:LikeADiamond
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Live European Roulette
+  identifier: egt:LiveEuropeanRoulette
+  provider: egt
+  producer: egt
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Roulette - Bulgarian
+  identifier: egt:LiveRouletteBulgarian
+  provider: egt
+  producer: egt
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Roulette - Russian
+  identifier: egt:LiveRouletteRussian
+  provider: egt
+  producer: egt
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Speed Roulette
+  identifier: egt:LiveSpeedRoulette
+  provider: egt
+  producer: egt
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Lucky & Wild
+  identifier: egt:LuckyAndWild
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Lucky Buzz
+  identifier: egt:LuckyBuzz
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Lucky Hot
+  identifier: egt:LuckyHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Lucky Wood
+  identifier: egt:LuckyWood
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Magellan
+  identifier: egt:Magellan
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Magic Guardians
+  identifier: egt:MagicGuardians
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Majestic Forest
+  identifier: egt:MajesticForest
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Mayan Spirit
+  identifier: egt:MayanSpirit
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Mighty Sparta
+  identifier: egt:MightySparta
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: More Dice & Roll
+  identifier: egt:MoreDiceAndRoll
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: More Like a Diamond
+  identifier: egt:MoreLikeADiamond
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 40
+  has_jackpot: true
+- title: More Lucky & Wild
+  identifier: egt:MoreLuckyAndWild
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Mythical Treasure
+  identifier: egt:MythicalTreasure
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Neon Dice
+  identifier: egt:NeonDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Ocean Rush
+  identifier: egt:OceanRush
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 15
+  has_jackpot: true
+- title: Oil Company II
+  identifier: egt:OilCompany2
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Olympus Glory
+  identifier: egt:OlympusGlory
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Onyx Auto Roulette
+  identifier: egt:OnyxAutoRoulette
+  provider: egt
+  producer: egt
+  category: roulette
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Orient Story
+  identifier: egt:OrientStory
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: Penguin Style
+  identifier: egt:PenguinStyle
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Phoenix Star
+  identifier: egt:PhoenixStar
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: PinUp Queens
+  identifier: egt:PinUpQueens
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Power Hot
+  identifier: egt:PowerHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Queen of Rio
+  identifier: egt:QueenOfRio
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Rainbow Luck
+  identifier: egt:RainbowLuck
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Rainbow Queen
+  identifier: egt:RainbowQueen
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 30
+  has_jackpot: true
+- title: Retro Cabaret
+  identifier: egt:RetroCabaret
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Retro Style
+  identifier: egt:RetroStyle
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Richness Factory
+  identifier: egt:RichnessFactory
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Rich World
+  identifier: egt:RichWorld
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Rise of Ra
+  identifier: egt:RiseOfRa
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: Rise of Ra EQ
+  identifier: egt:RiseofRaEQ
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic_eq
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Rolling Dice
+  identifier: egt:RollingDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Route of Mexico
+  identifier: egt:RouteOfMexico
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Royal Gardens
+  identifier: egt:RoyalGardens
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Royal Secrets
+  identifier: egt:RoyalSecrets
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Savanna's Life
+  identifier: egt:SavannaLife
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Secrets of Alchemy
+  identifier: egt:SecretsOfAlchemy
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: The Secrets of London
+  identifier: egt:SecretsOfLondon
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Secrets of Sherwood
+  identifier: egt:SecretsofSherwood
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Shining Crown
+  identifier: egt:ShiningCrown
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Shining Dice
+  identifier: egt:ShiningDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Spanish Passion
+  identifier: egt:SpanishPassion
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: The Story of Alexander
+  identifier: egt:StoryOfAlexander
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Summer Bliss
+  identifier: egt:SummerBliss
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Super 20
+  identifier: egt:Super20
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Superb Keno
+  identifier: egt:SuperbKeno
+  provider: egt
+  producer: egt
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Supreme Dice
+  identifier: egt:SupremeDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+- title: Supreme Hot
+  identifier: egt:SupremeHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Sweet Cheese
+  identifier: egt:SweetCheese
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: The Big Journey
+  identifier: egt:TheBigJourney
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: The Story of Alexander II
+  identifier: egt:TheStoryofAlexanderII
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Thumbelina's Dream
+  identifier: egt:ThumbelinasDream
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  has_jackpot: true
+- title: Tirol Fest
+  identifier: egt:TirolFest
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Ultimate Hot
+  identifier: egt:UltimateHot
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Vampire Night
+  identifier: egt:VampireNight
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Vegas Roulette 500x
+  identifier: egt:VegasRoulette500x
+  provider: egt
+  producer: egt
+  category: roulette
+  has_freespins: true
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Venezia D'oro
+  identifier: egt:VeneziaDoro
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  has_jackpot: true
+- title: Versailles Gold
+  identifier: egt:VersaillesGold
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Viking Rising
+  identifier: egt:VikingRising
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Virtual Roulette
+  identifier: egt:VirtualRoulette
+  provider: egt
+  producer: egt
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Volcano Wealth
+  identifier: egt:VolcanoWealth
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Water Dice
+  identifier: egt:WaterDice
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The White Wolf
+  identifier: egt:WhiteWolf
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Witches' Charm
+  identifier: egt:WitchesCharm
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: Wonderheart
+  identifier: egt:Wonderheart
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Wonder Tree
+  identifier: egt:WonderTree
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Zodiac Wheel
+  identifier: egt:ZodiacWheel
+  provider: egt
+  producer: egt
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true

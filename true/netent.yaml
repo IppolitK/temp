@@ -1,0 +1,5199 @@
+- title: Aloha! Cluster Pays Touch
+  identifier: netent:aloha_j0_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+- title: Aloha! Cluster Pays
+  identifier: netent:aloha_j0_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+- title: Aloha! Cluster Pays Touch
+  identifier: netent:aloha_j0_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+- title: Aloha! Cluster Pays
+  identifier: netent:aloha_j0_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+- title: Aloha! Cluster Pays Touch
+  identifier: netent:aloha_j0_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+- title: Aloha! Cluster Pays
+  identifier: netent:aloha_j0_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+- title: Aloha! Cluster Pays Touch
+  identifier: netent:aloha_j0_r6_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+- title: Aloha! Cluster Pays
+  identifier: netent:aloha_j0_r6_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+- title: Aloha! Cluster Pays Touch
+  identifier: netent:aloha_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Aloha! Cluster Pays
+  identifier: netent:aloha_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Aloha! Christmas Touch
+  identifier: netent:alohaxmas_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Aloha! Christmas
+  identifier: netent:alohaxmas_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: American Roulette Touch
+  identifier: netent:americanroulette3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: American Roulette
+  identifier: netent:americanroulette3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Arabian Nights Touch
+  identifier: netent:arabian_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Arabian Nights
+  identifier: netent:arabian_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  lines: 10
+  has_jackpot: true
+- title: 'Arcane: Reel Chaos Touch'
+  identifier: netent:arcane_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: 'Arcane: Reel Chaos'
+  identifier: netent:arcane_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: 'Archangels: Salvation Touch'
+  identifier: netent:archangels_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 100
+- title: 'Archangels: Salvation'
+  identifier: netent:archangels_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 100
+- title: Asgardian Stones Touch
+  identifier: netent:asgardianstones_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Asgardian Stones
+  identifier: netent:asgardianstones_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Baccarat Touch
+  identifier: netent:baccarat2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: Baccarat
+  identifier: netent:baccarat2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Bee Hive Bonanza
+  identifier: netent:beehivebonanza_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+- title: Bee Hive Bonanza
+  identifier: netent:beehivebonanza_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+- title: Bee Hive Bonanza
+  identifier: netent:beehivebonanza_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+- title: Bee Hive Bonanza
+  identifier: netent:beehivebonanza_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+- title: Berryburst Touch
+  identifier: netent:berryburst_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Berryburst
+  identifier: netent:berryburst_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Blackjack Classic
+  identifier: netent:blackjackclassic_f0_g0_h0_i0_j0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: card
+  has_freespins: false
+  feature_group: standard_lv
+  devices:
+  - mobile
+- title: Blackjack Classic
+  identifier: netent:blackjackclassic_f0_g0_h0_i0_j0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: card
+  has_freespins: false
+  feature_group: standard_lv
+  devices:
+  - desktop
+- title: Creature from the Black Lagoon
+  identifier: netent:blacklagoon_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 20
+- title: Creature from the Black Lagoon
+  identifier: netent:blacklagoon_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 20
+- title: Blood Suckers II Touch
+  identifier: netent:bloodsuckers2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Blood Suckers II
+  identifier: netent:bloodsuckers2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Blood Suckers Touch
+  identifier: netent:bloodsuckers_j0_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 25
+- title: Blood Suckers
+  identifier: netent:bloodsuckers_j0_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 25
+- title: Blood Suckers Touch
+  identifier: netent:bloodsuckers_j0_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 25
+- title: Blood Suckers
+  identifier: netent:bloodsuckers_j0_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 25
+- title: Blood Suckers Touch
+  identifier: netent:bloodsuckers_j0_r5_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 25
+- title: Blood Suckers
+  identifier: netent:bloodsuckers_j0_r5_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 25
+- title: Blood Suckers Touch
+  identifier: netent:bloodsuckers_j0_r6_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+  lines: 25
+- title: Blood Suckers
+  identifier: netent:bloodsuckers_j0_r6_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  lines: 25
+- title: Blood Suckers Touch
+  identifier: netent:bloodsuckers_j0_r7_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 25
+- title: Blood Suckers
+  identifier: netent:bloodsuckers_j0_r7_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 25
+- title: Blood Suckers Touch
+  identifier: netent:bloodsuckers_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Blood Suckers
+  identifier: netent:bloodsuckers_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Buster's Bones
+  identifier: netent:bustersbones_r94_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+- title: Buster's Bones
+  identifier: netent:bustersbones_r94_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+- title: Buster's Bones
+  identifier: netent:bustersbones_r94_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+- title: Buster's Bones
+  identifier: netent:bustersbones_r94_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+- title: Buster's Bones
+  identifier: netent:bustersbones_r96_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Buster's Bones
+  identifier: netent:bustersbones_r96_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Buster's Bones
+  identifier: netent:bustersbones_r96_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Buster's Bones
+  identifier: netent:bustersbones_r96_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Butterfly Staxx 2 Touch
+  identifier: netent:butterflystaxx2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Butterfly Staxx 2
+  identifier: netent:butterflystaxx2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Butterfly Staxx Touch
+  identifier: netent:butterflystaxx_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Butterfly Staxx
+  identifier: netent:butterflystaxx_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Butterfly Staxx Touch
+  identifier: netent:butterflystaxx_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 40
+- title: Butterfly Staxx
+  identifier: netent:butterflystaxx_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 40
+- title: Cash Noire Touch
+  identifier: netent:cashnoire_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Cash Noire
+  identifier: netent:cashnoire_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Cash-o-Matic Touch
+  identifier: netent:cashomatic_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Cash-o-Matic
+  identifier: netent:cashomatic_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Casino Hold'em Touch
+  identifier: netent:casinoholdem_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: poker
+  has_freespins: false
+  feature_group: thirdparty
+  devices:
+  - mobile
+- title: Casino Hold'em
+  identifier: netent:casinoholdem_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: poker
+  has_freespins: false
+  feature_group: thirdparty
+  devices:
+  - desktop
+- title: Codex of Fortune Touch
+  identifier: netent:codexoffortune_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Codex of Fortune
+  identifier: netent:codexoffortune_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Spinata Grande Touch
+  identifier: netent:colossalpinatas_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Spinata Grande
+  identifier: netent:colossalpinatas_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Conan Touch
+  identifier: netent:conan_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 24
+- title: Conan
+  identifier: netent:conan_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 24
+- title: Cornelius
+  identifier: netent:cornelius_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+- title: Cornelius
+  identifier: netent:cornelius_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+- title: Cornelius
+  identifier: netent:cornelius_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+- title: Cornelius
+  identifier: netent:cornelius_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+- title: Cupcakes
+  identifier: netent:cupcakes_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+- title: Cupcakes
+  identifier: netent:cupcakes_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+- title: Cupcakes
+  identifier: netent:cupcakes_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+- title: Cupcakes
+  identifier: netent:cupcakes_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+- title: Cupcakes
+  identifier: netent:cupcakes_r1_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94_lv
+  devices:
+  - mobile
+- title: Cupcakes
+  identifier: netent:cupcakes_r1_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94_lv
+  devices:
+  - desktop
+- title: Cupcakes
+  identifier: netent:cupcakes_r1_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94_lv
+  devices:
+  - mobile
+- title: Cupcakes
+  identifier: netent:cupcakes_r1_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94_lv
+  devices:
+  - desktop
+- title: 'Dark King: Forbidden Riches Touch'
+  identifier: netent:darkking_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: 'Dark King: Forbidden Riches'
+  identifier: netent:darkking_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Dazzle Me Touch
+  identifier: netent:dazzle_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 76
+- title: Dazzle Me Megaways Touch
+  identifier: netent:dazzlemw_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Dazzle Me Megaways
+  identifier: netent:dazzlemw_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Dazzle Me Megaways Touch
+  identifier: netent:dazzlemw_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+- title: Dazzle Me Megaways
+  identifier: netent:dazzlemw_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+- title: Dazzle Me Megaways Touch
+  identifier: netent:dazzlemw_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+- title: Dazzle Me Megaways
+  identifier: netent:dazzlemw_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+- title: Dazzle Me Megaways Touch
+  identifier: netent:dazzlemw_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+- title: Dazzle Me Megaways
+  identifier: netent:dazzlemw_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+- title: Dazzle Me
+  identifier: netent:dazzle_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 76
+- title: Dazzle Me Touch
+  identifier: netent:dazzle_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+  lines: 76
+- title: Dazzle Me
+  identifier: netent:dazzle_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  lines: 76
+- title: Dazzle Me Touch
+  identifier: netent:dazzle_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 76
+- title: Dazzle Me
+  identifier: netent:dazzle_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 76
+- title: Dazzle Me Touch
+  identifier: netent:dazzle_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 76
+- title: Dazzle Me
+  identifier: netent:dazzle_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 76
+- title: Dazzle Me Touch
+  identifier: netent:dazzle_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 76
+- title: Dazzle Me
+  identifier: netent:dazzle_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 76
+- title: Dead or Alive 2 Feature Buy Touch
+  identifier: netent:deadoralive2fb_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 9
+- title: Dead or Alive 2 Feature Buy
+  identifier: netent:deadoralive2fb_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 9
+- title: Dead or Alive 2 Touch
+  identifier: netent:deadoralive2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 9
+- title: Dead or Alive 2
+  identifier: netent:deadoralive2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 9
+- title: Dead or Alive Touch
+  identifier: netent:deadoralive_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 9
+- title: Dead or Alive
+  identifier: netent:deadoralive_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 9
+- title: Dead or Alive Touch
+  identifier: netent:deadoralive_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 9
+- title: Dead or Alive
+  identifier: netent:deadoralive_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 9
+- title: Dead or Alive Touch
+  identifier: netent:deadoralive_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+  lines: 9
+- title: Dead or Alive
+  identifier: netent:deadoralive_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  lines: 9
+- title: Dead or Alive Touch
+  identifier: netent:deadoralive_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 9
+- title: Dead or Alive
+  identifier: netent:deadoralive_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 9
+- title: Dead or Alive Touch
+  identifier: netent:deadoralive_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 9
+- title: Dead or Alive
+  identifier: netent:deadoralive_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 9
+- title: Dead or Alive Touch
+  identifier: netent:deadoralive_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 9
+- title: Dead or Alive
+  identifier: netent:deadoralive_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 9
+- title: Dead or Alive Touch
+  identifier: netent:deadoralive_r5_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp98
+  devices:
+  - mobile
+  lines: 9
+- title: Dead or Alive
+  identifier: netent:deadoralive_r5_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp98
+  devices:
+  - desktop
+  lines: 9
+- title: Disco Danny Touch
+  identifier: netent:discodanny_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 5
+- title: Disco Danny
+  identifier: netent:discodanny_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 5
+- title: Divine Fortune Megaways Touch
+  identifier: netent:divinemegaways_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Divine Fortune Megaways
+  identifier: netent:divinemegaways_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Double Stacks Touch
+  identifier: netent:doublestacks_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: Double Stacks
+  identifier: netent:doublestacks_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: Dracula Touch
+  identifier: netent:dracula_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 40
+- title: Dracula
+  identifier: netent:dracula_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 40
+- title: Druids' Dream Touch
+  identifier: netent:druidsdream_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Druids' Dream
+  identifier: netent:druidsdream_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: East Sea Dragon King Touch
+  identifier: netent:eastseadragonking_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: East Sea Dragon King
+  identifier: netent:eastseadragonking_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: EggOMatic Touch
+  identifier: netent:eggomatic_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: EggOMatic
+  identifier: netent:eggomatic_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Gonzo's Quest Touch
+  identifier: netent:eldorado_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Gonzo's Quest
+  identifier: netent:eldorado_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: 'Elements Touch: The Awakening'
+  identifier: netent:elements_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: 'Elements: The Awakening'
+  identifier: netent:elements_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: European Roulette Touch
+  identifier: netent:europeanroulette3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: European Roulette
+  identifier: netent:europeanroulette3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Excalibur Touch
+  identifier: netent:excalibur_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Excalibur
+  identifier: netent:excalibur_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: 'Fairytale Legends: Hansel and Gretel Touch'
+  identifier: netent:fairyhansel_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: 'Fairytale Legends: Hansel and Gretel'
+  identifier: netent:fairyhansel_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: 'Fairytale Legends: Mirror Mirror Touch'
+  identifier: netent:fairymirror_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: 'Fairytale Legends: Mirror Mirror'
+  identifier: netent:fairymirror_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: 'FairyTale Legends: Red Riding Hood Touch'
+  identifier: netent:fairyred_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: 'FairyTale Legends: Red Riding Hood'
+  identifier: netent:fairyred_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Finn and the Swirly Spin Touch
+  identifier: netent:finn_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Finn and the Swirly Spin
+  identifier: netent:finn_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Lights Touch
+  identifier: netent:fireflies_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 9
+- title: Lights
+  identifier: netent:fireflies_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 9
+- title: Flowers Touch
+  identifier: netent:flowers_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Flowers
+  identifier: netent:flowers_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: 'Football: Champions Cup Touch'
+  identifier: netent:football_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: 'Football: Champions Cup'
+  identifier: netent:football_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Fortune Rangers Touch
+  identifier: netent:fortunerangers_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 79
+- title: Fortune Rangers
+  identifier: netent:fortunerangers_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 76
+- title: French Roulette Touch
+  identifier: netent:frenchroulette3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: French Roulette
+  identifier: netent:frenchroulette3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Fruit Blaze Touch
+  identifier: netent:fruitblaze_f1_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 81
+- title: Fruit Blaze
+  identifier: netent:fruitblaze_f1_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 81
+- title: Fruit Blaze Touch
+  identifier: netent:fruitblaze_f1_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 81
+- title: Fruit Blaze
+  identifier: netent:fruitblaze_f1_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 81
+- title: Fruit Blaze Touch
+  identifier: netent:fruitblaze_f1_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 81
+- title: Fruit Blaze
+  identifier: netent:fruitblaze_f1_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 81
+- title: Fruit Blaze Touch
+  identifier: netent:fruitblaze_f1_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 81
+- title: Fruit Blaze
+  identifier: netent:fruitblaze_f1_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 81
+- title: Fruit Shop Christmas Edition Touch
+  identifier: netent:fruitshopchristmas_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 15
+- title: Fruit Shop Christmas Edition
+  identifier: netent:fruitshopchristmas_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 15
+- title: Fruit Shop Megaways Touch
+  identifier: netent:fruitshopmegaways_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Fruit Shop Megaways
+  identifier: netent:fruitshopmegaways_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Fruit Shop Megaways Touch
+  identifier: netent:fruitshopmegaways_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+- title: Fruit Shop Megaways
+  identifier: netent:fruitshopmegaways_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+- title: Fruit Shop Megaways Touch
+  identifier: netent:fruitshopmegaways_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+- title: Fruit Shop Megaways
+  identifier: netent:fruitshopmegaways_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+- title: Fruit Shop Megaways Touch
+  identifier: netent:fruitshopmegaways_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+- title: Fruit Shop Megaways
+  identifier: netent:fruitshopmegaways_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+- title: Fruit Shop Touch
+  identifier: netent:fruitshop_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 15
+- title: Fruit Shop
+  identifier: netent:fruitshop_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 15
+- title: Fruit Shop Touch
+  identifier: netent:fruitshop_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 15
+- title: Fruit Shop
+  identifier: netent:fruitshop_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 15
+- title: Fruit Case Touch
+  identifier: netent:fruits_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Fruit Case
+  identifier: netent:fruits_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Funk Master
+  identifier: netent:funkmaster_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Funk Master
+  identifier: netent:funkmaster_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Ghost Pirates Touch
+  identifier: netent:ghostpirates_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Ghost Pirates
+  identifier: netent:ghostpirates_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Divine Fortune Touch
+  identifier: netent:godsoffortune_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Divine Fortune
+  identifier: netent:godsoffortune_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Gods of Gold INFINIREELS Touch
+  identifier: netent:godsofgold_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Gods of Gold INFINIREELS
+  identifier: netent:godsofgold_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Golden Grimoire Touch
+  identifier: netent:goldengrimoire_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Golden Grimoire
+  identifier: netent:goldengrimoire_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Finn's Golden Tavern Touch
+  identifier: netent:goldentavern_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Finn's Golden Tavern
+  identifier: netent:goldentavern_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Gonzo's Gold
+  identifier: netent:gonzosgold_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Gonzo's Gold
+  identifier: netent:gonzosgold_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Gonzo's Gold
+  identifier: netent:gonzosgold_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+- title: Gonzo's Gold
+  identifier: netent:gonzosgold_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+- title: Gonzo's Gold
+  identifier: netent:gonzosgold_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+- title: Gonzo's Gold
+  identifier: netent:gonzosgold_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+- title: Gonzo's Gold
+  identifier: netent:gonzosgold_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+- title: Gonzo's Gold
+  identifier: netent:gonzosgold_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+- title: Gorilla Kingdom Touch
+  identifier: netent:gorillakingdom_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Gorilla Kingdom
+  identifier: netent:gorillakingdom_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Grand Spinn Touch
+  identifier: netent:grandspinn_no_progressive_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Grand Spinn
+  identifier: netent:grandspinn_no_progressive_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 1
+  has_jackpot: true
+- title: Grand Spinn Superpot Touch
+  identifier: netent:grandspinn_progressive_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Grand Spinn Superpot
+  identifier: netent:grandspinn_progressive_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 1
+  has_jackpot: true
+- title: Guns N' Roses Touch
+  identifier: netent:gunsnroses_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 20
+- title: Guns N' Roses
+  identifier: netent:gunsnroses_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 20
+- title: Guns N' Roses Touch
+  identifier: netent:gunsnroses_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_90
+  devices:
+  - mobile
+  lines: 20
+- title: Guns N' Roses
+  identifier: netent:gunsnroses_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_90
+  devices:
+  - desktop
+  lines: 20
+- title: Guns N' Roses Touch
+  identifier: netent:gunsnroses_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_92
+  devices:
+  - mobile
+  lines: 20
+- title: Guns N' Roses
+  identifier: netent:gunsnroses_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_92
+  devices:
+  - desktop
+  lines: 20
+- title: Guns N' Roses Touch
+  identifier: netent:gunsnroses_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_93
+  devices:
+  - mobile
+  lines: 20
+- title: Guns N' Roses
+  identifier: netent:gunsnroses_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_93
+  devices:
+  - desktop
+  lines: 20
+- title: Guns N' Roses Touch
+  identifier: netent:gunsnroses_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_94
+  devices:
+  - mobile
+  lines: 20
+- title: Guns N' Roses
+  identifier: netent:gunsnroses_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_94
+  devices:
+  - desktop
+  lines: 20
+- title: Guns N' Roses Touch
+  identifier: netent:gunsnroses_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_95
+  devices:
+  - mobile
+  lines: 20
+- title: Guns N' Roses
+  identifier: netent:gunsnroses_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_95
+  devices:
+  - desktop
+  lines: 20
+- title: Guns N' Roses Touch
+  identifier: netent:gunsnroses_r6_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_rtp
+  devices:
+  - mobile
+  lines: 20
+- title: Guns N' Roses
+  identifier: netent:gunsnroses_r6_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_rtp
+  devices:
+  - desktop
+  lines: 20
+- title: Halloween Jack Touch
+  identifier: netent:halloweenjack_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Halloween Jack
+  identifier: netent:halloweenjack_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Happy Riches Touch
+  identifier: netent:happyriches_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 30
+- title: Happy Riches
+  identifier: netent:happyriches_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 30
+- title: Gordon Ramsay Hell's Kitchen Touch
+  identifier: netent:hellskitchen_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 20
+- title: Gordon Ramsay Hell's Kitchen
+  identifier: netent:hellskitchen_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 20
+- title: Gordon Ramsay Hell's Kitchen Touch
+  identifier: netent:hellskitchen_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_95
+  devices:
+  - mobile
+  lines: 20
+- title: Gordon Ramsay Hell's Kitchen
+  identifier: netent:hellskitchen_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_95
+  devices:
+  - desktop
+  lines: 20
+- title: Gordon Ramsay Hell's Kitchen Touch
+  identifier: netent:hellskitchen_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_93
+  devices:
+  - mobile
+  lines: 20
+- title: Gordon Ramsay Hell's Kitchen
+  identifier: netent:hellskitchen_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded_93
+  devices:
+  - desktop
+  lines: 20
+- title: Coins of Egypt Touch
+  identifier: netent:hiddencoinsofegypt_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Coins of Egypt
+  identifier: netent:hiddencoinsofegypt_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Secrets of Atlantis Touch
+  identifier: netent:highlights_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Secrets of Atlantis
+  identifier: netent:highlights_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Hotline 2 Touch
+  identifier: netent:hotline2_f1_g1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Hotline 2
+  identifier: netent:hotline2_f1_g1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Hotline Touch
+  identifier: netent:hotline_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Hotline
+  identifier: netent:hotline_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Imperial Riches Touch
+  identifier: netent:imperialriches_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: Imperial Riches
+  identifier: netent:imperialriches_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 15
+  has_jackpot: true
+- title: The Invisible Man Touch
+  identifier: netent:invisibleman_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 20
+- title: The Invisible Man
+  identifier: netent:invisibleman_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 20
+- title: Irish Pot Luck Touch
+  identifier: netent:irishpotluck_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Irish Pot Luck
+  identifier: netent:irishpotluck_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Jack and the Beanstalk Touch
+  identifier: netent:jackandbeanstalk_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Jack and the Beanstalk
+  identifier: netent:jackandbeanstalk_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: 'Jack Hammer 2: Fishy Business Touch'
+  identifier: netent:jackhammer2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 99
+- title: 'Jack Hammer 2: Fishy Business'
+  identifier: netent:jackhammer2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 99
+- title: Jack Hammer Touch
+  identifier: netent:jackhammer_j0_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 25
+- title: Jack Hammer
+  identifier: netent:jackhammer_j0_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 25
+- title: Jack Hammer Touch
+  identifier: netent:jackhammer_j0_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+  lines: 25
+- title: Jack Hammer
+  identifier: netent:jackhammer_j0_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  lines: 25
+- title: Jack Hammer Touch
+  identifier: netent:jackhammer_j0_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 25
+- title: Jack Hammer
+  identifier: netent:jackhammer_j0_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 25
+- title: Jack Hammer Touch
+  identifier: netent:jackhammer_j0_r6_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 25
+- title: Jack Hammer
+  identifier: netent:jackhammer_j0_r6_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 25
+- title: Jack Hammer Touch
+  identifier: netent:jackhammer_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Jack Hammer
+  identifier: netent:jackhammer_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Jackpot 6000 Touch
+  identifier: netent:jackpot6000_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Jackpot 6000
+  identifier: netent:jackpot6000_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 5
+  has_jackpot: true
+- title: Jacks or Better Double Up Touch
+  identifier: netent:jacksorbettermultiplehand_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: video_poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: Jacks or Better Double Up
+  identifier: netent:jacksorbettermultiplehand_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: video_poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Fruit Spin Touch
+  identifier: netent:jewelfruits_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Fruit Spin
+  identifier: netent:jewelfruits_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Jimi Hendrix Touch
+  identifier: netent:jimihendrix_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 20
+- title: Jimi Hendrix
+  identifier: netent:jimihendrix_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 20
+- title: Jingle Spin Touch
+  identifier: netent:jinglespin_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Jingle Spin
+  identifier: netent:jinglespin_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Joker Pro Touch
+  identifier: netent:jokerpro_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: Joker Pro
+  identifier: netent:jokerpro_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: Jumanji Touch
+  identifier: netent:jumanji_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 36
+- title: Jumanji
+  identifier: netent:jumanji_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 36
+- title: 'Jungle Spirit: Call of the Wild Touch'
+  identifier: netent:junglespirit_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: 'Jungle Spirit: Call of the Wild'
+  identifier: netent:junglespirit_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: King of 3 Kingdoms Touch
+  identifier: netent:kingof3kingdoms_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: King of 3 Kingdoms
+  identifier: netent:kingof3kingdoms_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: King of Slots Touch
+  identifier: netent:kingofslots_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: King of Slots
+  identifier: netent:kingofslots_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Knight Rider
+  identifier: netent:knightrider_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 26
+- title: Knight Rider
+  identifier: netent:knightrider_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 26
+- title: Knight Rider
+  identifier: netent:knightrider_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 26
+- title: Knight Rider
+  identifier: netent:knightrider_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 26
+- title: Koi Princess Touch
+  identifier: netent:koiprincess_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Koi Princess
+  identifier: netent:koiprincess_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Let It Burn
+  identifier: netent:letitburn_r94_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+- title: Let It Burn
+  identifier: netent:letitburn_r94_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+- title: Let It Burn
+  identifier: netent:letitburn_r94_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+- title: Let It Burn
+  identifier: netent:letitburn_r94_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+- title: Let It Burn
+  identifier: netent:letitburn_r96_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Let It Burn
+  identifier: netent:letitburn_r96_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Let It Burn
+  identifier: netent:letitburn_r96_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Let It Burn
+  identifier: netent:letitburn_r96_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Long Pao Touch
+  identifier: netent:longpao_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Long Pao
+  identifier: netent:longpao_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Lost Relics Touch
+  identifier: netent:lostrelics_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Lost Relics
+  identifier: netent:lostrelics_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Magic Maid Cafe Touch
+  identifier: netent:magicmaidcafe_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Magic Maid Cafe
+  identifier: netent:magicmaidcafe_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Mega Fortune Touch
+  identifier: netent:megafortune_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Mega Fortune
+  identifier: netent:megafortune_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot
+  devices:
+  - desktop
+  lines: 25
+  has_jackpot: true
+- title: Mega Joker Touch
+  identifier: netent:megajoker_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Mega Joker
+  identifier: netent:megajoker_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 5
+  has_jackpot: true
+- title: Mercy of the Gods Touch
+  identifier: netent:mercyofthegods_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Mercy of the Gods
+  identifier: netent:mercyofthegods_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Milkshake XXXtreme
+  identifier: netent:milkshakexxxtreme_r94_f0_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+- title: Milkshake XXXtreme
+  identifier: netent:milkshakexxxtreme_r94_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+- title: Milkshake XXXtreme
+  identifier: netent:milkshakexxxtreme_r94_f1_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+- title: Milkshake XXXtreme
+  identifier: netent:milkshakexxxtreme_r94_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+- title: Milkshake XXXtreme
+  identifier: netent:milkshakexxxtreme_r96_f0_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Milkshake XXXtreme
+  identifier: netent:milkshakexxxtreme_r96_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Milkshake XXXtreme
+  identifier: netent:milkshakexxxtreme_r96_f1_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Milkshake XXXtreme
+  identifier: netent:milkshakexxxtreme_r96_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Motorhead Touch
+  identifier: netent:motorhead_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 76
+- title: Motorhead
+  identifier: netent:motorhead_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 76
+- title: 'Drive: Multiplier Mayhem Touch'
+  identifier: netent:multipliermayhem_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 15
+- title: 'Drive: Multiplier Mayhem'
+  identifier: netent:multipliermayhem_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 15
+- title: Mythic Maiden Touch
+  identifier: netent:mythicmaiden_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Mythic Maiden
+  identifier: netent:mythicmaiden_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Narcos Touch
+  identifier: netent:narcos_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+- title: Narcos
+  identifier: netent:narcos_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+- title: Neon Staxx Touch
+  identifier: netent:neonstaxx_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Neon Staxx
+  identifier: netent:neonstaxx_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Ocean's Treasure Touch
+  identifier: netent:oceanstreasure_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 15
+- title: Ocean's Treasure
+  identifier: netent:oceanstreasure_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 15
+- title: Ozzy Osbourne Video Slots Touch
+  identifier: netent:ozzy_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 20
+- title: Ozzy Osbourne Video Slots
+  identifier: netent:ozzy_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 20
+- title: 'Parthenon: Quest for Immortality'
+  identifier: netent:parthenon_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: 'Parthenon: Quest for Immortality'
+  identifier: netent:parthenon_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: 'Parthenon: Quest for Immortality'
+  identifier: netent:parthenon_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+- title: 'Parthenon: Quest for Immortality'
+  identifier: netent:parthenon_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+- title: 'Parthenon: Quest for Immortality'
+  identifier: netent:parthenon_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+- title: 'Parthenon: Quest for Immortality'
+  identifier: netent:parthenon_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+- title: 'Parthenon: Quest for Immortality'
+  identifier: netent:parthenon_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+- title: 'Parthenon: Quest for Immortality'
+  identifier: netent:parthenon_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+- title: Piggy Riches Touch
+  identifier: netent:piggyriches_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 15
+- title: Piggy Riches
+  identifier: netent:piggyriches_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 15
+- title: 'Pyramid: Quest for Immortality Touch'
+  identifier: netent:pyramid_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 720
+- title: 'Pyramid: Quest for Immortality'
+  identifier: netent:pyramid_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 720
+- title: Rage of the Seas Touch
+  identifier: netent:rageoftheseas_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Rage of the Seas
+  identifier: netent:rageoftheseas_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Reef Raider Touch
+  identifier: netent:reefraider_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Reef Raider
+  identifier: netent:reefraider_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Reef Raider Touch
+  identifier: netent:reefraider_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+- title: Reef Raider
+  identifier: netent:reefraider_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+- title: Reef Raider Touch
+  identifier: netent:reefraider_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+- title: Reef Raider
+  identifier: netent:reefraider_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+- title: Reef Raider Touch
+  identifier: netent:reefraider_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+- title: Reef Raider
+  identifier: netent:reefraider_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+- title: Reel Rush 2 Touch
+  identifier: netent:reelrush2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Reel Rush 2
+  identifier: netent:reelrush2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Reel Rush Touch
+  identifier: netent:reelrush_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 3125
+- title: Reel Rush
+  identifier: netent:reelrush_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 3125
+- title: Reel Rush Touch
+  identifier: netent:reelrush_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 3125
+- title: Reel Rush
+  identifier: netent:reelrush_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 3125
+- title: Reel Rush Touch
+  identifier: netent:reelrush_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+  lines: 3125
+- title: Reel Rush
+  identifier: netent:reelrush_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  lines: 3125
+- title: Reel Rush Touch
+  identifier: netent:reelrush_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 3125
+- title: Reel Rush
+  identifier: netent:reelrush_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 3125
+- title: Reel Rush Touch
+  identifier: netent:reelrush_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 3125
+- title: Reel Rush
+  identifier: netent:reelrush_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 3125
+- title: Reel Rush Touch
+  identifier: netent:reelrush_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 3125
+- title: Reel Rush
+  identifier: netent:reelrush_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 3125
+- title: Reel Steal Touch
+  identifier: netent:reelsteal_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 9
+- title: Reel Steal
+  identifier: netent:reelsteal_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 9
+- title: 'Riches of Midgard: Land and Expand Touch'
+  identifier: netent:richesofmidgard_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 29
+- title: 'Riches of Midgard: Land and Expand'
+  identifier: netent:richesofmidgard_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 29
+- title: Rise of Maya Touch
+  identifier: netent:riseofmaya_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: Rise of Maya
+  identifier: netent:riseofmaya_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: 'Robin Hood: Shifting Riches Touch'
+  identifier: netent:robinhood_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: 'Robin Hood: Shifting Riches'
+  identifier: netent:robinhood_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: 'Rome: The Golden Age Touch'
+  identifier: netent:rome_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: 'Rome: The Golden Age'
+  identifier: netent:rome_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: 'Rome: The Golden Age Touch'
+  identifier: netent:rome_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 20
+- title: 'Rome: The Golden Age'
+  identifier: netent:rome_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 20
+- title: 'Rome: The Golden Age Touch'
+  identifier: netent:rome_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 20
+- title: 'Rome: The Golden Age'
+  identifier: netent:rome_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 20
+- title: 'Rome: The Golden Age Touch'
+  identifier: netent:rome_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 20
+- title: 'Rome: The Golden Age'
+  identifier: netent:rome_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 20
+- title: Roulette Advanced
+  identifier: netent:roulette2adv_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Roulette Touch
+  identifier: netent:roulette_s_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: Santa vs Rudolf Touch
+  identifier: netent:santavsrudolf_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Santa vs Rudolf
+  identifier: netent:santavsrudolf_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Scruffy Duck Touch
+  identifier: netent:scruffyduck_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Scruffy Duck
+  identifier: netent:scruffyduck_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Scudamore's Super Stakes Touch
+  identifier: netent:scudamore_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+  lines: 20
+- title: Scudamore's Super Stakes
+  identifier: netent:scudamore_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  lines: 20
+- title: Secret of the Stones Touch
+  identifier: netent:secretofthestones_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Secret of the Stones
+  identifier: netent:secretofthestones_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Secrets of Christmas Touch
+  identifier: netent:secretsofchristmas_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Secrets of Christmas
+  identifier: netent:secretsofchristmas_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Serengeti Kings Touch
+  identifier: netent:serengetikings_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 26
+- title: Serengeti Kings
+  identifier: netent:serengetikings_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 26
+- title: 'The Legend of Shangri-La: Cluster Pays Touch'
+  identifier: netent:shangrila_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: 'The Legend of Shangri-La: Cluster Pays'
+  identifier: netent:shangrila_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Silverback Gold
+  identifier: netent:silverback_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+- title: Silverback Gold
+  identifier: netent:silverback_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+- title: Silverback Gold
+  identifier: netent:silverback_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Silverback Gold
+  identifier: netent:silverback_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Silverback Gold
+  identifier: netent:silverback_r0_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+- title: Silverback Gold
+  identifier: netent:silverback_r0_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+- title: Space Wars 2 Powerpoints
+  identifier: netent:spacewars2_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+- title: Space Wars 2 Powerpoints
+  identifier: netent:spacewars2_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+- title: Space Wars 2 Powerpoints
+  identifier: netent:spacewars2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+- title: Space Wars 2 Powerpoints
+  identifier: netent:spacewars2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+- title: Space Wars Touch
+  identifier: netent:spacewars_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Space Wars
+  identifier: netent:spacewars_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Spinsane Touch
+  identifier: netent:spinsane_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 27
+- title: Spinsane
+  identifier: netent:spinsane_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 27
+- title: Starburst Touch
+  identifier: netent:starburst_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: Starburst
+  identifier: netent:starburst_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: Starburst Touch
+  identifier: netent:starburst_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 10
+- title: Starburst
+  identifier: netent:starburst_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 10
+- title: Starburst Touch
+  identifier: netent:starburst_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+  lines: 10
+- title: Starburst
+  identifier: netent:starburst_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  lines: 10
+- title: Starburst Touch
+  identifier: netent:starburst_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 10
+- title: Starburst
+  identifier: netent:starburst_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 10
+- title: Starburst Touch
+  identifier: netent:starburst_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 10
+- title: Starburst
+  identifier: netent:starburst_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 10
+- title: Starburst Touch
+  identifier: netent:starburst_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 10
+- title: Starburst
+  identifier: netent:starburst_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 10
+- title: Starburst Xxxtreme
+  identifier: netent:starburstxxxtreme_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: xxxtreme
+  devices:
+  - mobile
+  lines: 9
+- title: Starburst Xxxtreme
+  identifier: netent:starburstxxxtreme_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: xxxtreme
+  devices:
+  - desktop
+  lines: 9
+- title: Starburst XXXtreme Touch
+  identifier: netent:starburstxxxtreme_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: xxxtreme
+  devices:
+  - mobile
+  lines: 9
+- title: Starburst XXXtreme
+  identifier: netent:starburstxxxtreme_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: xxxtreme
+  devices:
+  - desktop
+  lines: 9
+- title: Steam Tower Touch
+  identifier: netent:steamtower_j0_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 15
+- title: Steam Tower
+  identifier: netent:steamtower_j0_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 15
+- title: Steam Tower Touch
+  identifier: netent:steamtower_j0_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 15
+- title: Steam Tower
+  identifier: netent:steamtower_j0_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 15
+- title: Steam Tower Touch
+  identifier: netent:steamtower_j0_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 15
+- title: Steam Tower
+  identifier: netent:steamtower_j0_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 15
+- title: Steam Tower Touch
+  identifier: netent:steamtower_j0_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 15
+- title: Steam Tower
+  identifier: netent:steamtower_j0_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 15
+- title: Steam Tower Touch
+  identifier: netent:steamtower_j0_r6_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+  lines: 15
+- title: Steam Tower
+  identifier: netent:steamtower_j0_r6_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  lines: 15
+- title: Steam Tower Touch
+  identifier: netent:steamtower_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 15
+- title: Steam Tower
+  identifier: netent:steamtower_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 15
+- title: Stickers Touch
+  identifier: netent:stickers_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Stickers
+  identifier: netent:stickers_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: 'Street Fighter II: The World Warrior Slot Touch'
+  identifier: netent:streetfighter2_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: promo
+  devices:
+  - mobile
+  lines: 25
+- title: 'Street Fighter II: The World Warrior Slot'
+  identifier: netent:streetfighter2_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: promo
+  devices:
+  - desktop
+  lines: 25
+- title: 'Strolling Staxx: Cubic Fruits Touch'
+  identifier: netent:strollingstaxx_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: 'Strolling Staxx: Cubic Fruits'
+  identifier: netent:strollingstaxx_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: Superstars
+  identifier: netent:superstars_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+  lines: 45
+- title: Superstars
+  identifier: netent:superstars_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+  lines: 45
+- title: Superstars
+  identifier: netent:superstars_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+  lines: 45
+- title: Superstars
+  identifier: netent:superstars_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+  lines: 45
+- title: Superstars
+  identifier: netent:superstars_r1_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+  lines: 45
+- title: Superstars
+  identifier: netent:superstars_r1_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+  lines: 45
+- title: Super Striker Touch
+  identifier: netent:superstriker_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Super Striker
+  identifier: netent:superstriker_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Sweety Honey Fruity Touch
+  identifier: netent:sweetyhoneyfruity_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 15
+- title: Sweety Honey Fruity
+  identifier: netent:sweetyhoneyfruity_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 15
+- title: Taco Fury XXXtreme
+  identifier: netent:tacofury_r94_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 9
+- title: Taco Fury XXXtreme
+  identifier: netent:tacofury_r94_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 9
+- title: Taco Fury XXXtreme
+  identifier: netent:tacofury_r94_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 9
+- title: Taco Fury XXXtreme
+  identifier: netent:tacofury_r94_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 9
+- title: Taco Fury XXXtreme
+  identifier: netent:tacofury_r96_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 9
+- title: Taco Fury XXXtreme
+  identifier: netent:tacofury_r96_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 9
+- title: Taco Fury XXXtreme
+  identifier: netent:tacofury_r96_f1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 9
+- title: Taco Fury XXXtreme
+  identifier: netent:tacofury_r96_f1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 9
+- title: Temple of Nudges Touch
+  identifier: netent:templeofnudges_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Temple of Nudges
+  identifier: netent:templeofnudges_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: The Wolf's Bane Touch
+  identifier: netent:thewolfsnight_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: The Wolf's Bane
+  identifier: netent:thewolfsnight_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: Trollpot 5000
+  identifier: netent:trollpot_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: false
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Trollpot 5000
+  identifier: netent:trollpot_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: false
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 1
+  has_jackpot: true
+- title: Turn Your Fortune Touch
+  identifier: netent:turnyourfortune_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Turn Your Fortune
+  identifier: netent:turnyourfortune_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Twin Happiness Touch
+  identifier: netent:twinhappiness_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Twin Happiness
+  identifier: netent:twinhappiness_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Twin Spin Touch
+  identifier: netent:twinspin_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 243
+- title: Twin Spin Megaways Touch
+  identifier: netent:twinspinmw_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Twin Spin Megaways
+  identifier: netent:twinspinmw_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Twin Spin
+  identifier: netent:twinspin_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Twin Spin Touch
+  identifier: netent:twinspin_r0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - mobile
+  lines: 243
+- title: Twin Spin
+  identifier: netent:twinspin_r0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90
+  devices:
+  - desktop
+  lines: 243
+- title: Twin Spin Touch
+  identifier: netent:twinspin_r1_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - mobile
+  lines: 243
+- title: Twin Spin
+  identifier: netent:twinspin_r1_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  lines: 243
+- title: Twin Spin Touch
+  identifier: netent:twinspin_r2_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - mobile
+  lines: 243
+- title: Twin Spin
+  identifier: netent:twinspin_r2_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93
+  devices:
+  - desktop
+  lines: 243
+- title: Twin Spin Touch
+  identifier: netent:twinspin_r3_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - mobile
+  lines: 243
+- title: Twin Spin
+  identifier: netent:twinspin_r3_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  lines: 243
+- title: Twin Spin Touch
+  identifier: netent:twinspin_r4_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - mobile
+  lines: 243
+- title: Twin Spin
+  identifier: netent:twinspin_r4_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95
+  devices:
+  - desktop
+  lines: 243
+- title: Twin Spin Touch
+  identifier: netent:twinspin_r5_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp98
+  devices:
+  - mobile
+  lines: 243
+- title: Twin Spin
+  identifier: netent:twinspin_r5_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp98
+  devices:
+  - desktop
+  lines: 243
+- title: Vegas Night Life Touch
+  identifier: netent:vegasnightlife_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Vegas Night Life
+  identifier: netent:vegasnightlife_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: jackpot_basic
+  devices:
+  - desktop
+  lines: 20
+  has_jackpot: true
+- title: Victorious Touch
+  identifier: netent:victorious_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 243
+- title: Victorious
+  identifier: netent:victorious_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 243
+- title: Vikings Touch
+  identifier: netent:vikings_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - mobile
+- title: Vikings
+  identifier: netent:vikings_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+- title: 'Warlords: Crystals of Power Touch'
+  identifier: netent:warlords_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: 'Warlords: Crystals of Power'
+  identifier: netent:warlords_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Who's the Bride Touch
+  identifier: netent:whosthebride_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 9
+- title: Who's the Bride
+  identifier: netent:whosthebride_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 9
+- title: Wild Bazaar Touch
+  identifier: netent:wildbazaar_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 26
+- title: Wild Bazaar
+  identifier: netent:wildbazaar_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 26
+- title: Wilderland Touch
+  identifier: netent:wilderland_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Wilderland
+  identifier: netent:wilderland_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Wild-O-Tron 3000 Touch
+  identifier: netent:wildotron3000_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Wild-O-Tron 3000
+  identifier: netent:wildotron3000_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Wild Turkey Touch
+  identifier: netent:wildturkey_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Wild Turkey
+  identifier: netent:wildturkey_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Wild Water Touch
+  identifier: netent:wildwater_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Wild Water
+  identifier: netent:wildwater_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: 'Wild Wild West: The Great Train Heist Touch'
+  identifier: netent:wildwildwest_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: 'Wild Wild West: The Great Train Heist'
+  identifier: netent:wildwildwest_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: Wild Worlds Touch
+  identifier: netent:wildworlds_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Wild Worlds
+  identifier: netent:wildworlds_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Willy's Hot Chillies Touch
+  identifier: netent:willyshotchillies_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Willy's Hot Chillies
+  identifier: netent:willyshotchillies_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Wings of Riches Touch
+  identifier: netent:wingsofriches_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Wings of Riches
+  identifier: netent:wingsofriches_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: The Wish Master Touch
+  identifier: netent:wishmasteroct_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: The Wish Master
+  identifier: netent:wishmasteroct_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Wolf Cub Touch
+  identifier: netent:wolfcub_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Wolf Cub
+  identifier: netent:wolfcub_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Wonders of Christmas
+  identifier: netent:wondersofchristmas_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - mobile
+  lines: 20
+- title: Wonders of Christmas
+  identifier: netent:wondersofchristmas_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: standard_lv
+  devices:
+  - desktop
+  lines: 20
+- title: Wonders of Christmas
+  identifier: netent:wondersofchristmas_r0_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95_lv
+  devices:
+  - mobile
+  lines: 20
+- title: Wonders of Christmas
+  identifier: netent:wondersofchristmas_r0_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp95_lv
+  devices:
+  - desktop
+  lines: 20
+- title: Wonders of Christmas
+  identifier: netent:wondersofchristmas_r1_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90_lv
+  devices:
+  - mobile
+  lines: 20
+- title: Wonders of Christmas
+  identifier: netent:wondersofchristmas_r1_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp90_lv
+  devices:
+  - desktop
+  lines: 20
+- title: Wonders of Christmas
+  identifier: netent:wondersofchristmas_r3_f0_mobile_html_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93_lv
+  devices:
+  - mobile
+  lines: 20
+- title: Wonders of Christmas
+  identifier: netent:wondersofchristmas_r3_f0_not_mobile_sw
+  provider: netent
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: rtp93_lv
+  devices:
+  - desktop
+  lines: 20

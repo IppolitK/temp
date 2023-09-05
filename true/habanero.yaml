@@ -1,0 +1,2037 @@
+- title: Aces and Eights 100 Hand
+  identifier: habanero:AcesandEights100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Aces and Eights 10 Hand
+  identifier: habanero:AcesandEights10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Aces and Eights 1 Hand
+  identifier: habanero:AcesandEights1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Aces and Eights 50 Hand
+  identifier: habanero:AcesandEights50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Aces and Eights 5 Hand
+  identifier: habanero:AcesandEights5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: All American Poker 100 Hand
+  identifier: habanero:AllAmericanPoker100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: All American Poker 10 Hand
+  identifier: habanero:AllAmericanPoker10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: All American Poker 1 Hand
+  identifier: habanero:AllAmericanPoker1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: All American Poker 50 Hand
+  identifier: habanero:AllAmericanPoker50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: All American Poker 5 Hand
+  identifier: habanero:AllAmericanPoker5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Baccarat
+  identifier: habanero:AmericanBaccarat
+  provider: habanero
+  producer: habanero
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Baccarat Zero Commission
+  identifier: habanero:Baccarat3HZC
+  provider: habanero
+  producer: habanero
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blackjack (3 Hand)
+  identifier: habanero:BlackJack3H
+  provider: habanero
+  producer: habanero
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Exposure (3 Hand)
+  identifier: habanero:BlackJack3HDoubleExposure
+  provider: habanero
+  producer: habanero
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Deuces Wild 100 Hand
+  identifier: habanero:BonusDuecesWild100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Deuces Wild 10 Hand
+  identifier: habanero:BonusDuecesWild10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Deuces Wild 1 Hand
+  identifier: habanero:BonusDuecesWild1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Deuces Wild 50 Hand
+  identifier: habanero:BonusDuecesWild50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Deuces Wild 5 Hand
+  identifier: habanero:BonusDuecesWild5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Poker 100 Hand
+  identifier: habanero:BonusPoker100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Poker 10 Hand
+  identifier: habanero:BonusPoker10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Poker 1 Hand
+  identifier: habanero:BonusPoker1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Poker 50 Hand
+  identifier: habanero:BonusPoker50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Poker 5 Hand
+  identifier: habanero:BonusPoker5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Caribbean Holdem
+  identifier: habanero:CaribbeanHoldem
+  provider: habanero
+  producer: habanero
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Caribbean Stud
+  identifier: habanero:CaribbeanStud
+  provider: habanero
+  producer: habanero
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Bonus Poker 100 Hand
+  identifier: habanero:DoubleBonusPoker100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Bonus Poker 10 Hand
+  identifier: habanero:DoubleBonusPoker10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Bonus Poker 1 Hand
+  identifier: habanero:DoubleBonusPoker1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Bonus Poker 50 Hand
+  identifier: habanero:DoubleBonusPoker50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Bonus Poker 5 Hand
+  identifier: habanero:DoubleBonusPoker5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Double Bonus Poker 100 Hand
+  identifier: habanero:DoubleDoubleBonusPoker100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Double Bonus Poker 10 Hand
+  identifier: habanero:DoubleDoubleBonusPoker10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Double Bonus Poker 1 Hand
+  identifier: habanero:DoubleDoubleBonusPoker1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Double Bonus Poker 50 Hand
+  identifier: habanero:DoubleDoubleBonusPoker50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Double Bonus Poker 5 Hand
+  identifier: habanero:DoubleDoubleBonusPoker5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Deuces Wild 100 Hand
+  identifier: habanero:DuecesWild100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Deuces Wild 10 Hand
+  identifier: habanero:DuecesWild10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Deuces Wild 1 Hand
+  identifier: habanero:DuecesWild1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Deuces Wild 50 Hand
+  identifier: habanero:DuecesWild50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Deuces Wild 5 Hand
+  identifier: habanero:DuecesWild5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Roulette
+  identifier: habanero:EURoulette
+  provider: habanero
+  producer: habanero
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jacks or Better 100 Hand
+  identifier: habanero:JacksorBetter100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jacks or Better 10 Hand
+  identifier: habanero:JacksorBetter10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jacks or Better 1 Hand
+  identifier: habanero:JacksorBetter1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jacks or Better 50 Hand
+  identifier: habanero:JacksorBetter50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jacks or Better 5 Hand
+  identifier: habanero:JacksorBetter5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Poker 100 Hand
+  identifier: habanero:JokerPoker100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Poker 10 Hand
+  identifier: habanero:JokerPoker10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Poker 1 Hand
+  identifier: habanero:JokerPoker1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Poker 50 Hand
+  identifier: habanero:JokerPoker50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Poker 5 Hand
+  identifier: habanero:JokerPoker5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 12 Zodiacs
+  identifier: habanero:SG12Zodiacs
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: 5 Lucky Lions
+  identifier: habanero:SG5LuckyLions
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 88
+- title: 5 Mariachis
+  identifier: habanero:SG5Mariachis
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: All For One
+  identifier: habanero:SGAllForOne
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Arcane Elements
+  identifier: habanero:SGArcaneElements
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Arctic Wonders
+  identifier: habanero:SGArcticWonders
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Atomic Kittens
+  identifier: habanero:SGAtomicKittens
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Barnstormer Bucks
+  identifier: habanero:SGBarnstormerBucks
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Before Time Runs Out
+  identifier: habanero:SGBeforeTimeRunsOut
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bikini Island
+  identifier: habanero:SGBikiniIsland
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Bikini Island Deluxe & Meow Janken
+  identifier: habanero:SGBikiniIslandDeluxe
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bird of Thunder
+  identifier: habanero:SGBirdOfThunder
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bomb Runner
+  identifier: habanero:SGBombRunner
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bombs Away
+  identifier: habanero:SGBombsAway
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Buggy Bonus
+  identifier: habanero:SGBuggyBonus
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cake Valley
+  identifier: habanero:SGCakeValley
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Calaveras Explosivas
+  identifier: habanero:SGCalaverasExplosivas
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Candy Tower
+  identifier: habanero:SGCandyTower
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Carnival Cash
+  identifier: habanero:SGCarnivalCash
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cashosaurus
+  identifier: habanero:SGCashosaurus
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cash Reef
+  identifier: habanero:SGCashReef
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Christmas Gift Rush
+  identifier: habanero:SGChristmasGiftRush
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: Colossal Gems
+  identifier: habanero:SGColossalGems
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Coyote Crash
+  identifier: habanero:SGCoyoteCrash
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Crystopia
+  identifier: habanero:SGCrystopia
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Disco Beats
+  identifier: habanero:SGDiscoBeats
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Disco Funk
+  identifier: habanero:SGDiscoFunk
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dragon's Realm
+  identifier: habanero:SGDragonsRealm
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dragon's Throne
+  identifier: habanero:SGDragonsThrone
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dragon Tiger Gate
+  identifier: habanero:SGDragonTigerGate
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Egyptian Dreams Deluxe
+  identifier: habanero:SGEgyptianDreamsDeluxe
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fa Cai Shen
+  identifier: habanero:SGFaCaiShen
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 28
+- title: Fa Cai Shen Deluxe
+  identifier: habanero:SGFaCaiShenDeluxe
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fenghuang
+  identifier: habanero:SGFenghuang
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 28
+- title: Fire Rooster
+  identifier: habanero:SGFireRooster
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fly!
+  identifier: habanero:SGFly
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Flying High
+  identifier: habanero:SGFlyingHigh
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fortune Dogs
+  identifier: habanero:SGFortuneDogs
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Four Divine Beasts
+  identifier: habanero:SGFourDivineBeasts
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Galactic Cash
+  identifier: habanero:SGGalacticCash
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Gangsters
+  identifier: habanero:SGGangsters
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Golden Unicorn
+  identifier: habanero:SGGoldenUnicorn
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Golden Unicorn Deluxe
+  identifier: habanero:SGGoldenUnicornDeluxe
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Gold Rush
+  identifier: habanero:SGGoldRush
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Happiest Christmas Tree
+  identifier: habanero:SGHappiestChristmasTree
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Happy Ape
+  identifier: habanero:SGHappyApe
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Hey Sushi
+  identifier: habanero:SGHeySushi
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hot Hot Fruit
+  identifier: habanero:SGHotHotFruit
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Hot Hot Halloween
+  identifier: habanero:SGHotHotHalloween
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Indian Cash Catcher
+  identifier: habanero:SGIndianCashCatcher
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jellyfish Flow
+  identifier: habanero:SGJellyfishFlow
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jellyfish Flow Ultra
+  identifier: habanero:SGJellyfishFlowUltra
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Jugglenaut
+  identifier: habanero:SGJugglenaut
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Jump!
+  identifier: habanero:SGJump
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jungle Rumble
+  identifier: habanero:SGJungleRumble
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Kane's Inferno
+  identifier: habanero:SGKanesInferno
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Knockout Football
+  identifier: habanero:SGKnockoutFootball
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Knockout Football Rush
+  identifier: habanero:SGKnockoutFootballRush
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lantern Luck
+  identifier: habanero:SGLanternLuck
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Laughing Buddha
+  identifier: habanero:SGLaughingBuddha
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 28
+- title: Legendary Beasts
+  identifier: habanero:SGLegendaryBeasts
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Legend Of Nezha
+  identifier: habanero:SGLegendOfNezha
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 28
+- title: Little Green Money
+  identifier: habanero:SGLittleGreenMoney
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: London Hunter
+  identifier: habanero:SGLondonHunter
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Loony Blox
+  identifier: habanero:SGLoonyBlox
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Durian
+  identifier: habanero:SGLuckyDurian
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lucky Fortune Cat
+  identifier: habanero:SGLuckyFortuneCat
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 28
+- title: Lucky Lucky
+  identifier: habanero:SGLuckyLucky
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Magic Oak
+  identifier: habanero:SGMagicOak
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Marvelous Furlongs
+  identifier: habanero:SGMarvelousFurlongs
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Mighty Medusa
+  identifier: habanero:SGMightyMedusa
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Monster Mash Cash
+  identifier: habanero:SGMonsterMashCash
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mount Mazuma
+  identifier: habanero:SGMountMazuma
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mr Bling
+  identifier: habanero:SGMrBling
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mummy Money
+  identifier: habanero:SGMummyMoney
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mystic Fortune
+  identifier: habanero:SGMysticFortune
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mystic Fortune Deluxe
+  identifier: habanero:SGMysticFortuneDeluxe
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 28
+- title: Naughty Santa
+  identifier: habanero:SGNaughtySanta
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Naughty Wukong
+  identifier: habanero:SGNaughtyWukong
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: New Year's Bash
+  identifier: habanero:SGNewYearsBash
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Nine Tails
+  identifier: habanero:SGNineTails
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Nuwa
+  identifier: habanero:SGNuwa
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 28
+- title: Ocean's Call
+  identifier: habanero:SGOceansCall
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Orbs Of Atlantis
+  identifier: habanero:SGOrbsOfAtlantis
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pamper Me
+  identifier: habanero:SGPamperMe
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Panda Panda
+  identifier: habanero:SGPandaPanda
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pool Shark
+  identifier: habanero:SGPoolShark
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Presto!
+  identifier: habanero:SGPresto
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Prost
+  identifier: habanero:SGProst
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pucker Up Prince
+  identifier: habanero:SGPuckerUpPrince
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pumpkin Patch
+  identifier: habanero:SGPumpkinPatch
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen of Queens II
+  identifier: habanero:SGQueenOfQueens1024
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rainbow Mania
+  identifier: habanero:SGRainbowmania
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 17
+- title: Return to the Feature
+  identifier: habanero:SGReturnToTheFeature
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rolling Roger
+  identifier: habanero:SGRollingRoger
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Roman Empire
+  identifier: habanero:SGRomanEmpire
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ruffled Up
+  identifier: habanero:SGRuffledUp
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Santa's Village
+  identifier: habanero:SGSantasVillage
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Scopa
+  identifier: habanero:SGScopa
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Scruffy Scallywags
+  identifier: habanero:SGScruffyScallywags
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Shaolin Fortunes
+  identifier: habanero:SGShaolinFortunes243
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Siren’s Spell
+  identifier: habanero:SGSirensSpell
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Soju Bomb
+  identifier: habanero:SGSojuBomb
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: S.O.S!
+  identifier: habanero:SGSOS
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Space Fortune
+  identifier: habanero:SGSpaceFortune
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Space Goonz
+  identifier: habanero:SGSpaceGoonz
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sparta
+  identifier: habanero:SGSparta
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Strike
+  identifier: habanero:SGSuperStrike
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Twister
+  identifier: habanero:SGSuperTwister
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Taberna De Los Muertos
+  identifier: habanero:SGTabernaDeLosMuertos
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 101
+- title: Taberna De Los Muertos Ultra
+  identifier: habanero:SGTabernaDeLosMuertosUltra
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 101
+- title: Taiko Beats
+  identifier: habanero:SGTaikoBeats
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Techno Tumble
+  identifier: habanero:SGTechnoTumble
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Big Deal
+  identifier: habanero:SGTheBigDeal
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Big Deal Deluxe
+  identifier: habanero:SGTheBigDealDeluxe
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Dead Escape
+  identifier: habanero:SGTheDeadEscape
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Dragon Castle
+  identifier: habanero:SGTheDragonCastle
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Koi Gate
+  identifier: habanero:SGTheKoiGate
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: Tooty Fruity Fruits
+  identifier: habanero:SGTootyFruityFruits
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Totem Towers
+  identifier: habanero:SGTotemTowers
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tower Of Pizza
+  identifier: habanero:SGTowerOfPizza
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Treasure Diver
+  identifier: habanero:SGTreasureDiver
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tuk Tuk Thailand
+  identifier: habanero:SGTukTukThailand
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Viking's Plunder
+  identifier: habanero:SGVikingsPlunder
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ways of Fortune
+  identifier: habanero:SGWaysOfFortune
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wealth Inn
+  identifier: habanero:SGWealthInn
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Weird Science
+  identifier: habanero:SGWeirdScience
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wicked Witch
+  identifier: habanero:SGWickedWitch
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Trucks
+  identifier: habanero:SGWildTrucks
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Witches Tome
+  identifier: habanero:SGWitchesTome
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wizards Want War
+  identifier: habanero:SGWizardsWantWar
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Zeus
+  identifier: habanero:SGZeus
+  provider: habanero
+  producer: habanero
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sic Bo
+  identifier: habanero:SicBo
+  provider: habanero
+  producer: habanero
+  category: craps
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tens or Better 100 Hand
+  identifier: habanero:TensorBetter100Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tens or Better 10 Hand
+  identifier: habanero:TensorBetter10Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tens or Better 1 Hand
+  identifier: habanero:TensorBetter1Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tens or Better 50 Hand
+  identifier: habanero:TensorBetter50Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tens or Better 5 Hand
+  identifier: habanero:TensorBetter5Hand
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: American Blackjack
+  identifier: habanero:TGBlackjackAmerican
+  provider: habanero
+  producer: habanero
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Tiger
+  identifier: habanero:TGDragonTiger
+  provider: habanero
+  producer: habanero
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Three Card Poker
+  identifier: habanero:TGThreeCardPoker
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Three Card Poker Deluxe
+  identifier: habanero:TGThreeCardPokerDeluxe
+  provider: habanero
+  producer: habanero
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: War
+  identifier: habanero:TGWar
+  provider: habanero
+  producer: habanero
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

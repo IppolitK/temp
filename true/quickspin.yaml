@@ -1,0 +1,1636 @@
+- title: Adventures Beyond Wonderland Magical Maze
+  identifier: quickspin:AdventuresBeyondWonderlandMagicalMaze
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Adventures Beyond Wonderland Magical Maze
+  identifier: quickspin:AdventuresBeyondWonderlandMagicalMaze87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Adventures Beyond Wonderland Magical Maze
+  identifier: quickspin:AdventuresBeyondWonderlandMagicalMaze94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Arcane Gems
+  identifier: quickspin:ArcaneGems
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Ark of Mystery
+  identifier: quickspin:ArkofMystery
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Artemis vs Medusa
+  identifier: quickspin:ArtemisvsMedusa
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Azticons Chaos Clusters
+  identifier: quickspin:AzticonsChaosClusters
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Azticons Chaos Clusters
+  identifier: quickspin:AzticonsChaosClusters87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Azticons Chaos Clusters
+  identifier: quickspin:AzticonsChaosClusters94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Beastwood
+  identifier: quickspin:Beastwood
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Beastwood
+  identifier: quickspin:Beastwood87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Beastwood
+  identifier: quickspin:Beastwood94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Betty Bonkers
+  identifier: quickspin:BettyBonkers
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Betty Bonkers
+  identifier: quickspin:BettyBonkers87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Betty Bonkers
+  identifier: quickspin:BettyBonkers94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Big Bad Wolf
+  identifier: quickspin:BigBadWolf
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Big Bad Wolf
+  identifier: quickspin:BigBadWolf90
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Big Bad Wolf Christmas Special
+  identifier: quickspin:BigBadWolfChristmasSpecial
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Big Bad Wolf Megaways
+  identifier: quickspin:BigBadWolfMegaways
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Big Bad Wolf Megaways
+  identifier: quickspin:BigBadWolfMegaways94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Big Bot Crew
+  identifier: quickspin:BigBotCrew
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Blue Fortune
+  identifier: quickspin:BlueFortune
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Book of Duat
+  identifier: quickspin:BookofDuat
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book of Duat
+  identifier: quickspin:BookofDuat90
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Book of Duat
+  identifier: quickspin:BookofDuat94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Book of Inferno
+  identifier: quickspin:BookofInferno
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Inferno
+  identifier: quickspin:BookofInferno87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Inferno
+  identifier: quickspin:BookofInferno94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Brooklyn Bootleggers
+  identifier: quickspin:BrooklynBootleggers
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Brooklyn Bootleggers
+  identifier: quickspin:BrooklynBootleggers87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Brooklyn Bootleggers
+  identifier: quickspin:BrooklynBootleggers94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Cabin Crashers
+  identifier: quickspin:CabinCrashers
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Truck
+  identifier: quickspin:CashTruck
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Truck 2
+  identifier: quickspin:CashTruck2
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Truck 2
+  identifier: quickspin:CashTruck287
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Cash Truck 2
+  identifier: quickspin:CashTruck294
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Cash Truck
+  identifier: quickspin:CashTruck90
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Cash Truck
+  identifier: quickspin:CashTruck94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Cash Truck Xmas Delivery
+  identifier: quickspin:CashTruckXmasDelivery
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Truck Xmas Delivery
+  identifier: quickspin:CashTruckXmasDelivery90
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Cash Truck Xmas Delivery
+  identifier: quickspin:CashTruckXmasDelivery94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Crown of Valor
+  identifier: quickspin:CrownofValor
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Crystal Prince
+  identifier: quickspin:CrystalPrince
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Crystal Queen
+  identifier: quickspin:CrystalQueen
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Diamond Duke
+  identifier: quickspin:DiamondDuke
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dinosaur Rage
+  identifier: quickspin:DinosaurRage
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Divine Dreams
+  identifier: quickspin:DivineDreams
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dog Town Deal
+  identifier: quickspin:DogTownDeal
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dog Town Deal
+  identifier: quickspin:DogTownDeal87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Dog Town Deal
+  identifier: quickspin:DogTownDeal94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Chase
+  identifier: quickspin:DragonChase
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Dragon Shrine
+  identifier: quickspin:DragonShrine
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Durian Dynamite
+  identifier: quickspin:DurianDynamite
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dwarfs Gone Wild
+  identifier: quickspin:DwarfsGoneWild
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Eastern Emeralds
+  identifier: quickspin:EasternEmeralds
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Eastern Emeralds Megaways
+  identifier: quickspin:EasternEmeraldsMegaways
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Eastern Emeralds Megaways
+  identifier: quickspin:EasternEmeraldsMegaways87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Eastern Emeralds Megaways
+  identifier: quickspin:EasternEmeraldsMegaways94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Fairy Gate
+  identifier: quickspin:FairyGate
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Feasting Fox
+  identifier: quickspin:FeastingFox
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Feasting Fox
+  identifier: quickspin:FeastingFox87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Feasting Fox
+  identifier: quickspin:FeastingFox94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Flip Royale
+  identifier: quickspin:FlipRoyale
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Flip Royale
+  identifier: quickspin:FlipRoyale87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Flip Royale
+  identifier: quickspin:FlipRoyale94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Genies Touch
+  identifier: quickspin:GeniesTouch
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ghost Glyph
+  identifier: quickspin:GhostGlyph
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Glyph
+  identifier: quickspin:GoldenGlyph
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Glyph 2
+  identifier: quickspin:GoldenGlyph2
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Glyph 3
+  identifier: quickspin:GoldenGlyph3
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Glyph 3
+  identifier: quickspin:GoldenGlyph387
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Golden Glyph 3
+  identifier: quickspin:GoldenGlyph394
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Goldilocks
+  identifier: quickspin:Goldilocks
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Gold Lab
+  identifier: quickspin:GoldLab
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Guardian of Athens
+  identifier: quickspin:GuardianofAthens
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hammer of Vulcan
+  identifier: quickspin:HammerofVulcan
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hidden Valley 120
+  identifier: quickspin:HiddenValley120
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: High Street Heist
+  identifier: quickspin:HighStreetHeist
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: High Street Heist
+  identifier: quickspin:HighStreetHeist90
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: High Street Heist
+  identifier: quickspin:HighStreetHeist94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Hot Sync
+  identifier: quickspin:HotSync
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Illuminous
+  identifier: quickspin:Illuminous
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ivan and the Immortal King
+  identifier: quickspin:IvanandtheImmortalKing
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Joker Strike
+  identifier: quickspin:JokerStrike
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: King Colossus
+  identifier: quickspin:KingColossus
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Leprechaun Hills
+  identifier: quickspin:LeprechaunHills
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Loco the Monkey
+  identifier: quickspin:LocotheMonkey
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mayana
+  identifier: quickspin:Mayana
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Midas Coins
+  identifier: quickspin:MidasCoins
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mighty Arthur
+  identifier: quickspin:MightyArthur
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mine & Melt
+  identifier: quickspin:MineMelt
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mine & Melt
+  identifier: quickspin:MineMelt87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Mine & Melt
+  identifier: quickspin:MineMelt94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: false
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Hall of the Mountain King
+  identifier: quickspin:MountainKing
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Nero's Fortune
+  identifier: quickspin:NerosFortune
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Northern Sky
+  identifier: quickspin:NorthernSky
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Panther's Reign
+  identifier: quickspin:PanthersReign
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Phoenix Sun
+  identifier: quickspin:PhoenixSun
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pied Piper
+  identifier: quickspin:PiedPiper
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Pirate's Charm
+  identifier: quickspin:PiratesCharm
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Polar Paws
+  identifier: quickspin:PolarPaws
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Primal Spirits
+  identifier: quickspin:PrimalSpirits
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Primal Spirits
+  identifier: quickspin:PrimalSpirits87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Primal Spirits
+  identifier: quickspin:PrimalSpirits94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Prime Zone
+  identifier: quickspin:PrimeZone
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rapunzel's Tower
+  identifier: quickspin:RapunzelsTower
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Raven Rising
+  identifier: quickspin:RavenRising
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Raven Rising
+  identifier: quickspin:RavenRising87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Raven Rising
+  identifier: quickspin:RavenRising94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Razortooth
+  identifier: quickspin:Razortooth
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Reno 7's
+  identifier: quickspin:Reno7s
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sakura Fortune
+  identifier: quickspin:SakuraFortune
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Sakura Fortune 2
+  identifier: quickspin:SakuraFortune2
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sakura Fortune 2
+  identifier: quickspin:SakuraFortune290
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Sakura Fortune 2
+  identifier: quickspin:SakuraFortune294
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Scatter Monsters
+  identifier: quickspin:ScatterMonsters
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Scatter Monsters
+  identifier: quickspin:ScatterMonsters87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Scatter Monsters
+  identifier: quickspin:ScatterMonsters94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Second Strike
+  identifier: quickspin:SecondStrike
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sevens high
+  identifier: quickspin:Sevenshigh
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sevens High Ultra
+  identifier: quickspin:SevensHighUltra
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sinbad
+  identifier: quickspin:Sinbad1
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Skulls UP!
+  identifier: quickspin:SkullsUP!
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Slugger Time
+  identifier: quickspin:SluggerTime
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Spinions
+  identifier: quickspin:Spinions
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Spinions Game Day
+  identifier: quickspin:SpinionsGameDay
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spinions Game Day
+  identifier: quickspin:SpinionsGameDay87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Spinions Game Day
+  identifier: quickspin:SpinionsGameDay94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Spinions X-mas Party
+  identifier: quickspin:SpinionsXmasParty
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sticky Bandits
+  identifier: quickspin:StickyBandits
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 'Sticky Bandits 3: Most Wanted'
+  identifier: quickspin:StickyBandits3MostWanted
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Sticky Bandits Trail of Blood
+  identifier: quickspin:StickyBanditsTrailofBlood
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sticky Bandits Trail of Blood
+  identifier: quickspin:StickyBanditsTrailofBlood87
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sticky Bandits Trail of Blood
+  identifier: quickspin:StickyBanditsTrailofBlood94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Sticky Bandits: Wild Return'
+  identifier: quickspin:StickyBanditsWildReturn
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Tales of Dr. Dolittle
+  identifier: quickspin:TalesofDrDolittle
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Grand
+  identifier: quickspin:TheGrand
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Wild Chase
+  identifier: quickspin:TheWildChase
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ticket to the stars
+  identifier: quickspin:Tickettothestars
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tiger's Glory
+  identifier: quickspin:TigersGlory
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Titan Thunder: Wrath of Hades'
+  identifier: quickspin:TitanThunderWrathOfHades
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Titan Thunder: Wrath of Hades'
+  identifier: quickspin:TitanThunderWrathOfHades2
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Treasure Island
+  identifier: quickspin:TreasureIsland
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Vampire Senpai
+  identifier: quickspin:VampireSenpai
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Volcano Riches
+  identifier: quickspin:VolcanoRiches
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Warp Wreckers Power Glyph
+  identifier: quickspin:WarpWreckersPowerGlyph
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Warp Wreckers Power Glyph
+  identifier: quickspin:WarpWreckersPowerGlyph90
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Warp Wreckers Power Glyph
+  identifier: quickspin:WarpWreckersPowerGlyph94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Wild Cauldron
+  identifier: quickspin:WildCauldron
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Wild Chase: Tokyo Go'
+  identifier: quickspin:WildChaseTokyoGo
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Harlequin
+  identifier: quickspin:WildHarlequin
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Harlequin
+  identifier: quickspin:WildHarlequin94
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Wild Harlequin
+  identifier: quickspin:WildHarlequinbasic
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Luchador
+  identifier: quickspin:WildLuchador
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Tome of the Woods
+  identifier: quickspin:WildTomeoftheWoods
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 26
+- title: Wins of Fortune
+  identifier: quickspin:WinsofFortune
+  provider: quickspin
+  producer: quickspin
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

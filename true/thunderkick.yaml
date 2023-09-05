@@ -1,0 +1,1520 @@
+- title: 1429 Uncharted Seas
+  identifier: thunderkick:1429UnchartedSeas_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Arcader
+  identifier: thunderkick:arcader_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Babushkas
+  identifier: thunderkick:Babushkas_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 17
+- title: 'Barbershop: Uncut'
+  identifier: thunderkick:Barbershop_Uncut_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Baron Bloodmore and the Crimson Castle
+  identifier: thunderkick:BaronBloodmoreandtheCrimsonCastle90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Baron Bloodmore and the Crimson Castle
+  identifier: thunderkick:BaronBloodmoreandtheCrimsonCastle_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Beat the Beast: Cerberus'' Inferno'
+  identifier: thunderkick:BeattheBeastCerberusInferno
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: 'Beat the Beast: Griffin''s Gold'
+  identifier: thunderkick:BeattheBeastGriffinsGold_de
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Beat the Beast: Griffin''s Gold'
+  identifier: thunderkick:BeattheBeastGriffinsGold_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Beat the Beast: Mighty Sphinx'
+  identifier: thunderkick:BeattheBeastMightySphinx
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Beat the Beast: Quetzalcoatl''s Trial'
+  identifier: thunderkick:BeattheBeastQuetzalcoatlsTrial
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Big Fin Bay
+  identifier: thunderkick:BigFinBay_de
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+- title: Big Fin Bay
+  identifier: thunderkick:BigFinBay_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Birds On A Wire
+  identifier: thunderkick:BirdsOnAWire_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 17
+- title: Bork The Berzerker - Hack ‘N’ Slash Edition
+  identifier: thunderkick:BorkTheBerzerker_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Carnival Queen
+  identifier: thunderkick:CarnivalQueen
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+- title: Carnival Queen
+  identifier: thunderkick:CarnivalQueen_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Cosmic Voyager
+  identifier: thunderkick:CosmicVoyager_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Crystal Quest: Arcane Tower'
+  identifier: thunderkick:CrystalQuestArcaneTower_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: 'Crystal Quest: Deep Jungle'
+  identifier: thunderkick:CrystalQuestDeepJungle_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: 'Crystal Quest: Frostlands'
+  identifier: thunderkick:CrystalQuestFrostlands_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dionysus Golden Feast
+  identifier: thunderkick:DionysusGoldenFeast90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dionysus Golden Feast
+  identifier: thunderkick:DionysusGoldenFeast92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dionysus Golden Feast
+  identifier: thunderkick:DionysusGoldenFeast94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dionysus Golden Feast
+  identifier: thunderkick:DionysusGoldenFeast_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Divine Lotus
+  identifier: thunderkick:DivineLotus_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Horn
+  identifier: thunderkick:DragonHorn_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Esqueleto Explosivo 2
+  identifier: thunderkick:EsqueletoExplosivo2_de
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+- title: Esqueleto Explosivo 2 Reborn
+  identifier: thunderkick:EsqueletoExplosivo2Reborn90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Esqueleto Explosivo 2 Reborn
+  identifier: thunderkick:EsqueletoExplosivo2Reborn92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Esqueleto Explosivo 2 Reborn
+  identifier: thunderkick:EsqueletoExplosivo2Reborn94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Esqueleto Explosivo 2 Reborn
+  identifier: thunderkick:EsqueletoExplosivo2Reborn_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Esqueleto Explosivo 2
+  identifier: thunderkick:EsqueletoExplosivo2_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Esqueleto Explosivo
+  identifier: thunderkick:EsqueletoExplosivo_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 17
+- title: Flame Busters
+  identifier: thunderkick:FlameBusters_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Flux
+  identifier: thunderkick:Flux_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Fortune Cats Golden Stacks
+  identifier: thunderkick:FortuneCatsGoldenStacks
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fortune Cats Golden Stacks
+  identifier: thunderkick:FortuneCatsGoldenStacks90
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fortune Cats Golden Stacks
+  identifier: thunderkick:FortuneCatsGoldenStacks92
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fortune Cats Golden Stacks
+  identifier: thunderkick:FortuneCatsGoldenStacks94
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Frog Grog
+  identifier: thunderkick:FrogGrog_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 23
+- title: Fruit Warp
+  identifier: thunderkick:FruitWarp_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Full Moon Romance
+  identifier: thunderkick:FullMoonRomance_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Gods of Rock!
+  identifier: thunderkick:GodsofRock90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Gods of Rock! Reborn
+  identifier: thunderkick:GodsofRockReborn90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Gods of Rock! Reborn
+  identifier: thunderkick:GodsofRockReborn92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Gods of Rock! Reborn
+  identifier: thunderkick:GodsofRockReborn94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Gods of Rock! Reborn
+  identifier: thunderkick:GodsofRockReborn_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Gods of Rock!
+  identifier: thunderkick:GodsofRock_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Grand Melee
+  identifier: thunderkick:GrandMelee90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Grand Melee
+  identifier: thunderkick:GrandMelee92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Grand Melee
+  identifier: thunderkick:GrandMelee94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Grand Melee
+  identifier: thunderkick:GrandMelee_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jaguar Temple
+  identifier: thunderkick:JaguarTemple_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jiggly Cash
+  identifier: thunderkick:JigglyCash90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jiggly Cash
+  identifier: thunderkick:JigglyCash92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jiggly Cash
+  identifier: thunderkick:JigglyCash94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jiggly Cash
+  identifier: thunderkick:JigglyCash_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Jin Chan’s Pond of Riches
+  identifier: thunderkick:JinChansPondofRiches
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Jin Chan’s Pond of Riches
+  identifier: thunderkick:JinChansPondofRiches_de
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: 'Beat the Beast: Kraken''s Lair'
+  identifier: thunderkick:KrakensLair_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Lava Lava
+  identifier: thunderkick:LavaLava90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lava Lava
+  identifier: thunderkick:LavaLava92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lava Lava
+  identifier: thunderkick:LavaLava94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lava Lava
+  identifier: thunderkick:LavaLava_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lost City of the Djinn
+  identifier: thunderkick:LostCityoftheDjinn_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lost City of the Djinn
+  identifier: thunderkick:LostCityoftheDjinn_tk90
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lost City of the Djinn
+  identifier: thunderkick:LostCityoftheDjinn_tk92
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lost City of the Djinn
+  identifier: thunderkick:LostCityoftheDjinn_tk94
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Luchadora
+  identifier: thunderkick:Luchadora_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Magicious
+  identifier: thunderkick:Magicious_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Midas Golden Touch
+  identifier: thunderkick:MidasGoldenTouch_de
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Midas Golden Touch Reborn
+  identifier: thunderkick:MidasGoldenTouchReborn90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Midas Golden Touch Reborn
+  identifier: thunderkick:MidasGoldenTouchReborn92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Midas Golden Touch Reborn
+  identifier: thunderkick:MidasGoldenTouchReborn94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Midas Golden Touch Reborn
+  identifier: thunderkick:MidasGoldenTouchReborn_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Midas Golden Touch
+  identifier: thunderkick:MidasGoldenTouch_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Not Enough Kittens
+  identifier: thunderkick:NotEnoughKittens_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: Odin's Gamble
+  identifier: thunderkick:OdinsGamble90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Odin's Gamble
+  identifier: thunderkick:OdinsGamble92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Odin's Gamble
+  identifier: thunderkick:OdinsGamble94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Odin’s Gamble
+  identifier: thunderkick:OdinsGamble_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Phoenix Paradise
+  identifier: thunderkick:PhoenixParadise90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Phoenix Paradise
+  identifier: thunderkick:PhoenixParadise92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Phoenix Paradise
+  identifier: thunderkick:PhoenixParadise94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Phoenix Paradise
+  identifier: thunderkick:PhoenixParadise_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Pink Elephants 2
+  identifier: thunderkick:PinkElephants294_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Pink Elephants 2
+  identifier: thunderkick:PinkElephants2_de
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+- title: Pink Elephants 2 Reborn
+  identifier: thunderkick:PinkElephants2Reborn90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Pink Elephants 2 Reborn
+  identifier: thunderkick:PinkElephants2Reborn92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Pink Elephants 2 Reborn
+  identifier: thunderkick:PinkElephants2Reborn94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Pink Elephants 2 Reborn
+  identifier: thunderkick:PinkElephants2Reborn_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Pink Elephants 2
+  identifier: thunderkick:PinkElephants2_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Pink Elephants
+  identifier: thunderkick:PinkElephants_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Pyramyth
+  identifier: thunderkick:Pyramyth90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Pyramyth Reborn
+  identifier: thunderkick:PyramythReborn90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Pyramyth Reborn
+  identifier: thunderkick:PyramythReborn92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Pyramyth Reborn
+  identifier: thunderkick:PyramythReborn94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Pyramyth Reborn
+  identifier: thunderkick:PyramythReborn_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Pyramyth
+  identifier: thunderkick:Pyramyth_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Ravens Eye
+  identifier: thunderkick:RavensEye_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Rex the Hunt!
+  identifier: thunderkick:RextheHunt90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Rex the Hunt!
+  identifier: thunderkick:RextheHunt92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Rex the Hunt!
+  identifier: thunderkick:RextheHunt94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Rex the Hunt!
+  identifier: thunderkick:RextheHunt_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Riders of the Storm
+  identifier: thunderkick:RidersoftheStorm_de
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+- title: Riders of the Storm
+  identifier: thunderkick:RidersoftheStorm_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Rocket Fellas Inc
+  identifier: thunderkick:RocketFellas_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Shifting Seas
+  identifier: thunderkick:ShiftingSeas90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Shifting Seas
+  identifier: thunderkick:ShiftingSeas92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Shifting Seas
+  identifier: thunderkick:ShiftingSeas94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Shifting Seas
+  identifier: thunderkick:ShiftingSeas_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Spectra
+  identifier: thunderkick:Spectra_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Sunset Delight
+  identifier: thunderkick:SunsetDelight_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sword of Khans
+  identifier: thunderkick:SwordofKhans_de
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sword of Khans
+  identifier: thunderkick:SwordofKhans_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sword of Shoguns
+  identifier: thunderkick:SwordofShoguns90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Sword of Shoguns
+  identifier: thunderkick:SwordofShoguns92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Sword of Shoguns
+  identifier: thunderkick:SwordofShoguns94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Sword of Shoguns
+  identifier: thunderkick:SwordofShoguns_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: The Falcon Huntress
+  identifier: thunderkick:TheFalconHuntress_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: The Rift
+  identifier: thunderkick:TheRift_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 17
+- title: The Wildos
+  identifier: thunderkick:TheWildos90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: The Wildos
+  identifier: thunderkick:TheWildos92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: The Wildos
+  identifier: thunderkick:TheWildos94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: The Wildos
+  identifier: thunderkick:TheWildos_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Tiger Rush
+  identifier: thunderkick:TigerRush_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Toki Time
+  identifier: thunderkick:TokiTime_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 11
+- title: Triple Christmas Gold
+  identifier: thunderkick:TripleChristmasGold90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Triple Christmas Gold
+  identifier: thunderkick:TripleChristmasGold92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Triple Christmas Gold
+  identifier: thunderkick:TripleChristmasGold94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Triple Christmas Gold
+  identifier: thunderkick:TripleChristmasGold_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Triple Royal Gold
+  identifier: thunderkick:TripleRoyalGold
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+- title: Triple Royal Gold
+  identifier: thunderkick:TripleRoyalGold90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+- title: Triple Royal Gold
+  identifier: thunderkick:TripleRoyalGold92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Triple Royal Gold
+  identifier: thunderkick:TripleRoyalGold96_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Turning Totems
+  identifier: thunderkick:TurningTotems_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 11
+- title: Well of Wonders
+  identifier: thunderkick:WellOfWonders_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: Wild Heist at Peacock Manor
+  identifier: thunderkick:WildHeist_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 17
+- title: Yeti Battle of Greenhat peak
+  identifier: thunderkick:YetiBattle_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 11
+- title: Zap Attack!
+  identifier: thunderkick:ZapAttack90_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basicde_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Zap Attack!
+  identifier: thunderkick:ZapAttack92_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Zap Attack!
+  identifier: thunderkick:ZapAttack94_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Zap Attack!
+  identifier: thunderkick:ZapAttack_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Zoom
+  identifier: thunderkick:Zoom_tk
+  provider: thunderkick
+  producer: thunderkick
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile

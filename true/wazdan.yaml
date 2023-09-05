@@ -1,0 +1,4087 @@
+- title: 12 Coins
+  identifier: wazdan:12Coins
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 12 Coins
+  identifier: wazdan:12Coins94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 15 Coins
+  identifier: wazdan:15Coins
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 15 Coins
+  identifier: wazdan:15Coins94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 16 Coins
+  identifier: wazdan:16Coins
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 16 Coins
+  identifier: wazdan:16Coins94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Burning Dragons
+  identifier: wazdan:9BurningDragons
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Burning Dragons
+  identifier: wazdan:9BurningDragons94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Burning Stars
+  identifier: wazdan:9BurningStars
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Burning Stars
+  identifier: wazdan:9BurningStars94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins
+  identifier: wazdan:9Coins
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins 1000x Edition
+  identifier: wazdan:9Coins1000xEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins 1000x Edition
+  identifier: wazdan:9Coins1000xEdition94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins
+  identifier: wazdan:9Coins94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 coins Easter
+  identifier: wazdan:9coinsEaster
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins Extremely Light
+  identifier: wazdan:9CoinsExtremelyLight
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 9 Coins Extremely Light
+  identifier: wazdan:9CoinsExtremelyLight94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: 9 Coins Grand Diamond Edition
+  identifier: wazdan:9CoinsGrandDiamondEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: promo
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins Grand Diamond Edition
+  identifier: wazdan:9CoinsGrandDiamondEdition94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: '9 Coins: Grand Gold Edition'
+  identifier: wazdan:9CoinsGrandGoldEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: '9 Coins: Grand Gold Edition'
+  identifier: wazdan:9CoinsGrandGoldEdition94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins Grand Platinum Edition
+  identifier: wazdan:9CoinsGrandPlatinumEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins Grand Platinum Edition
+  identifier: wazdan:9CoinsGrandPlatinumEdition94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins Halloween
+  identifier: wazdan:9CoinsHalloween
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Coins Xmas Edition
+  identifier: wazdan:9CoinsXmasEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Lions
+  identifier: wazdan:9Lions
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: 9 Lions
+  identifier: wazdan:9Lions94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: 9 Lions Xmas Edition
+  identifier: wazdan:9LionsXmasEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 9 Tigers
+  identifier: wazdan:9Tigers
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: 9 Tigers
+  identifier: wazdan:9Tigers94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: American Poker Gold
+  identifier: wazdan:AmericanPokerGold
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: American Poker Gold
+  identifier: wazdan:AmericanPokerGold94
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: American Poker V
+  identifier: wazdan:AmericanPokerV
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: American Poker V
+  identifier: wazdan:AmericanPokerV94
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Arcade
+  identifier: wazdan:Arcade
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Arcade
+  identifier: wazdan:Arcade94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Back to the 70's
+  identifier: wazdan:Backto70s
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Back to the 70's
+  identifier: wazdan:Backto70s94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: BARs&7s
+  identifier: wazdan:BARs&7s
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: BARs&7s
+  identifier: wazdan:BARs&7s94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Beach Party
+  identifier: wazdan:BeachParty
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beach Party
+  identifier: wazdan:BeachParty94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beach Party Hot
+  identifier: wazdan:BeachPartyHot
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beach Party Hot
+  identifier: wazdan:BeachPartyHot94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beauty Fruity
+  identifier: wazdan:BeautyFruity
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Beauty Fruity
+  identifier: wazdan:BeautyFruity94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Bell Wizard
+  identifier: wazdan:BellWizard
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Bell Wizard
+  identifier: wazdan:BellWizard94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Black Hawk
+  identifier: wazdan:BlackHawk
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 54
+- title: Black Hawk
+  identifier: wazdan:BlackHawk94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 54
+- title: Black Hawk Deluxe
+  identifier: wazdan:BlackHawkDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 54
+- title: Black Hawk Deluxe
+  identifier: wazdan:BlackHawkDeluxertp
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 54
+- title: Black Horse
+  identifier: wazdan:BlackHorse
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Black Horse
+  identifier: wazdan:BlackHorse94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Black Horse Deluxe
+  identifier: wazdan:BlackHorseDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Black Horse Deluxe
+  identifier: wazdan:BlackHorseDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Black Jack
+  identifier: wazdan:BlackJack
+  provider: wazdan
+  producer: wazdan
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Burning Reels
+  identifier: wazdan:BurningReels
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Burning Reels
+  identifier: wazdan:BurningReels94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Burning Stars
+  identifier: wazdan:BurningStars
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Burning Stars 3
+  identifier: wazdan:BurningStars3
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Burning Stars 3
+  identifier: wazdan:BurningStars394
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Burning Stars 3 Xmas Edition
+  identifier: wazdan:BurningStars3XmasEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Burning Stars
+  identifier: wazdan:BurningStars94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Burning Sun
+  identifier: wazdan:BurningSun
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Burning Sun
+  identifier: wazdan:BurningSun94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Burning Sun Easter
+  identifier: wazdan:BurningSunEaster
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Burning Sun Extremely Light
+  identifier: wazdan:BurningSunExtremelyLight
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Burning Sun Extremely Light
+  identifier: wazdan:BurningSunExtremelyLight94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Butterfly Lovers
+  identifier: wazdan:ButterflyLovers
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Butterfly Lovers
+  identifier: wazdan:ButterflyLovers94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Captain Shark
+  identifier: wazdan:CaptainShark
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Captain Shark
+  identifier: wazdan:CaptainShark94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Caribbean Beach Poker
+  identifier: wazdan:CaribbeanBeachPoker
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Casino Roulette
+  identifier: wazdan:CasinoRoulette
+  provider: wazdan
+  producer: wazdan
+  category: roulette
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Choco Reels
+  identifier: wazdan:ChocoReels
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Choco Reels
+  identifier: wazdan:ChocoReels94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Choco Reels Easter
+  identifier: wazdan:ChocoReelsEaster
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Clover Lady
+  identifier: wazdan:CloverLady
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Clover Lady
+  identifier: wazdan:CloverLady94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Colin The Cat
+  identifier: wazdan:ColinTheCat
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Colin The Cat
+  identifier: wazdan:ColinTheCat94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Corrida Romance
+  identifier: wazdan:CorridaRomance
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Corrida Romance
+  identifier: wazdan:CorridaRomance94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Corrida Romance Deluxe
+  identifier: wazdan:CorridaRomanceDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Corrida Romance Deluxe
+  identifier: wazdan:CorridaRomanceDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Crazy Cars
+  identifier: wazdan:CrazyCars
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Crazy Cars
+  identifier: wazdan:CrazyCars94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Criss Cross 81
+  identifier: wazdan:CrissCross81
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Criss Cross 81
+  identifier: wazdan:CrissCross8194
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Demon Jack 27
+  identifier: wazdan:DemonJack27
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Demon Jack 27
+  identifier: wazdan:DemonJack2794
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Dino Reels 81
+  identifier: wazdan:DinoReels81
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Dino Reels 81
+  identifier: wazdan:DinoReels8194
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Double Tigers
+  identifier: wazdan:DoubleTigers
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Double Tigers
+  identifier: wazdan:DoubleTigers94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Dracula's Castle
+  identifier: wazdan:DraculasCastle
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dracula's Castle
+  identifier: wazdan:DraculasCastle94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dragons Lucky 8
+  identifier: wazdan:DragonsLucky8
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dragons Lucky 8
+  identifier: wazdan:DragonsLucky894
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dwarfs Fortune
+  identifier: wazdan:DwarfsFortune
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dwarfs Fortune
+  identifier: wazdan:DwarfsFortune94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dwarfs Fortune Easter
+  identifier: wazdan:DwarfsFortuneEaster
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Extra Bingo
+  identifier: wazdan:ExtraBingo
+  provider: wazdan
+  producer: wazdan
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Extra Bingo
+  identifier: wazdan:ExtraBingo94
+  provider: wazdan
+  producer: wazdan
+  category: lottery
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Fenix Play
+  identifier: wazdan:FenixPlay
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fenix Play 27
+  identifier: wazdan:FenixPlay27
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Fenix Play 27
+  identifier: wazdan:FenixPlay2794
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Fenix Play 27 Deluxe
+  identifier: wazdan:FenixPlay27Deluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Fenix Play 27 Deluxe
+  identifier: wazdan:FenixPlay27Deluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Fenix Play
+  identifier: wazdan:FenixPlay94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fenix Play Deluxe
+  identifier: wazdan:FenixPlayDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fenix Play Deluxe
+  identifier: wazdan:FenixPlayDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fire Bird
+  identifier: wazdan:FireBird
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fire Bird
+  identifier: wazdan:FireBird94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Football Mania
+  identifier: wazdan:FootballMania
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Football Mania
+  identifier: wazdan:FootballMania94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Football Mania Deluxe
+  identifier: wazdan:FootballManiaDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Football Mania Deluxe
+  identifier: wazdan:FootballManiaDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Fortune Reels
+  identifier: wazdan:FortuneReels
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Fortune Reels
+  identifier: wazdan:FortuneReels94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Fruit Fiesta
+  identifier: wazdan:FruitFiesta
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruit Fiesta
+  identifier: wazdan:FruitFiesta94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruit Mania
+  identifier: wazdan:FruitMania
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Mania
+  identifier: wazdan:FruitMania94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Mania Deluxe
+  identifier: wazdan:FruitManiaDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Mania Deluxe
+  identifier: wazdan:FruitManiaDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Fruits Go Bananas
+  identifier: wazdan:FruitsGoBananas
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruits Go Bananas
+  identifier: wazdan:FruitsGoBananas94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Gem Splitter
+  identifier: wazdan:GemSplitter
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Gem Splitter
+  identifier: wazdan:GemSplitter94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Golden Sphinx
+  identifier: wazdan:GoldenSphinx
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Golden Sphinx
+  identifier: wazdan:GoldenSphinx94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gold Roulette
+  identifier: wazdan:GoldRoulette
+  provider: wazdan
+  producer: wazdan
+  category: roulette
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Good Luck 40
+  identifier: wazdan:GoodLuck40
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Good Luck 40
+  identifier: wazdan:GoodLuck4094
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Great Book of Magic
+  identifier: wazdan:GreatBookofMagic
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Great Book of Magic
+  identifier: wazdan:GreatBookofMagic94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Great Book of Magic Deluxe
+  identifier: wazdan:GreatBookofMagicDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Great Book of Magic Deluxe
+  identifier: wazdan:GreatBookofMagicDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Haunted Hospital
+  identifier: wazdan:HauntedHospital
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Haunted Hospital
+  identifier: wazdan:HauntedHospital94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Highschool Manga
+  identifier: wazdan:HighschoolManga
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Highschool Manga
+  identifier: wazdan:HighschoolManga94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Highway To Hell
+  identifier: wazdan:HighwayToHell
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Highway To Hell
+  identifier: wazdan:HighwayToHell94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Highway to Hell Deluxe
+  identifier: wazdan:HighwaytoHellDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Highway to Hell Deluxe
+  identifier: wazdan:HighwaytoHellDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot 777
+  identifier: wazdan:Hot777
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot 777
+  identifier: wazdan:Hot77794
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot 777 Deluxe
+  identifier: wazdan:Hot777Deluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot 777 Deluxe
+  identifier: wazdan:Hot777Deluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Party
+  identifier: wazdan:HotParty
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Party
+  identifier: wazdan:HotParty94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Party Deluxe
+  identifier: wazdan:HotPartyDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Party Deluxe
+  identifier: wazdan:HotPartyDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Hot Slot: 777 Cash Out'
+  identifier: wazdan:HotSlot777CashOut
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Hot Slot: 777 Cash Out'
+  identifier: wazdan:HotSlot777CashOut94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Hot Slot: 777 Cash Out Extremely Light'
+  identifier: wazdan:HotSlot777CashOutExtremelyLight
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Hot Slot: 777 Cash Out Extremely Light'
+  identifier: wazdan:HotSlot777CashOutExtremelyLight94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Hot Slot: 777 Coins'
+  identifier: wazdan:HotSlot777Coins
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Hot Slot: 777 Coins'
+  identifier: wazdan:HotSlot777Coins94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Hot Slot: 777 Crown'
+  identifier: wazdan:HotSlot777Crown
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Hot Slot: 777 Crown'
+  identifier: wazdan:HotSlot777Crown94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Hot Slot: 777 Crown Halloween'
+  identifier: wazdan:HotSlot777CrownHalloween
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Hot Slot: 777 Rubies'
+  identifier: wazdan:HotSlot777Rubies
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Hot Slot: 777 Rubies'
+  identifier: wazdan:HotSlot777Rubies94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Hot Slot: 777 Stars'
+  identifier: wazdan:HotSlot777Stars
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Hot Slot: 777 Stars'
+  identifier: wazdan:HotSlot777Stars94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Hot Slot: Great Book of Magic'
+  identifier: wazdan:HotSlotGreatBookofMagic
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Hot Slot: Great Book of Magic'
+  identifier: wazdan:HotSlotGreatBookofMagic94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Hot Slot: Magic Bombs'
+  identifier: wazdan:HotSlotMagicBombs
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Hot Slot: Magic Bombs'
+  identifier: wazdan:HotSlotMagicBombs94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Hot Slot: Magic Bombs Halloween'
+  identifier: wazdan:HotSlotMagicBombsHalloween
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Hot Slot: Magic Pearls'
+  identifier: wazdan:HotSlotMagicPearls
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Hot Slot: Magic Pearls'
+  identifier: wazdan:HotSlotMagicPearls94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Hot Slot: Mystery Jackpot Joker'
+  identifier: wazdan:HotSlotMysteryJackpotJoker
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Hot Slot: Mystery Jackpot Joker'
+  identifier: wazdan:HotSlotMysteryJackpotJoker94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hungry Shark
+  identifier: wazdan:HungryShark
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hungry Shark
+  identifier: wazdan:HungryShark94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Infinity Hero
+  identifier: wazdan:InfinityHero
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Infinity Hero
+  identifier: wazdan:InfinityHero94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: In The Forest
+  identifier: wazdan:InTheForest
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: In The Forest
+  identifier: wazdan:InTheForest94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jack on Hold
+  identifier: wazdan:JackonHold
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Jack on Hold
+  identifier: wazdan:JackonHold94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Jackpot Builders
+  identifier: wazdan:JackpotBuilders
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Jackpot Builders
+  identifier: wazdan:JackpotBuilders94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Jack's Ride
+  identifier: wazdan:JacksRide
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Jack's Ride
+  identifier: wazdan:JacksRide94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Jelly Reels
+  identifier: wazdan:JellyReels
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Jelly Reels
+  identifier: wazdan:JellyReels94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Jelly Reels Xmas Edition
+  identifier: wazdan:JellyReelsXmasEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Joker Explosion
+  identifier: wazdan:JokerExplosion
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: Joker Explosion
+  identifier: wazdan:JokerExplosion94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: Joker Poker
+  identifier: wazdan:JokerPoker
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Poker
+  identifier: wazdan:JokerPoker94
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Juicy Reels
+  identifier: wazdan:JuicyReels
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Juicy Reels
+  identifier: wazdan:JuicyReels94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jumping Fruits
+  identifier: wazdan:JumpingFruits
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Jumping Fruits
+  identifier: wazdan:JumpingFruits94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: KickOff
+  identifier: wazdan:KickOff
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: KickOff
+  identifier: wazdan:KickOff94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Larry the Leprechaun
+  identifier: wazdan:LarrytheLeprechaun
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Larry the Leprechaun
+  identifier: wazdan:LarrytheLeprechaun94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Larry the Leprechaun Easter
+  identifier: wazdan:LarrytheLeprechaunEaster
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Los Muertos
+  identifier: wazdan:LosMuertos
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Los Muertos
+  identifier: wazdan:LosMuertos94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Lost Treasure
+  identifier: wazdan:LostTreasure
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lost Treasure
+  identifier: wazdan:LostTreasure94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky 9
+  identifier: wazdan:Lucky9
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky 9
+  identifier: wazdan:Lucky994
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Fish
+  identifier: wazdan:LuckyFish
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Fish
+  identifier: wazdan:LuckyFish94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Fortune
+  identifier: wazdan:LuckyFortune
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Fortune
+  identifier: wazdan:LuckyFortune94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Queen
+  identifier: wazdan:LuckyQueen
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Queen
+  identifier: wazdan:LuckyQueen94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Reels
+  identifier: wazdan:LuckyReels
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Reels
+  identifier: wazdan:LuckyReels94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Eggs
+  identifier: wazdan:MagicEggs
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Eggs
+  identifier: wazdan:MagicEggs94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Fruits
+  identifier: wazdan:MagicFruits
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Fruits 27
+  identifier: wazdan:MagicFruits27
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Magic Fruits 27
+  identifier: wazdan:MagicFruits2794
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Magic Fruits 4
+  identifier: wazdan:MagicFruits4
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Fruits 4
+  identifier: wazdan:MagicFruits494
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Fruits 4 Deluxe
+  identifier: wazdan:MagicFruits4Deluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Fruits 4 Deluxe
+  identifier: wazdan:MagicFruits4Deluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Fruits 81
+  identifier: wazdan:MagicFruits81
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Magic Fruits 81
+  identifier: wazdan:MagicFruits8194
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Magic Fruits
+  identifier: wazdan:MagicFruits94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Fruits Deluxe
+  identifier: wazdan:MagicFruitsDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Fruits Deluxe
+  identifier: wazdan:MagicFruitsDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Hot
+  identifier: wazdan:MagicHot
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Hot 4
+  identifier: wazdan:MagicHot4
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Hot 4
+  identifier: wazdan:MagicHot494
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Hot 4 Deluxe
+  identifier: wazdan:MagicHot4Deluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Hot 4 Deluxe
+  identifier: wazdan:MagicHot4Deluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Hot
+  identifier: wazdan:MagicHot94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Of The Ring
+  identifier: wazdan:MagicOfTheRing
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Of The Ring
+  identifier: wazdan:MagicOfTheRing94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic of the Ring Deluxe
+  identifier: wazdan:MagicoftheRingDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Of The Ring Deluxe
+  identifier: wazdan:MagicOfTheRingDeluxertp
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Poker
+  identifier: wazdan:MagicPoker
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Magic Poker
+  identifier: wazdan:MagicPoker94
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Magic Spins
+  identifier: wazdan:MagicSpins
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Magic Spins
+  identifier: wazdan:MagicSpins94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Magic Spins Xmas Edition
+  identifier: wazdan:MagicSpinsXmasEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Magic Stars
+  identifier: wazdan:MagicStars
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Stars 3
+  identifier: wazdan:MagicStars3
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Stars 3
+  identifier: wazdan:MagicStars394
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Stars 5
+  identifier: wazdan:MagicStars5
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Stars 5
+  identifier: wazdan:MagicStars594
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Stars 6
+  identifier: wazdan:MagicStars6
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Stars 6
+  identifier: wazdan:MagicStars694
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Stars 9
+  identifier: wazdan:MagicStars9
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Magic Stars
+  identifier: wazdan:MagicStars94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Stars 9
+  identifier: wazdan:MagicStars9rtp
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Magic Target
+  identifier: wazdan:MagicTarget
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Target
+  identifier: wazdan:MagicTarget94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Target Deluxe
+  identifier: wazdan:MagicTargetDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Target Deluxe
+  identifier: wazdan:MagicTargetDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mayan Ritual
+  identifier: wazdan:MayanRitual
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Mayan Ritual
+  identifier: wazdan:MayanRitual94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Miami Beach
+  identifier: wazdan:MiamiBeach
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Miami Beach
+  identifier: wazdan:MiamiBeach94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Midnight in Tokyo
+  identifier: wazdan:MidnightinTokyo
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Midnight in Tokyo
+  identifier: wazdan:MidnightinTokyo94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Mighty Symbols: Crowns'
+  identifier: wazdan:MightySymbolsCrowns
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Mighty Symbols: Crowns'
+  identifier: wazdan:MightySymbolsCrowns94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Mighty Wild: Panther'
+  identifier: wazdan:MightyWildPanther
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: 'Mighty Wild: Panther'
+  identifier: wazdan:MightyWildPanther94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: Moon of Fortune
+  identifier: wazdan:MoonofFortune
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Moon of Fortune
+  identifier: wazdan:MoonofFortune94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Mystery Jack
+  identifier: wazdan:MysteryJack
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Mystery Jack
+  identifier: wazdan:MysteryJack94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Mystery Jack Deluxe
+  identifier: wazdan:MysteryJackDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Mystery Jack Deluxe
+  identifier: wazdan:MysteryJackDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: 'Mystery Kingdom: Mystery Bells'
+  identifier: wazdan:MysteryKingdomMysteryBells
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Mystery Kingdom: Mystery Bells'
+  identifier: wazdan:MysteryKingdomMysteryBells94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Neon City
+  identifier: wazdan:NeonCity
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Neon City
+  identifier: wazdan:NeonCity94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Night Club 81
+  identifier: wazdan:NightClub81
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Night Club 81
+  identifier: wazdan:NightClub8194
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: 'Power of Gods: Egypt'
+  identifier: wazdan:PowerofGodsEgypt
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: 'Power of Gods: Egypt'
+  identifier: wazdan:PowerofGodsEgypt94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: 'Power of Gods: Hades'
+  identifier: wazdan:PowerofGodsHades
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Power of Gods: Hades'
+  identifier: wazdan:PowerofGodsHades94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Power of Gods: Hades Football Edition'
+  identifier: wazdan:PowerofGodsHadesFootballEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Power of Gods: Medusa'
+  identifier: wazdan:PowerofGodsMedusa
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Power of Gods: Medusa'
+  identifier: wazdan:PowerofGodsMedusa94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Power of Gods: Medusa Easter'
+  identifier: wazdan:PowerofGodsMedusaEaster
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Power of Gods: The Pantheon'
+  identifier: wazdan:PowerofGodsThePantheon
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Power of Gods: The Pantheon'
+  identifier: wazdan:PowerofGodsThePantheon94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Power of Gods: Valhalla'
+  identifier: wazdan:PowerofGodsValhalla
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Power of Gods: Valhalla'
+  identifier: wazdan:PowerofGodsValhalla94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Power of Sun: Svarog'
+  identifier: wazdan:PowerofSunSvarog
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Power of Sun: Svarog'
+  identifier: wazdan:PowerofSunSvarog94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Power of Sun: Svarog Easter'
+  identifier: wazdan:PowerofSunSvarogEaster
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Prosperity Pearls
+  identifier: wazdan:ProsperityPearls
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Prosperity Pearls
+  identifier: wazdan:ProsperityPearls94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Reel Hero
+  identifier: wazdan:ReelHero
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Reel Hero
+  identifier: wazdan:ReelHero94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Reel Joke
+  identifier: wazdan:ReelJoke
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Reel Joke
+  identifier: wazdan:ReelJoke94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Relic Hunters and the Book of Faith
+  identifier: wazdan:RelicHuntersBookofFaith
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Relic Hunters and the Book of Faith
+  identifier: wazdan:RelicHuntersBookofFaith94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sic Bo Dragons
+  identifier: wazdan:SicBoDragons
+  provider: wazdan
+  producer: wazdan
+  category: craps
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sizzling 777
+  identifier: wazdan:Sizzling777
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sizzling 777
+  identifier: wazdan:Sizzling77794
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sizzling 777 Deluxe
+  identifier: wazdan:Sizzling777Deluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sizzling 777 Deluxe
+  identifier: wazdan:Sizzling777Deluxertp
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: SIzzling Bells
+  identifier: wazdan:SIzzlingBells
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: SIzzling Bells
+  identifier: wazdan:SIzzlingBells94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Sizzling Eggs
+  identifier: wazdan:SizzlingEggs
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sizzling Eggs
+  identifier: wazdan:SizzlingEggs94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sizzling Eggs Football Edition
+  identifier: wazdan:SizzlingEggsFootballEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Sizzling Kingdom: Bison'
+  identifier: wazdan:SizzlingKingdomBison
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Sizzling Kingdom: Bison'
+  identifier: wazdan:SizzlingKingdomBison94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Sizzling Kingdom: Bison Easter'
+  identifier: wazdan:SizzlingKingdomBisonEaster
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Sizzling Moon
+  identifier: wazdan:SizzlingMoon
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Sizzling Moon
+  identifier: wazdan:SizzlingMoon94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Slot Jam
+  identifier: wazdan:SlotJam
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Slot Jam
+  identifier: wazdan:SlotJam94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Sonic Reels
+  identifier: wazdan:SonicReels
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sonic Reels
+  identifier: wazdan:SonicReels94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Space Gem
+  identifier: wazdan:SpaceGem
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Space Gem
+  identifier: wazdan:SpaceGem94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Space Spins
+  identifier: wazdan:SpaceSpins
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Space Spins
+  identifier: wazdan:SpaceSpins94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Spectrum
+  identifier: wazdan:Spectrum
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Spectrum
+  identifier: wazdan:Spectrum94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sun of Fortune
+  identifier: wazdan:SunofFortune
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Sun of Fortune
+  identifier: wazdan:SunofFortune94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Sun Of Fortune Xmas Edition
+  identifier: wazdan:SunOfFortuneXmasEdition
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Super Hot
+  identifier: wazdan:SuperHot
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Super Hot
+  identifier: wazdan:SuperHot94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Telly Reels
+  identifier: wazdan:TellyReels
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Telly Reels
+  identifier: wazdan:TellyReels94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cube Mania
+  identifier: wazdan:TetriMania
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Cube Mania
+  identifier: wazdan:TetriMania94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Cube Mania Deluxe
+  identifier: wazdan:TetriManiaDeluxe
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Cube Mania Deluxe
+  identifier: wazdan:TetriManiaDeluxe94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Three Cards
+  identifier: wazdan:ThreeCards
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Three Cards
+  identifier: wazdan:ThreeCards94
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Triple Star
+  identifier: wazdan:TripleStar
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Triple Star
+  identifier: wazdan:TripleStar94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Turbo Play
+  identifier: wazdan:TurboPlay
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Turbo Play
+  identifier: wazdan:TurboPlay94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Turbo Poker
+  identifier: wazdan:TurboPoker
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Turbo Poker
+  identifier: wazdan:TurboPoker94
+  provider: wazdan
+  producer: wazdan
+  category: poker
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Unicorn Reels
+  identifier: wazdan:UnicornReels
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Unicorn Reels
+  identifier: wazdan:UnicornReels94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Valhalla
+  identifier: wazdan:Valhalla
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 54
+- title: Valhalla
+  identifier: wazdan:Valhallartp
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 54
+- title: Vegas Hot
+  identifier: wazdan:VegasHot
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Vegas Hot 81
+  identifier: wazdan:VegasHot81
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Vegas Hot 81
+  identifier: wazdan:VegasHot8194
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Vegas Hot
+  identifier: wazdan:VegasHot94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Vegas Reels II
+  identifier: wazdan:VegasReelsII
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Vegas Reels II
+  identifier: wazdan:VegasReelsII94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Welcome To Hell 81
+  identifier: wazdan:WelcomeToHell81
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Welcome To Hell 81
+  identifier: wazdan:WelcomeToHell8194
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Wild Girls
+  identifier: wazdan:WildGirls
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wild Girls
+  identifier: wazdan:WildGirls94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wild Guns
+  identifier: wazdan:WildGuns
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wild Guns
+  identifier: wazdan:WildGuns94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wild Jack
+  identifier: wazdan:WildJack
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Wild Jack 81
+  identifier: wazdan:WildJack81
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Wild Jack 81
+  identifier: wazdan:WildJack8194
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: false
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Wild Jack
+  identifier: wazdan:WildJack94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Win & Replay
+  identifier: wazdan:Win&Replay
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Win & Replay
+  identifier: wazdan:Win&Replay94
+  provider: wazdan
+  producer: wazdan
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5

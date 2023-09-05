@@ -1,0 +1,1683 @@
+- title: Sweet Treats
+  identifier: nucleus:30000
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Sweet Treats
+  identifier: nucleus:30001
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Firecrackers
+  identifier: nucleus:30004
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: Firecrackers
+  identifier: nucleus:30005
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: Rollin' Trolls
+  identifier: nucleus:30008
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+  has_jackpot: true
+- title: Rollin' Trolls
+  identifier: nucleus:30009
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: There's Gold Yonder
+  identifier: nucleus:30012
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Matinee
+  identifier: nucleus:30013
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Sashimi Dreams
+  identifier: nucleus:30014
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Sashimi Dreams
+  identifier: nucleus:30015
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: There's Gold Yonder
+  identifier: nucleus:30024
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Totem Tumble
+  identifier: nucleus:30031
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Totem Tumble
+  identifier: nucleus:30032
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Super 7s
+  identifier: nucleus:30042
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 18
+- title: Arabian Wishes
+  identifier: nucleus:30054
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: The Moguls
+  identifier: nucleus:30060
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+  has_jackpot: true
+- title: The Critters
+  identifier: nucleus:30061
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Wild Adventures
+  identifier: nucleus:30062
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: The Moguls
+  identifier: nucleus:30063
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: The Family JP
+  identifier: nucleus:30072
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+  has_jackpot: true
+- title: The Family JP
+  identifier: nucleus:30074
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Wild Adventures
+  identifier: nucleus:30091
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: The Critters
+  identifier: nucleus:30095
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Fruit Serenity
+  identifier: nucleus:30102
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: Mermaid's Treasure
+  identifier: nucleus:30103
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Arabian Wishes
+  identifier: nucleus:30106
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Coco Bongo
+  identifier: nucleus:30117
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+  has_jackpot: true
+- title: Coco Bongo
+  identifier: nucleus:30118
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Mermaid's Treasure
+  identifier: nucleus:30126
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Fruit Serenity
+  identifier: nucleus:30130
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: The Mad Genius
+  identifier: nucleus:30138
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: The Mad Genius
+  identifier: nucleus:30139
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: The Job
+  identifier: nucleus:30142
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Super 7s
+  identifier: nucleus:30146
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 18
+- title: Seer's Crystal
+  identifier: nucleus:30156
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Seer's Crystal
+  identifier: nucleus:30157
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Spin to Ride
+  identifier: nucleus:30160
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+  has_jackpot: true
+- title: Spin to Ride
+  identifier: nucleus:30161
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: The Job
+  identifier: nucleus:30171
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Hyper Galactic
+  identifier: nucleus:30180
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Hyper Galactic
+  identifier: nucleus:30181
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Super Crystals
+  identifier: nucleus:30184
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+  has_jackpot: true
+- title: Super Crystals
+  identifier: nucleus:30185
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Geppetto's Toy Shop
+  identifier: nucleus:30188
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 15
+- title: Geppetto's Toy Shop
+  identifier: nucleus:30189
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 15
+- title: high Noon
+  identifier: nucleus:30192
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: high Noon
+  identifier: nucleus:30193
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Matinee
+  identifier: nucleus:30196
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Vegas Road Trip
+  identifier: nucleus:30207
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Vegas Road Trip
+  identifier: nucleus:30208
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: The Party Guy
+  identifier: nucleus:30217
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: The Party Guy
+  identifier: nucleus:30218
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: 12 Animals
+  identifier: nucleus:30227
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: 12 Animals
+  identifier: nucleus:30228
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Freaky Frankenstein
+  identifier: nucleus:30231
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Freaky Frankenstein
+  identifier: nucleus:30232
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: American (US) Blackjack
+  identifier: nucleus:30235
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: American (US) Blackjack
+  identifier: nucleus:30236
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: Baccarat
+  identifier: nucleus:30239
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Draw high low
+  identifier: nucleus:30240
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Pai Gow
+  identifier: nucleus:30241
+  provider: nucleus
+  producer: nucleus
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Red Dog
+  identifier: nucleus:30242
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Three Card Rummy
+  identifier: nucleus:30244
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: 21 Burn Blackjack
+  identifier: nucleus:30245
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: European Blackjack
+  identifier: nucleus:30246
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Single Deck Blackjack
+  identifier: nucleus:30247
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Single Deck Blackjack
+  identifier: nucleus:30248
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: Caribbean Poker
+  identifier: nucleus:30251
+  provider: nucleus
+  producer: nucleus
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Caribbean Poker
+  identifier: nucleus:30252
+  provider: nucleus
+  producer: nucleus
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: Oasis Poker
+  identifier: nucleus:30255
+  provider: nucleus
+  producer: nucleus
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Pirate 21
+  identifier: nucleus:30256
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Pontoon 21
+  identifier: nucleus:30257
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Triple Edge Poker (Three Card Poker)
+  identifier: nucleus:30258
+  provider: nucleus
+  producer: nucleus
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Super 7 Blackjack
+  identifier: nucleus:30259
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: War
+  identifier: nucleus:30260
+  provider: nucleus
+  producer: nucleus
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: European Roulette
+  identifier: nucleus:30261
+  provider: nucleus
+  producer: nucleus
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: European Roulette
+  identifier: nucleus:30262
+  provider: nucleus
+  producer: nucleus
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: American Roulette
+  identifier: nucleus:30266
+  provider: nucleus
+  producer: nucleus
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Deuces Wild Video Poker
+  identifier: nucleus:30272
+  provider: nucleus
+  producer: nucleus
+  category: video_poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Deuces Wild Video Poker
+  identifier: nucleus:30273
+  provider: nucleus
+  producer: nucleus
+  category: video_poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - mobile
+- title: Merlin's Elements
+  identifier: nucleus:30298
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Merlin's Elements
+  identifier: nucleus:30299
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Kitty Cutie
+  identifier: nucleus:30302
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 10
+- title: Kitty Cutie
+  identifier: nucleus:30303
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 10
+- title: Zoom Roulette
+  identifier: nucleus:30308
+  provider: nucleus
+  producer: nucleus
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Sisters of Luck
+  identifier: nucleus:30309
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Sisters of Luck
+  identifier: nucleus:30310
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: The Family Part II
+  identifier: nucleus:30313
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 243
+- title: The Family Part II
+  identifier: nucleus:30314
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 243
+- title: Catch & Release
+  identifier: nucleus:30317
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Catch & Release
+  identifier: nucleus:30318
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Lucky Clovers
+  identifier: nucleus:30329
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 40
+- title: Lucky Clovers
+  identifier: nucleus:30330
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 40
+- title: Blades of the Abyss
+  identifier: nucleus:30337
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 20
+- title: Blades of the Abyss
+  identifier: nucleus:30338
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 20
+- title: Sleight of Hand
+  identifier: nucleus:30341
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 25
+- title: Sleight of Hand
+  identifier: nucleus:30342
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 25
+- title: Moon Bitten
+  identifier: nucleus:30345
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Moon Bitten
+  identifier: nucleus:30346
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 30
+- title: Savanna Safari
+  identifier: nucleus:30349
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Savanna Safari
+  identifier: nucleus:30350
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Ruby Jade
+  identifier: nucleus:30353
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Ruby Jade
+  identifier: nucleus:30354
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Soaring Wind
+  identifier: nucleus:30357
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Soaring Wind
+  identifier: nucleus:30358
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Sweet Treats 2
+  identifier: nucleus:30361
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+- title: Sweet Treats 2
+  identifier: nucleus:30362
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Sands of Egypt
+  identifier: nucleus:30365
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  has_jackpot: true
+- title: Sands of Egypt
+  identifier: nucleus:30366
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+- title: Scroll of Horus
+  identifier: nucleus:30373
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Reels of Treasure
+  identifier: nucleus:30374
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Jumbo Jester
+  identifier: nucleus:30376
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 5
+- title: Jumbo Jester
+  identifier: nucleus:30377
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - mobile
+  lines: 5
+- title: Cardinal Dragons
+  identifier: nucleus:30380
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Runes Of Odin
+  identifier: nucleus:30385
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: End Zone Riches
+  identifier: nucleus:30392
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Joker Gemferno
+  identifier: nucleus:30394
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: Glorious Gems
+  identifier: nucleus:30395
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Wild Cherry Blast
+  identifier: nucleus:30396
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Jingle Slots
+  identifier: nucleus:30397
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Bottled Wishes
+  identifier: nucleus:30398
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mystic Rift
+  identifier: nucleus:30399
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: A Time to Win
+  identifier: nucleus:30400
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: No Limit Bandit
+  identifier: nucleus:30401
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Totems Of Fortune
+  identifier: nucleus:30402
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruity Way
+  identifier: nucleus:30403
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: The Golden Games
+  identifier: nucleus:30404
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Spooktacular Spins
+  identifier: nucleus:30405
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Grand Luxe
+  identifier: nucleus:30407
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ho Ho Cash
+  identifier: nucleus:30408
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Goals of Glory
+  identifier: nucleus:30414
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: All Reel Drive
+  identifier: nucleus:AllReelDrive
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Bandits and Bounties
+  identifier: nucleus:BanditsandBounties
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of Christmas Eve
+  identifier: nucleus:BookofChristmasEve
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Call of Zeus
+  identifier: nucleus:CallOfZeus
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Christmas Journey
+  identifier: nucleus:ChristmasJourney
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Craps
+  identifier: nucleus:Craps1
+  provider: nucleus
+  producer: nucleus
+  category: craps
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Diamond Strip
+  identifier: nucleus:DiamondStrip
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Dragon Watch
+  identifier: nucleus:DragonWatch
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fishin Fortunes
+  identifier: nucleus:FishinFortunes
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Hot Magic
+  identifier: nucleus:HotMagic
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Jack and the mighty Beanstalk
+  identifier: nucleus:JackandthemightyBeanstalk
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Jewel Falls
+  identifier: nucleus:JewelFalls
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Joker City
+  identifier: nucleus:JokerCity
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Juicy Bonanza
+  identifier: nucleus:JuicyBonanza
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Kraken Deep Wins
+  identifier: nucleus:KrakenDeepWins
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Legend of Azteca
+  identifier: nucleus:LegendofAzteca
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 16
+- title: Party Paradise
+  identifier: nucleus:PartyParadise
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Peak Riches
+  identifier: nucleus:PeakRiches
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Safari Spins
+  identifier: nucleus:SafariSpins
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Salsa Poppers
+  identifier: nucleus:SalsaPoppers
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Shark Spin
+  identifier: nucleus:SharkSpin
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sherlock and the Mystic Compass
+  identifier: nucleus:SherlockandtheMysticCompass
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Slam Dunk Spins
+  identifier: nucleus:SlamDunkSpins
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Spirit of the Nile
+  identifier: nucleus:SpiritoftheNile
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sugar and Spins
+  identifier: nucleus:SugarandSpins
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: The Forbidden Tomb
+  identifier: nucleus:TheForbiddenTomb
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: The Golden Inn
+  identifier: nucleus:TheGoldenInn
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+- title: The Haunted Carnival
+  identifier: nucleus:TheHauntedCarnival
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: The Haunted Inn
+  identifier: nucleus:TheHauntedInn
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+- title: The Quest of Azteca
+  identifier: nucleus:TheQuestofAzteca
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Tropical Splash
+  identifier: nucleus:TropicalSplash
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wings of Victory
+  identifier: nucleus:WingsofVictory
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Wins Ahoy
+  identifier: nucleus:WinsAhoy
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Winter Champs
+  identifier: nucleus:WinterChamps
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Wrath of Thor
+  identifier: nucleus:WrathofThor
+  provider: nucleus
+  producer: nucleus
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile

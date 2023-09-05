@@ -1,0 +1,1682 @@
+- title: Arabian Spins
+  identifier: booming:ArabianSpins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Asia Wins
+  identifier: booming:AsiaWins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Astro Pandas
+  identifier: booming:AstroPandas
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Aztec Palace
+  identifier: booming:AztecPalace
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Baby Bloomers
+  identifier: booming:BabyBloomers
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bachelorette Party
+  identifier: booming:BacheloretteParty
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bamboo Wilds
+  identifier: booming:BambooWilds
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bang Bang
+  identifier: booming:BangBang
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Barnyard Twister
+  identifier: booming:BarnyardTwister
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Big Apple Wins
+  identifier: booming:BigAppleWins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Billy Bob Boom
+  identifier: booming:BillyBobBoom
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: promo1
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Blockchain Megaways
+  identifier: booming:BlockchainMegaways
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book of Poseidon
+  identifier: booming:BookofPoseidon
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Tombs
+  identifier: booming:BookOfTombs
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Boomerang Bonanza
+  identifier: booming:BoomerangBonanza
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 16
+- title: Booming Bananas
+  identifier: booming:BoomingBananas
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Booming Bars
+  identifier: booming:BoomingBars
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Booming Gold
+  identifier: booming:BoomingGold
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Booming Seven
+  identifier: booming:BoomingSeven
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Booming Seven Deluxe
+  identifier: booming:BoomingSevenDeluxe
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Boomshakalaka
+  identifier: booming:Boomshakalaka
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Buffalo Hold and Win
+  identifier: booming:BuffaloHoldandWin
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Burning Classics
+  identifier: booming:BurningClassics
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Burning Classics go Wild
+  identifier: booming:BurningClassicsgoWild
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Butterfly Charms
+  identifier: booming:ButterflyCharms
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Cash Pig
+  identifier: booming:CashPig
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Cheeky Monkeys
+  identifier: booming:CheekyMonkeys
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cherry Bomb Deluxe
+  identifier: booming:CherryBombDeluxe
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Chicago Nights
+  identifier: booming:ChicagoNights
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Classico
+  identifier: booming:Classico
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cold Cash
+  identifier: booming:ColdCash
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Colossal Vikings
+  identifier: booming:ColossalVikings
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Crack the Bank Hold and Win
+  identifier: booming:CracktheBankHoldandWin
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Crazy Bananas
+  identifier: booming:CrazyBananas
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Crystal Classics
+  identifier: booming:CrystalClassics
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cuba Caliente
+  identifier: booming:CubaCaliente
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Danger Zone
+  identifier: booming:DangerZone
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Desert Drag
+  identifier: booming:DesertDrag
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Devil's Heat
+  identifier: booming:DevilsHeat
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Diamond Riches
+  identifier: booming:DiamondRiches
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dice Dice Baby
+  identifier: booming:DiceDiceBaby
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Disco Bar 7s
+  identifier: booming:DiscoBar7s
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dog Heist Shift 'N' Win
+  identifier: booming:DogHeistShiftNWin
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dog Squad
+  identifier: booming:DogSquad
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dolphin's Luck 2
+  identifier: booming:DolphinsLuckTwo
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Doublin Gold
+  identifier: booming:DoublinGold
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dragon's Chest
+  identifier: booming:DragonsChest
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Exotic Fruit
+  identifier: booming:ExoticFruit
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Exotic Fruit Deluxe
+  identifier: booming:ExoticFruitDeluxe
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Feng Shui Kitties
+  identifier: booming:FengShuiKitties
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Flaming Chillies
+  identifier: booming:FlamingChilies
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Freemason's Fortune
+  identifier: booming:FreemasonsFortune
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Freezing Classics
+  identifier: booming:FreezingClassics
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gamblelicious Hold and Win
+  identifier: booming:GambleliciousHoldandWin
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Gangster Gamblers
+  identifier: booming:GangsterGamblers
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Genie Wishes
+  identifier: booming:GenieWishes
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gladiator Arena
+  identifier: booming:GladiatorArena
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Goal!!!
+  identifier: booming:Goal
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 16
+- title: Go Bananza
+  identifier: booming:GoBananza
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Golden Girls
+  identifier: booming:GoldenGirls
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Golden Lucky Pigs
+  identifier: booming:GoldenLuckyPigs
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Golden Profits
+  identifier: booming:GoldenProfits
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Golden Strawberries
+  identifier: booming:GoldenStrawberries
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gold Gold Gold
+  identifier: booming:GoldGoldGold
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gold Hunter
+  identifier: booming:GoldHunter
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gold Vein
+  identifier: booming:GoldVein
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Greek Legends
+  identifier: booming:GreekLegends
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gunspinner
+  identifier: booming:Gunspinner
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Harvest Fest
+  identifier: booming:HarvestFest
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hooked
+  identifier: booming:Hooked
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Horror House
+  identifier: booming:HorrorHouse
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Howling Wolves
+  identifier: booming:HowlingWolves
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Howling Wolves Megaways
+  identifier: booming:HowlingWolvesMegaways
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jesters Joy
+  identifier: booming:JestersJoy
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jingle Jingle
+  identifier: booming:JingleJingle
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Khan's Wild Quest
+  identifier: booming:KhansWildQuest
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Kim's Wild Journey
+  identifier: booming:KimsWildJourney
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: King Cobra
+  identifier: booming:KingCobra
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: La Romantica
+  identifier: booming:LaRomantica
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lava Loca
+  identifier: booming:LavaLoca
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Legend of Qu Yuan
+  identifier: booming:LedgendofQuYuan
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Legendary Diamonds
+  identifier: booming:LegendaryDiamonds
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Leprechaun's Lucky Barrel
+  identifier: booming:LeprechaunsLuckyBarrel
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Let it Spin
+  identifier: booming:LetitSpin
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Light of Ra
+  identifier: booming:LightofRa
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Lotus Love
+  identifier: booming:LotusLove
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lucky Scarabs
+  identifier: booming:LuckyScarabs
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Majestic Safari
+  identifier: booming:MajesticSafari
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mammoth Tundra
+  identifier: booming:MammothTundra
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Megahops Megaways
+  identifier: booming:MegahopsMegaways
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mexico Wins
+  identifier: booming:MexicoWins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Miami Nights
+  identifier: booming:MiamiNights
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mighty Gorilla
+  identifier: booming:MightyGorilla
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Money Inc
+  identifier: booming:MoneyInc
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: promotion
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Money Moose
+  identifier: booming:MoneyMoose
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Monster Munchies
+  identifier: booming:MonsterMunchies
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Monster Truck Madness
+  identifier: booming:MonsterTruckMadness
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Ocean Drive
+  identifier: booming:OceanDrive
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Octoberfest
+  identifier: booming:Octoberfest
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Oh Catrina!
+  identifier: booming:OhCatrina
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Paris Nights
+  identifier: booming:ParisNights
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Payday Pig
+  identifier: booming:PaydayPig
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Pinata Wildz
+  identifier: booming:PinataWildz
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pirate Booty
+  identifier: booming:PirateBooty
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Power of Olympus
+  identifier: booming:PowerofOlympus
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Power of the Vikings
+  identifier: booming:PoweroftheVikings
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: promo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Red Hot Volcano
+  identifier: booming:RedHotVolcano
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Revolution
+  identifier: booming:Revolution
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 16
+- title: Rhino Hold and Win
+  identifier: booming:RhinoHoldandWin
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Roll the Dice
+  identifier: booming:RolltheDice
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Romeo
+  identifier: booming:Romeo
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Royal Wins
+  identifier: booming:RoyalWins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rudolph's Ride
+  identifier: booming:RudolfsRide
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Santa's Kiss
+  identifier: booming:SantasKiss
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Shark Meet
+  identifier: booming:SharkMeet
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 16
+- title: Show Master
+  identifier: booming:ShowMaster
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Show me the Mummy
+  identifier: booming:ShowmetheMummy
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Snail Race
+  identifier: booming:SnailRace
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sphinx Fortune
+  identifier: booming:SphinxFortune
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spinosaurus
+  identifier: booming:Spinosaurus
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Starlight Riches
+  identifier: booming:StarlightRiches
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Stellar Spins
+  identifier: booming:StellarSpins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sticky Bombs
+  identifier: booming:StickyBombs
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sugar Skulls
+  identifier: booming:SugarSkulls
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Super Boom
+  identifier: booming:SuperBoom
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Super Duper
+  identifier: booming:SuperDuper
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Surfin' Reels
+  identifier: booming:SurfinReels
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tailgating
+  identifier: booming:Tailgating
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: The Jungle Empire
+  identifier: booming:TheJungleEmpire
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The King Panda
+  identifier: booming:TheKingPanda
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: The Mighty Toro
+  identifier: booming:TheMightyToro
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Rodfather Megaways
+  identifier: booming:TheRodfatherMegaways
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Wild Wings of Phoenix
+  identifier: booming:TheWildWingsofPhoenix
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Tiki Wins
+  identifier: booming:TikiWins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: TNT Bonanza
+  identifier: booming:TNTBonanza
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Treasure Vault
+  identifier: booming:TreasureVault
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Valley of Pharaohs
+  identifier: booming:ValleyofPharaohs
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Vegas VIP Gold
+  identifier: booming:VegasVIPGold
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Vegas Wins
+  identifier: booming:VegasWins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: VIP Filthy Riches
+  identifier: booming:VIPFilthyRiches
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Bonus Re-Spins
+  identifier: booming:WildBonusReSpins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wild Cherries
+  identifier: booming:WildCherries
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Diamond 7x
+  identifier: booming:WildDiamond7x
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Energy
+  identifier: booming:WildEnergy
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Jester
+  identifier: booming:WildJester
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Ocean
+  identifier: booming:WildOcean
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Pride
+  identifier: booming:WildPride
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Wild Vegas
+  identifier: booming:WildWildVegas
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Winners Cup
+  identifier: booming:WinnersCup
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Witches Wild Brew
+  identifier: booming:WitchesWildBrew
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wizarding Wins
+  identifier: booming:WizardingWins
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wombaroo
+  identifier: booming:Wombaroo
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wunderfest
+  identifier: booming:Wunderfest
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wunderfest Deluxe
+  identifier: booming:WunderfestDeluxe
+  provider: booming
+  producer: booming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25

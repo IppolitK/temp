@@ -1,0 +1,2411 @@
+- title: 20 Clovers Hot
+  identifier: technology:20CloversHot
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Dice Party
+  identifier: technology:20DiceParty_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Dice Roosters
+  identifier: technology:20DiceRoosters_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Mega Dice
+  identifier: technology:20MegaDice_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Mega Fresh
+  identifier: technology:20MegaFresh
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Mega Slot
+  identifier: technology:20MegaSlot
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Roosters
+  identifier: technology:20Roosters
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Shining Coins
+  identifier: technology:20ShiningCoins
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 30 Treasures
+  identifier: technology:30Treasures
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 3 Towers
+  identifier: technology:3Towers
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 21
+- title: 40 Brilliants
+  identifier: technology:40Brilliants
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Diamond Treasures
+  identifier: technology:40DiamondTreasures
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Dice Treasures
+  identifier: technology:40DiceTreasures_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Fruitata Wins
+  identifier: technology:40FruitataWins
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Mega Dice
+  identifier: technology:40MegaDice_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Mega Slot
+  identifier: technology:40MegaSlot
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Roosters
+  identifier: technology:40Roosters
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Shining Coins
+  identifier: technology:40ShiningCoins
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 50 Dice Treasures
+  identifier: technology:50DiceTreasures_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: 50 Shining jewels
+  identifier: technology:50Shiningjewels
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 50 Treasures
+  identifier: technology:50Treasures
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 5x Cherry Party
+  identifier: technology:5xCherryParty
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: African Magic
+  identifier: technology:AfricanMagic
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Alaska Wild
+  identifier: technology:AlaskaWild
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Amazons Spear
+  identifier: technology:AmazonsSpear
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: American Gigolo
+  identifier: technology:AmericanGigolo
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Australian Magic
+  identifier: technology:AustralianMagic
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Aztec Empress
+  identifier: technology:AztecEmpress
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Aztec Gold 20
+  identifier: technology:AztecGold20
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Banana Dice Party
+  identifier: technology:BananaDiceParty_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Banana Party
+  identifier: technology:BananaParty
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Bavarian Forest
+  identifier: technology:BavarianForest
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Beetle Dice
+  identifier: technology:BeetleDice
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Beetle Star
+  identifier: technology:BeetleStar
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Big Joker
+  identifier: technology:BigJoker
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Big Joker Dice
+  identifier: technology:BigJokerDice
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Black Pharaoh
+  identifier: technology:BlackPharaoh
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bloody Princess
+  identifier: technology:BloodyPrincess
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bombay Gems
+  identifier: technology:BombayGems
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Brilliants Hot
+  identifier: technology:BrilliantsHot
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Brilliants On Fire
+  identifier: technology:BrilliantsOnFire
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Britania
+  identifier: technology:Britania
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bye Bye Spy Guy
+  identifier: technology:ByeByeSpyGuy
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Cara Mia Carmen
+  identifier: technology:CaraMiaCarmen
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Carats Whisper
+  identifier: technology:CaratsWhisper
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Caribbean Adventure
+  identifier: technology:CaribbeanAdventure
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Caribbean Diver
+  identifier: technology:CarribeanDiver
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Celestial Ruler
+  identifier: technology:CelestialRuler
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Champagne & Fruits
+  identifier: technology:ChampagneandFruits
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cherry Crown
+  identifier: technology:CherryCrown
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Chili Baby
+  identifier: technology:ChiliBaby
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Chilli Bomb
+  identifier: technology:ChilliBomb
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Chilli Fruits
+  identifier: technology:ChilliFruits
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Chilli Jester
+  identifier: technology:ChilliJester
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Clover Dice
+  identifier: technology:CloverDice_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Clover Gems
+  identifier: technology:CloverGems
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Clover Joker
+  identifier: technology:CloverJoker
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Clover Party
+  identifier: technology:CloverParty
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Clover Wheel
+  identifier: technology:CloverWheel
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Coffee Magic
+  identifier: technology:CoffeeMagic
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 21
+- title: Colibri Wild
+  identifier: technology:ColibriWild
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Columbus Treasure
+  identifier: technology:ColumbusTreasure
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Combat Romance
+  identifier: technology:CombatRomance
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Crazy Caterpillar
+  identifier: technology:CrazyCaterpillar
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dancing Bananas
+  identifier: technology:DancingBananas
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dancing Dragons
+  identifier: technology:DancingDragons
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dancing Jokers
+  identifier: technology:DancingJokers_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Dark Woods
+  identifier: technology:DarkWoods
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Desert Tales
+  identifier: technology:DesertTales
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Devil's Fruits
+  identifier: technology:DevilsFruits
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dice'o Luck
+  identifier: technology:DiceoLuck_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Dice Quest
+  identifier: technology:DiceQuest
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dice Valhalla
+  identifier: technology:DiceValhalla
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dice Wizzard
+  identifier: technology:DiceWizzard
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Dice Woods
+  identifier: technology:DiceWoods_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Disco Babylon
+  identifier: technology:DiscoBabylon
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Doctor Winstein
+  identifier: technology:DoctorWinstein
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Hot Habanero
+  identifier: technology:DoubleHotHabanero
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Duck Of Luck
+  identifier: technology:DuckOfLuck
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Duck of Luck returns
+  identifier: technology:DuckofLuckreturns
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Duck Spell
+  identifier: technology:DuckSpell
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Easter Bonanza
+  identifier: technology:EasterBonanza
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Egg and Rooster
+  identifier: technology:EggandRooster
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Enchanted Fruits
+  identifier: technology:EnchantedFruits
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: English Rose
+  identifier: technology:EnglishRose
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Fire Dozen
+  identifier: technology:FireDozen
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fire Egg
+  identifier: technology:FireEgg
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fire King
+  identifier: technology:FireKing
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fluf Tails
+  identifier: technology:FlufTails
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Forest Nymph
+  identifier: technology:ForestNymph
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Forest Wedding
+  identifier: technology:ForestWedding
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fortune Fish
+  identifier: technology:FortuneFish
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fortune Pig
+  identifier: technology:FortunePig
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fortune Pyramid
+  identifier: technology:FortunePyramid
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruitball Heroes
+  identifier: technology:FruitballHeroes
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruit Feast
+  identifier: technology:FruitFeast
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruit Galaxy
+  identifier: technology:FruitGalaxy
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruit Galaxy The Wheel
+  identifier: technology:FruitGalaxyTheWheel
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruits of Desire
+  identifier: technology:FruitofDesire
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruits and Bells
+  identifier: technology:FruitsandBells
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruits and Sweets
+  identifier: technology:FruitsandSweets
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fruity Hot
+  identifier: technology:FruityHot
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Full Of Luck
+  identifier: technology:FullOfLuck
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Full Of Treasures
+  identifier: technology:FullOfTreasures
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fusion Fruit Beat
+  identifier: technology:FusionFruitBeat
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gaelic Warrior
+  identifier: technology:GaelicWarrior
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Giraffe Wild
+  identifier: technology:GiraffeWild
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Goblin's Gold
+  identifier: technology:GoblinsGold
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Golden Acorn
+  identifier: technology:GoldenAcorn
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Golden Amulet
+  identifier: technology:GoldenAmulet
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Golden Flower Of Life
+  identifier: technology:GoldenFlowerOfLife
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Golden Hand
+  identifier: technology:GoldenHand
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: GOTHIC QUEEN RETURNS
+  identifier: technology:GOTHICQUEENRETURNS
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Great Queen Bee
+  identifier: technology:GreatQueenBee
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Groovy Automat
+  identifier: technology:GroovyAutomat
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Groovy Powers
+  identifier: technology:GroovyPowers
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Halloween Double Hot
+  identifier: technology:HalloweenDoubleHot
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Halloween Fruits
+  identifier: technology:HalloweenFruits
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Halloween Hot
+  identifier: technology:HalloweenHot
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hell's Sevens
+  identifier: technology:HellsSevens
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hit the Hot
+  identifier: technology:HittheHot
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot 7's Dice
+  identifier: technology:Hot7sDice
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: HOT 7's X 2
+  identifier: technology:HOT7sXII
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hyper Cuber
+  identifier: technology:HyperCuber
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ice Rubies
+  identifier: technology:IceRubies
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Island Vacation
+  identifier: technology:IslandVacation
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Jade Heaven
+  identifier: technology:JadeHeaven
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Jaguar Warrior
+  identifier: technology:JaguarWarrior
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jolly Beluga Whales
+  identifier: technology:JollyBelugaWhales
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Kingdom Treasures
+  identifier: technology:KingdomTreasures
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lady Emerald
+  identifier: technology:LadyEmerald
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lord of Fortune
+  identifier: technology:LordofFortune
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lord of Luck
+  identifier: technology:LordofLuck
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Lord of Luck The Wheel
+  identifier: technology:LordofLuckTheWheel
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Lucky 3 Penguins
+  identifier: technology:Lucky3Penguins
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Clover
+  identifier: technology:LuckyClover
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky Dollar
+  identifier: technology:LuckyDollar
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Lucky Dots
+  identifier: technology:LuckyDots_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Lucky John
+  identifier: technology:LuckyJohn
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Magic Crown
+  identifier: technology:MagicCrown
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Magic Crystal Dice
+  identifier: technology:MagicCrystalDice_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Hammer
+  identifier: technology:MagicHammer
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Magician Dreaming
+  identifier: technology:MagicianDreaming
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Jewels
+  identifier: technology:MagicJewels
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mighty Kraken
+  identifier: technology:MightyKraken
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Mighty Moon
+  identifier: technology:MightyMoon
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mighty Rex
+  identifier: technology:MightyRex
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Milady x2
+  identifier: technology:MiladyxII
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Misty Forest
+  identifier: technology:MistyForest
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Money Pipe
+  identifier: technology:MoneyPipe
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Monkey Kingdom
+  identifier: technology:MonkeyKingdom
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Monkey Sevens
+  identifier: technology:MonkeySevens
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Moon Lord
+  identifier: technology:MoonLord
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: More Dragons
+  identifier: technology:MoreDragons
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: More Dragons Dice
+  identifier: technology:MoreDragonsDice_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Mountain Heroes
+  identifier: technology:MountainHeroes
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Mountain Song Quechua
+  identifier: technology:MountainSongQuechua
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mysterious Drakkar
+  identifier: technology:MysteriousDrakkar
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mystic Moon
+  identifier: technology:MysticMoon
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mystic Wreck
+  identifier: technology:MysticWreck
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Nanook the White Ghost
+  identifier: technology:NanooktheWhiteGhost
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Navy Girl
+  identifier: technology:NavyGirl
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Neon Bananas
+  identifier: technology:NeonBananas
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Nordic Song
+  identifier: technology:NordicSong
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Norse Queen
+  identifier: technology:NorseQueen
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ocean Legends
+  identifier: technology:OceanLegends
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Penguin Party
+  identifier: technology:PenguinParty
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pick The Pig
+  identifier: technology:PickThePig
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Piece of Treasure
+  identifier: technology:PieceofTreasure
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Pot Of Jewels
+  identifier: technology:PotOfJewels
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Pot o'Luck
+  identifier: technology:PotoLuck
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Power Storm
+  identifier: technology:PowerStorm
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Purple Fruits
+  identifier: technology:PurpleFruits
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Purple Hot 2
+  identifier: technology:PurpleHotII
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pyramid of Gold
+  identifier: technology:PyramidofGold
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Queen of Flames
+  identifier: technology:QueenOfFlames
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Queen of Flames the Wheel
+  identifier: technology:QueenofFlamestheWheel
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Ramesses the Great
+  identifier: technology:RamessestheGreat
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Royal Jewels
+  identifier: technology:RoyalJewels
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sapphire Lagoon
+  identifier: technology:SapphireLagoon
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Satyr and Nymph
+  identifier: technology:SatyrAndNymph
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Satyr and Nymph Dice
+  identifier: technology:SatyrAndNymphDice_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Scarab Stone
+  identifier: technology:ScarabStone
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Shining Treasures
+  identifier: technology:ShiningTreasures
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Silver Creek Giant
+  identifier: technology:SilverCreekGiant
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Smiley X Wild
+  identifier: technology:SmileyXWild
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Space Fruits
+  identifier: technology:SpaceFruits
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tesla Power
+  identifier: technology:TeslaPower
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: The Golden Duck
+  identifier: technology:TheGoldenDuck
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Great Cabaret
+  identifier: technology:TheGreatCabaret
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Great Sevens
+  identifier: technology:TheGreatSevens
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Mighty Aztecs
+  identifier: technology:TheMightyAztecs
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Oldest Oak
+  identifier: technology:TheOldestOak
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Power of Ankh
+  identifier: technology:ThePowerofAnkh
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Power Of Ramesses
+  identifier: technology:ThePowerOfRamesses
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Red Temple
+  identifier: technology:TheRedTemple
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Temple Of Astarta
+  identifier: technology:TheTempleOfAstarta
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Three Nymphs
+  identifier: technology:ThreeNymphs
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Tibetan Song
+  identifier: technology:TibetanSongs
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Treasure Chase
+  identifier: technology:TreasureChase
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Treasure Hill
+  identifier: technology:TreasureHill
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Treasure Kingdom
+  identifier: technology:TreasureKingdom
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Treasures of Persia
+  identifier: technology:TreasuresofPersia
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Tropic Dancer
+  identifier: technology:TropicDancer
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Urban Lady
+  identifier: technology:UrbanLady
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Urban Lady Love Story
+  identifier: technology:UrbanLadyLoveStory
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Viking's Fun
+  identifier: technology:VikingsFun
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wet & Juicy
+  identifier: technology:WetAndJuicy
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Clover
+  identifier: technology:WildClover
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Clover Dice
+  identifier: technology:WildCloverDice_b
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: elitbet
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Hills
+  identifier: technology:WildHills
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Win Feast
+  identifier: technology:WinFeast
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Win Storm
+  identifier: technology:Winstorm
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wizard Blizzard
+  identifier: technology:WizardBlizzards
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wizard Blizzard x5
+  identifier: technology:WizardBlizzardx5
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Shining jewels
+  identifier: technology:XLShiningjewels
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Treasures
+  identifier: technology:XLTreasures
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 20 Star Party
+  identifier: technology:XXStarParty
+  provider: technology
+  producer: technology
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20

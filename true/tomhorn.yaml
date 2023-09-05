@@ -1,0 +1,861 @@
+- title: 243 Christmas Fruits
+  identifier: tomhorn:243ChristmasFruits
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 243 Christmas Fruits
+  identifier: tomhorn:243ChristmasFruits92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 243 Crystal Fruits
+  identifier: tomhorn:243CrystalFruits
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 243 Crystal Fruits
+  identifier: tomhorn:243CrystalFruits92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 243 Crystal Fruits Reversed
+  identifier: tomhorn:243CrystalFruitsReversed
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 3 Mermaids
+  identifier: tomhorn:3Mermaids
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 3 Mermaids
+  identifier: tomhorn:3Mermaids92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 81 Crystal Fruits
+  identifier: tomhorn:81CrystalFruits
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: 81 Crystal Fruits
+  identifier: tomhorn:81CrystalFruits92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: 81 Frutas Grandes
+  identifier: tomhorn:81FrutasGrandes
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: 81 Vegas Magic
+  identifier: tomhorn:81VegasMagic
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 81 Vegas Magic
+  identifier: tomhorn:81VegasMagic92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Beastie Bux
+  identifier: tomhorn:BeastieBux
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blackbeard's Quest
+  identifier: tomhorn:BlackbeardsQuest
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Blackbeard's Quest Mini Game
+  identifier: tomhorn:BlackbeardsQuestMiniGame
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Black Mummy
+  identifier: tomhorn:BlackMummy
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of Aladdin
+  identifier: tomhorn:BookofAladdin
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Book Of Spells
+  identifier: tomhorn:BookOfSpells
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Book of Spells
+  identifier: tomhorn:BookofSpells94
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Book of Vampires
+  identifier: tomhorn:BookofVampires92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cricket Mania
+  identifier: tomhorn:CricketMania
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Diamond Hill
+  identifier: tomhorn:DiamondHill
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 36
+- title: Don Juan's Peppers
+  identifier: tomhorn:DonJuansPeppers
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Dragon Egg
+  identifier: tomhorn:DragonEgg
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Dragon Riches
+  identifier: tomhorn:DragonRiches
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon vs Phoenix
+  identifier: tomhorn:DragonvsPhoenix
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 16
+- title: Dragon VS Phoenix
+  identifier: tomhorn:DragonVSPhoenix92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 16
+- title: European Roulette. Announced Bets
+  identifier: tomhorn:EuropeanRouletteAnnouncedBets
+  provider: tomhorn
+  producer: tomhorn
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Feng Fu
+  identifier: tomhorn:FengFu
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Fire and Hot
+  identifier: tomhorn:FireandHot
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fire'n'Frenzy 5
+  identifier: tomhorn:FirenFrenzy5
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fire'n'Frenzy 5
+  identifier: tomhorn:FirenFrenzy592
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Flaming Fruit
+  identifier: tomhorn:FlamingFruit
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Flaming Fruit
+  identifier: tomhorn:FlamingFruit94
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fluxberry
+  identifier: tomhorn:Fluxberry
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fluxberry
+  identifier: tomhorn:Fluxberry92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: French Roulette. La Partage
+  identifier: tomhorn:FrenchRouletteLaPartage
+  provider: tomhorn
+  producer: tomhorn
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Frozen Queen
+  identifier: tomhorn:FrozenQueen
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruits Go Pop!
+  identifier: tomhorn:FruitsGoPop
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Frutopia
+  identifier: tomhorn:Frutopia
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 125
+- title: Geisha's Fan
+  identifier: tomhorn:GeishasFan
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Gold X
+  identifier: tomhorn:GoldX
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Hawaiian Fever
+  identifier: tomhorn:HawaiianFever
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Hawaiian Fever
+  identifier: tomhorn:HawaiianFeverM
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Hot Blizzard
+  identifier: tomhorn:HotBlizzard
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Blizzard
+  identifier: tomhorn:HotBlizzard94
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Inca's Treasure
+  identifier: tomhorn:IncasTreasureMga
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Joker Reelz
+  identifier: tomhorn:JokerReelz
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Kongo Bongo
+  identifier: tomhorn:KongoBongo
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: La Tomatina
+  identifier: tomhorn:LaTomatina
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Midas Dynasty
+  identifier: tomhorn:MidasDynasty
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Midas Dynasty
+  identifier: tomhorn:MidasDynasty92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Mine Mine Quest
+  identifier: tomhorn:MineMineQuest
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Monkey 27
+  identifier: tomhorn:Monkey27
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Monster Madness
+  identifier: tomhorn:MonsterMadness
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Pandas Run
+  identifier: tomhorn:PandasRun
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: PengWins
+  identifier: tomhorn:PengWins
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: PengWins
+  identifier: tomhorn:PengWins92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rot Stormo
+  identifier: tomhorn:RotStormo
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Rot Stormo
+  identifier: tomhorn:RotStormo92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basicmga
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Savannah King
+  identifier: tomhorn:SavannahKing
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Shaolin's Tiger
+  identifier: tomhorn:ShaolinsTiger
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Sherlock. A Scandal in Bohemia
+  identifier: tomhorn:Sherlock
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sizable Win
+  identifier: tomhorn:SizableWin
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sky Barons
+  identifier: tomhorn:SkyBarons
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Space Jammers
+  identifier: tomhorn:Spacejammers1
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Spinball
+  identifier: tomhorn:Spinball
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sweet Crush
+  identifier: tomhorn:SweetCrush
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: The Cup
+  identifier: tomhorn:TheCup
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 11
+- title: The Secret of Ba
+  identifier: tomhorn:TheSecretofBa
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: The Secret of Ba
+  identifier: tomhorn:TheSecretofBa92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Thrones of Persia
+  identifier: tomhorn:ThronesofPersia
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Triple Joker
+  identifier: tomhorn:TripleJoker
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Triple Thunder
+  identifier: tomhorn:TripleThunder
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Triple Thunder
+  identifier: tomhorn:TripleThunder92
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wheel of Luck
+  identifier: tomhorn:WheelofLuck1
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Dragon’s Fortune
+  identifier: tomhorn:WildDragonsFortune
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Wild Weather
+  identifier: tomhorn:WildWeather
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: Wolf Sierra
+  identifier: tomhorn:WolfSierra
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wolf Sierra
+  identifier: tomhorn:WolfSierra94
+  provider: tomhorn
+  producer: tomhorn
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40

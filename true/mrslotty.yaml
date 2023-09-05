@@ -1,0 +1,3766 @@
+- title: 10 Jingle Fruits
+  identifier: mrslotty:10JingleFruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 10 Wild Diamond
+  identifier: mrslotty:10WildDiamond
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 10 Wild Dice
+  identifier: mrslotty:10WildDice
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 10 Wild Pumpkin
+  identifier: mrslotty:10WildPumpkin
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 10 Wild Santa
+  identifier: mrslotty:10WildSanta
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 20 Dice Flames
+  identifier: mrslotty:20DiceFlames
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Fire Cash
+  identifier: mrslotty:20FireCash
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 20 Hot Strike
+  identifier: mrslotty:20HotStrike
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 20 Mega Flames
+  identifier: mrslotty:20MegaFlames
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 40 Cash Bells
+  identifier: mrslotty:40CashBells
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Dice Flames
+  identifier: mrslotty:40DiceFlames
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Fire Cash
+  identifier: mrslotty:40FireCash
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Fruit Reels
+  identifier: mrslotty:40FruitReels
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 HOT HOT HOT
+  identifier: mrslotty:40HOTHOTHOT
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: 40 Hot Strike
+  identifier: mrslotty:40HotStrike
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Hot Strike Dice
+  identifier: mrslotty:40HotStrikeDice
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Mega Flames
+  identifier: mrslotty:40MegaFlames
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Wild Clover
+  identifier: mrslotty:40WildClover
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 50 Lines Of War
+  identifier: mrslotty:50linesofwar
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 5 Clover Fire
+  identifier: mrslotty:5CloverFire
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 5 Crown Fire
+  identifier: mrslotty:5CrownFire
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 5 Hot Strike
+  identifier: mrslotty:5HotStrike
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 5 Wild Heart
+  identifier: mrslotty:5WildHeart
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Diamonds
+  identifier: mrslotty:777diamonds
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Action Hot 20
+  identifier: mrslotty:ActionHot20
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Action Hot 40
+  identifier: mrslotty:actionhot40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: African Treasure
+  identifier: mrslotty:AfricanTreasure
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Agent X Mission
+  identifier: mrslotty:agentxmission
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: All the Vogue
+  identifier: mrslotty:AlltheVogue
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Aloha Charm
+  identifier: mrslotty:AlohaCharm
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Amsterdam Trophy
+  identifier: mrslotty:AmsterdamTrophy
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Ancient Artifacts
+  identifier: mrslotty:AncientArtifacts
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ancient Rome
+  identifier: mrslotty:AncientRome
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Ancient Rome Deluxe
+  identifier: mrslotty:AncientRomeDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Aztec Pyramids
+  identifier: mrslotty:aztecpyramids
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Bagua
+  identifier: mrslotty:Bagua
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bagua 2
+  identifier: mrslotty:Bagua2
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bali
+  identifier: mrslotty:Bali
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Balkanian Rhapsody - An Ode to love
+  identifier: mrslotty:BalkanianRhapsodyAnOdetolove
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Balkanian Rhapsody - Money Money Money
+  identifier: mrslotty:BalkanianRhapsodyMoneyMoneyMoney
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Beach Life
+  identifier: mrslotty:BeachLife
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Belgravia Nightmare
+  identifier: mrslotty:BelgraviaNightmare
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Big Game Safari
+  identifier: mrslotty:BigGameSafari
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Bikini Fruits
+  identifier: mrslotty:BikiniFruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: true
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Blazing Joker
+  identifier: mrslotty:BlazingJoker
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Bells
+  identifier: mrslotty:BonusBells
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: true
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Book of Bruno
+  identifier: mrslotty:BookofBruno
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Dread
+  identifier: mrslotty:BookofDread
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Book of Ibis
+  identifier: mrslotty:BookofIbis
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Luxor Double
+  identifier: mrslotty:bookofluxordouble
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Book of Spells
+  identifier: mrslotty:BookofSpells
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Spells 2
+  identifier: mrslotty:BookofSpells2
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Book of Spells Deluxe
+  identifier: mrslotty:BookofSpellsDeluxe
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Break the Lines
+  identifier: mrslotty:BreaktheLines
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Buccaneer
+  identifier: mrslotty:Buccaneer
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Buccaneer Deluxe
+  identifier: mrslotty:BuccaneerDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Buffalo Fortune
+  identifier: mrslotty:BuffaloFortune
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Burning Joker
+  identifier: mrslotty:BurningJoker
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Burning Magic
+  identifier: mrslotty:BurningMagic
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Burning Pearl
+  identifier: mrslotty:BurningPearl
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Burning Pearl Numbers
+  identifier: mrslotty:BurningPearlNumbers
+  provider: mrslotty
+  producer: eagaming
+  category: lottery
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Burning Skull
+  identifier: mrslotty:BurningSkull
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Burning Wild
+  identifier: mrslotty:BurningWild
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Bushido Blade
+  identifier: mrslotty:BushidoBlade
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Caishen Riches
+  identifier: mrslotty:CaishenRiches
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cashalot Boom
+  identifier: mrslotty:CashalotBoom
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Chilli Hunter
+  identifier: mrslotty:ChilliHunter
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: China
+  identifier: mrslotty:China
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Chinese Boss
+  identifier: mrslotty:ChineseBoss
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Classic7Fruits
+  identifier: mrslotty:classic7fruits
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cleopatra 18+
+  identifier: mrslotty:cleopatra18
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Clover Blast 5
+  identifier: mrslotty:CloverBlast5
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Clover Coin
+  identifier: mrslotty:CloverCoin
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 40 Clover Fire
+  identifier: mrslotty:cloverfire40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Coyote Dice
+  identifier: mrslotty:CoyoteDice
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Coyote Sevens
+  identifier: mrslotty:CoyoteSevens
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Crazy Halloween
+  identifier: mrslotty:crazyhalloween
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Critter Mania Deluxe
+  identifier: mrslotty:CritterManiaDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cryptomania
+  identifier: mrslotty:Cryptomania
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cryptomania Numbers
+  identifier: mrslotty:CryptomaniaNumbers
+  provider: mrslotty
+  producer: eagaming
+  category: lottery
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Crypto Matrix
+  identifier: mrslotty:cryptomatrix
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: Crystal Hot 100
+  identifier: mrslotty:crystalhot100
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Crystal Hot 40
+  identifier: mrslotty:CrystalHot40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Crystal Hot 40 Christmas
+  identifier: mrslotty:CrystalHot40Christmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Crystal Hot 40 Free Spins
+  identifier: mrslotty:crystalhot40freespins
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Crystal Hot 40 Halloween
+  identifier: mrslotty:CrystalHot40Halloween
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Crystal Hot 40 Max
+  identifier: mrslotty:CrystalHot40Max
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Crystal Hot 80
+  identifier: mrslotty:CrystalHot80
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+- title: Crystal Jewels
+  identifier: mrslotty:CrystalJewels
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Crystals of Magic
+  identifier: mrslotty:CrystalsofMagic
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cubes and Stars
+  identifier: mrslotty:CubesandStars
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cursed
+  identifier: mrslotty:Cursed
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Cursed Deluxe
+  identifier: mrslotty:CursedDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Date With Miyo
+  identifier: mrslotty:DateWithMiyo
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Da Vinci Dice
+  identifier: mrslotty:DaVinciDice
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Da Vinci's Fruits
+  identifier: mrslotty:DaVincisFruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Deep Jungle
+  identifier: mrslotty:DeepJungle
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dia De Los Muertos Deluxe
+  identifier: mrslotty:DiaDeLosMuertosDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dice Mega Cash
+  identifier: mrslotty:DiceMegaCash
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dice of Spells
+  identifier: mrslotty:DiceofSpells
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Diamond Luster
+  identifier: mrslotty:DimondLuster
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Dolphins Gold
+  identifier: mrslotty:dolphinsgold
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dracula's Gems
+  identifier: mrslotty:draculasgems
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dragon of The Eastern Sea
+  identifier: mrslotty:DragonofTheEasternSea
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dragon Powerflame
+  identifier: mrslotty:DragonPowerflame
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dragon's Margin
+  identifier: mrslotty:DragonsMargin
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Dynamite Reels
+  identifier: mrslotty:DynamiteReels
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dynamite Wild
+  identifier: mrslotty:DynamiteWild
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Eggstra
+  identifier: mrslotty:Eggstra
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Electric7Fruits
+  identifier: mrslotty:electric7fruits
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: El Grande Toro
+  identifier: mrslotty:ElGrandeToro
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Emoji Slot
+  identifier: mrslotty:emojislot
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Emoticast
+  identifier: mrslotty:Emoticast
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Empress Regnant
+  identifier: mrslotty:EmpressRegnant
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Enchanted 7s
+  identifier: mrslotty:enchanted7s
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Enchanted Forest
+  identifier: mrslotty:EnchantedForest
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Enter The KTV
+  identifier: mrslotty:EnterTheKTV
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Epic Clover 40
+  identifier: mrslotty:EpicClover40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Epic Fire 40
+  identifier: mrslotty:EpicFire40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Eye Of Tut
+  identifier: mrslotty:EyeOfTut
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Fast Fruits
+  identifier: mrslotty:FastFruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Feng Huang
+  identifier: mrslotty:FengHuang
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 40 Dice Fire
+  identifier: mrslotty:firedice40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 5 Dice Fire
+  identifier: mrslotty:firedice5
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fire Stars
+  identifier: mrslotty:FireStars
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 5 Fluo Dice
+  identifier: mrslotty:FluoDice5
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 5 Fluo Hot
+  identifier: mrslotty:FluoHot5
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Follow The Star
+  identifier: mrslotty:FollowTheStar
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Forest Fruits
+  identifier: mrslotty:ForestFruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Four Dragons
+  identifier: mrslotty:FourDragons
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Four Tigers
+  identifier: mrslotty:FourTigers
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: FruitCocktail7
+  identifier: mrslotty:fruitcocktail7
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fruit Express
+  identifier: mrslotty:FruitExpress
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Island
+  identifier: mrslotty:FruitIsland
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruitovski
+  identifier: mrslotty:Fruitovski
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Paradise
+  identifier: mrslotty:FruitParadise
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruits&Diamonds
+  identifier: mrslotty:fruitsanddiamonds
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 55
+- title: Fruits and Stars
+  identifier: mrslotty:FruitsandStars
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruits And Stars 20 Deluxe
+  identifier: mrslotty:FruitsAndStars20Deluxe
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fruits and Stars 40
+  identifier: mrslotty:FruitsandStars40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruits and Stars 40 Christmas
+  identifier: mrslotty:FruitsandStars40Christmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Fruits and Stars Christmas
+  identifier: mrslotty:FruitsandStarsChristmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fruit Wild Lines
+  identifier: mrslotty:FruitWildLines
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruity Face
+  identifier: mrslotty:FruityFace
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Fruity Hot
+  identifier: mrslotty:FruityHot
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruity Win 20
+  identifier: mrslotty:FruityHot20
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fruity Hot 5
+  identifier: mrslotty:FruityHot5
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruity Win 40
+  identifier: mrslotty:FruityWin40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Gems Tower
+  identifier: mrslotty:gemstower
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Gipsy Soul
+  identifier: mrslotty:GipsySoul
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Glory Of Rome
+  identifier: mrslotty:gloryofrome
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gods Of Egypt
+  identifier: mrslotty:godsofegypt
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Golden7Fruits
+  identifier: mrslotty:golden7fruits
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Golden Crown 40
+  identifier: mrslotty:GoldenCrown40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Golden Crown Christmas
+  identifier: mrslotty:GoldenCrownChristmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Golden Explosion
+  identifier: mrslotty:GoldenExplosion
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Golden Joker Dice
+  identifier: mrslotty:goldenjokerdice
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Gold Miners
+  identifier: mrslotty:goldminers
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Great Whale
+  identifier: mrslotty:GreatWhale
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Heat Classic 5
+  identifier: mrslotty:HeatClassic5
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Heat Double
+  identifier: mrslotty:HeatDouble
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Heating Dice
+  identifier: mrslotty:HeatingDice
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Heating Fruits
+  identifier: mrslotty:HeatingFruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Heating Ice
+  identifier: mrslotty:heatingice
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Heating Ice Deluxe
+  identifier: mrslotty:HeatingIceDeluxe
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Heist
+  identifier: mrslotty:Heist
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Heist Deluxe
+  identifier: mrslotty:HeistDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Her Majesty's Knights
+  identifier: mrslotty:HerMajestysKnights
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Horus Eye
+  identifier: mrslotty:HorusEye
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: HOT Fruits
+  identifier: mrslotty:hotfruits
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hot Fruits
+  identifier: mrslotty:HotFruits1
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: HotHoney 22
+  identifier: mrslotty:hothoney22
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: HotHoney 22 VIP
+  identifier: mrslotty:hothoney22vip
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hot Hot Stereo Win
+  identifier: mrslotty:HotHotStereoWin
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Hot Stars
+  identifier: mrslotty:HotStars
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Stars Christmas
+  identifier: mrslotty:HotStarsChristmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Immortals
+  identifier: mrslotty:Immortals
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Insects 18+
+  identifier: mrslotty:insects18
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Jazzy Fruits
+  identifier: mrslotty:JazzyFruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Jester Temptation
+  identifier: mrslotty:JesterTemptation
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Jewels Beat
+  identifier: mrslotty:jewelsbeat
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Joker Cards
+  identifier: mrslotty:jokercards
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Joker Dice
+  identifier: mrslotty:jokerdice
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Joker Express
+  identifier: mrslotty:JokerExpress
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Power
+  identifier: mrslotty:JokerPower
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Joker Triple Double
+  identifier: mrslotty:JokerTripleDouble
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: true
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Jolly Poker
+  identifier: mrslotty:JollyPoker
+  provider: mrslotty
+  producer: fazi
+  category: poker
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+- title: Juicy Hot
+  identifier: mrslotty:JuicyHot
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: JungleTreasure
+  identifier: mrslotty:jungletreasure
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 35
+- title: Katanas of Time
+  identifier: mrslotty:KatanasofTime
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ketty’s Fashion World
+  identifier: mrslotty:KettysFashionWorld
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: King of Thunder
+  identifier: mrslotty:KingofThunder
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: true
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Lady Hawk
+  identifier: mrslotty:LadyHawk
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Leprechaun
+  identifier: mrslotty:Leprechaun
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: License to Win
+  identifier: mrslotty:licensetowin
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lightning God
+  identifier: mrslotty:LightningGod
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Lions Dance
+  identifier: mrslotty:LionsDance
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lion The Lord
+  identifier: mrslotty:lionthelord
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lolla's World
+  identifier: mrslotty:lollasworld
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Lolla's World Christmas
+  identifier: mrslotty:LollasWorldChristmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Lost Book
+  identifier: mrslotty:LostBook
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Lucky Brilliants
+  identifier: mrslotty:luckybrilliants
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Rooster
+  identifier: mrslotty:LuckyRooster
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky Stack
+  identifier: mrslotty:LuckyStack
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Lux Roulette
+  identifier: mrslotty:LuxRoulette
+  provider: mrslotty
+  producer: fazi
+  category: roulette
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+- title: Majapahit
+  identifier: mrslotty:Majapahit
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: MarsDinner
+  identifier: mrslotty:marsdinner
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mayan Coins
+  identifier: mrslotty:MayanCoins
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: MEGA CUBES DELUXE
+  identifier: mrslotty:megacubesdeluxe
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Mega Hot
+  identifier: mrslotty:MegaHot
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Meme Faces
+  identifier: mrslotty:memefaces
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mermaid Gold
+  identifier: mrslotty:mermaidgold
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mini Mega Cash
+  identifier: mrslotty:MiniMegaCash
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Money Standard
+  identifier: mrslotty:MoneyStandard
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Money Standard Dice
+  identifier: mrslotty:MoneyStandardDice
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Money Standard Wild
+  identifier: mrslotty:MoneyStandardWild
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Money Vault
+  identifier: mrslotty:MoneyVault
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Monster Birds
+  identifier: mrslotty:monsterbirds
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Monsterinos
+  identifier: mrslotty:monsterinos
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Monsters
+  identifier: mrslotty:Monsters
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Muay Boran
+  identifier: mrslotty:MuayBoran
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Mystery Joker Hot
+  identifier: mrslotty:MysteryJokerHot
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Mystic Forest
+  identifier: mrslotty:MysticForest
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Neptune Numbers
+  identifier: mrslotty:NeptuneNumbers
+  provider: mrslotty
+  producer: eagaming
+  category: lottery
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Neptune Treasure
+  identifier: mrslotty:NeptuneTreasure
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: No More Fruits
+  identifier: mrslotty:nomorefruits
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Nugget Hunters
+  identifier: mrslotty:NuggetHunters
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Octagon Gem
+  identifier: mrslotty:OctagonGem
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Octagon Gem 2
+  identifier: mrslotty:OctagonGem2
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Ong Bak 2
+  identifier: mrslotty:OngBak2
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Ong Bak Deluxe
+  identifier: mrslotty:OngBakDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: PandaMEME
+  identifier: mrslotty:pandameme
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Peach Banquet
+  identifier: mrslotty:PeachBanquet
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Phoenix888
+  identifier: mrslotty:Phoenix888
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pirates
+  identifier: mrslotty:Piratess
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Pixel Hot 40
+  identifier: mrslotty:PixelHot40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Postman
+  identifier: mrslotty:Postman
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Power Of The Great
+  identifier: mrslotty:PowerOfTheGreat
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Pyramid
+  identifier: mrslotty:Pyramid
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Qatar 2022
+  identifier: mrslotty:Qatar2022
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Quarantine
+  identifier: mrslotty:quarantine
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Queen 2
+  identifier: mrslotty:Queen2
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Retro 7 Hot
+  identifier: mrslotty:Retro7Hot
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Retro 7 Hot Christmas
+  identifier: mrslotty:Retro7HotChristmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Retro Fire
+  identifier: mrslotty:RetroFire
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Roma Legacy
+  identifier: mrslotty:RomaLegacy
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Roulette
+  identifier: mrslotty:Roulette
+  provider: mrslotty
+  producer: fazi
+  category: roulette
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+- title: Royal7Fruits
+  identifier: mrslotty:royal7fruits
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Santa's Workshop
+  identifier: mrslotty:SantasWorkshop
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Scheherazade
+  identifier: mrslotty:Scheherazade
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Seven Classic Slot
+  identifier: mrslotty:SevenClassicSlot
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Shaolin
+  identifier: mrslotty:Shaolin
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: She/He_beach
+  identifier: mrslotty:shehebeach
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: She/He_club
+  identifier: mrslotty:sheheclub
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sheng Xiao Bingo
+  identifier: mrslotty:ShengXiaoBingo
+  provider: mrslotty
+  producer: eagaming
+  category: lottery
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Shining Rush
+  identifier: mrslotty:ShiningRush
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Simply Sevens
+  identifier: mrslotty:SimplySevens
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Space Guardians
+  identifier: mrslotty:SpaceGuardians
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Star Gems
+  identifier: mrslotty:StarGems
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Starlight
+  identifier: mrslotty:Starlight
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Star Runner
+  identifier: mrslotty:StarRunner
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Streets Of Chicago
+  identifier: mrslotty:StreetsOfChicago
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Strike it Rich
+  identifier: mrslotty:StrikeitRich
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Sun Triad
+  identifier: mrslotty:SunTriad
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Super Dragons Fire
+  identifier: mrslotty:superdragonsfire
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Lucky
+  identifier: mrslotty:SuperLucky
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Tai Shang Lao Sun
+  identifier: mrslotty:TaiShangLaoSun
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Talisman
+  identifier: mrslotty:Talisman
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Templars Quest
+  identifier: mrslotty:TemplarsQuest
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Temple of the Sun
+  identifier: mrslotty:TempleoftheSun
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: The Crown Fruit
+  identifier: mrslotty:thecrownfruit
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: The Healer
+  identifier: mrslotty:TheHealer
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: The Syndicate
+  identifier: mrslotty:TheSyndicate
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: The Wild Protectors
+  identifier: mrslotty:TheWildProtectors
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Third Prince's Journey
+  identifier: mrslotty:ThirdPrincesJourney
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Three Kingdoms 2
+  identifier: mrslotty:ThreeKingdoms2
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Thunder Wild
+  identifier: mrslotty:ThunderWild
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Totem Grace
+  identifier: mrslotty:TotemGrace
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Trapper's destiny
+  identifier: mrslotty:Trappersdestiny
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: true
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Treasures of Egypt
+  identifier: mrslotty:treasuresofegypt
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Trendy Skulls
+  identifier: mrslotty:trendyskulls
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Triple Dice
+  identifier: mrslotty:TripleDice
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Triple Hot
+  identifier: mrslotty:TripleHot
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Tripple Big Fruits
+  identifier: mrslotty:TrippleBigFruits
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Troll Faces
+  identifier: mrslotty:trollfaces
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tropical7Fruits
+  identifier: mrslotty:tropical7fruits
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tropical Crush
+  identifier: mrslotty:TropicalCrush
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Tropical Hot
+  identifier: mrslotty:TropicalHot
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Turbo Dice 40
+  identifier: mrslotty:TurboDice40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Turbo Hot 100
+  identifier: mrslotty:TurboHOT100
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Turbo Hot 40
+  identifier: mrslotty:TurboHot40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Turbo Hot 40 Christmas
+  identifier: mrslotty:TurboHot40Christmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Turbo Hot 80
+  identifier: mrslotty:TurboHot80
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+  has_jackpot: true
+- title: Twenty Dice
+  identifier: mrslotty:TwentyDice
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Twenty Fruits
+  identifier: mrslotty:TwentyFruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Twinkling Hot 40
+  identifier: mrslotty:TwinklingHot40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Twinkling Hot 40 Christmas
+  identifier: mrslotty:TwinklingHot40Christmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Twinkling Hot 5
+  identifier: mrslotty:TwinklingHot5
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Casino Fruits
+  identifier: mrslotty:unicorncasinofruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Unicorn Gems
+  identifier: mrslotty:unicorngems
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Vegas AfterParty
+  identifier: mrslotty:vegasafterparty
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Very Hot 20
+  identifier: mrslotty:VeryHot20
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Very Hot 40
+  identifier: mrslotty:veryhot40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Very Hot 40 Christmas
+  identifier: mrslotty:VeryHot40Christmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Very Hot 40 Respin
+  identifier: mrslotty:VeryHot40Respin
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Very Hot 5
+  identifier: mrslotty:veryhot5
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Very Hot 5 Christmas
+  identifier: mrslotty:VeryHot5Christmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Very Hot 5 Extreme
+  identifier: mrslotty:VeryHot5Extreme
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Very Hot Dice 40
+  identifier: mrslotty:VeryHotDice40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Viking Gold
+  identifier: mrslotty:VikingGold
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: VIP Roulette
+  identifier: mrslotty:VIPRoulette
+  provider: mrslotty
+  producer: fazi
+  category: roulette
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+- title: Watch the neighbor
+  identifier: mrslotty:Watchtheneighbor
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild 27
+  identifier: mrslotty:Wild27
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+  has_jackpot: true
+- title: Wild7Fruits
+  identifier: mrslotty:wild7fruits
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 50 Wild Cash
+  identifier: mrslotty:wildclover506
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 40 Wild Dice
+  identifier: mrslotty:wildcloverdice40
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Faires
+  identifier: mrslotty:WildFaires
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Giant Panda
+  identifier: mrslotty:WildGiantPanda
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wild Hot 40 Blow
+  identifier: mrslotty:WildHot40Blow
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Wild Hot 40 Christmas
+  identifier: mrslotty:WildHot40Christmas
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Wild Hot 40 Free Spins
+  identifier: mrslotty:WildHot40FreeSpins
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Wild Hot 40 Halloween
+  identifier: mrslotty:WildHot40Halloween
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Joker Hot
+  identifier: mrslotty:WildJokerHot
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Kingdom
+  identifier: mrslotty:WildKingdom
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Lucky Clover
+  identifier: mrslotty:WildLuckyClover
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Wild Lucky Clover 2
+  identifier: mrslotty:WildLuckyClover2
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Wild Seven
+  identifier: mrslotty:WildSeven
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Vegas
+  identifier: mrslotty:wildvegas
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wild West
+  identifier: mrslotty:WildWest
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Winning Stars
+  identifier: mrslotty:WinningStars
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Winter Fruits
+  identifier: mrslotty:WinterFruits
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Witch's Brew
+  identifier: mrslotty:WitchsBrew
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wizard
+  identifier: mrslotty:Wizard
+  provider: mrslotty
+  producer: fazi
+  category: slots
+  has_freespins: false
+  feature_group: fazi
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wizard Deluxe
+  identifier: mrslotty:WizardDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: false
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: X and the city
+  identifier: mrslotty:Xandthecity
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile
+- title: Xmas Party
+  identifier: mrslotty:xmasparty
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 24
+- title: Yeh Hsien Deluxe
+  identifier: mrslotty:YehHsienDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Yggdrasil
+  identifier: mrslotty:Yggdrasil
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Zeus the Thunderer
+  identifier: mrslotty:zeusthethunderer
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Zeus the Thunderer II
+  identifier: mrslotty:zeusthethunderer2
+  provider: mrslotty
+  producer: mrslotty
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Zodiac Deluxe
+  identifier: mrslotty:ZodiacDeluxe
+  provider: mrslotty
+  producer: eagaming
+  category: slots
+  has_freespins: true
+  feature_group: eagaming
+  devices:
+  - desktop
+  - mobile
+- title: Zombielogy
+  identifier: mrslotty:Zombielogy
+  provider: mrslotty
+  producer: spinthon
+  category: slots
+  has_freespins: false
+  feature_group: spinthon_basic
+  devices:
+  - desktop
+  - mobile

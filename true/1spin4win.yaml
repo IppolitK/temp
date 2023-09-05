@@ -1,0 +1,987 @@
+- title: 10 Lucky Spins
+  identifier: 1spin4win:10LuckySpins
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: All Ways Egypt
+  identifier: 1spin4win:AllwaysEgypt
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Allways Lucky Spins
+  identifier: 1spin4win:AllwaysLuckySpins
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Book of All Ways
+  identifier: 1spin4win:BookOfAllWays
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Book of Knights
+  identifier: 1spin4win:BookOfKnights
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Book of Nibiru
+  identifier: 1spin4win:BookOfNibiru
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Wild
+  identifier: 1spin4win:BookOfWild
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Booming Fruits 10
+  identifier: 1spin4win:BoomingFruits10
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Booming Fruits 100
+  identifier: 1spin4win:BoomingFruits100
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Booming Fruits 20
+  identifier: 1spin4win:BoomingFruits20
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Booming Fruits 243
+  identifier: 1spin4win:BoomingFruits243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Booming Fruits 27
+  identifier: 1spin4win:BoomingFruits27
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Booming Fruits 40
+  identifier: 1spin4win:BoomingFruits40
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Booming Fruits 81x
+  identifier: 1spin4win:BoomingFruits81x
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Booming Fruits X
+  identifier: 1spin4win:BoomingFruitsX
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Brumby's 243
+  identifier: 1spin4win:Brumbys243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Cash'n Fruits Hold and Win
+  identifier: 1spin4win:CashAndFruitsHoldAndWin
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Cash&Spins 243
+  identifier: 1spin4win:CashAndSpins243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash'n Fruits 100
+  identifier: 1spin4win:CashnFruits100
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Cash'n Fruits 100 Hold And Win
+  identifier: 1spin4win:CashnFruits100HoldAndWin
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: promo1
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Cash'n Fruits 243
+  identifier: 1spin4win:CashnFruits243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash'n Fruits 27 Hold And Win
+  identifier: 1spin4win:CashnFruits27HoldAndWin
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Cash'n Fruits X
+  identifier: 1spin4win:CashnFruitsX
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Coins'n Diamonds X
+  identifier: 1spin4win:CoinsnDiamondsX
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Diamond Luck 243
+  identifier: 1spin4win:DiamondLuck243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dolphin's Wealth
+  identifier: 1spin4win:DolphinsWealth
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Flat&Hot Fruits 20
+  identifier: 1spin4win:FlatAndHotFruits20
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Flat&Hot Fruits 243
+  identifier: 1spin4win:FlatAndHotFruits243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: promo
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Cafe 20
+  identifier: 1spin4win:FruitCafe20
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruit Dealers
+  identifier: 1spin4win:FruitDealers
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Golden Joker 100
+  identifier: 1spin4win:GoldenJoker100
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Golden Joker 243
+  identifier: 1spin4win:GoldenJoker243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+  has_jackpot: true
+- title: Golden Joker 27
+  identifier: 1spin4win:GoldenJoker27
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Hold The Gold
+  identifier: 1spin4win:HoldTheGoldHoldAndWin
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hot Coins & Fruits 100
+  identifier: 1spin4win:HotCoinsAndFruits100
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Hot Coins & Fruits 243
+  identifier: 1spin4win:HotCoinsAndFruits243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Juicy Splash 10
+  identifier: 1spin4win:JuicySplash10
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lady Wild 10
+  identifier: 1spin4win:LadyWild10
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Landy-Candy
+  identifier: 1spin4win:LandyCandy
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Landy-Candy 100
+  identifier: 1spin4win:LandyCandy100
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Lucky 100 Bells
+  identifier: 1spin4win:Lucky100Bells
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Lucky 10 Bells
+  identifier: 1spin4win:Lucky10Bells
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky 20 Bells
+  identifier: 1spin4win:Lucky20Bells
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky 3 Cherries
+  identifier: 1spin4win:Lucky3Cherries
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky 432 Ways
+  identifier: 1spin4win:Lucky432Ways
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 432
+- title: Lucky 5 Bells
+  identifier: 1spin4win:Lucky5Bells
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Cash And Spins
+  identifier: 1spin4win:LuckyCashAndSpins
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Cash'n'Fruit
+  identifier: 1spin4win:LuckyCashnFruits
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Lucky Christmas 243
+  identifier: 1spin4win:LuckyChristmas243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+  has_jackpot: true
+- title: Lucky Clover 243
+  identifier: 1spin4win:LuckyClover243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Lucky Clover 27
+  identifier: 1spin4win:LuckyClover27
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Lucky Crown 20
+  identifier: 1spin4win:LuckyCrown20
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: LuckyCrown 81x
+  identifier: 1spin4win:LuckyCrown81x
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Crown Spins
+  identifier: 1spin4win:LuckyCrownSpins
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Easter 10
+  identifier: 1spin4win:LuckyEaster10
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Easter 243
+  identifier: 1spin4win:LuckyEaster243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Lucky Eve 100
+  identifier: 1spin4win:LuckyEve100
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Lucky Fruit X
+  identifier: 1spin4win:LuckyFruitX
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Lucky Gold Miner
+  identifier: 1spin4win:LuckyGoldMiner
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Lucky Hell-o-Win
+  identifier: 1spin4win:LuckyHelloWin
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Jane in Egypt
+  identifier: 1spin4win:LuckyJaneinEgypt
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Lucky Lady Bug
+  identifier: 1spin4win:LuckyLadyBug
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Tribe 20
+  identifier: 1spin4win:LuckyTribe20
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky X Bells
+  identifier: 1spin4win:LuckyXBells
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Lucky Xmas 20
+  identifier: 1spin4win:LuckyXmas20
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mega Booming Diamonds
+  identifier: 1spin4win:MegaBoomingDiamonds
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Mega Booming Fruits
+  identifier: 1spin4win:MegaBoomingFruits
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mega Diamonds Luck
+  identifier: 1spin4win:MegaDiamondsLuck
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Mega Diamond X
+  identifier: 1spin4win:MegaDiamondX
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Mega Lucky 100
+  identifier: 1spin4win:MegaLucky100
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mega Lucky 243
+  identifier: 1spin4win:MegaLucky243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Mega Lucky 27
+  identifier: 1spin4win:MegaLucky27
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Mega Lucky 576
+  identifier: 1spin4win:MegaLucky576
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 576
+- title: Mega Lucky 81x
+  identifier: 1spin4win:MegaLucky81x
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Mega Lucky Diamonds
+  identifier: 1spin4win:MegaLuckyDiamonds
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mega Lucky Pot
+  identifier: 1spin4win:MegaLuckyPot
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 1xMega Lucky 243
+  identifier: 1spin4win:OneXMegaLucky243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: 1xbet
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Pin-Up Cash'n'Fruits 100
+  identifier: 1spin4win:PinupCashAndFruits100
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Pinup Fruits 243
+  identifier: 1spin4win:PinupFruits243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+- title: Queen Of Diamonds 20
+  identifier: 1spin4win:QueenOfDiamonds20
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rox Fruits 243
+  identifier: 1spin4win:RoxFruits243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: roxcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Seven&Wild
+  identifier: 1spin4win:SevenAndWild
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sweet Spins 20
+  identifier: 1spin4win:SweetSpins20
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Warrior’s Luck
+  identifier: 1spin4win:WarriorsLuck
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Werewolf's Night
+  identifier: 1spin4win:WerewolfsNight
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Bells 100
+  identifier: 1spin4win:WildBells100
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Wild Lady Cash
+  identifier: 1spin4win:WildLadyCash
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Lady Cash 10
+  identifier: 1spin4win:WildLadyCash10
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Lucky Chance
+  identifier: 1spin4win:WildLuckyChance
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild'n Luck 20
+  identifier: 1spin4win:WildnLuck20
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wolf Spins 243
+  identifier: 1spin4win:WolfSpins243
+  provider: 1spin4win
+  producer: 1spin4win
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243

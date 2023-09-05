@@ -1,0 +1,819 @@
+- title: Three Corsairs
+  identifier: mascot:3_corsairs
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Across the Universe
+  identifier: mascot:across_the_universe
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Aloha! Tiki Bar
+  identifier: mascot:aloha_tiki_bar
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3600
+- title: Aloha! Tiki Bar dice
+  identifier: mascot:aloha_tiki_bar_dice
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 3600
+- title: Amaterasu Keno
+  identifier: mascot:amaterasu_keno
+  provider: mascot
+  producer: mascot
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Anksunamun: the queen of Egypt'
+  identifier: mascot:AnksunamunTQoE
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Baccarat
+  identifier: mascot:baccarat_mg
+  provider: mascot
+  producer: mascot
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bamboo Bear
+  identifier: mascot:bamboo_bear
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bastet and Cats
+  identifier: mascot:BastetAndCats
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Ben Gunn Robinson
+  identifier: mascot:ben_gunn_robinson
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Benny's the Biggest game
+  identifier: mascot:bennys_the_biggest_game
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Black Jack
+  identifier: mascot:blackjack_mg
+  provider: mascot
+  producer: mascot
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book Of Amaterasu
+  identifier: mascot:book_of_amaterasu
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: CanCan Saloon
+  identifier: mascot:cancan_saloon
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: The Candy Crush
+  identifier: mascot:candy_crush
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15625
+- title: Cleopatra's Gems Bingo
+  identifier: mascot:cleopatras_gems_bingo
+  provider: mascot
+  producer: mascot
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cleopatra's gems. Rockways
+  identifier: mascot:cleopatras_gems_rockways
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Deepsea Riches
+  identifier: mascot:deepsea_riches
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Dice Disco: MEGA STACKS'
+  identifier: mascot:dice_disco_ms
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dice of Luxor
+  identifier: mascot:dice_of_luxor
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Dice Vegas
+  identifier: mascot:dice_vegas
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Double Triple Fruits
+  identifier: mascot:double_triple_fruits
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Dragon's Nest
+  identifier: mascot:dragons_nest
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Easter Luck
+  identifier: mascot:easter_luck
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fairytale Coven
+  identifier: mascot:fairytale_coven
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: For the Realm!
+  identifier: mascot:for_the_realm
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: 'Fruit Disco: MEGA STACKS'
+  identifier: mascot:FruitDiscoMEGASTACKS
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruit Macao
+  identifier: mascot:fruit_macau
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Fruit Machine Megabonus
+  identifier: mascot:fruit_machine_megabonus
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruit Machine x25
+  identifier: mascot:fruit_machine_x25
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Monaco
+  identifier: mascot:fruit_monaco
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Fruits of Luxor
+  identifier: mascot:FruitsofLuxor
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Fruits of Mbit
+  identifier: mascot:fruits_of_mbit
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: mbit
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Fruit Vegas
+  identifier: mascot:fruit_vegas
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gemz Grow
+  identifier: mascot:gemz_grow
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Greedy Greenskins Rockways
+  identifier: mascot:greedy_greenskins_rockways
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gryphon's Castle
+  identifier: mascot:gryphons_castle
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hell'Sing
+  identifier: mascot:hellsing
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Casino Hold'em
+  identifier: mascot:holdem_mg
+  provider: mascot
+  producer: mascot
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hydra's Lair
+  identifier: mascot:hydras_lair
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: La Fiesta de Muertos
+  identifier: mascot:la_fiesta_de_muertos
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Legioner
+  identifier: mascot:legioner
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lion's Pride
+  identifier: mascot:lions_pride
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Loot the Train
+  identifier: mascot:loot_the_train
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mayan Riches Rockways
+  identifier: mascot:mayan_riches_rockways
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Merlin's Tower
+  identifier: mascot:merlins_tower
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Mermaid's Bay
+  identifier: mascot:mermaids_bay
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Merry Scary Christmas!
+  identifier: mascot:merry_scary_christmas
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Northern Heat
+  identifier: mascot:northen_heat
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: PinUp Dolls
+  identifier: mascot:pinup_dolls
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Primal Bet. Rockways
+  identifier: mascot:primal_bet_rockways
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Prince of Persia: the Gems of Persepolis'
+  identifier: mascot:prince_of_persia_tgop
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Princess & Dwarfs
+  identifier: mascot:princess_and_dwarfs_rockways
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Purple Pills
+  identifier: mascot:purple_pills
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Queen of Spades
+  identifier: mascot:queen_of_spades
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Red Horde
+  identifier: mascot:red_horde
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Re Kill
+  identifier: mascot:re_kill
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Riot
+  identifier: mascot:riot
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: 'Riot 2: Burn and Blow'
+  identifier: mascot:Riot2BurnandBlow
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Robin of Loxley
+  identifier: mascot:robin_of_loxley
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rocket Chimp Jackpot
+  identifier: mascot:rocket_chimp_jackpot
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: The Candy Keno
+  identifier: mascot:the_candy_keno
+  provider: mascot
+  producer: mascot
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Evil Bet
+  identifier: mascot:the_evil_bet
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: The Myth
+  identifier: mascot:the_myth
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Pendragon Legend
+  identifier: mascot:the_pendragon_legend
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Rite
+  identifier: mascot:the_rite
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: The Tomb
+  identifier: mascot:the_tomb_det
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Trump Card Queen
+  identifier: mascot:trump_card_queen
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Twin Dice of Olympus
+  identifier: mascot:twin_dice_of_olympus
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Twin Fruits of Olympus
+  identifier: mascot:TwinFruitsofOlympus
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Twin Fruits of Santa
+  identifier: mascot:twin_fruits_of_santa
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Venetian Magic
+  identifier: mascot:venetian_magic
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wildlife Riches
+  identifier: mascot:wildlife_riches
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Phoenix Rises
+  identifier: mascot:wild_phoenix_rises
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Spirit
+  identifier: mascot:wild_spirit
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Zeus the Thunderer
+  identifier: mascot:zeus_the_thunderer
+  provider: mascot
+  producer: mascot
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20

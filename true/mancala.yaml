@@ -1,0 +1,693 @@
+- title: Fruit Collector
+  identifier: mancala:1MegaReel
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 777 Vegas Showtime
+  identifier: mancala:777VegasShowtime
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky Foxglove
+  identifier: mancala:BarrytheLeprechaun
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: "#BarsAndBells"
+  identifier: mancala:BarsAndBells
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blood Romance Dice
+  identifier: mancala:BloodRomanceDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Book of Wealth
+  identifier: mancala:BookofWealth
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bounty Chasers
+  identifier: mancala:BountyChasers
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Braindead
+  identifier: mancala:Braindead
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Brazil Carnival Dice
+  identifier: mancala:BrazilCarnivalDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Buccaneer Royale
+  identifier: mancala:BuccaneerRoyale
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Buffalo Goes Wild
+  identifier: mancala:BuffaloGoesWild
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Bust and Win
+  identifier: mancala:BustandWin
+  provider: mancala
+  producer: mancala
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Caishen Gold: Dragon Awakes'
+  identifier: mancala:CaishenGoldDragonAwakes
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Candy Clash
+  identifier: mancala:CandyClash
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cash Legion
+  identifier: mancala:CashLegion
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: "#Casinonight Dice"
+  identifier: mancala:CasinonightDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Cherry Bombs
+  identifier: mancala:CherryBombs
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Coco Tiki
+  identifier: mancala:CocoTiki
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Crystal Mine
+  identifier: mancala:CrystalMine
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fortune Tumble
+  identifier: mancala:FortuneTumble
+  provider: mancala
+  producer: mancala
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Factory
+  identifier: mancala:FruitFactory
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruityliner 100
+  identifier: mancala:Fruityliner100
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Fruityliner 40
+  identifier: mancala:Fruityliner40
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruityliner 5
+  identifier: mancala:Fruityliner5
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Goal Star Dice
+  identifier: mancala:GoalStarDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Guns'n Heat Dice
+  identifier: mancala:GunsnHeatDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hot Fruits on Fire
+  identifier: mancala:HotFruitsonFire
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Fruits on Ice
+  identifier: mancala:HotFruitsonIce
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Huge Catch Dice
+  identifier: mancala:HugeCatchDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: HyperXplorer
+  identifier: mancala:HyperXplorer
+  provider: mancala
+  producer: mancala
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Astro Jewels
+  identifier: mancala:Jewelmania
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Kings And Dragons Dice
+  identifier: mancala:KingsAndDragonsDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mancala Quest
+  identifier: mancala:MancalaQuest
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mighty Egypt Riches
+  identifier: mancala:MightyEgyptRiches
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Money Pipe
+  identifier: mancala:MoneyPipe
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Monkey King: Path to Treasure'
+  identifier: mancala:MonkeyKingPathtoTreasure
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Monster Thieves
+  identifier: mancala:MonsterThieves
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Mortal Blow Dice
+  identifier: mancala:MortalBlowDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Muscle Tussle
+  identifier: mancala:MuscleTussle
+  provider: mancala
+  producer: mancala
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Neon Light Fruits
+  identifier: mancala:NeonLightFruits
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Odin's Fate Dice
+  identifier: mancala:OdinsFateDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Pirate Cave Dice
+  identifier: mancala:PirateCaveDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Portal Master
+  identifier: mancala:PortalMaster
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Portal Master Dice
+  identifier: mancala:PortalMasterDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+- title: Power Of Guns Dice
+  identifier: mancala:PowerOfGunsdice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Rage of Zeus Dice
+  identifier: mancala:RageofZeusDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Reel Reel Hot
+  identifier: mancala:ReelReelHot
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Rock gig Dice
+  identifier: mancala:RockgigDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sacred Ruins Dice
+  identifier: mancala:SacredRuinsDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sakura Quest Dice
+  identifier: mancala:SakuraQuestDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Seance: Mysterious Attic'
+  identifier: mancala:SeanceMysteriousAttic
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Seth vs Horus
+  identifier: mancala:SethvsHorus
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sharky Frenzy
+  identifier: mancala:SharkyFrenzy
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Snow Antarctic Dice
+  identifier: mancala:SnowAntarcticDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Space Beat Dice
+  identifier: mancala:SpaceBeatDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Spins&Magic Dice
+  identifier: mancala:Spins&MagicDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Spirit of the Lake
+  identifier: mancala:SpiritOfTheLake
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sunken Ship Dice
+  identifier: mancala:SunkenShipDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Superb Cup
+  identifier: mancala:SuperbCup
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: The Last Quack
+  identifier: mancala:TheLastQuack
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: The Twin Wins Mystery
+  identifier: mancala:TheTwinWinsMystery
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tomb of Egypt Dice
+  identifier: mancala:TombofEgyptDice
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: supergame
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Wild Velvet
+  identifier: mancala:WildVelvet
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Zero Day
+  identifier: mancala:ZeroDay
+  provider: mancala
+  producer: mancala
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

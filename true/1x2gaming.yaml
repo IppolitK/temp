@@ -1,0 +1,2126 @@
+- title: 1 Million Fortunes Megaways
+  identifier: 1x2gaming:1MillionFortunesMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: 1 Million Fortunes Megaways
+  identifier: 1x2gaming:1MillionFortunesMegaways94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: 3D Baccarat
+  identifier: 1x2gaming:3DBaccarat
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: card
+  has_freespins: false
+  feature_group: table
+  devices:
+  - desktop
+  - mobile
+- title: 3D Blackjack
+  identifier: 1x2gaming:3DBlackjack
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: card
+  has_freespins: false
+  feature_group: table
+  devices:
+  - desktop
+  - mobile
+- title: 3D Roulette
+  identifier: 1x2gaming:3DRoulette2066
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: roulette
+  has_freespins: false
+  feature_group: table
+  devices:
+  - desktop
+  - mobile
+- title: Arctic Fruits
+  identifier: 1x2gaming:ArcticFruits
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Asgard Warriors
+  identifier: 1x2gaming:AsgardWarriors
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Astro Newts Megaways
+  identifier: 1x2gaming:AstroNewtsMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Aztec Secrets
+  identifier: 1x2gaming:AztecSecrets
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Aztec Wilds Megaways
+  identifier: 1x2gaming:AztecWildsMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Aztec Wilds Megaways
+  identifier: 1x2gaming:AztecWildsMegaways94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Baccarat
+  identifier: 1x2gaming:Baccarat1047
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Barbarian Gold
+  identifier: 1x2gaming:BarbarianGold
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Battle Maidens
+  identifier: 1x2gaming:BattleMaidens
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Battle Maidens: Cleopatra'
+  identifier: 1x2gaming:BattleMaidensCleopatra
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Big Hitter
+  identifier: 1x2gaming:BigHitter
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: Bitdreams Christmas Megaways
+  identifier: 1x2gaming:BitdreamsChristmasMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: bitdreams
+  devices:
+  - desktop
+  - mobile
+- title: Blackbeards Compass
+  identifier: 1x2gaming:BlackbeardsCompass
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Blackjack
+  identifier: 1x2gaming:Blackjack1048
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blackjack Bonus
+  identifier: 1x2gaming:BlackjackBonus
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blackjack Classic
+  identifier: 1x2gaming:BlackjackClassic
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: card
+  has_freespins: false
+  feature_group: table
+  devices:
+  - desktop
+  - mobile
+- title: Blazing 7's
+  identifier: 1x2gaming:Blazing7s
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Blirix's Workshop
+  identifier: 1x2gaming:BlirixsWorkshop
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Blood Bank
+  identifier: 1x2gaming:BloodBank
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Blood Queen
+  identifier: 1x2gaming:BloodQueen
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Blood Queen Scratch
+  identifier: 1x2gaming:BloodQueenScratch
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: casual
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Blood Rage
+  identifier: 1x2gaming:BloodRage
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of Loki
+  identifier: 1x2gaming:BookofLoki
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Merlin
+  identifier: 1x2gaming:BookofMerlin
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Boom Time
+  identifier: 1x2gaming:BoomTime
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Boom Time
+  identifier: 1x2gaming:BoomTime94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: VIP Branded Megaways
+  identifier: 1x2gaming:BrandedMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Bull Dozer
+  identifier: 1x2gaming:BullDozer
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Candy Cash
+  identifier: 1x2gaming:CandyCash
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Cherry Blast
+  identifier: 1x2gaming:CherryBlast
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cherry Blast Scratch
+  identifier: 1x2gaming:CherryBlastScratch
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: casual
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Christmas megaways
+  identifier: 1x2gaming:Christmasmegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Classic Fruit
+  identifier: 1x2gaming:ClassicFruit
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Classic Fruits
+  identifier: 1x2gaming:ClassicFruits
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Coin Field
+  identifier: 1x2gaming:CoinField
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Coin Vault
+  identifier: 1x2gaming:CoinVault
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Crashout - Firework
+  identifier: 1x2gaming:CrashoutFirework
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Crown of Avalon
+  identifier: 1x2gaming:CrownofAvalon
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dark Thirst
+  identifier: 1x2gaming:DarkThirst
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Darts 180
+  identifier: 1x2gaming:Darts180
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Deadworld
+  identifier: 1x2gaming:Deadworld
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Disco 777
+  identifier: 1x2gaming:Disco777
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Downtown
+  identifier: 1x2gaming:Downtown
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dr Jekyll and Mr Hyde
+  identifier: 1x2gaming:DrJekyllandMrHyde
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Dwarven Gems Megaways
+  identifier: 1x2gaming:DwarvenGemsMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Dwarven Gems Megaways
+  identifier: 1x2gaming:DwarvenGemsMegaways95
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Eagle Strike
+  identifier: 1x2gaming:EagleStrike
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Eagle Strike
+  identifier: 1x2gaming:EagleStrike94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Era Of Gods
+  identifier: 1x2gaming:EraOfGods
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: European Roulette
+  identifier: 1x2gaming:EuropeanRoulette1028
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Faerie Nights
+  identifier: 1x2gaming:FaerieNights
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Feeding Fury
+  identifier: 1x2gaming:FeedingFury
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Feeding Fury
+  identifier: 1x2gaming:FeedingFury94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fields of Clover
+  identifier: 1x2gaming:FieldsofClover
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: FireFly Keno
+  identifier: 1x2gaming:FireFlyKeno
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Football 3x3
+  identifier: 1x2gaming:Football3x3
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Forge of the Gods
+  identifier: 1x2gaming:ForgeoftheGods
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Forge of the Gods
+  identifier: 1x2gaming:ForgeoftheGods94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruity3X3
+  identifier: 1x2gaming:Fruity3X3
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Fruity Megaways
+  identifier: 1x2gaming:FruityMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Fruity Megaways
+  identifier: 1x2gaming:FruityMegaways94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Gifts of Ostara
+  identifier: 1x2gaming:GiftsOfOstara
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gingerbread Joy
+  identifier: 1x2gaming:GingerbreadJoy
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Gladiator of Rome
+  identifier: 1x2gaming:GladiatorOfRome
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gods Of Asgard Megaways
+  identifier: 1x2gaming:GodsOfAsgardMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Gods Of Asgard Megaways
+  identifier: 1x2gaming:GodsOfAsgardMegaways94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Gods of Olympus
+  identifier: 1x2gaming:GodsOfOlympus
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Goodman Christmas Megaways
+  identifier: 1x2gaming:GoodmanChristmasMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: goodman
+  devices:
+  - desktop
+  - mobile
+- title: Green Diamond
+  identifier: 1x2gaming:GreenDiamond
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Grizzly Strike
+  identifier: 1x2gaming:GrizzlyStrike
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Grizzly Strike
+  identifier: 1x2gaming:GrizzlyStrike94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Halloween Horrors
+  identifier: 1x2gaming:HalloweenHorrors
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Here Comes Summer
+  identifier: 1x2gaming:HereComesSummer
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Joker Fruits
+  identifier: 1x2gaming:HotJokerFruits
+  provider: 1x2gaming
+  producer: prospectgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Joker Fruits 20
+  identifier: 1x2gaming:HotJokerFruits20
+  provider: 1x2gaming
+  producer: prospectgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Joker Fruits Stacks
+  identifier: 1x2gaming:HotJokerFruitsStacks
+  provider: 1x2gaming
+  producer: prospectgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: I am The Law
+  identifier: 1x2gaming:IamTheLaw
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ice Queens
+  identifier: 1x2gaming:IceQueens
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Inca Idols
+  identifier: 1x2gaming:IncaIdols
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Instant Football
+  identifier: 1x2gaming:InstantFootball
+  provider: 1x2gaming
+  producer: leapgaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: leapgaming_lv
+  devices:
+  - desktop
+  - mobile
+- title: Instant Virtual Greyhounds
+  identifier: 1x2gaming:InstantVirtualGreyhounds
+  provider: 1x2gaming
+  producer: leapgaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: leapgaming_lv
+  devices:
+  - desktop
+  - mobile
+- title: Instant Virtual Horses
+  identifier: 1x2gaming:InstantVirtualHorses
+  provider: 1x2gaming
+  producer: leapgaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: leapgaming_lv
+  devices:
+  - desktop
+  - mobile
+- title: Instant Virtual Racing
+  identifier: 1x2gaming:InstantVirtualRacing
+  provider: 1x2gaming
+  producer: leapgaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: leapgaming_lv
+  devices:
+  - desktop
+  - mobile
+- title: Instant Virtual Speedway
+  identifier: 1x2gaming:InstantVirtualSpeedway
+  provider: 1x2gaming
+  producer: leapgaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: leapgaming_lv
+  devices:
+  - desktop
+  - mobile
+- title: Instant Virtual Trotting
+  identifier: 1x2gaming:InstantVirtualTrotting
+  provider: 1x2gaming
+  producer: leapgaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: leapgaming_lv
+  devices:
+  - desktop
+  - mobile
+- title: Instant Virtual Velodrome
+  identifier: 1x2gaming:InstantVirtualVelodrome
+  provider: 1x2gaming
+  producer: leapgaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: leapgaming_lv
+  devices:
+  - desktop
+  - mobile
+- title: Irish Love
+  identifier: 1x2gaming:IrishLove
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Italia 3x3
+  identifier: 1x2gaming:Italia3x3
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Jackpot3X3
+  identifier: 1x2gaming:Jackpot3X3
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Jesters Wilds
+  identifier: 1x2gaming:JestersWilds
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jewel of Athena
+  identifier: 1x2gaming:JewelofAthena
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Juicy Ninja
+  identifier: 1x2gaming:JuicyNinja
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Keno Pop
+  identifier: 1x2gaming:KenoPop
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Kitty Cash
+  identifier: 1x2gaming:KittyCash
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Leprechaun Charms
+  identifier: 1x2gaming:LeprechaunCharms
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Lucky Streaks
+  identifier: 1x2gaming:LuckyStreaks
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Maverick
+  identifier: 1x2gaming:Maverick97
+  provider: 1x2gaming
+  producer: adlunam
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Maverick X
+  identifier: 1x2gaming:MaverickX97
+  provider: 1x2gaming
+  producer: adlunam
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Medieval Mania
+  identifier: 1x2gaming:MedievalMania
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Megablox 777
+  identifier: 1x2gaming:Megablox777
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Megablox Pyramids
+  identifier: 1x2gaming:MegabloxPyramids
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Megaways Jack
+  identifier: 1x2gaming:MegawaysJack
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Megaways Jack and The Magic Beans
+  identifier: 1x2gaming:MegawaysJackandTheMagicBeans
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Megaways Jack and The Magic Beans
+  identifier: 1x2gaming:MegawaysJackandTheMagicBeans94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Merry Megaways
+  identifier: 1x2gaming:MerryMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Merry Megaways
+  identifier: 1x2gaming:MerryMegaways92
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Neon Fruit
+  identifier: 1x2gaming:NeonFruit
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Neon Fruit Cityscape
+  identifier: 1x2gaming:NeonFruitCityscape
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Neon Jungle
+  identifier: 1x2gaming:NeonJungle
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 1 Million Megaways BC
+  identifier: 1x2gaming:OneMillionMegawaysBC
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Phoenix Inferno
+  identifier: 1x2gaming:PhoenixInferno
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: PinUp Christmas Megaways
+  identifier: 1x2gaming:PinUpChristmasMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+- title: Pirate Armada
+  identifier: 1x2gaming:PirateArmada
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pirate Kingdom Megaways
+  identifier: 1x2gaming:PirateKingdomMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Plinko Go
+  identifier: 1x2gaming:PlinkoGo
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pop TIll You Drop
+  identifier: 1x2gaming:PopTIllYouDrop
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: casual
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Pots of Luck
+  identifier: 1x2gaming:PotsofLuck
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Prison Escape
+  identifier: 1x2gaming:PrisonEscape
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Prospector Wilds
+  identifier: 1x2gaming:ProspectorWilds94
+  provider: 1x2gaming
+  producer: prospectgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Prospector Wilds Hold and Win
+  identifier: 1x2gaming:ProspectorWildsHoldandWin96
+  provider: 1x2gaming
+  producer: prospectgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Prospector Wilds Megaways
+  identifier: 1x2gaming:ProspectorWildsMegaways
+  provider: 1x2gaming
+  producer: prospectgaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Puppy Payday
+  identifier: 1x2gaming:PuppyPayday
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Queen Of Embers
+  identifier: 1x2gaming:QueenOfEmbers
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rainbow 3X3
+  identifier: 1x2gaming:Rainbow3X3
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Rainbow Wilds Megaways
+  identifier: 1x2gaming:RainbowWildsMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Rainbow Wilds Scratch
+  identifier: 1x2gaming:RainbowWildsScratch
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: casual
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Rainin’ Money
+  identifier: 1x2gaming:RaininMoney
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rainin’ Money
+  identifier: 1x2gaming:RaininMoney94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Red Dragon
+  identifier: 1x2gaming:RedDragon
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Red Queen Blackjack
+  identifier: 1x2gaming:RedQueenBlackjack
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Reel Diamonds
+  identifier: 1x2gaming:ReelDiamonds
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Reel Fruits
+  identifier: 1x2gaming:ReelFruits
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Richie in Vegas
+  identifier: 1x2gaming:RichieinVegas
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Robbin Robin
+  identifier: 1x2gaming:RobbinRobin
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Rock the Reels Megaways
+  identifier: 1x2gaming:RockTheReelsMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Rock the Reels Megaways
+  identifier: 1x2gaming:RockTheReelsMegawaysrtp
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Roulette Diamond
+  identifier: 1x2gaming:RouletteDiamond
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rum and Raiders
+  identifier: 1x2gaming:RumandRaiders
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Rum and Raiders
+  identifier: 1x2gaming:RumandRaiders94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Santa's Big Bash Megaways
+  identifier: 1x2gaming:SantasBigBashMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways
+  devices:
+  - desktop
+  - mobile
+- title: Santa's Big Bash Megaways
+  identifier: 1x2gaming:SantasBigBashMegaways94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: megaways_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Savannah Strike
+  identifier: 1x2gaming:SavannahStrike
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Savannah Strike
+  identifier: 1x2gaming:SavannahStrike94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sherlock's Casebook
+  identifier: 1x2gaming:SherlocksCasebook
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sic Bo 888
+  identifier: 1x2gaming:SicBo888
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: craps
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sinister Circus
+  identifier: 1x2gaming:SinisterCircus
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sirens Kingdom
+  identifier: 1x2gaming:SirensKingdom
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Sirens Kingdom Scratch
+  identifier: 1x2gaming:SirensKingdomScratch
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: casual
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: SkyCrown Christmas Megaways
+  identifier: 1x2gaming:SkyCrownChristmasMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: skycrown
+  devices:
+  - desktop
+  - mobile
+- title: Smoking Hot Fruits
+  identifier: 1x2gaming:SmokingHotFruits
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Smoking Hot Fruits 20 Lines
+  identifier: 1x2gaming:SmokingHotFruits20Lines
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Smoking Hot Fruits Stacks
+  identifier: 1x2gaming:SmokingHotFruitsStacks
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Smoking Hot Fruit Wild Respin
+  identifier: 1x2gaming:SmokingHotFruitWildRespin
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Solar Nova
+  identifier: 1x2gaming:SolarNova
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Solar Nova
+  identifier: 1x2gaming:SolarNova94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Space Christmas
+  identifier: 1x2gaming:SpaceChristmas
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sparkling 777s
+  identifier: 1x2gaming:Sparkling777s
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spino Greyhounds
+  identifier: 1x2gaming:SpinoGreyhounds
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spino Horses
+  identifier: 1x2gaming:SpinoHorses
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Stampeding Strike
+  identifier: 1x2gaming:StampedingStrike
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Stampeding Strike
+  identifier: 1x2gaming:StampedingStrike93
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Stellar Ways
+  identifier: 1x2gaming:StellarWays94
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Stellar Ways
+  identifier: 1x2gaming:StellarWays96
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Super Rainbow Megaways
+  identifier: 1x2gaming:SuperRainbowMegaways
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sweet Candy Cash
+  identifier: 1x2gaming:SweetCandyCash
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Sweet Candy Cash
+  identifier: 1x2gaming:SweetCandyCash93
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Sweet Candy Cash Megaways
+  identifier: 1x2gaming:SweetCandyCashMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: The Choice Is Yours Megaways
+  identifier: 1x2gaming:TheChoiceIsYoursMegaways
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: The Choice Is Yours Megaways
+  identifier: 1x2gaming:TheChoiceIsYoursMegaways94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: The Curious Cabinet
+  identifier: 1x2gaming:TheCuriousCabinet
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: The Curious Cabinet Scratch
+  identifier: 1x2gaming:TheCuriousCabinetScratch
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: casual
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: The Davinci Device
+  identifier: 1x2gaming:TheDavinciDevice
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Theseus Rises
+  identifier: 1x2gaming:TheseusRises
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Trawler Fishin
+  identifier: 1x2gaming:TrawlerFishin
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Treasure of Horus Scratch
+  identifier: 1x2gaming:TreasureofHorusScratch
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: casual
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Treasure of the Pyramids
+  identifier: 1x2gaming:TreasureOfThePyramids
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Triple Bar
+  identifier: 1x2gaming:TripleBar
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Triple Bar
+  identifier: 1x2gaming:TripleBar98
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Tutan Keno
+  identifier: 1x2gaming:TutanKeno
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Under the Sea
+  identifier: 1x2gaming:UnderTheSea
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Under The Waves
+  identifier: 1x2gaming:UnderTheWaves
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Vampire Hunters
+  identifier: 1x2gaming:VampiteHunters
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Van Helsing's Book Of The Undead
+  identifier: 1x2gaming:VanHelsingsBookOfTheUndead
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Vegas Hot Spots
+  identifier: 1x2gaming:VegasHotSpots
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Vegas Hot Spots
+  identifier: 1x2gaming:VegasHotSpots94
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Viking Wilds Scratch
+  identifier: 1x2gaming:VikingWildsScratch
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: casual
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Virtual Football
+  identifier: 1x2gaming:VirtualFootball
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Virtual Racing
+  identifier: 1x2gaming:VirtualRacing
+  provider: 1x2gaming
+  producer: leapgaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: leapgaming_lv
+  devices:
+  - desktop
+  - mobile
+- title: Virtual Soccer
+  identifier: 1x2gaming:VirtualSoccer
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Virtual Tennis
+  identifier: 1x2gaming:VirtualTennis
+  provider: 1x2gaming
+  producer: leapgaming
+  category: virtual_sports
+  has_freespins: false
+  feature_group: leapgaming_lv
+  devices:
+  - desktop
+  - mobile
+- title: Western Wilds
+  identifier: 1x2gaming:WesternWilds
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+- title: Whisker Jones
+  identifier: 1x2gaming:WhiskerJones
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wolf Strike
+  identifier: 1x2gaming:WolfStrike
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wolf Strike
+  identifier: 1x2gaming:WolfStrike88
+  provider: 1x2gaming
+  producer: irondogstudio
+  category: slots
+  has_freespins: false
+  feature_group: irondogstudio_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Xmas 3X3
+  identifier: 1x2gaming:Xmas3X3
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: X-Wild
+  identifier: 1x2gaming:XWild
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Yule be Rich
+  identifier: 1x2gaming:YuleBeRich
+  provider: 1x2gaming
+  producer: 1x2gaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9

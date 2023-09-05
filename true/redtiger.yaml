@@ -1,0 +1,3138 @@
+- title: 10001 Nights
+  identifier: redtiger:10001Nights
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 10001 Nights MegaWays
+  identifier: redtiger:10001NightsMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: '1942: Sky Warrior'
+  identifier: redtiger:1942SkyWarrior
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 24 Hour Grand Prix
+  identifier: redtiger:24HourGrandPrix
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 4Squad
+  identifier: redtiger:4Squad
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 5 Families
+  identifier: redtiger:5Families
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 777 Strike
+  identifier: redtiger:777Strike
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Agent Royale
+  identifier: redtiger:AgentRoyale
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Age of Akkadia
+  identifier: redtiger:AgeOfAkkadia
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Alexander the Great World Conqueror
+  identifier: redtiger:AlexanderTheGreat
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Ali Baba's Luck
+  identifier: redtiger:AliBabasLuck
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Ali Baba's Luck Megaways
+  identifier: redtiger:AliBabasLuckMegaways
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15625
+  has_jackpot: true
+- title: Ali Baba Power Reels
+  identifier: redtiger:AliBabasLuckPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Amazon Island Megaways
+  identifier: redtiger:AmazonIslandMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Ancient Disco
+  identifier: redtiger:AncientDisco
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Ancients Blessing
+  identifier: redtiger:AncientsBlessing
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Ancient Script
+  identifier: redtiger:AncientScript
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Apache Way
+  identifier: redtiger:ApacheWay
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Arcade Bomb
+  identifier: redtiger:ArcadeBomb
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Astronaut
+  identifier: redtiger:Astronaut
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Atlantis
+  identifier: redtiger:Atlantis
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Aurum Codex
+  identifier: redtiger:AurumCodex
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Aztec Spins
+  identifier: redtiger:AztecSpins
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bass Boss
+  identifier: redtiger:BassBoss
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Beriched
+  identifier: redtiger:Beriched
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Betty, Boris and Boo
+  identifier: redtiger:BettyBorisAndBoo
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Big Cat Rescue Megaways
+  identifier: redtiger:BigCatRescueMegaways
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 117649
+  has_jackpot: true
+- title: Blazing Clusters
+  identifier: redtiger:BlazingClusters
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Blobsters Clusterbuster
+  identifier: redtiger:BlobstersClusterbuster
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Blood Suckers MegaWays
+  identifier: redtiger:BloodSuckersMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Blue Diamond
+  identifier: redtiger:BlueDiamond
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Bombuster
+  identifier: redtiger:Bombuster
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Bounty Raid
+  identifier: redtiger:BountyRaid
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1000
+  has_jackpot: true
+- title: Bounty Raid 2
+  identifier: redtiger:BountyRaid2
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Buffalo Mania MegaWays
+  identifier: redtiger:BuffaloManiaMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Bugsy’s Bar
+  identifier: redtiger:BugsysBar
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Bulls Run Wild
+  identifier: redtiger:BullsRunWild
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Cai Shen 168
+  identifier: redtiger:CaiShen168
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cake and Ice Cream
+  identifier: redtiger:CakeAndIceCream
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Cash or Nothing
+  identifier: redtiger:CashorNothing
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cash Ultimate
+  identifier: redtiger:CashUltimate
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Cash Volt
+  identifier: redtiger:CashVolt
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Casino Spin
+  identifier: redtiger:CasinoSpin
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Chinese Treasures
+  identifier: redtiger:ChineseTreasures
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Cinderella's Ball
+  identifier: redtiger:CinderellasBall
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cirque De La Fortune
+  identifier: redtiger:CirqueDeLaFortune
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Clash of the Beasts
+  identifier: redtiger:ClashOfTheBeasts
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Classic Blackjack
+  identifier: redtiger:ClassicBlackjack
+  provider: redtiger
+  producer: redtiger
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cotton Gang Affair
+  identifier: redtiger:CottonGangAffair
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Crazy Genie
+  identifier: redtiger:CrazyGenie
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Crystal Mirror
+  identifier: redtiger:CrystalMirror
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Cyber Attack
+  identifier: redtiger:CyberAttack
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Devil's Number
+  identifier: redtiger:DevilsNumber
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Diamond Blitz
+  identifier: redtiger:DiamondBlitz
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Diamond Royale
+  identifier: redtiger:DiamondRoyale
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Dice Dice Dice
+  identifier: redtiger:DiceDiceDice
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Doggy Riches Megaways
+  identifier: redtiger:DoggyRichesMegaways
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dracula Awakening
+  identifier: redtiger:DraculaAwakening
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 'Dragon King: Legend of the Seas'
+  identifier: redtiger:DragonKingLegendOfTheSeas
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Dragon's Luck Deluxe
+  identifier: redtiger:DragonLuckDeluxe
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Dragons Clusterbuster
+  identifier: redtiger:DragonsClusterbuster
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dragon's Fire
+  identifier: redtiger:DragonsFire
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Dragon's Fire Infinireels
+  identifier: redtiger:DragonsFireInfinireels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Dragons Fire MegaWays
+  identifier: redtiger:DragonsFireMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Dragon's Luck
+  identifier: redtiger:DragonsLuck
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Dragons Luck MegaWays
+  identifier: redtiger:DragonsLuckMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragon's Luck Power Reels
+  identifier: redtiger:DragonsLuckPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Dream Destiny
+  identifier: redtiger:DreamDestiny
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Dynamite Riches
+  identifier: redtiger:DynamiteRiches
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Dynamite Riches MegaWays
+  identifier: redtiger:DynamiteRichesMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Eagle Riches
+  identifier: redtiger:EagleRiches
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Egypt Megaways
+  identifier: redtiger:EgyptMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Elven Magic
+  identifier: redtiger:ElvenMagic
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Emerald Diamond
+  identifier: redtiger:EmeraldDiamond
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Epic Journey
+  identifier: redtiger:EpicJourney
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Epic Treasure
+  identifier: redtiger:EpicTreasure
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Esqueleto Mariachi
+  identifier: redtiger:EsqueletoMariachi
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: European Roulette
+  identifier: redtiger:EuropeanRoulette
+  provider: redtiger
+  producer: redtiger
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Fa Fa Babies
+  identifier: redtiger:FaFaBabies
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Five Star
+  identifier: redtiger:FiveStar
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+  has_jackpot: true
+- title: Five Star Power Reels
+  identifier: redtiger:FiveStarPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Flaming Fox
+  identifier: redtiger:FlamingFox
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Flodder
+  identifier: redtiger:Flodder
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Forever 7's
+  identifier: redtiger:Forever7s
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Fortune Charm
+  identifier: redtiger:FortuneCharm
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Fortune Fest
+  identifier: redtiger:FortuneFest
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Fortune House
+  identifier: redtiger:FortuneHouse
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fortune House Power Reels
+  identifier: redtiger:FortuneHousePowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Fruit Blox
+  identifier: redtiger:FruitBlox
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Fruit Snap
+  identifier: redtiger:FruitSnap
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Gems Gone Wild
+  identifier: redtiger:GemsGoneWild
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Gems Gone Wild Power Reels
+  identifier: redtiger:GemsGoneWildPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Gems Inferno Megaways
+  identifier: redtiger:GemsInfernoMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Gemtastic
+  identifier: redtiger:Gemtastic
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Genie Nights
+  identifier: redtiger:GenieNights
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Get The Gold Infinireels
+  identifier: redtiger:GetTheGoldInfinireels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: God of Wealth
+  identifier: redtiger:GodofWealth
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Gods of Troy
+  identifier: redtiger:GodsOfTroy
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Golden Cryptex
+  identifier: redtiger:GoldenCryptex
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+  has_jackpot: true
+- title: Golden Leprechaun MegaWays
+  identifier: redtiger:GoldenLeprechaunMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Golden Lotus
+  identifier: redtiger:GoldenLotus
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Golden Offer
+  identifier: redtiger:GoldenOffer
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Golden Temple
+  identifier: redtiger:GoldenTemple
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Golden Tsar
+  identifier: redtiger:GoldenTsar
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Gold Star
+  identifier: redtiger:GoldStar
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Gonzita's Quest
+  identifier: redtiger:GonzitasQuest
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Gonzo's Quest Megaways
+  identifier: redtiger:GonzosQuestMegaways
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Good Luck Clusterbuster
+  identifier: redtiger:GoodLuckClusterbuster
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Grand Wheel
+  identifier: redtiger:GrandWheel
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Great Gold
+  identifier: redtiger:GreatGold
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Hammer Gods
+  identifier: redtiger:HammerGods
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Happy Apples
+  identifier: redtiger:HappyApples
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: HarleCoin
+  identifier: redtiger:HarleCoin
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Here Kitty Kitty
+  identifier: redtiger:HereKittyKitty
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hoard of Poseidon
+  identifier: redtiger:HoardofPoseidon
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Hot Hot Chilli Pot
+  identifier: redtiger:HotHotChilliPot
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hustling
+  identifier: redtiger:Hustling
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Imperial Palace
+  identifier: redtiger:ImperialPalace
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: In The Rabbit Hole
+  identifier: redtiger:InTheRabbitHole
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Jack in a pot
+  identifier: redtiger:Jackinapot
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jackpot Quest
+  identifier: redtiger:JackpotQuest
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Jade Charms
+  identifier: redtiger:JadeCharms
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Jester Spins
+  identifier: redtiger:JesterSpins
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Jewel Scarabs
+  identifier: redtiger:JewelScarabs
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Jingle Bells
+  identifier: redtiger:JingleBells
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Jingle Bells Power Reels
+  identifier: redtiger:JingleBellsPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Jingle Ways Megaways
+  identifier: redtiger:JingleWaysMegaways
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 117649
+  has_jackpot: true
+- title: Joe Exotic
+  identifier: redtiger:JoeExotic
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Judgement Day Megaways
+  identifier: redtiger:JudgementDayMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Knights Of Avalon
+  identifier: redtiger:KnightsOfAvalon
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Laser Fruit
+  identifier: redtiger:LaserFruit
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Last Chance Saloon
+  identifier: redtiger:LastChanceSaloon
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Legendary Excalibur
+  identifier: redtiger:LegendaryExcalibur
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Legend of Athena
+  identifier: redtiger:LegendofAthena
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Leprechaun's Magic
+  identifier: redtiger:LeprechaunsMagic
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Leprechaun's Magic Megaways
+  identifier: redtiger:LeprechaunsMagicMegaways
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Leprechauns Magic Power Reels
+  identifier: redtiger:LeprechaunsMagicPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Lion Dance
+  identifier: redtiger:LionDance
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Lion's Hoard
+  identifier: redtiger:LionsHoard
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: London Tube
+  identifier: redtiger:LondonTube
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Lucky Easter
+  identifier: redtiger:LuckyEaster
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Lucky Fortune Cat
+  identifier: redtiger:LuckyFortuneCat
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Lucky Fridays
+  identifier: redtiger:LuckyFridays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Lucky Halloween
+  identifier: redtiger:LuckyHalloween
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Lucky Little Devil
+  identifier: redtiger:LuckyLittleDevil
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Lucky Oktoberfest
+  identifier: redtiger:LuckyOktoberfest
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Lucky Valentine
+  identifier: redtiger:LuckyValentine
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Lucky Wizard
+  identifier: redtiger:LuckyWizard
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Magic Gate
+  identifier: redtiger:MagicGate
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Magic Powers Megaways
+  identifier: redtiger:MagicPowersMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Magic Tricks
+  identifier: redtiger:MagicTricks
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Majestic Mysteries Power Reels
+  identifier: redtiger:MajesticMysteriesPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Masquerade
+  identifier: redtiger:Masquerade
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Mayan Gods
+  identifier: redtiger:MayanGods
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Mayhem
+  identifier: redtiger:Mayhem
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Rio Stars
+  identifier: redtiger:MegaCarnival
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Mega Dragon
+  identifier: redtiger:MegaDragon
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Mega Jade
+  identifier: redtiger:MegaJade
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Mega Pyramid
+  identifier: redtiger:MegaPyramid
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Mega Rise
+  identifier: redtiger:MegaRise
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Midas Gold
+  identifier: redtiger:MidasGold
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Monsters Unchained
+  identifier: redtiger:MonstersUnchained
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Multiplier Riches
+  identifier: redtiger:MultiplierRiches
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Mystery Reels
+  identifier: redtiger:MysteryReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Mystery Reels Deluxe
+  identifier: redtiger:MysteryReelsDeluxe
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Mystery Reels Mega Ways
+  identifier: redtiger:MysteryReelsMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Mystery Reels Power Reels
+  identifier: redtiger:MysteryReelsPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Mystic Staxx
+  identifier: redtiger:MysticStaxx
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Mystic Wheel
+  identifier: redtiger:MysticWheel
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Narcos Mexico
+  identifier: redtiger:NarcosMexico
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+  has_jackpot: true
+- title: Neon Links
+  identifier: redtiger:NeonLinks
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: NFT Megaways
+  identifier: redtiger:NFTMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Night Roller
+  identifier: redtiger:NightRoller
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Ninja Ways
+  identifier: redtiger:NinjaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Ocean Fortune
+  identifier: redtiger:OceanFortune
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Path of Destiny
+  identifier: redtiger:PathOfDestiny
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Peggy Sweets
+  identifier: redtiger:PeggySweets
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Persian Fortune
+  identifier: redtiger:PersianFortune
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Phoenix
+  identifier: redtiger:Phoenix
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Phoenix Fire Power Reels
+  identifier: redtiger:PhoenixFirePowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Piggy Pirates
+  identifier: redtiger:PiggyPirates
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Piggy Riches Megaways
+  identifier: redtiger:PiggyRichesMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Pinatas & Ponies
+  identifier: redtiger:PinatasAndPonies
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Pirates' Plenty
+  identifier: redtiger:PiratesPlenty
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Pirates' Plenty Battle For Gold
+  identifier: redtiger:PiratesPlentyBattleForGold
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Pirates' Plenty Megaways
+  identifier: redtiger:PiratesPlentyMegaways
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Primate King
+  identifier: redtiger:PrimateKing
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Punto Banco
+  identifier: redtiger:PuntoBanco
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Puss'n Boots
+  identifier: redtiger:PussnBoots
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Rainbow Jackpots
+  identifier: redtiger:RainbowJackpots
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Rainbow Jackpots Power Lines
+  identifier: redtiger:RainbowJackpotsPowerLines
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 49
+  has_jackpot: true
+- title: Ra's Legend
+  identifier: redtiger:RasLegend
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Reactor
+  identifier: redtiger:Reactor
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Red Diamond
+  identifier: redtiger:RedDiamond
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Red Hot BBQ
+  identifier: redtiger:RedHotBBQ
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Reel Heist
+  identifier: redtiger:ReelHeist
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Reel Keeper
+  identifier: redtiger:ReelKeeper
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Reel Keeper Power Reels
+  identifier: redtiger:ReelKeeperPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Reel King Mega
+  identifier: redtiger:ReelKingMega
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Regal Beasts
+  identifier: redtiger:RegalBeasts
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Regal Streak
+  identifier: redtiger:RegalStreak
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+  has_jackpot: true
+- title: Reptizillions Power Reels
+  identifier: redtiger:ReptizillionsPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: Riddle of the Sphinx
+  identifier: redtiger:RiddleOfTheSphinx
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Risque Megaways
+  identifier: redtiger:RisqueMegaways
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Robin Hood's Wild Forest
+  identifier: redtiger:RobinHoodsWildForest
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Rocket Men
+  identifier: redtiger:RocketMen
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Rock'n'Lock
+  identifier: redtiger:RockNLock
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Royal Gems
+  identifier: redtiger:RoyalGems
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Santa Spins
+  identifier: redtiger:SantaSpins
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Shadow Society
+  identifier: redtiger:ShadowSociety
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Shah Mat
+  identifier: redtiger:ShahMat
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Sheep Gone Wild
+  identifier: redtiger:SheepGoneWild
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Snow Wild and the 7 Features
+  identifier: redtiger:SnowWildandthe7Features
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Spin Town
+  identifier: redtiger:SpinTown
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Stage 888
+  identifier: redtiger:Stage888
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Stolen Treasures
+  identifier: redtiger:StolenTreasures
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Sugar Monster
+  identifier: redtiger:SugarMonster
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Sumo Spins
+  identifier: redtiger:SumoSpins
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Sylvan Spirits
+  identifier: redtiger:SylvanSpirits
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Ten Elements
+  identifier: redtiger:TenElements
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: The Equalizer
+  identifier: redtiger:TheEqualizer
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+  has_jackpot: true
+- title: The Greatest Train Robbery
+  identifier: redtiger:TheGreatestTrainRobbery
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: The Trillionaire
+  identifier: redtiger:TheTrillionaire
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: The Wild Hatter
+  identifier: redtiger:TheWildHatter
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: The Wisecracker Lightning
+  identifier: redtiger:TheWisecrackerLightning
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: The Wish Master Megaways
+  identifier: redtiger:TheWishMasterMegaWays
+  provider: redtiger
+  producer: netent
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Thor's Lightning
+  identifier: redtiger:ThorsLightning
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Thor's Vengeance
+  identifier: redtiger:ThorsVengeance
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Three Kingdoms
+  identifier: redtiger:ThreeKingdoms
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Three Musketeers
+  identifier: redtiger:ThreeMusketeers
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Tiki Fruits
+  identifier: redtiger:TikiFruits
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Tiki Fruits Totem Frenzy
+  identifier: redtiger:TikiFruitsTotemFrenzy
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Totem Lightning
+  identifier: redtiger:TotemLightning
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Totem Lightning Power Reels
+  identifier: redtiger:TotemLightningPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 'Transylvania: Night of Blood'
+  identifier: redtiger:TransylvaniaNightOfBlood
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Treasure Mine
+  identifier: redtiger:TreasureMine
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Treasure Mine Power Reels
+  identifier: redtiger:TreasureMinePowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Tricks and Treats
+  identifier: redtiger:TricksandTreats
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Vault Cracker
+  identifier: redtiger:VaultCracker
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Vault of Anubis
+  identifier: redtiger:VaultofAnubis
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Vicky Ventura
+  identifier: redtiger:VickyVentura
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Viral Spiral
+  identifier: redtiger:ViralSpiral
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Wanted Wildz
+  identifier: redtiger:WantedWildz
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: War Of Gods
+  identifier: redtiger:WarOfGods
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+  has_jackpot: true
+- title: Well of Wilds MegaWays
+  identifier: redtiger:WellOfWildsMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Well Of Wishes
+  identifier: redtiger:WellOfWishes
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: What the Fox Megaways
+  identifier: redtiger:WhatTheFoxMegaWays
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Wild Cats Multiline
+  identifier: redtiger:WildCatsMultiline
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+  has_jackpot: true
+- title: Wild Circus
+  identifier: redtiger:WildCircus
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Wild Elements
+  identifier: redtiger:WildElements
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Wild Expedition
+  identifier: redtiger:WildExpedition
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Wild Fight
+  identifier: redtiger:WildFight
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Wild Hot Chilli Reels
+  identifier: redtiger:WildHotChilliReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Wild Nords
+  identifier: redtiger:WildNords
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Wild O'Clock
+  identifier: redtiger:WildOClock
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Wild Spartans
+  identifier: redtiger:WildSpartans
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Wild Tundra
+  identifier: redtiger:WildTundra
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+  has_jackpot: true
+- title: Wild Turkey Megaways
+  identifier: redtiger:WildTurkeyMegaWays
+  provider: redtiger
+  producer: netent
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Wild Wild Chest
+  identifier: redtiger:WildWildChest
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Win Escalator
+  identifier: redtiger:WinEscalator
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+  has_jackpot: true
+- title: Wings of Ra
+  identifier: redtiger:WingsofRa
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Winter Wonders
+  identifier: redtiger:WinterWonders
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Wolfkin
+  identifier: redtiger:Wolfkin
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Wrigley's World
+  identifier: redtiger:WrigleysWorld
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Yucatan's Mystery
+  identifier: redtiger:YucatansMystery
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Zaida's Fortune
+  identifier: redtiger:ZaidasFortune
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Zeus Lightning Power Reels
+  identifier: redtiger:ZeusLightningPowerReels
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Zillard King
+  identifier: redtiger:ZillardKing
+  provider: redtiger
+  producer: redtiger
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true

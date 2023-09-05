@@ -1,0 +1,1756 @@
+- title: Barbarian Fury
+  identifier: nolimit:BarbarianFury
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Barbarian Fury
+  identifier: nolimit:BarbarianFury1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Benji Killed in Vegas
+  identifier: nolimit:BenjiKilledInVegas
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Benji Killed in Vegas
+  identifier: nolimit:BenjiKilledInVegasDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Benji Killed in Vegas
+  identifier: nolimit:BenjiKilledInVegasDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Blood & Shadow
+  identifier: nolimit:BloodAndShadowDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Blood & Shadow
+  identifier: nolimit:BloodAndShadowDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Blood & Shadow
+  identifier: nolimit:BloodShadow
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonus Bunnies
+  identifier: nolimit:BonusBunnies
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bonus Bunnies
+  identifier: nolimit:BonusBunnies1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Book of Shadows
+  identifier: nolimit:BookofShadows
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of Shadows
+  identifier: nolimit:BookofShadows1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bounty Hunters
+  identifier: nolimit:BountyHunters
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bounty Hunters
+  identifier: nolimit:BountyHuntersDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Bounty Hunters
+  identifier: nolimit:BountyHuntersDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Buffalo Hunter
+  identifier: nolimit:BuffaloHunter
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Buffalo Hunter
+  identifier: nolimit:BuffaloHunter1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Bushido Ways xNudge
+  identifier: nolimit:BushidoWaysxNudge
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Bushido Ways xNudge
+  identifier: nolimit:BushidoWaysxNudgeDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Casino Win Spin
+  identifier: nolimit:CasinoWinSpin
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Casino Win Spin
+  identifier: nolimit:CasinoWinSpin1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Coins Of Fortune
+  identifier: nolimit:CoinsOfFortune
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Coins Of Fortune
+  identifier: nolimit:CoinsOfFortune1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Das xBoot
+  identifier: nolimit:DasxBoot
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Das xBoot
+  identifier: nolimit:DasxBootDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Dead Canary
+  identifier: nolimit:DeadCanary
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dead Canary
+  identifier: nolimit:DeadCanaryDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Dead Canary
+  identifier: nolimit:DeadCanaryDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Deadwood
+  identifier: nolimit:Deadwood
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Deadwood
+  identifier: nolimit:Deadwood1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Disturbed
+  identifier: nolimit:Disturbed
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Disturbed
+  identifier: nolimit:DisturbedDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Disturbed
+  identifier: nolimit:DisturbedDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: DJ Psycho
+  identifier: nolimit:DjPsycho
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: DJ Psycho
+  identifier: nolimit:DjPsychoDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: DJ Psycho
+  identifier: nolimit:DjPsychoDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Tribe
+  identifier: nolimit:DragonTribe
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dragon Tribe
+  identifier: nolimit:DragonTribe1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Dungeon Quest
+  identifier: nolimit:DungeonQuest
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 29
+- title: Dungeon Quest
+  identifier: nolimit:DungeonQuest1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 29
+- title: East Coast vs West Coast
+  identifier: nolimit:EastCoastVsWestCoast
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: East Coast vs West Coast
+  identifier: nolimit:EastCoastVsWestCoast1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: El Paso Gunfight xNudge
+  identifier: nolimit:ElPaso
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: El Paso Gunfight xNudge
+  identifier: nolimit:ElPasoGunfightNudge
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Evil Goblins
+  identifier: nolimit:EvilGoblins
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Evil Goblins
+  identifier: nolimit:EvilGoblinsDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Fire In The Hole xBomb
+  identifier: nolimit:FireInTheHolexBomb
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fire In The Hole xBomb
+  identifier: nolimit:FireInTheHolexBomb1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Folsom Prison
+  identifier: nolimit:FolsomPrison
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Folsom Prison
+  identifier: nolimit:FolsomPrisonDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Fruits
+  identifier: nolimit:Fruits
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Fruits
+  identifier: nolimit:Fruits1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Gaelic Gold
+  identifier: nolimit:GaelicGold
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Gaelic Gold
+  identifier: nolimit:GaelicGold1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Gluttony
+  identifier: nolimit:Gluttony
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gluttony
+  identifier: nolimit:GluttonyDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Gluttony
+  identifier: nolimit:GluttonyDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Golden Genie and the Walking Wilds
+  identifier: nolimit:GoldenGenie
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Golden Genie and the Walking Wilds
+  identifier: nolimit:GoldenGenie1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Harlequin Carnival
+  identifier: nolimit:HarlequinCarnival
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Harlequin Carnival
+  identifier: nolimit:HarlequinCarnival1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot 4 Cash
+  identifier: nolimit:Hot4Cash
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot 4 Cash
+  identifier: nolimit:Hot4Cash1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Nudge
+  identifier: nolimit:HotNudge
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Hot Nudge
+  identifier: nolimit:HotNudge1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Ice Ice Yeti
+  identifier: nolimit:IceIceYeti
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Ice Ice Yeti
+  identifier: nolimit:IceIceYeti1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Immortal Fruits
+  identifier: nolimit:ImmortalFruits
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Immortal Fruits
+  identifier: nolimit:ImmortalFruits1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Infectious 5 xWays
+  identifier: nolimit:Infectious5xWays
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Infectious 5 xWays
+  identifier: nolimit:Infectious5xWaysDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Karen Maneater
+  identifier: nolimit:Karen
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Karen Maneater
+  identifier: nolimit:KarenDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Kiss My Chainsaw
+  identifier: nolimit:KissMyChainsaw
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Kiss My Chainsaw
+  identifier: nolimit:KissMyChainsawDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Kiss My Chainsaw
+  identifier: nolimit:KissMyChainsawDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: 'KD: BBQ Frenzy'
+  identifier: nolimit:KitchenDramaBbqFrenzy
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'KD: BBQ Frenzy'
+  identifier: nolimit:KitchenDramaBbqFrenzy1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'KD: Sushi Mania'
+  identifier: nolimit:KitchenDramaSushiMania
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'KD: Sushi Mania'
+  identifier: nolimit:KitchenDramaSushiMania1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Legion X
+  identifier: nolimit:LegionX
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Legion X
+  identifier: nolimit:LegionXDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Little Bighorn
+  identifier: nolimit:LittleBighorn
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Little Bighorn
+  identifier: nolimit:LittleBighornDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Little Bighorn
+  identifier: nolimit:LittleBighornDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Manhattan Goes Wild
+  identifier: nolimit:ManhattanGoesWild
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Manhattan Goes Wild
+  identifier: nolimit:ManhattanGoesWild1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Mayan Magic Wildfire
+  identifier: nolimit:MayanMagic
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mayan Magic Wildfire
+  identifier: nolimit:MayanMagic1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mental
+  identifier: nolimit:Mental
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mental
+  identifier: nolimit:MentalDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Milky Ways
+  identifier: nolimit:MilkyWays
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Milky Ways
+  identifier: nolimit:MilkyWays1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Misery Mining
+  identifier: nolimit:Miserymining
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Misery Mining
+  identifier: nolimit:MiseryminingDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: 'Monkey''s Gold: xPays'
+  identifier: nolimit:MonkeysGoldxPays
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: 'Monkey''s Gold: xPays'
+  identifier: nolimit:MonkeysGoldxPays1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Oktoberfest
+  identifier: nolimit:Oktoberfest
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Oktoberfest
+  identifier: nolimit:Oktoberfest1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Owls
+  identifier: nolimit:Owls
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Owls
+  identifier: nolimit:Owls1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Pearl Harbor
+  identifier: nolimit:PearlHarbor
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pearl Harbor
+  identifier: nolimit:PearlHarborDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Pearl Harbor
+  identifier: nolimit:PearlHarborDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Pixies vs Pirates
+  identifier: nolimit:PixiesvsPirates
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Pixies vs Pirates
+  identifier: nolimit:PixiesvsPirates1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Poison Eve
+  identifier: nolimit:PoisonEve
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Poison Eve
+  identifier: nolimit:PoisonEve1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Punk Rocker
+  identifier: nolimit:PunkRocker
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Punk Rocker
+  identifier: nolimit:PunkRocker1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Punk Toilet
+  identifier: nolimit:PunkToilet
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Punk Toilet
+  identifier: nolimit:PunkToilet1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Remember Gulag
+  identifier: nolimit:RememberGulag
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Remember Gulag
+  identifier: nolimit:RememberGulagDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Road Rage
+  identifier: nolimit:RoadRage
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Road Rage
+  identifier: nolimit:RoadRageDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Road Rage
+  identifier: nolimit:RoadRageDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Rock Bottom
+  identifier: nolimit:RockBottom
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rock Bottom
+  identifier: nolimit:RockBottomDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Rock Bottom
+  identifier: nolimit:RockBottomDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: San Quentin
+  identifier: nolimit:SanQuentin
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: San Quentin
+  identifier: nolimit:SanQuentin1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Serial
+  identifier: nolimit:Serial
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Serial
+  identifier: nolimit:SerialDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Serial
+  identifier: nolimit:SerialDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Star Struck
+  identifier: nolimit:StarStruck
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Star Struck
+  identifier: nolimit:StarStruck1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Tesla Jolt
+  identifier: nolimit:TeslaJolt
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tesla Jolt
+  identifier: nolimit:TeslaJolt1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Border
+  identifier: nolimit:TheBorder
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Border
+  identifier: nolimit:TheBorderDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: The Cage
+  identifier: nolimit:TheCage
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Cage
+  identifier: nolimit:TheCageDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: The Cage
+  identifier: nolimit:TheCageDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: The Creepy Carnival
+  identifier: nolimit:TheCreepyCarnival
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: The Creepy Carnival
+  identifier: nolimit:TheCreepyCarnival1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: The Crypt
+  identifier: nolimit:TheCrypt
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Crypt
+  identifier: nolimit:TheCryptDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: The Crypt
+  identifier: nolimit:TheCryptDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: The Rave
+  identifier: nolimit:TheRave
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: The Rave
+  identifier: nolimit:TheRave1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: 'Thor: Hammer Time'
+  identifier: nolimit:Thor
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Thor: Hammer Time'
+  identifier: nolimit:Thor1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tomb of Akhenaten
+  identifier: nolimit:TombOfAkhenaten
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Tomb of Akhenaten
+  identifier: nolimit:TombOfAkhenaten1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Tomb of Nefertiti
+  identifier: nolimit:TombofNefertiti
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tomb of Nefertiti
+  identifier: nolimit:TombofNefertiti1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tombstone
+  identifier: nolimit:Tombstone
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: Tombstone
+  identifier: nolimit:Tombstone1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+- title: Tombstone R.I.P.
+  identifier: nolimit:TombstoneRip
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tombstone R.I.P.
+  identifier: nolimit:TombstoneRipDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Tractor Beam
+  identifier: nolimit:TractorBeam
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tractor Beam
+  identifier: nolimit:TractorBeam1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: True Grit Redemption
+  identifier: nolimit:TrueGritRedemption
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: True Grit Redemption
+  identifier: nolimit:TrueGritRedemption1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: True Kult
+  identifier: nolimit:TrueKult
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: True Kult
+  identifier: nolimit:TrueKultDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: True Kult
+  identifier: nolimit:TrueKultDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Walk Of Shame
+  identifier: nolimit:WalkOfShame
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Walk Of Shame
+  identifier: nolimit:WalkOfShameDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Walk Of Shame
+  identifier: nolimit:WalkOfShameDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Warrior Graveyard
+  identifier: nolimit:WarriorGraveyard
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Warrior Graveyard
+  identifier: nolimit:WarriorGraveyard1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Whacked!
+  identifier: nolimit:Whacked
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Whacked!
+  identifier: nolimit:WhackedDX1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp
+  devices:
+  - desktop
+  - mobile
+- title: Whacked!
+  identifier: nolimit:WhackedDX2
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp92
+  devices:
+  - desktop
+  - mobile
+- title: Wixx
+  identifier: nolimit:Wixx
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: Wixx
+  identifier: nolimit:Wixx1
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 81
+- title: xWays Hoarder xSplit
+  identifier: nolimit:xWaysHoarderxSplit
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: basic_lv
+  devices:
+  - desktop
+  - mobile
+- title: xWays Hoarder xSplit
+  identifier: nolimit:xWaysHoarderxSplitrtp
+  provider: nolimit
+  producer: nolimit
+  category: slots
+  has_freespins: true
+  feature_group: rtp_lv
+  devices:
+  - desktop
+  - mobile

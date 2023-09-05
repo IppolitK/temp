@@ -1,0 +1,901 @@
+- title: 32Cards OTT AB
+  identifier: ezugi:32Cards
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Andar Bahar
+  identifier: ezugi:AndarBahar
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Andar Bahar Lobby
+  identifier: ezugi:AndarBaharLobby
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Automatic Roulette
+  identifier: ezugi:AutomaticRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Prestige Auto Roulette
+  identifier: ezugi:AutomaticRoulette1
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat Lobby
+  identifier: ezugi:BaccaratLobby
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bet on Numbers
+  identifier: ezugi:BetonNumbers
+  provider: ezugi
+  producer: ezugi
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bet On Numbers Lobby
+  identifier: ezugi:BetOnNumbersLobby
+  provider: ezugi
+  producer: ezugi
+  category: lottery
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bet on Teen Patti
+  identifier: ezugi:BetonTeenPatti
+  provider: ezugi
+  producer: ezugi
+  category: poker
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack 1
+  identifier: ezugi:Blackjack1
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Gold 3
+  identifier: ezugi:Blackjack3
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Da Sorte
+  identifier: ezugi:BlackjackDaSorte
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Gold 1
+  identifier: ezugi:BlackjackGold1
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Gold 4
+  identifier: ezugi:BlackjackGold4
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Gold 5
+  identifier: ezugi:BlackjackGold5
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Gold 6
+  identifier: ezugi:BlackjackGold6
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Lobby
+  identifier: ezugi:BlackjackLobby
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Platinum 1
+  identifier: ezugi:BlackjackPlatinum1
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack Salon Prive
+  identifier: ezugi:BlackjackSalonPrive
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Black Russian Blackjack
+  identifier: ezugi:BlackRussianBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Casino Hold'em
+  identifier: ezugi:CasinoHold
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Casino Marina Baccarat 1
+  identifier: ezugi:CasinoMarinaBaccarat1
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Casino Marina Baccarat 2
+  identifier: ezugi:CasinoMarinaBaccarat2
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Casino Marina Baccarat 3
+  identifier: ezugi:CasinoMarinaBaccarat3
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Casino Marina Baccarat 4
+  identifier: ezugi:CasinoMarinaBaccarat4
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Casino Marina Roulette 1
+  identifier: ezugi:CasinoMarinaRoulette1
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Casino Marina Roulette 2
+  identifier: ezugi:CasinoMarinaRoulette2
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Cricket War
+  identifier: ezugi:CricketWar
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Spanish Roulette
+  identifier: ezugi:CumbiaRuleta1
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Diamond Roulette
+  identifier: ezugi:DiamondRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Dragon Tiger
+  identifier: ezugi:DragonTiger
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Dragon Tiger Da Sorte
+  identifier: ezugi:DragonTigerDaSorte
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: EZ Dealer Roleta Brazileira
+  identifier: ezugi:EZDealerRoletaBrazileira
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: EZ Dealer Roulette Thai
+  identifier: ezugi:EZDealerRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: EZ Dealer Roulette Japanese
+  identifier: ezugi:EZDealerRouletteJapanese
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: EZ Dealer Roulette Mandarin
+  identifier: ezugi:EZDealerRouletteMandarin
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Fiesta Baccarat
+  identifier: ezugi:FiestaBaccarat
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Fiesta Roulette
+  identifier: ezugi:FiestaRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Fortune Baccarat
+  identifier: ezugi:FortuneBaccarat
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Golden Baccarat
+  identifier: ezugi:GoldenBaccarat
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Knockout Baccarat
+  identifier: ezugi:GoldenBaccaratKnockOut
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Super 6 Baccarat
+  identifier: ezugi:GoldenBaccaratSuperSix
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Italian Baccarat
+  identifier: ezugi:ItalianBaccarat
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Italian Blackjack
+  identifier: ezugi:ItalianBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Lucky 7
+  identifier: ezugi:Lucky7
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Mambo Unlimited Blackjack
+  identifier: ezugi:MamboUnlimitedBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Namaste Roulette
+  identifier: ezugi:NamasteRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: No Commission Baccarat
+  identifier: ezugi:NoCommissionBaccarat
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: One Day Teen Patti Classic
+  identifier: ezugi:OneDayTeenPattiClassic
+  provider: ezugi
+  producer: ezugi
+  category: poker
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Oracle Casino Roulette
+  identifier: ezugi:OracleCasinoRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Oracle Casino Roulette 360
+  identifier: ezugi:OracleCasinoRoulette360
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Casino Marina Andar Bahar
+  identifier: ezugi:OTTAndarBahar
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Poker Lobby
+  identifier: ezugi:PokerLobby
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Portomaso Casino Roulette
+  identifier: ezugi:PortomasoCasinoRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roleta Da Sorte
+  identifier: ezugi:RoletaDaSorte
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Italian Roulette
+  identifier: ezugi:RouletteGold2
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Russian Roulette
+  identifier: ezugi:RouletteGold3
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Roulette Lobby
+  identifier: ezugi:RouletteLobby
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ruleta del Sol
+  identifier: ezugi:RuletadelSol
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Sic Bo
+  identifier: ezugi:Sicbo
+  provider: ezugi
+  producer: ezugi
+  category: craps
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Spanish Unlimited Blackjack
+  identifier: ezugi:SpanishUnlimitedBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Auto Roulette
+  identifier: ezugi:SpeedAutoRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Baccarat - Cricket
+  identifier: ezugi:SpeedBaccaratCricket
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Fortune Baccarat
+  identifier: ezugi:SpeedFortuneBaccarat
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speed Roulette
+  identifier: ezugi:SpeedRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Teen Patti
+  identifier: ezugi:TeenPati
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Three Card Poker
+  identifier: ezugi:ThreeCardPoker
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Turkish Blackjack
+  identifier: ezugi:TurkishBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Turkish Blackjack 1
+  identifier: ezugi:TurkishBlackjack1
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Turkish Blackjack 2
+  identifier: ezugi:TurkishBlackjack2
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Turkish Roulette
+  identifier: ezugi:TurkishRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ultimate Andar Bahar
+  identifier: ezugi:UltimateAndarBahar
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ultimate Roulette
+  identifier: ezugi:UltimateRoulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ultimate Sic Bo
+  identifier: ezugi:UltimateSicBo
+  provider: ezugi
+  producer: ezugi
+  category: craps
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Unlimited Blackjack
+  identifier: ezugi:UnlimitedBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Unlimited Turkish Blackjack
+  identifier: ezugi:UnlimitedTurkishBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Video Blackjack
+  identifier: ezugi:VideoBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - mobile
+  has_live: true
+- title: VIP Diamond Blackjack
+  identifier: ezugi:VIPBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Blackjack with Surrender
+  identifier: ezugi:VIPBlackjackwithSurrender
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP Fortune Baccarat
+  identifier: ezugi:VIPFortuneBaccarat
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: VIP No Commission Speed Cricket Baccarat
+  identifier: ezugi:VIPNoCommissionSpeedCricketBaccarat
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: White Russian Blackjack
+  identifier: ezugi:WhiteRussianBlackjack
+  provider: ezugi
+  producer: ezugi
+  category: card
+  has_freespins: false
+  feature_group: live
+  devices:
+  - desktop
+  - mobile
+  has_live: true

@@ -1,0 +1,219 @@
+- title: Crazy Monkey
+  identifier: igrosoft:CrazyMonkey
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Crazy Monkey 2
+  identifier: igrosoft:CrazyMonkey2
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Fruit Cocktail
+  identifier: igrosoft:FruitCocktail
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Fruit Cocktail 2
+  identifier: igrosoft:FruitCocktail2
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Garage
+  identifier: igrosoft:Garage
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Gnome
+  identifier: igrosoft:Gnome
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Golden Antelope
+  identifier: igrosoft:GoldenAntelope
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Island
+  identifier: igrosoft:Island
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Island 2
+  identifier: igrosoft:Island2
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Keks
+  identifier: igrosoft:Keks
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Lucky Haunter
+  identifier: igrosoft:LuckyHaunter
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Pirate
+  identifier: igrosoft:Pirate
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Pirate 2
+  identifier: igrosoft:Pirate2
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Pumpkin Fairy
+  identifier: igrosoft:PumpkinFairy
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Resident
+  identifier: igrosoft:Resident
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Rock Climber
+  identifier: igrosoft:RockClimber
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Sweet Life
+  identifier: igrosoft:SweetLife
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Sweet Life 2
+  identifier: igrosoft:SweetLife2
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: The Heat
+  identifier: igrosoft:TheHeat
+  provider: igrosoft
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Tower Poker
+  identifier: igrosoft:TowerPoker
+  provider: igrosoft
+  producer: igrosoft
+  category: video_poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

@@ -1,0 +1,1757 @@
+- title: 3 Diamonds
+  identifier: swintt:3Diamonds
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 7 Fresh Fruits
+  identifier: swintt:7FreshFruits
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Alm Gaudi
+  identifier: swintt:AlmGaudi
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Aloha Spirit XtraLock
+  identifier: swintt:AlohaSpiritXtraLock
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Andar Bahar
+  identifier: swintt:AndarBahar
+  provider: swintt
+  producer: swintt
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Aqua Lord
+  identifier: swintt:AquaLord
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+- title: Battle Heroes
+  identifier: swintt:BattleHeroes
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Belle Epoque
+  identifier: swintt:BelleEpoque
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+- title: Biergarten
+  identifier: swintt:Biergarten
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Biergarten Unlimited
+  identifier: swintt:BiergartenUnlimited
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Big Max 77
+  identifier: swintt:BigMax77
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Big Max Books Unlimited
+  identifier: swintt:BigMaxBooksUnlimited
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Big Max Pots and Pearls
+  identifier: swintt:BigMaxPotsandPearls
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Big Max Sevens
+  identifier: swintt:BigMaxSevens
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Bloxx Arctic
+  identifier: swintt:BloxxArctic
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bloxx Flare
+  identifier: swintt:BloxxFlare
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bloxx Fruit
+  identifier: swintt:BloxxFruit
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bloxx Thunder
+  identifier: swintt:BloxxThunder
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bollywood Billions
+  identifier: swintt:BollywoodBillions
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book of Dino Unlimited
+  identifier: swintt:BookofDinoUnlimited
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Easter
+  identifier: swintt:BookOfEaster
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Nibelungen
+  identifier: swintt:BookofNibelungen
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of Shai
+  identifier: swintt:BookofShai
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of the East
+  identifier: swintt:BookOfTheEast
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Candy Gold
+  identifier: swintt:CandyGold
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cleopatras Diamonds
+  identifier: swintt:CleopatrasDiamonds
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+- title: Cleopatras Pearls
+  identifier: swintt:CleopatrasPearls
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Crazy Pug
+  identifier: swintt:CrazyPug
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dishes to Riches
+  identifier: swintt:DishesToRiches
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Dragon King H5
+  identifier: swintt:DragonKing
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dragon Lair
+  identifier: swintt:DragonLair
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+- title: Duolito Iceman
+  identifier: swintt:DuolitoIceman
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Duolitos Garden
+  identifier: swintt:DuolitosGarden
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Egypt King
+  identifier: swintt:EgyptKing
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: El Andaluz
+  identifier: swintt:ElAndaluz
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Endless Hair
+  identifier: swintt:EndlessHair
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 11
+- title: Everlasting Spins
+  identifier: swintt:EverlastingSpins
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Extra Win
+  identifier: swintt:ExtraWin
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Extra Win X
+  identifier: swintt:ExtraWinX
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fairybelle
+  identifier: swintt:Fairybelle
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fairy Hollow
+  identifier: swintt:FairyHollow
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Five Princesses
+  identifier: swintt:FivePrincesses
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Flaming Sevens
+  identifier: swintt:FlamingSevens
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Four the Win
+  identifier: swintt:FourtheWin
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Four the Win Wild
+  identifier: swintt:FourtheWinWild
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+- title: Fresh Fruit
+  identifier: swintt:FreshFruit
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruit 40
+  identifier: swintt:Fruit40
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruit Fever
+  identifier: swintt:FruitFever
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruitrays
+  identifier: swintt:Fruitrays
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fussball
+  identifier: swintt:Fussball
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gelee Royal
+  identifier: swintt:GeleeRoyal
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gem Riches
+  identifier: swintt:GemRiches
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden 888
+  identifier: swintt:Golden888
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Golden Amazon
+  identifier: swintt:GoldenAmazon
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Buffalo
+  identifier: swintt:GoldenBuffalo
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Dragon
+  identifier: swintt:GoldenDragon
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Genie
+  identifier: swintt:GoldenGenie
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Pig
+  identifier: swintt:GoldenPig
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Golden Reindeer
+  identifier: swintt:GoldenReindeer
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Grockel's Cauldron
+  identifier: swintt:GrockelsCauldron
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Hachi's Quest of Heroes
+  identifier: swintt:HachisQuestOfHeroes
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hana Bana
+  identifier: swintt:HanaBana
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hawaiian Fantasy
+  identifier: swintt:HawaiianFantasy
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Heart of Earth
+  identifier: swintt:HeartofEarth
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Heart of Earth Xmas
+  identifier: swintt:HeartofEarthXmas
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Highway to Win
+  identifier: swintt:HighwaytoWin
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Huluwa
+  identifier: swintt:Huluwa
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Immortal Monkey King
+  identifier: swintt:ImmortalMonkeyKing
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jackbox Left 'N Right
+  identifier: swintt:JackboxLeftNRight
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jackbox Seven
+  identifier: swintt:JackboxSeven
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Jackbox Wild
+  identifier: swintt:JackboxWild
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jade Princess
+  identifier: swintt:JadePrincess
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jelly Mania XtraStreak
+  identifier: swintt:JellyManiaXtraStreak
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jorgen from Bergen
+  identifier: swintt:JorgenFromBergen
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: King Dinosaur
+  identifier: swintt:KingDinosaur
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: King of Sun
+  identifier: swintt:KingofSun
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Kochbuch
+  identifier: swintt:Kochbuch
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Laser Cats
+  identifier: swintt:LaserCats
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Legendary
+  identifier: swintt:Legendary
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Leokan
+  identifier: swintt:Leokan
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lone Rider XtraWays
+  identifier: swintt:LoneRider
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lost World
+  identifier: swintt:LostWorld
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 11
+- title: Lucky Fortune Door
+  identifier: swintt:LuckyFortuneDoor
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Fruit Wheel
+  identifier: swintt:LuckyFruitWheel
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky Jimmy
+  identifier: swintt:LuckyJimmy
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky Mermaid
+  identifier: swintt:LuckyMermaid
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+- title: Magic of Venice
+  identifier: swintt:MagicOfVenice
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Master of Books
+  identifier: swintt:MasterofBooks
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Master of Books Unlimited
+  identifier: swintt:MasterOfBooksUnlimited
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Maximator
+  identifier: swintt:Maximator
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Maxi Roulette
+  identifier: swintt:MaxiRoulette
+  provider: swintt
+  producer: swintt
+  category: roulette
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Medusa's Curse
+  identifier: swintt:MedusasCurse
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: MegaMaya
+  identifier: swintt:MegaMaya
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Mega Phoenix
+  identifier: swintt:MegaPhoenix
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Mexico Dude
+  identifier: swintt:MexicoDude
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Monkey Luck
+  identifier: swintt:MonkeyLuck
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Monster Disco XtraHold
+  identifier: swintt:MonsterDiscoXtraHold
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Moon Oak Deluxe
+  identifier: swintt:MoonOakDeluxe
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Mystic Bear XtraHold
+  identifier: swintt:MysticBearXtraHold
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Baccarat NC
+  identifier: swintt:NCBaccarat
+  provider: swintt
+  producer: swintt
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Neptune's Gold H5
+  identifier: swintt:NeptunesGold
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Neutron Star H5
+  identifier: swintt:NeutronStar
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Nibelungen
+  identifier: swintt:Nibelungen
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Orient Train
+  identifier: swintt:OrientTrain
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Panda Warrior
+  identifier: swintt:PandaWarrior
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Path of Dragons
+  identifier: swintt:PathofDragons
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Baccarat
+  identifier: swintt:P_Baccarat
+  provider: swintt
+  producer: swintt
+  category: card
+  has_freespins: false
+  feature_group: basic_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Perseus
+  identifier: swintt:Perseus
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Pirates and Parrots
+  identifier: swintt:PiratesandParrots
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pirate Treasure
+  identifier: swintt:PIrateTreasure1181
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Power Fruits
+  identifier: swintt:PowerFruits
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Perfect Pairs Blackjack
+  identifier: swintt:PPBlackjack
+  provider: swintt
+  producer: swintt
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Roulette
+  identifier: swintt:P_Roulette
+  provider: swintt
+  producer: swintt
+  category: roulette
+  has_freespins: false
+  feature_group: basic_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Tiger Bonus
+  identifier: swintt:P_TigerBonus
+  provider: swintt
+  producer: swintt
+  category: card
+  has_freespins: false
+  feature_group: premium_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Pyramid of Light
+  identifier: swintt:PyramidofLight
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Rainbow Gold
+  identifier: swintt:RainbowGold
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Reels on Fire
+  identifier: swintt:ReelsonFire
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Rich Lady
+  identifier: swintt:RichLady
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Rock n' Ways XtraWays
+  identifier: swintt:RockNWaysXtraWays
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Royal Golden Dragon
+  identifier: swintt:RoyalGoldenDragon
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Royal Rumble
+  identifier: swintt:RoyalRumble
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Samurai Blade
+  identifier: swintt:SamuraiBlade
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Samurais Pleasure
+  identifier: swintt:SamuraisPleasure
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Santa Pets
+  identifier: swintt:SantaPets
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Santa VS Aliens
+  identifier: swintt:SantaVSAliens
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sea God
+  identifier: swintt:SeaGod
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Sea Raiders
+  identifier: swintt:SeaRaiders
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Secret Spellbook Respin
+  identifier: swintt:SecretSpellbookRespin
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Seven Books Unlimited
+  identifier: swintt:SevenBooksUnlimited
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Seven Seven
+  identifier: swintt:SevenSeven
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Seven Seven Pots and Pearls
+  identifier: swintt:SevenSevenPotsandPearls
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Seven Seven Xmas
+  identifier: swintt:SevenSevenXmas
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Seventy Seven
+  identifier: swintt:SeventySeven
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sinbads Odyssey
+  identifier: swintt:SinbadsOdyssey
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Spin City
+  identifier: swintt:SpinCity
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Stacking Bison
+  identifier: swintt:StackingBison
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Star Stretch
+  identifier: swintt:StarStretch
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Storm Of Egypt
+  identifier: swintt:StormOfEgypt
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Sun Of Maya
+  identifier: swintt:SunOfMaya
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+- title: Sun Wind
+  identifier: swintt:Sunwind
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Superola
+  identifier: swintt:Superola
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sushi Master
+  identifier: swintt:SushiMaster
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: Sweetania Unlimited
+  identifier: swintt:SweetaniaUnlimited
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sword Warriors
+  identifier: swintt:SwordWarriors
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Takutiki
+  identifier: swintt:Takutiki
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Crown
+  identifier: swintt:TheCrown
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Tokyo Dragon
+  identifier: swintt:TokyoDragon
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Treasures of Rome
+  identifier: swintt:TreasuresofRome
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Viking Honour XtraWild
+  identifier: swintt:VikingHonourXtraWild
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Vikings Of Valhalla
+  identifier: swintt:VikingsOfValhalla
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild 777
+  identifier: swintt:Wild777
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Land
+  identifier: swintt:WildLand
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+  has_jackpot: true
+- title: Wild Pharaoh
+  identifier: swintt:WildPharaoh
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Wild Triads
+  identifier: swintt:WildTriads
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild West
+  identifier: swintt:WildWest
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Wild Wild Tiger
+  identifier: swintt:WildWildTiger
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Wild Witch
+  identifier: swintt:WildWildWitch
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Win Eagle
+  identifier: swintt:WinEagle
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Winnergie
+  identifier: swintt:Winnergie
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Win-O-Rama
+  identifier: swintt:WinORama
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+- title: Win-O-Rama XL
+  identifier: swintt:WinORamaXL
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Zombies on Vacation
+  identifier: swintt:ZombiesOnVacation
+  provider: swintt
+  producer: swintt
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

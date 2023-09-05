@@ -1,0 +1,812 @@
+- title: 'Aloha: Fruit Bonanza'
+  identifier: truelab:AlohaFruitBonanza
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: 'Aloha: Fruit Bonanza'
+  identifier: truelab:AlohaFruitBonanza89
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp80
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: 'Aloha: Fruit Bonanza'
+  identifier: truelab:AlohaFruitBonanza92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: 'Aloha: Fruit Bonanza'
+  identifier: truelab:AlohaFruitBonanza95
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: American Roulette
+  identifier: truelab:AmericanRoulette
+  provider: truelab
+  producer: truelab
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book of Truth
+  identifier: truelab:BookofTruth
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Truth
+  identifier: truelab:BookofTruth92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Truth
+  identifier: truelab:BookofTruth94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Christmas Tree 2
+  identifier: truelab:ChristmasTree2
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp98
+  devices:
+  - desktop
+  - mobile
+- title: Christmas Tree 2
+  identifier: truelab:ChristmasTree2_92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Christmas Tree 2
+  identifier: truelab:ChristmasTree2_94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Christmas Tree 2
+  identifier: truelab:ChristmasTree2_96
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Circus Fruits
+  identifier: truelab:CircusFruits
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Circus Fruits
+  identifier: truelab:CircusFruits92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Circus Fruits
+  identifier: truelab:CircusFruits94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Crazy Mix
+  identifier: truelab:CrazyMix
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Crypts of Fortune
+  identifier: truelab:CryptsofFortune92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Crypts of Fortune
+  identifier: truelab:CryptsofFortune94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Crypts of Fortune
+  identifier: truelab:CryptsofFortune96
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Day and Night
+  identifier: truelab:DayandNight
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dr. Rock & the Riff Reactor
+  identifier: truelab:DrRocktheRiffReactor
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur
+  devices:
+  - desktop
+  - mobile
+- title: Dr. Rock & the Riff Reactor
+  identifier: truelab:DrRocktheRiffReactor89
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp80
+  devices:
+  - desktop
+  - mobile
+- title: Dr. Rock & the Riff Reactor
+  identifier: truelab:DrRocktheRiffReactor92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Dr. Rock & the Riff Reactor
+  identifier: truelab:DrRocktheRiffReactor95
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Enchanted Forest
+  identifier: truelab:EnchantedForest
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Enchanted Forest
+  identifier: truelab:EnchantedForest89
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp80
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Enchanted Forest
+  identifier: truelab:EnchantedForest92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Enchanted Forest
+  identifier: truelab:EnchantedForest94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: European Roulette
+  identifier: truelab:EuropeanRoulette
+  provider: truelab
+  producer: truelab
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Guns, Love & Therapy
+  identifier: truelab:GunsLoveTherapy
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur
+  devices:
+  - desktop
+  - mobile
+- title: Guns, Love & Therapy
+  identifier: truelab:GunsLoveTherapy89
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp80
+  devices:
+  - desktop
+  - mobile
+- title: Guns, Love & Therapy
+  identifier: truelab:GunsLoveTherapy92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Guns, Love & Therapy
+  identifier: truelab:GunsLoveTherapy94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Micropirates & the Kraken of the Caribbean
+  identifier: truelab:MicropiratestheKrakenoftheCaribbean
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Micropirates & the Kraken of the Caribbean
+  identifier: truelab:MicropiratestheKrakenoftheCaribbean92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Micropirates & the Kraken of the Caribbean
+  identifier: truelab:MicropiratestheKrakenoftheCaribbean94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Moooving Wilds
+  identifier: truelab:MooovingWilds
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Moooving Wilds
+  identifier: truelab:MooovingWilds89
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp80
+  devices:
+  - desktop
+  - mobile
+- title: Moooving Wilds
+  identifier: truelab:MooovingWilds92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Moooving Wilds
+  identifier: truelab:MooovingWilds94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Scroll of Jiuweihu
+  identifier: truelab:ScrollofJiuweihu
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Scroll of Jiuweihu
+  identifier: truelab:ScrollofJiuweihu92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Scroll of Jiuweihu
+  identifier: truelab:ScrollofJiuweihu94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Siren Symphony
+  identifier: truelab:SirenSymphony
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Siren Symphony
+  identifier: truelab:SirenSymphony92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Siren Symphony
+  identifier: truelab:SirenSymphony94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Street Muse
+  identifier: truelab:StreetMuse
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Street Muse
+  identifier: truelab:StreetMuse88
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp80
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Street Muse
+  identifier: truelab:StreetMuse92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Street Muse
+  identifier: truelab:StreetMuse94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Sunstrike
+  identifier: truelab:Sunstike
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Sunstrike Respin
+  identifier: truelab:SunstrikeRespin
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sunstrike Respin
+  identifier: truelab:SunstrikeRespin92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sunstrike Respin
+  identifier: truelab:SunstrikeRespin94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sunstrike Supernova
+  identifier: truelab:SunstrikeSupernova
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur
+  devices:
+  - desktop
+  - mobile
+- title: Sunstrike Supernova
+  identifier: truelab:SunstrikeSupernova89
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp80
+  devices:
+  - desktop
+  - mobile
+- title: Sunstrike Supernova
+  identifier: truelab:SunstrikeSupernova92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Sunstrike Supernova
+  identifier: truelab:SunstrikeSupernova94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Ultra Hot Reels
+  identifier: truelab:UltraHotReels
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Ultra Hot Reels
+  identifier: truelab:UltraHotReels89
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp80
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Ultra Hot Reels
+  identifier: truelab:UltraHotReels92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Ultra Hot Reels
+  identifier: truelab:UltraHotReels94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Victoria Wild
+  identifier: truelab:VictoriaWild1
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Victoria Wild Deluxe
+  identifier: truelab:VictoriaWildDeluxe
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Victoria Wild Deluxe
+  identifier: truelab:VictoriaWildDeluxe92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Victoria Wild Deluxe
+  identifier: truelab:VictoriaWildDeluxe94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Victoria Wild West
+  identifier: truelab:VictoriaWildWest
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Victoria Wild West
+  identifier: truelab:VictoriaWildWest89
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp80
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Victoria Wild West
+  identifier: truelab:VictoriaWildWest92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Victoria Wild West
+  identifier: truelab:VictoriaWildWest94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Viking Runes
+  identifier: truelab:VikingRunes
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Viking Runes
+  identifier: truelab:VikingRunes92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Viking Runes
+  identifier: truelab:VikingRunes94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_rtp94
+  devices:
+  - desktop
+  - mobile
+- title: Wild Pumpkins
+  identifier: truelab:WildPumpkins
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur
+  devices:
+  - desktop
+  - mobile
+- title: Wild Pumpkins
+  identifier: truelab:WildPumpkins89
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp80
+  devices:
+  - desktop
+  - mobile
+- title: Wild Pumpkins
+  identifier: truelab:WildPumpkins92
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp
+  devices:
+  - desktop
+  - mobile
+- title: Wild Pumpkins
+  identifier: truelab:WildPumpkins94
+  provider: truelab
+  producer: truelab
+  category: slots
+  has_freespins: true
+  feature_group: basic_cur_rtp94
+  devices:
+  - desktop
+  - mobile

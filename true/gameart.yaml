@@ -1,0 +1,1525 @@
+- title: 100 Lucky Sevens
+  identifier: gameart:100LuckySevens
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 20 Hot Fruit Delights
+  identifier: gameart:20HotFruitDelights
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 40 Lucky Sevens
+  identifier: gameart:40LuckySevens
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Super Blazing Sevens
+  identifier: gameart:40SuperBlazingSevens
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 40 Super Heated Sevens
+  identifier: gameart:40SuperHeatedSevens
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 4 Symbols
+  identifier: gameart:4Symbols
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 7s and Diamonds
+  identifier: gameart:7sandDiamonds
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 88 Riches
+  identifier: gameart:88Riches
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: African Sunset
+  identifier: gameart:AfricanSunset
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: African Sunset 2
+  identifier: gameart:AfricanSunset2
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: African Sunset 2 Dice
+  identifier: gameart:AfricanSunset2Dice
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Aladdin's Quest
+  identifier: gameart:AladdinsQuest
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Ali Baba's Riches
+  identifier: gameart:AliBabasRiches
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Ancient Gong
+  identifier: gameart:AncientGong
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Angry Dogs
+  identifier: gameart:AngryDogs
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Angry Dragons
+  identifier: gameart:AngryDragons
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Apocalypse Quest
+  identifier: gameart:ApocalypseQuest
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Atlantis World
+  identifier: gameart:AtlantisWorld
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Awesome 7’s
+  identifier: gameart:Awesome7s
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Azrabah Wishes
+  identifier: gameart:AzrabahWishes
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Baccarat
+  identifier: gameart:Baccarat
+  provider: gameart
+  producer: gameart
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Battle for Atlantis
+  identifier: gameart:BattleforAtlantis
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Battle for Cosmos
+  identifier: gameart:BattleforCosmos
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Blackjack
+  identifier: gameart:Blackjack
+  provider: gameart
+  producer: gameart
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blackjack Side Bets
+  identifier: gameart:BlackjackSideBets
+  provider: gameart
+  producer: gameart
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book of Alchemy
+  identifier: gameart:BookofAlchemy
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Book of Cupigs
+  identifier: gameart:BookofCupigs
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book of Museum
+  identifier: gameart:BookofMuseum
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Oziris
+  identifier: gameart:BookOziris
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Bubble Fruits
+  identifier: gameart:BubbleFruits
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Buffaloes Duel
+  identifier: gameart:BuffaloesDuel
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Buffalo Spirit Dice
+  identifier: gameart:BuffaloSpiritDice
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Buffalo Sunset
+  identifier: gameart:BuffaloSunset
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Burning Flame
+  identifier: gameart:BurningFlame
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Caligula
+  identifier: gameart:Caligula
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Captain Candy
+  identifier: gameart:CaptainCandy
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Carribean Stud Poker
+  identifier: gameart:CarribeanStudPoker
+  provider: gameart
+  producer: gameart
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Castle Blood
+  identifier: gameart:CastleBlood
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Chili Quest
+  identifier: gameart:ChiliQuest
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Chinese Zodiac
+  identifier: gameart:ChineseZodiac
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Circus of Horror
+  identifier: gameart:CircusofHorror
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cleopatra Jewels
+  identifier: gameart:Cleopatra
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Crystal Mystery
+  identifier: gameart:CrystalMystery
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dancing Lion
+  identifier: gameart:DancingLion
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: DaVinci Codex
+  identifier: gameart:DaVinciCodex
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Dawn of Olympus
+  identifier: gameart:DawnofOlympus
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Diamond Magic
+  identifier: gameart:DiamondMagic
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Diamond Magic Deluxe
+  identifier: gameart:DiamondMagicDeluxe
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dolphin's Dream
+  identifier: gameart:DolphinsDream
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dragon King
+  identifier: gameart:DragonKing
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dragon Lady
+  identifier: gameart:DragonLady
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dragon Whisperer
+  identifier: gameart:DragonWhisperer
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Dynamite Fruits
+  identifier: gameart:DynamiteFruits
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Dynamite Fruits Deluxe
+  identifier: gameart:DynamiteFruitsDeluxe
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: El Toreo
+  identifier: gameart:ElToreo
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Emperors Wealth
+  identifier: gameart:EmperorsWealth
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Explosive Reels
+  identifier: gameart:ExplosiveReels
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Five Star Luxury
+  identifier: gameart:FiveStarLuxury
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Flaming Fruits
+  identifier: gameart:FlamingFruits
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Flaming Reels
+  identifier: gameart:FlamingReels
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fortune Lions
+  identifier: gameart:FortuneLions
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fortune Panda
+  identifier: gameart:FortunePanda
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Frozen Joker
+  identifier: gameart:FrozenJoker
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gems Elevator
+  identifier: gameart:GemsElevator
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Dragon
+  identifier: gameart:GoldenDragon
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Gold Of Ra
+  identifier: gameart:GoldOfRa
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hawaiian Christmas
+  identifier: gameart:HawaiianChristmas
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hawaiian Fruits
+  identifier: gameart:HawaiianFruits
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hawaiian Fruits Dice
+  identifier: gameart:HawaiianFruitsDice
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+- title: Hollywoof
+  identifier: gameart:Hollywoof
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hot Fruit Delights
+  identifier: gameart:HotFruitDelights
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Jade Treasure
+  identifier: gameart:JadeTreasure
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Jingle Jokers
+  identifier: gameart:JingleJokers
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Joan of Arc
+  identifier: gameart:JoanofArc
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jumpin Pot
+  identifier: gameart:JumpinPot
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: King Of Monkeys
+  identifier: gameart:KingOfMonkeys
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: King of Monkeys 2
+  identifier: gameart:KingofMonkeys2
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: King Of Wealth
+  identifier: gameart:KingOfWealth
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Kitty Twins
+  identifier: gameart:KittyTwins
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Kukulkan’s Queen
+  identifier: gameart:KukulkansQueen
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lady Luck
+  identifier: gameart:LadyLuck
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lilly Palmer London
+  identifier: gameart:LillyPalmerLondon
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lucky Babies
+  identifier: gameart:LuckyBabies
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Coins
+  identifier: gameart:LuckyCoins
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lucky Fruits & Diamonds
+  identifier: gameart:LuckyFruitsAndDiamonds
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+  has_jackpot: true
+- title: Lucky Reefs
+  identifier: gameart:LuckyReefs
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lunar Rabbit
+  identifier: gameart:LunarRabbit
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Magic Dragon
+  identifier: gameart:MagicDragon
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Magic Unicorn
+  identifier: gameart:MagicUnicorn
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mariachi Fiesta
+  identifier: gameart:MariachiFiesta
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mariachi Fiesta Dice
+  identifier: gameart:MariachiFiestaDice
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Money Farm
+  identifier: gameart:MoneyFarm
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Money Farm Megaways
+  identifier: gameart:MoneyFarmMegaways
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Money Farm 2
+  identifier: gameart:MoneyFarmTwo
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Monkey Pirates
+  identifier: gameart:MonkeyPirates
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: More Cash
+  identifier: gameart:MoreCash
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Nefertiti's Nile
+  identifier: gameart:NefertitisNile
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Nefertiti’s Nile Dice
+  identifier: gameart:NefertitisNileDice
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Night at KTV
+  identifier: gameart:NightatKTV
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Norn's Fate
+  identifier: gameart:NornsFate
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Phoenix Princess
+  identifier: gameart:PhoenixPrincess
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Piggy Bjorn 2 - Winter is Coming
+  identifier: gameart:PiggyBjorn2WinterisComing
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Piggy Bjorn - Muspelheim's Treasure
+  identifier: gameart:PiggyBjornMuspelheimsTreasure
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Piggy Holmes
+  identifier: gameart:PiggyHolmes
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Piggy Holmes Dice
+  identifier: gameart:PiggyHolmesDice
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pirate’s Pearl Megaways
+  identifier: gameart:PiratesPearlMegaways
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pixel Invaders
+  identifier: gameart:PixelInvaders
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Power Dragon
+  identifier: gameart:PowerDragon
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Queen Of The Seas
+  identifier: gameart:QueenofTheSeas
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Raiders of the Lost Book
+  identifier: gameart:RaidersoftheLostBook
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Ramses Treasure
+  identifier: gameart:RamsesTreasure
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Rosh Immortality Cube Megaways
+  identifier: gameart:RoshImmortality
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: premium
+  devices:
+  - desktop
+  - mobile
+- title: Roulette
+  identifier: gameart:Roulette
+  provider: gameart
+  producer: gameart
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Royal Gems
+  identifier: gameart:RoyalGems
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Safari Gems
+  identifier: gameart:SafariGems
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Santa's Factory
+  identifier: gameart:SantasFactory
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Santa's Farm
+  identifier: gameart:SantasFarm
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Slot of Money
+  identifier: gameart:SlotofMoney
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Spartans Legacy
+  identifier: gameart:SpartansLegacy
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Spooky Graves
+  identifier: gameart:SpookyGraves
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Star Cash
+  identifier: gameart:StarCash
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Storming Flame
+  identifier: gameart:StormingFlame
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Striking Joker
+  identifier: gameart:StrikingJoker
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Summer Jam
+  identifier: gameart:SummerJam
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Heated Sevens
+  identifier: gameart:SuperHeatedSevens
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Surfin' Joker
+  identifier: gameart:SurfinJoker
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sushi Yatta
+  identifier: gameart:SushiYatta
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tesla
+  identifier: gameart:Tesla
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Texas Rangers Reward
+  identifier: gameart:TexasRangersReward
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Three Kings
+  identifier: gameart:ThreeKings
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Thunder Bird
+  identifier: gameart:ThunderBird
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tiger Heart
+  identifier: gameart:TigerHeart
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Venetia
+  identifier: gameart:Venetia
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Video Poker
+  identifier: gameart:VideoPoker
+  provider: gameart
+  producer: gameart
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Dolphin
+  identifier: gameart:WildDolphin
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Marmalade
+  identifier: gameart:WildMarmalade
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Wild Fruit
+  identifier: gameart:WildWildFruit
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Wild Wild Quest
+  identifier: gameart:WildWildQuest
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Wolf Hunt
+  identifier: gameart:WolfHunt
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Wolf Quest
+  identifier: gameart:WolfQuest
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Xtreme Hot
+  identifier: gameart:XtremeHot
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Xtreme Summer Hot
+  identifier: gameart:XtremeSummerHot
+  provider: gameart
+  producer: gameart
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

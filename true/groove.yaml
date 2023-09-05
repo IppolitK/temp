@@ -1,0 +1,735 @@
+- title: 20 Boost Hot
+  identifier: groove:20BoostHot
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 40 Pixels
+  identifier: groove:40Pixels
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Amazing Yu
+  identifier: groove:AmazingYu
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of Anime
+  identifier: groove:BookOfAnime
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Book of Anunnaki
+  identifier: groove:BookofAnunnaki
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Tattoo II
+  identifier: groove:BookOfTattooII
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Cai Shen 689
+  identifier: groove:CaiShen689
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cazombie
+  identifier: groove:Cazombie
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 'City Pop: Hawaii'
+  identifier: groove:CityPopHawaii
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Clash of Gods
+  identifier: groove:ClashofGods
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Deep Blue
+  identifier: groove:DeepBlue
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+- title: Diamond Blitz 100
+  identifier: groove:DiamondBlitz100
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Diamond Blitz 40
+  identifier: groove:DiamondBlitz40
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fat Mama's Wheel
+  identifier: groove:FatMamasWheel
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fortune Circus
+  identifier: groove:FortuneCircus
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fortune Deck
+  identifier: groove:FortuneDeck
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Fruits Royale
+  identifier: groove:FruitsRoyale
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruity Mania
+  identifier: groove:FruityMania
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fugaso Airlines
+  identifier: groove:FugasoAirlines
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Gummy Bears
+  identifier: groove:GummyBears
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+- title: Hit Saber
+  identifier: groove:HitSaber
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+- title: Hit The Diamond
+  identifier: groove:HitTheDiamond
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Inferno Devil 100
+  identifier: groove:InfernoDevil100
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Inferno Diamonds
+  identifier: groove:InfernoDiamonds
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Inferno Diamonds 100
+  identifier: groove:InfernoDiamonds100
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Into The Jungle
+  identifier: groove:IntoTheJungle
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Into The Jungle Bonus Buy
+  identifier: groove:IntoTheJungleBonusBuy
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jack the Winner
+  identifier: groove:JacktheWinner
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+- title: Jewel Sea Pirate Riches
+  identifier: groove:JewelSeaPirateRiches
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: It's a Joker
+  identifier: groove:Joker
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Joker Heist
+  identifier: groove:JokerHeist
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Juicy Wilds
+  identifier: groove:JuicyWilds
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Jungle Beats
+  identifier: groove:JungleBeats
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: King Of The Ring
+  identifier: groove:KingOfTheRing
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Kukers
+  identifier: groove:Kukers
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Light Dance
+  identifier: groove:LightDance
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+- title: Lil' Santa
+  identifier: groove:LilSanta
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lil' Santa Bonus Buy
+  identifier: groove:LilSantaBonusBuy
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lines Of Magic
+  identifier: groove:LinesOfMagic
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Spinners
+  identifier: groove:MagicSpinners
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Magnify Man
+  identifier: groove:MagnifyMan
+  provider: groove
+  producer: fugaso
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Monaco Fever
+  identifier: groove:MonacoFever
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mr Luck
+  identifier: groove:MrLuck
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pharaoh's Temple
+  identifier: groove:PharaohsTemple
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Planet Rocks
+  identifier: groove:PlanetRocks
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pop&Drop
+  identifier: groove:PopDrop
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Power Wildz: Fruit Saga'
+  identifier: groove:PowerWildzFruitSaga
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Red Lion
+  identifier: groove:RedLion
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: RollZone
+  identifier: groove:RollZone
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+- title: Santa's Jingle Wheel
+  identifier: groove:SantasJingleWheel
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Shake! Shake!
+  identifier: groove:ShakeShake
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 256
+- title: Spinachos
+  identifier: groove:Spinachos
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Spinbox
+  identifier: groove:Spinbox
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Stoned Joker
+  identifier: groove:StonedJoker
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Stoned Joker 5
+  identifier: groove:StonedJoker5
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Sugar Drop
+  identifier: groove:SugarDrop
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sugar Drop XMAS
+  identifier: groove:SugarDropXMAS
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Sugar Land
+  identifier: groove:SugarLand
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sugar Paradise
+  identifier: groove:SugarParadise
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: The Mummy Win Hunters
+  identifier: groove:TheMummyWinHunters
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: The Mummy Win Hunters EPICWAYS
+  identifier: groove:TheMummyWinHuntersEPICWAYS
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Wild Beast of Crete
+  identifier: groove:TheWildBeastofCrete
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+- title: Three Kingdoms Romance
+  identifier: groove:ThreeKingdomsRomance
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Tropical Gold
+  identifier: groove:TropicalGold
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Trump It Deluxe EPICWAYS
+  identifier: groove:TrumpItDeluxeEpicways
+  provider: groove
+  producer: fugaso
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Under the Fifth Sun
+  identifier: groove:UndertheFifthSun
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Witcher Cave
+  identifier: groove:WitcherCave
+  provider: groove
+  producer: felixgaming
+  category: slots
+  has_freespins: false
+  feature_group: felixgaming
+  devices:
+  - desktop
+  - mobile

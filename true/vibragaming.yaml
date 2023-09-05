@@ -1,0 +1,458 @@
+- title: Amazonia Fantasy
+  identifier: vibragaming:AmazoniaFantasy
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Baccarat
+  identifier: vibragaming:Baccarat
+  provider: vibragaming
+  producer: vibragaming
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bingo 3
+  identifier: vibragaming:Bingo3
+  provider: vibragaming
+  producer: vibragaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Carnaval Alegria
+  identifier: vibragaming:CarnavalAlegria
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Champions 2
+  identifier: vibragaming:Champions2
+  provider: vibragaming
+  producer: vibragaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Chocolate Planet
+  identifier: vibragaming:ChocolatePlanet
+  provider: vibragaming
+  producer: vibragaming
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Clovers Fantasy
+  identifier: vibragaming:CloversFantasy
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Clovers Fantasy
+  identifier: vibragaming:CloversFantasy91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Codex
+  identifier: vibragaming:codex
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Codex
+  identifier: vibragaming:Codex91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Condorito
+  identifier: vibragaming:Condorito
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Condorito
+  identifier: vibragaming:Condorito91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: branded_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Freeway Poker
+  identifier: vibragaming:FreewayPoker
+  provider: vibragaming
+  producer: vibragaming
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Goleada Millonaria
+  identifier: vibragaming:GoleadaMillonaria
+  provider: vibragaming
+  producer: vibragaming
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Halloween 3 Bonus
+  identifier: vibragaming:Halloween3Bonus
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Lucky Fruits
+  identifier: vibragaming:LuckyFruits
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lucky Fruits
+  identifier: vibragaming:LuckyFruits91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Make a Wish
+  identifier: vibragaming:MakeaWish
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Make a Wish
+  identifier: vibragaming:MakeaWish91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mystic Joker
+  identifier: vibragaming:MysticJoker
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mystic Joker
+  identifier: vibragaming:MysticJoker91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pachinko 2
+  identifier: vibragaming:Pachinko2
+  provider: vibragaming
+  producer: vibragaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Pachinko 3
+  identifier: vibragaming:Pachinko3
+  provider: vibragaming
+  producer: vibragaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Patagonia Wilds
+  identifier: vibragaming:PatagoniaWilds
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Patagonia Wilds
+  identifier: vibragaming:PatagoniaWilds91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+- title: Piggy Cash
+  identifier: vibragaming:PiggyCash
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Piggy Cash
+  identifier: vibragaming:PiggyCash91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Popeye Slots
+  identifier: vibragaming:PopeyeSlots
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Popeye Slots
+  identifier: vibragaming:PopeyeSlots91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: branded_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Quake
+  identifier: vibragaming:Quake
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Quake
+  identifier: vibragaming:Quake91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Showball 3
+  identifier: vibragaming:Showball3
+  provider: vibragaming
+  producer: vibragaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Sic Bo
+  identifier: vibragaming:SicBo
+  provider: vibragaming
+  producer: vibragaming
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Spin Island
+  identifier: vibragaming:SpinIsland
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Spin Island
+  identifier: vibragaming:SpinIsland91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Spin Jones and the Crystal Skull
+  identifier: vibragaming:SpinJonesandtheCrystalSkull
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Spin Jones and the Crystal Skull
+  identifier: vibragaming:SpinJonesandtheCrystalSkull91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tesoro del Mono
+  identifier: vibragaming:TesorodelMono
+  provider: vibragaming
+  producer: vibragaming
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Phantom
+  identifier: vibragaming:ThePhantom
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Phantom
+  identifier: vibragaming:ThePhantom91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: branded_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Gems
+  identifier: vibragaming:WildGems
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Gems
+  identifier: vibragaming:WildGems91
+  provider: vibragaming
+  producer: vibragaming
+  category: slots
+  has_freespins: false
+  feature_group: basic_rtp91
+  devices:
+  - desktop
+  - mobile
+  lines: 10

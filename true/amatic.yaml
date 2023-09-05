@@ -1,0 +1,2089 @@
+- title: Admiral Nelson
+  identifier: amatic:Admiral
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: All Ways Candy
+  identifier: amatic:AllWaysCandy
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Allways Fruits
+  identifier: amatic:AllwaysFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Allways Hot Dice
+  identifier: amatic:AllwaysHotDice
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: All Ways Hot Fruits
+  identifier: amatic:AllwaysHotFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: All Ways Hottest Fruits
+  identifier: amatic:AllWaysHottestFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: All Ways Joker
+  identifier: amatic:AllWaysJoker
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Allways Win
+  identifier: amatic:AllwaysWin
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Arising Phoenix
+  identifier: amatic:ArisingPhoenix
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Aztec Emerald
+  identifier: amatic:aztecemerald
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Aztec Secret
+  identifier: amatic:AztecSecret
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Beauty Fairy
+  identifier: amatic:BeautyFairy
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Beauty Warrior
+  identifier: amatic:BeautyWarrior
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bells On Fire
+  identifier: amatic:BellsOnFire
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Bells on Fire Hot
+  identifier: amatic:BellsonFireHot
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Bells On Fire Rombo
+  identifier: amatic:BellsOnFireRombo
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Big Panda
+  identifier: amatic:BigPanda
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Billyonaire
+  identifier: amatic:Billyonaire
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Billyonaire Bonus Buy
+  identifier: amatic:BillyonaireBonusBuy
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Billy's Game
+  identifier: amatic:BillysGame
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Black Jack
+  identifier: amatic:BlackJack
+  provider: amatic
+  producer: amatic
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blue Dolphin
+  identifier: amatic:BlueDolphin
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of Admiral
+  identifier: amatic:BookofAdmiral
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Aztec
+  identifier: amatic:BookOfAztec
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Aztec Bonus Buy
+  identifier: amatic:BookofAztecBonusBuy
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Aztec Dice
+  identifier: amatic:BookofAztecDice
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Aztec Select
+  identifier: amatic:BookofAztecSelect
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Fortune
+  identifier: amatic:BookOfFortune
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Fruits
+  identifier: amatic:BookofFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Book of Fruits 10
+  identifier: amatic:BookofFruits10
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Fruits 20
+  identifier: amatic:BookofFruits20
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of Fruits Halloween
+  identifier: amatic:BookofFruitsHalloween
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Lords
+  identifier: amatic:BookofLords
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Montezuma
+  identifier: amatic:BookofMontezuma
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Pharao
+  identifier: amatic:BookofPharao
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Queen
+  identifier: amatic:BookofQueen
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bounty Bonanza
+  identifier: amatic:BountyBonanza
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Buffalo Thunderstacks
+  identifier: amatic:BuffaloThunderstacks
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Blazing Bells 10
+  identifier: amatic:BurningBells10
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Blazing Bells 20
+  identifier: amatic:burningbells20
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Blazing Bells 20 Dice
+  identifier: amatic:BurningBells20Dice
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Blazing Bells 40
+  identifier: amatic:BurningBells40
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Casanova
+  identifier: amatic:Casanova
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Casanovas Ladies
+  identifier: amatic:CasanovasLadies
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cash & Crab
+  identifier: amatic:CashAndCrab
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Cash Diamonds
+  identifier: amatic:CashDiamonds
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Casinova
+  identifier: amatic:Casinova
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Chilli Willie
+  identifier: amatic:ChilliWillie
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Chinese Spider
+  identifier: amatic:ChineseSpider
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Cool Diamonds II
+  identifier: amatic:CoolDiamondsII
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Crazy Bee
+  identifier: amatic:CrazyBee
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Crystal Fruits
+  identifier: amatic:CrystalFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Diamond Cats
+  identifier: amatic:DiamondCats
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Diamond Monkey
+  identifier: amatic:DiamondMonkey
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Diamonds On Fire
+  identifier: amatic:DiamondsOnFire
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Diamond Staxx
+  identifier: amatic:DiamondStaxx
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dia Muertos
+  identifier: amatic:DiaMuertos
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Double Diamonds
+  identifier: amatic:DoubleDiamonds
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Double Diamonds 50
+  identifier: amatic:DoubleDiamonds50
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dragon Pot
+  identifier: amatic:DragonPot
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dragons Gift
+  identifier: amatic:DragonsGift
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dragons Kingdom
+  identifier: amatic:DragonsKingdom
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dragon's Mystery
+  identifier: amatic:DragonsMystery
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Dragons Pearl
+  identifier: amatic:DragonsPearl
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Enchanted Cleopatra
+  identifier: amatic:EnchantedCleopatra
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Eye Of Ra
+  identifier: amatic:EyeOfRa
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fiery Fruits
+  identifier: amatic:FieryFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fire and Ice
+  identifier: amatic:FireAndIce
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fire Queen
+  identifier: amatic:FireQueen
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Flying Dutchman
+  identifier: amatic:FlyingDutchman
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fortunas Fruits
+  identifier: amatic:FortunasFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fortune Girl
+  identifier: amatic:FortuneGirl
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruit Box
+  identifier: amatic:FruitBox
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Fruit Express
+  identifier: amatic:FruitExpress
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruit Loop
+  identifier: amatic:Fruitloop
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruit Star
+  identifier: amatic:FruitStar
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Gem Star
+  identifier: amatic:GemStar
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Golden Book
+  identifier: amatic:GoldenBook
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Golden Joker
+  identifier: amatic:GoldenJoker
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Golden Quest
+  identifier: amatic:GoldenQuest
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Grand Casanova
+  identifier: amatic:GrandCasanova
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Grand Fruits
+  identifier: amatic:GrandFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Grand Tiger
+  identifier: amatic:GrandTiger
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Grand Wild Dragon 20
+  identifier: amatic:grandwilddragon20
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: GrandX
+  identifier: amatic:GrandX
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Harlequeen
+  identifier: amatic:Harlequeen
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Hot 27
+  identifier: amatic:Hot27
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hot 27 Dice
+  identifier: amatic:Hot27Dice
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Hot 40
+  identifier: amatic:Hot40
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Hot 7
+  identifier: amatic:Hot7
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot 7 Dice
+  identifier: amatic:Hot7Dice
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot 81
+  identifier: amatic:Hot81
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hot Choice
+  identifier: amatic:HotChoice
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Choice Deluxe
+  identifier: amatic:HotChoiceDeluxe
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Choice Dice
+  identifier: amatic:HotChoiceDice
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Diamonds
+  identifier: amatic:HotDiamonds
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Dice 10
+  identifier: amatic:HotDice10
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Dice 20
+  identifier: amatic:HotDice20
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Dice 27
+  identifier: amatic:HotDice27
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Hot Dice 40
+  identifier: amatic:HotDice40
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Hot Football
+  identifier: amatic:HotFootball
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Fruits 10
+  identifier: amatic:HotFruits10
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Fruits 100
+  identifier: amatic:HotFruits100
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Hot Fruits 20
+  identifier: amatic:HotFruits20
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Fruits 20 Cash Spins
+  identifier: amatic:hotfruits20cashspins
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hot Fruits 27
+  identifier: amatic:HotFruits27
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hot Fruits 40
+  identifier: amatic:HotFruits40
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Hot Fruits 5
+  identifier: amatic:HotFruits5
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Fruits Deluxe
+  identifier: amatic:HotFruitsDeluxe
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Neon
+  identifier: amatic:HotNeon
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Scatter
+  identifier: amatic:HotScatter
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Scatter Deluxe
+  identifier: amatic:HotScatterDeluxe
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Scatter Dice
+  identifier: amatic:HotScatterDice
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Seven Deluxe
+  identifier: amatic:HotSevenDeluxe
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Soccer
+  identifier: amatic:HotSoccer
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Hot Star
+  identifier: amatic:HotStar
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hottest Fruits 20
+  identifier: amatic:HottestFruits20
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Hottest Fruits 40
+  identifier: amatic:HottestFruits40
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Hot Twenty
+  identifier: amatic:HotTwenty
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Joker X
+  identifier: amatic:JokerX
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: King of Dwarves
+  identifier: amatic:KingofDwarves
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Kings Crown
+  identifier: amatic:KingsCrown
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Kitty Bet
+  identifier: amatic:KittyBet
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lady Fruits 100 Easter
+  identifier: amatic:LadyFruits100Easter
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Lady Fruits 20
+  identifier: amatic:LadyFruits20
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lady Fruits 40 Easter
+  identifier: amatic:LadyFruits40Easter
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Lady Joker
+  identifier: amatic:LadyJoker
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Lovely Lady
+  identifier: amatic:LadyLuck
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lady Pin-ups 100
+  identifier: amatic:LadyPinups100
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: La Gran Aventura
+  identifier: amatic:LaGranAventura
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lovely Lady Deluxe
+  identifier: amatic:LovelyLadyDeluxe
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lovely Lady X-Mas
+  identifier: amatic:LovelyLadyXMas
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Bells
+  identifier: amatic:LuckyBells
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Coin
+  identifier: amatic:LuckyCoin
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Double
+  identifier: amatic:luckydouble
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky Egypt
+  identifier: amatic:LuckyEgypt
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+  has_jackpot: true
+- title: Lucky Egypt
+  identifier: amatic:LuckyEgyptLuckyLink
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: test
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Golden 7
+  identifier: amatic:LuckyGolden7s
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Joker 10
+  identifier: amatic:luckyjoker10
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Joker 100
+  identifier: amatic:LuckyJoker100
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Lucky Joker 10 Cash Spins
+  identifier: amatic:LuckyJoker10CashSpins
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Joker 10 Dice
+  identifier: amatic:LuckyJoker10Dice
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: dice
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Joker 10 Extra Gifts
+  identifier: amatic:LuckyJoker10ExtraGifts
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Joker 20
+  identifier: amatic:LuckyJoker20
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Joker 20 Extra Gifts
+  identifier: amatic:LuckyJoker20ExtraGifts
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Joker 40
+  identifier: amatic:LuckyJoker40
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Lucky Joker 5
+  identifier: amatic:LuckyJoker5
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky Joker Xmas
+  identifier: amatic:LuckyJokerXmas
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Little Devil
+  identifier: amatic:LuckyLittleDevil
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Respin
+  identifier: amatic:LuckyRespin
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Shark
+  identifier: amatic:LuckyShark
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Lucky Zodiac
+  identifier: amatic:LuckyZodiac
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Forest
+  identifier: amatic:MagicForest
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Idol
+  identifier: amatic:MagicIdol
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Magic Owl
+  identifier: amatic:MagicOwl
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Mega Shark
+  identifier: amatic:MegaShark
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mermaids Gold
+  identifier: amatic:MermaidsGold
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Merry Fruits
+  identifier: amatic:MerryFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Nicer Dice 100
+  identifier: amatic:NicerDice100
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Nicer Dice 40
+  identifier: amatic:NicerDice40
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Oktoberfest
+  identifier: amatic:Oktoberfest
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Party Night
+  identifier: amatic:PartyNight
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Party Time
+  identifier: amatic:PartyTime
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pharaohs Gold 20
+  identifier: amatic:PharaohsGold20
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Plenty Dragons
+  identifier: amatic:PlentyDragons
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Princess of Pearls
+  identifier: amatic:PrincessofPearls
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Red Chilli
+  identifier: amatic:RedChilli
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Relic Riches
+  identifier: amatic:RelicRiches
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Roulette Royal
+  identifier: amatic:RouletteRoyal
+  provider: amatic
+  producer: amatic
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Royal Unicorn
+  identifier: amatic:RoyalUnicorn
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sakura Fruits
+  identifier: amatic:SakuraFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Santas Fruits
+  identifier: amatic:SantasFruits
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Scarab Treasure
+  identifier: amatic:ScarabTreasure
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Sun Goddess
+  identifier: amatic:sungoddess
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Super Cats
+  identifier: amatic:SuperCats
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tiki Madness 100
+  identifier: amatic:TikiMadness100
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Triple Wild
+  identifier: amatic:TripleWild
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Tweety Birds
+  identifier: amatic:TweetyBirds
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Ultra Seven
+  identifier: amatic:UltraSeven
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Vampires
+  identifier: amatic:Vampires
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wild 7
+  identifier: amatic:Wild7
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Anubis
+  identifier: amatic:wildanubis
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Boost
+  identifier: amatic:WildBoost
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Dragon
+  identifier: amatic:WildDragon
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Hearts
+  identifier: amatic:wildhearts
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Respin
+  identifier: amatic:WildRespin
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Shark
+  identifier: amatic:WildShark
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wild Shark Bonus Buy
+  identifier: amatic:WildSharkBonusBuy
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Wild Stars
+  identifier: amatic:WildStars
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Volcano
+  identifier: amatic:WildVolcano
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wild Witches
+  identifier: amatic:WildWitches
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Wolf Moon
+  identifier: amatic:WolfMoon
+  provider: amatic
+  producer: amatic
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40

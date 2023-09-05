@@ -1,0 +1,2444 @@
+- title: Ace Round
+  identifier: evoplay:AceRound
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Aeronauts
+  identifier: evoplay:Aeronauts
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: American Roulette 3D
+  identifier: evoplay:AmericanRoulette3D
+  provider: evoplay
+  producer: evoplay
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Andar Nights
+  identifier: evoplay:AndarNight
+  provider: evoplay
+  producer: evoplay
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Animal Quest
+  identifier: evoplay:AnimalQuest
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Anubis' Moon
+  identifier: evoplay:AnubisMoon
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Atlantis
+  identifier: evoplay:Atlantis
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Baccarat 777
+  identifier: evoplay:Baccarat777
+  provider: evoplay
+  producer: evoplay
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Basketball
+  identifier: evoplay:Basketball
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Battle Tanks
+  identifier: evoplay:BattleTanks
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: BlackJack Lucky Sevens
+  identifier: evoplay:BlackJackLuckySevens
+  provider: evoplay
+  producer: evoplay
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blessed Flame
+  identifier: evoplay:BlessedFlame
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bloody Brilliant
+  identifier: evoplay:BloodyBrilliant
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Bomb Squad
+  identifier: evoplay:BombSquad
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bonanza Wheel
+  identifier: evoplay:BonanzaWheel
+  provider: evoplay
+  producer: evoplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Book of Fastpay
+  identifier: evoplay:BookOfFastpay
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: fastpay
+  devices:
+  - desktop
+  - mobile
+- title: Book of Keno
+  identifier: evoplay:BookofKeno
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Book of Rest
+  identifier: evoplay:BookofRest
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of the Priestess
+  identifier: evoplay:BookofthePriestess
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of the Priestess Bonus Buy
+  identifier: evoplay:BookofthePriestessBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Brutal Santa
+  identifier: evoplay:BrutalSanta
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Budai Reels
+  identifier: evoplay:BudaiReels
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Budai Reels Bonus Buy
+  identifier: evoplay:BudaiReelsBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Expanding Master
+  identifier: evoplay:BurningAces
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Camino de Chili
+  identifier: evoplay:CaminodeChil
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Camino de Chili Bonus Buy
+  identifier: evoplay:CaminodeChiliBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Candy Dreams
+  identifier: evoplay:CandyDreams
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Candy Dreams: Bingo'
+  identifier: evoplay:CandyDreamsBingo
+  provider: evoplay
+  producer: evoplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Candy Dreams: Sweet Planet'
+  identifier: evoplay:CandyDreamsSweetPlanet
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 'Candy Dreams: Sweet Planet Bonus Buy'
+  identifier: evoplay:CandyDreamsSweetPlanetBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Charming Queens
+  identifier: evoplay:CharmingQueens
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Chinese New Year
+  identifier: evoplay:ChineseNewYear
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Christmas Party
+  identifier: evoplay:ChristmasParty
+  provider: evoplay
+  producer: evoplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Christmas Reach
+  identifier: evoplay:ChristmasReach
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Christmas Reach Bonus Buy
+  identifier: evoplay:ChristmasReachBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Clash of Pirates
+  identifier: evoplay:ClashofPirates
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Collapsed Castle
+  identifier: evoplay:CollapsedCastle
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: Collapsed Castle Bonus Buy
+  identifier: evoplay:CollapsedCastleBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 18
+- title: Curse of the Pharaoh Bonus Buy
+  identifier: evoplay:CurseofthePharaoh
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Curse of the Pharaoh
+  identifier: evoplay:CurseofthePharaoh1
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Cycle of Luck
+  identifier: evoplay:CycleofLuck
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Cycle of Luck Bonus Buy
+  identifier: evoplay:CycleofLuckBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Dolphins Treasure
+  identifier: evoplay:DolphinsTreasure
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Dragon’s Tavern
+  identifier: evoplay:DragonsTavern
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: Dragon's Tavern Bonus Buy
+  identifier: evoplay:DragonsTavernBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 7
+- title: 'Dungeon: Immortal Evil'
+  identifier: evoplay:DungeonImmortalEvil
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Egypt Gods
+  identifier: evoplay:EgyptGods
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Ellen's Fortune
+  identifier: evoplay:EllensFortune
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Elven Princesses
+  identifier: evoplay:ElvenPrincesses
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 'Elven Princesses: Crown Quest'
+  identifier: evoplay:ElvenPrincessesCrownQuest
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Epic Gladiators
+  identifier: evoplay:EpicGladiators
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Epic Legends
+  identifier: evoplay:EpicLegends
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Ethan Grand: Mayan Diaries'
+  identifier: evoplay:EthanGrandMayanDiaries
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: E.T. Lost Socks
+  identifier: evoplay:ETLostSocks
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 21
+- title: E.T. Races
+  identifier: evoplay:ETRaces
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Europe Transit
+  identifier: evoplay:EuropeTransit
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Europe Transit Bonus Buy
+  identifier: evoplay:EuropeTransitBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Exploding Fruits
+  identifier: evoplay:ExplodingFruits
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fluffy Rangers
+  identifier: evoplay:FluffyRangers
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Food Feast
+  identifier: evoplay:FoodFeast
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Football
+  identifier: evoplay:Football
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Football Bet
+  identifier: evoplay:FootballBet
+  provider: evoplay
+  producer: evoplay
+  category: virtual_sports
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Football Manager
+  identifier: evoplay:FootballManager
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Football Scratch
+  identifier: evoplay:FootballScratch
+  provider: evoplay
+  producer: evoplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Forest Dreams
+  identifier: evoplay:ForestDreams
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Forgotten Fable
+  identifier: evoplay:ForgottenFable
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Four Aces
+  identifier: evoplay:FourAces
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: French Roulette Classic
+  identifier: evoplay:FrenchRouletteClassic
+  provider: evoplay
+  producer: evoplay
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Burst
+  identifier: evoplay:FruitBurst
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruit Disco
+  identifier: evoplay:FruitDisco
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: Fruit Nova
+  identifier: evoplay:FruitNova
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruit Super Nova 40
+  identifier: evoplay:FruitNovaSupe40
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Fruits Land
+  identifier: evoplay:FruitsLand
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Fruit Super Nova
+  identifier: evoplay:FruitSuperNova
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruit Super Nova 100
+  identifier: evoplay:FruitSuperNova100
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Fruit Super Nova 30
+  identifier: evoplay:FruitSuperNova30
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Fruit Super Nova 60
+  identifier: evoplay:FruitSuperNova60
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Fruit Super Nova 80
+  identifier: evoplay:FruitSuperNova80
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+- title: Funny Hunting
+  identifier: evoplay:FunnyHunting
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Gangster Night
+  identifier: evoplay:GangsterNight
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Goblin Run
+  identifier: evoplay:GoblinRun
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Goddess of the Night
+  identifier: evoplay:GoddessoftheNight
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Goddess Of the Night Bonus Buy
+  identifier: evoplay:GoddessOftheNightBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gold of Sirens
+  identifier: evoplay:GoldofSirens
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Gold of Sirens Bonus Buy
+  identifier: evoplay:GoldofSirensBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Heads & Tails
+  identifier: evoplay:HeadsTails
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hot Rio Nights
+  identifier: evoplay:HotRioNights
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Rio Nights Bonus Buy
+  identifier: evoplay:HotRioNightsBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Triple Sevens
+  identifier: evoplay:HotTripleSevens
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Triple Sevens Special
+  identifier: evoplay:HotTripleSevensSpecial
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Volcano
+  identifier: evoplay:HotVolcano
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hot Volcano Bonus Buy
+  identifier: evoplay:HotVolcanoBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Hungry Night
+  identifier: evoplay:HungryNight
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Ice Mania
+  identifier: evoplay:IceMania
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Indiana's Quest
+  identifier: evoplay:IndianasQuest
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Inner Fire
+  identifier: evoplay:InnerFire
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Inner Fire Bonus Buy
+  identifier: evoplay:InnerFireBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Irish Reels
+  identifier: evoplay:IrishReels
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Irish Weekend
+  identifier: evoplay:IrishWeekend
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Irish Weekend Bonus Buy
+  identifier: evoplay:IrishWeekendBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jelly Boom
+  identifier: evoplay:JellyBoom
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Jewellery Store
+  identifier: evoplay:JewelleryStore
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jhana of God
+  identifier: evoplay:JhanaofGod
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jolly Treasures
+  identifier: evoplay:JollyTreasures
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Journey to the West
+  identifier: evoplay:JourneytotheWest
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Juicy Gems
+  identifier: evoplay:JuicyGems
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Juicy Gems Bonus Buy
+  identifier: evoplay:JuicyGemsBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Legend Of Kaan
+  identifier: evoplay:LegendOfKaan
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Legend of Ra
+  identifier: evoplay:LegendofRa
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Long Ball
+  identifier: evoplay:LongBall
+  provider: evoplay
+  producer: evoplay
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lottery Ticket
+  identifier: evoplay:LotteryTicket
+  provider: evoplay
+  producer: evoplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Card
+  identifier: evoplay:LuckyCard
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Crumbling
+  identifier: evoplay:LuckyCrumbling
+  provider: evoplay
+  producer: evoplay
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Girls
+  identifier: evoplay:LuckyGirls
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Porker
+  identifier: evoplay:LuckyPorker
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Porker Bonus Buy
+  identifier: evoplay:LuckyPorkerBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Mafia: Syndicate'
+  identifier: evoplay:MafiaSyndicate
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Magic Chests
+  identifier: evoplay:MagicChests
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Magic Wheel
+  identifier: evoplay:MagicWheel
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mary’s Mining Mania
+  identifier: evoplay:MarysMiningMania
+  provider: evoplay
+  producer: evoplay
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Massive Luck
+  identifier: evoplay:MassiveLuck
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Massive Luck Bonus Buy
+  identifier: evoplay:MassiveLuckBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 'Maze: Desire for Power'
+  identifier: evoplay:MazeDesireforPower
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mega Greatest Catch
+  identifier: evoplay:MegaGreatestCatch
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Mega Greatest Catch Bonus Buy
+  identifier: evoplay:MegaGreatestCatchBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 12
+- title: Mehen
+  identifier: evoplay:Mehen
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Midnight Show
+  identifier: evoplay:MidnightShow
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mine Field
+  identifier: evoplay:MineField
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Money Minter
+  identifier: evoplay:MoneyMinter
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Money Minter Bonus Buy
+  identifier: evoplay:MoneyMinterBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Monster Lab
+  identifier: evoplay:MonsterLab
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: More or Less
+  identifier: evoplay:MoreLess
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mysteries of the East
+  identifier: evoplay:MysteriesoftheEast
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Mystery Planet
+  identifier: evoplay:MysteryPlanet
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Naughty Girls Cabaret
+  identifier: evoplay:NaughtyGirlsCabaret
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Necromancer
+  identifier: evoplay:Necromancer
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Neon Capital
+  identifier: evoplay:NeonCapital
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Neon Capital Bonus Buy
+  identifier: evoplay:NeonCapitalBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Neon Shapes
+  identifier: evoplay:NeonShapes
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Night of the Living Tales
+  identifier: evoplay:NightoftheLivingTales
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Northern Temple
+  identifier: evoplay:NorthernTemple
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Northern Temple Bonus Buy
+  identifier: evoplay:NorthernTempleBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Nuke World
+  identifier: evoplay:NukeWorld
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Oasis Poker Classic
+  identifier: evoplay:OasisPokerClassic
+  provider: evoplay
+  producer: evoplay
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Old West
+  identifier: evoplay:OldWest
+  provider: evoplay
+  producer: evoplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pachin Girl
+  identifier: evoplay:PachinGirl
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Patrick's Magic Field
+  identifier: evoplay:PatricksMagicField
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Penalty Roulette
+  identifier: evoplay:PenaltyRoulette
+  provider: evoplay
+  producer: evoplay
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Penalty Series
+  identifier: evoplay:PenaltySeries
+  provider: evoplay
+  producer: evoplay
+  category: virtual_sports
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Penalty Shoot Out
+  identifier: evoplay:PenaltyShootOut
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Penalty Shoot-Out Street
+  identifier: evoplay:PenaltyShootOutStreet
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Perfect Fishing
+  identifier: evoplay:PerfectFishing
+  provider: evoplay
+  producer: evoplay
+  category: fishing
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: PingoBall
+  identifier: evoplay:PlingoBall
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Poker Teen Patti
+  identifier: evoplay:PokerTeenPatti
+  provider: evoplay
+  producer: evoplay
+  category: poker
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Pride Fight
+  identifier: evoplay:PrideFight
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Prohibition
+  identifier: evoplay:Prohibition
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Raccoon Tales
+  identifier: evoplay:RaccoonTales
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Red Cliff
+  identifier: evoplay:RedCliff
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Red Queen
+  identifier: evoplay:RedQueen
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Redrose Sanctuary
+  identifier: evoplay:RedroseSanctuary
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Redrose Sanctuary Bonus Buy
+  identifier: evoplay:RedroseSanctuaryBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Reign of Dragons
+  identifier: evoplay:ReignofDragons
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rich Reels
+  identifier: evoplay:RichReels
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Rise of Horus
+  identifier: evoplay:RiseofHorus
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Robin Hood
+  identifier: evoplay:RobinHood
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Robinson
+  identifier: evoplay:Robinson
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Robots: Energy Conflict'
+  identifier: evoplay:Robots
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Rocket Stars
+  identifier: evoplay:RocketStars
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rock Paper Scissors
+  identifier: evoplay:RockPaperScissors
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Roll The Dice
+  identifier: evoplay:RollTheDice
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Roll to Luck
+  identifier: evoplay:RollToLuck
+  provider: evoplay
+  producer: evoplay
+  category: craps
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rueda de Chile
+  identifier: evoplay:RuedadeChile
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Rueda De Chile Bonus Buy
+  identifier: evoplay:RuedaDeChileBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Runes of Destiny
+  identifier: evoplay:RunesofDestiny
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Save the Hamster
+  identifier: evoplay:SavetheHamster
+  provider: evoplay
+  producer: evoplay
+  category: crash
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Scratch Match
+  identifier: evoplay:ScratchMatch
+  provider: evoplay
+  producer: evoplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sea of Spins
+  identifier: evoplay:SeaofSpins
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Season Sisters
+  identifier: evoplay:SeasonSisters
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Shadow of Luxor
+  identifier: evoplay:ShadowofLuxor
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Soccer Solo Striker
+  identifier: evoplay:SoccerSoloStriker
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sold It!
+  identifier: evoplay:SoldIt
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sold It Bonus Buy
+  identifier: evoplay:SoldItBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Sprinkle
+  identifier: evoplay:Sprinkle
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Bartender
+  identifier: evoplay:SuperBartender
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Surf Zone
+  identifier: evoplay:SurfZone
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sweet Sugar
+  identifier: evoplay:SweetSugar
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Syndicate
+  identifier: evoplay:Syndicate
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Talismans of Fortune
+  identifier: evoplay:TalismansofFortune
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Temple Of Dead
+  identifier: evoplay:TempleOfDead
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Temple of Dead Bonus Buy
+  identifier: evoplay:TempleofDeadBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Temple of Thunder
+  identifier: evoplay:TempleofThunder
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Texas Hold 'em Bonus
+  identifier: evoplay:TexasHoldemBonus
+  provider: evoplay
+  producer: evoplay
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Texas Hold'em Poker 3D
+  identifier: evoplay:TexasHoldemPoker3D
+  provider: evoplay
+  producer: evoplay
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Emperor's Tomb
+  identifier: evoplay:TheEmperorsTomb
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: The Great Conflict
+  identifier: evoplay:TheGreatConflict
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Greatest Catch
+  identifier: evoplay:TheGreatestCatch
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Greatest Catch Bonus Buy
+  identifier: evoplay:TheGreatestCatchBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Great Wall Treasure
+  identifier: evoplay:TheGreatWallTreasure
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Slavs
+  identifier: evoplay:TheSlavs
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Thimbles
+  identifier: evoplay:Thimbles
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Thunder Mega Sevens
+  identifier: evoplay:ThunderMegaSevens
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Treasure Mania
+  identifier: evoplay:TreasureMania
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Treasure-snipes
+  identifier: evoplay:Treasuresnipes
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Treasure-snipes Bonus Buy
+  identifier: evoplay:TreasuresnipesBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Treasure-snipes: Christmas'
+  identifier: evoplay:TreasuresnipesChristmas
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Treasure-snipes: Christmas Bonus Buy'
+  identifier: evoplay:TreasuresnipesChristmasBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Treasures of the Gods
+  identifier: evoplay:TreasuresoftheGods
+  provider: evoplay
+  producer: evoplay
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Tree Of Light
+  identifier: evoplay:TreeOfLight
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Tree of Light Bonus Buy
+  identifier: evoplay:TreeofLightBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Triple Chili
+  identifier: evoplay:TripleChili
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: Trip to the Future
+  identifier: evoplay:TriptotheFuture
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Unlimited Treasures
+  identifier: evoplay:UnlimitedTreasures
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Unlimited Treasures Bonus Buy
+  identifier: evoplay:UnlimitedTreasuresBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Unlimited Wishes
+  identifier: evoplay:UnlimitedWishes
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: USSR Seventies
+  identifier: evoplay:USSRSeventies
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Valley of Dreams
+  identifier: evoplay:ValleyOfDreams
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Vegas Nights
+  identifier: evoplay:VegasNights
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Western Reels
+  identifier: evoplay:WesternReels
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wheel of Time
+  identifier: evoplay:WheelofTime
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Bullets
+  identifier: evoplay:WildBullets
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Overlords
+  identifier: evoplay:WildOverlords
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Overlords Bonus Buy
+  identifier: evoplay:WildOverlordsBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wolf Hiding
+  identifier: evoplay:WolfHiding
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wolf Hiding Bonus Buy
+  identifier: evoplay:WolfHidingBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wonder Farm
+  identifier: evoplay:WonderFarm
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wonder Farm Bonus Buy
+  identifier: evoplay:WonderFarmBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: X-Demon
+  identifier: evoplay:XDemon
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: X-Demon Bonus Buy
+  identifier: evoplay:XDemonBonusBuy
+  provider: evoplay
+  producer: evoplay
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Xmas Keno Cat
+  identifier: evoplay:XmasKenoCat
+  provider: evoplay
+  producer: evoplay
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile

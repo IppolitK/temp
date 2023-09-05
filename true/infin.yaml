@@ -1,0 +1,2377 @@
+- title: '100 Joker Staxx: 100 lines'
+  identifier: infin:100JokerStaxx100lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: 100 Monkeys
+  identifier: infin:100Monkeys
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: '15 Dragon Pearls: Hold and Win'
+  identifier: infin:15DragonPearlsHoldandWin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 15 Golden Eggs
+  identifier: infin:15GoldenEggs
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: 1Bet
+  identifier: infin:1Bet
+  provider: infin
+  producer: tvbet
+  category: card
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 3 Coins
+  identifier: infin:3Coins
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 3 Coins Egypt
+  identifier: infin:3CoinsEgypt
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: '3 Fruits Win: 10 lines'
+  identifier: infin:3FruitsWin10lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: '3 Pots Riches: Hold and Win'
+  identifier: infin:3PotsRichesHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 5Bet
+  identifier: infin:5Bet
+  provider: infin
+  producer: tvbet
+  category: card
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 5 Fortunator
+  identifier: infin:5Fortunator
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 5 Super Sevens & Fruits
+  identifier: infin:5SuperSevensFruits
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 gems
+  identifier: infin:777gems
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Gems Respin
+  identifier: infin:777GemsRespin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: '777 Sizzling Wins: 5 Lines'
+  identifier: infin:777SizzlingWins5Lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 7Bet
+  identifier: infin:7Bet
+  provider: infin
+  producer: tvbet
+  category: card
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 9 Happy Pharaohs
+  identifier: infin:9HappyPharaohs
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Alien Attack
+  identifier: infin:AlienAttack
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Andar Bahar
+  identifier: infin:AndarBahar
+  provider: infin
+  producer: tvbet
+  category: card
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Argentina League
+  identifier: infin:ArgentinaLeague
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Aztec Fire
+  identifier: infin:AztecFire
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Aztec Sun Hold and Win
+  identifier: infin:AztecSunHoldandWin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Basketball On Demand
+  identifier: infin:BasketballOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Big Heist
+  identifier: infin:BigHeist
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: BlackJack
+  identifier: infin:BlackJack
+  provider: infin
+  producer: tvbet
+  category: card
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Black Wolf
+  identifier: infin:BlackWolf
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+- title: 'Book del Sol: Multiplier'
+  identifier: infin:BookdelSol
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Book of Gold: Classic'
+  identifier: infin:BookofGoldClassic
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Book of Gold: Double Chance'
+  identifier: infin:BookofGoldDoubleChance
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Book of Gold: Multichance'
+  identifier: infin:BookofGoldMultichance
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Book of Sand
+  identifier: infin:BookofSand
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of Sun
+  identifier: infin:BookofSun
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Sun Choice
+  identifier: infin:BookofSunChoice
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Sun Multichance
+  identifier: infin:BookofSunMultichance
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Wizard
+  identifier: infin:BookofWizard
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Wizard Crystal Chance
+  identifier: infin:BookofWizardCrystalChance
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bozo Cats
+  identifier: infin:BozoCats
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Buddha Fortune: Hold and Win'
+  identifier: infin:BuddhaFortuneHoldandWin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Buffalo Power 2: Hold and Win'
+  identifier: infin:BuffaloPower2HoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 'Buffalo Power: Christmas'
+  identifier: infin:BuffaloPowerChristmas
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Buffalo Power Hold and Win
+  identifier: infin:BuffaloPowerHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Buffalo Power Megaways
+  identifier: infin:BuffaloPowerMegaways
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_premium_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Burning Fortunator
+  identifier: infin:BurningFortunator
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 'Burning Wins: classic 5 lines'
+  identifier: infin:BurningWinsclassic5lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Burning Wins x2
+  identifier: infin:BurningWinsx2
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Caishen Wealth
+  identifier: infin:CaishenWealth
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Candy Boom
+  identifier: infin:CandyBoom
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+- title: Candy Mix
+  identifier: infin:CandyMix
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+- title: Champions
+  identifier: infin:Championsgoldenrace
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Champions on demand
+  identifier: infin:Championsondemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Coin Strike: Hold and Win'
+  identifier: infin:CoinStrikeHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Colombia League
+  identifier: infin:ColombiaLeague
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Colombia League On Demand
+  identifier: infin:ColombiaLeagueOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Crazy Monkey
+  identifier: infin:CrazyMonkey
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Crazy Monkey 2
+  identifier: infin:CrazyMonkeyTwo
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Crown and Diamonds: Hold and Win'
+  identifier: infin:CrownandDiamondsHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Crystal Land
+  identifier: infin:CrystalLand
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 'Diamond Fortunator: Hold and Win'
+  identifier: infin:DiamondFortunatorHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Diamond Wins Hold and Win
+  identifier: infin:DiamondWinsHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: 'Divine Dragon: Hold and Win'
+  identifier: infin:DivineDragonHoldAndWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Dog 6
+  identifier: infin:Dog6
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+- title: Dog 6 H. Odds
+  identifier: infin:Dog6HOdds
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Dog 6 On Demand
+  identifier: infin:Dog6OnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+- title: Dog 6 H. Odds On Demand
+  identifier: infin:DogHOddsOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Dragon Pearls: hold and win'
+  identifier: infin:DragonPearls
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Eagle Power: Hold and WIn'
+  identifier: infin:EaglePowerHoldandWIn
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Eggs of Gold
+  identifier: infin:EggsofGold
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Empire Gold: Hold and Win'
+  identifier: infin:EmpireGoldHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Energy Coins: Hold and Win'
+  identifier: infin:EnergyCoinsHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: England League
+  identifier: infin:EnglandLeague
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: England League On Demand
+  identifier: infin:EnglandLeagueOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Euro 2020
+  identifier: infin:Euro2020
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Euro 2020 On Demand
+  identifier: infin:Euro2020OnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Eye of Gold
+  identifier: infin:EyeOfGold
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fast Keno
+  identifier: infin:FastKeno
+  provider: infin
+  producer: tvbet
+  category: lottery
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Fishing Weekend
+  identifier: infin:FishingWeekend
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: France League
+  identifier: infin:FranceLeague
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: France Leauge On Demand
+  identifier: infin:FranceLeaugeOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Fruit Cocktail
+  identifier: infin:FruitCocktail
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Fruit Cocktail 2
+  identifier: infin:FruitCocktailTwo
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Fruit Crown: 100 Lines'
+  identifier: infin:FruitCrown100Lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 'Fruits and Jokers: 40 lines'
+  identifier: infin:FruitsandJokers40lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 'Fruits & Jokers: 100 Lines'
+  identifier: infin:Fruits&Jokers100Lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: 'Fruits&Jokers: 20 lines'
+  identifier: infin:FruitsJokers20lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Fruit Strike 20 Multiwin
+  identifier: infin:FruitStrike20Multiwin
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruit Strike Drive Wild
+  identifier: infin:FruitStrikeDriveWild
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruit Strike Extra 6
+  identifier: infin:FruitStrikeExtra6
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Fruit Strike Hot Staxxx
+  identifier: infin:FruitStrikeHotStaxxx
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Ganesha Boost
+  identifier: infin:GaneshaBoost
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Garage
+  identifier: infin:Garage
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Germany League
+  identifier: infin:GermanyLeague
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Germany League On Demand
+  identifier: infin:GermanyLeagueOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Giza Nights: Hold and Win'
+  identifier: infin:GizaNightsHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Gnome
+  identifier: infin:Gnome
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Goddess of Egypt
+  identifier: infin:GoddessofEgypt
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongopromo1
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: God's Temple Deluxe
+  identifier: infin:GodsTempleDeluxe
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 64
+- title: Golden Antelope
+  identifier: infin:GoldenAntelope
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Golden Dancing Lion
+  identifier: infin:GoldenDancingLion
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Gold Express
+  identifier: infin:GoldExpress
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Great Panda: Hold and Win'
+  identifier: infin:GreatPandaHoldandWin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Green Chilli
+  identifier: infin:GreenChilli
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Happy Fish
+  identifier: infin:HappyFish
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+- title: Hit more Gold!
+  identifier: infin:HitmoreGold
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Hit the Bank: Hold and Win'
+  identifier: infin:HittheBankHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+- title: Hit the Gold! Hold and Win
+  identifier: infin:HittheGoldHoldandWin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Horses 6 V2
+  identifier: infin:Horses6V2
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Horses 6 V2 - OD
+  identifier: infin:Horses6V2OD
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Hot Burning Wins
+  identifier: infin:HotBurningWins
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 'Hot Coins: Hold and Win'
+  identifier: infin:HotCoinsHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  lines: 5
+  has_jackpot: true
+- title: 'Imperial Fruits: 5 Lines'
+  identifier: infin:ImperialFruits
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Imperial Fruits: 100 lines'
+  identifier: infin:ImperialFruits100lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: 'Imperial Fruits: 40 lines'
+  identifier: infin:ImperialFruits40lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Island
+  identifier: infin:Island
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Island 2
+  identifier: infin:IslandTwo
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Italy League
+  identifier: infin:ItalyLeague
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Italy League On Demand
+  identifier: infin:ItalyLeagueOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Joker Expand: 5 lines'
+  identifier: infin:JokerExpand5lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Joker''s Coins: Hold and Win'
+  identifier: infin:JokersCoinsHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Juice Inc.
+  identifier: infin:JuiceInc
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Keks
+  identifier: infin:Keks
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Keno
+  identifier: infin:Keno
+  provider: infin
+  producer: goldenrace
+  category: lottery
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+- title: Keno Deluxe
+  identifier: infin:KenoDeluxe
+  provider: infin
+  producer: goldenrace
+  category: lottery
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Legend of Cleopatra
+  identifier: infin:LegendofCleopatra
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Legend of Cleopatra Megaways
+  identifier: infin:LegendofCleopatraMegaways
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_premium_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Libertadores
+  identifier: infin:Libertadores
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Libertadores On Demand
+  identifier: infin:LibertadoresOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Lion Gems: Hold and Win'
+  identifier: infin:LionGemsHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 'Lord Fortune 2: Hold and Win'
+  identifier: infin:LordFortune2HoldandWin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lotus Charm
+  identifier: infin:LotusCharm
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lu Ban
+  identifier: infin:LuBan
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Lucky6
+  identifier: infin:Lucky6
+  provider: infin
+  producer: tvbet
+  category: lottery
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Lucky Haunter
+  identifier: infin:LuckyHaunter
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Luxor Gold: Hold and Win'
+  identifier: infin:LuxorGoldHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Magic Apple: Hold and Win'
+  identifier: infin:MagicApple
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Magic Apple 2
+  identifier: infin:MagicApple2
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Ball
+  identifier: infin:MagicBall
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Mammoth Peak: Hold and Win'
+  identifier: infin:MammothPeakHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Merlins Quest
+  identifier: infin:MerlinsQuest
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mexico League On Demand
+  identifier: infin:MexicoLeagueOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Monkey Bar
+  identifier: infin:MonkeyBar
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: 'Moon Sisters: Hold and Win'
+  identifier: infin:MoonSistersHoldandWin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Motorbikes
+  identifier: infin:Motorbikes
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+- title: Motorbikes On Demand
+  identifier: infin:MotorbikesOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Olympian Gods
+  identifier: infin:OlympianGods
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: 'Pearl Beauty: Hold and Win'
+  identifier: infin:PearlBeautyHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Pearl Diver
+  identifier: infin:PearlDiver
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Pearl Diver 2: Treasure Chest'
+  identifier: infin:PearlDiver2TreasureChest
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Pirate
+  identifier: infin:Pirate
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Pirate Chest: Hold and Win'
+  identifier: infin:PirateChestHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Pirate 2
+  identifier: infin:PirateTwo
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Poker
+  identifier: infin:Poker
+  provider: infin
+  producer: tvbet
+  category: card
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Poland League
+  identifier: infin:PolandLeague
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Poland League On Demand
+  identifier: infin:PolandLeagueOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Pumkin Fairy
+  identifier: infin:PumkinFairy
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Queen of the Sun
+  identifier: infin:QueenoftheSun
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Resident
+  identifier: infin:Resident
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Rich Diamonds: Hold and Win'
+  identifier: infin:RichDiamondsHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Rio Gems
+  identifier: infin:RioGems
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongopromo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Rise of Egypt
+  identifier: infin:RiseofEgypt
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Rock Climber
+  identifier: infin:RockClimber
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: 'Royal Coins 2: Hold and Win'
+  identifier: infin:RoyalCoins2HoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Royal Coins: Hold and Win'
+  identifier: infin:RoyalCoinsHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Royal Fortunator: Hold and Win'
+  identifier: infin:RoyalFortunatorHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Royal Joker: Hold and Win'
+  identifier: infin:RoyalJokerHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Ruby Hit: Hold and Win'
+  identifier: infin:RubyHitHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Scarab Boost
+  identifier: infin:ScarabBoost
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Scarab Riches
+  identifier: infin:ScarabRiches
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Scarab Temple
+  identifier: infin:ScarabTemple
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sevens&Fruits
+  identifier: infin:SevensFruits
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Sevens&Fruits: 20 Lines'
+  identifier: infin:Sevens&Fruits20Lines
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Solar King
+  identifier: infin:SolarKing
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Solar Queen
+  identifier: infin:SolarQueen
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Solar Queen Megaways
+  identifier: infin:SolarQueenMegaways
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_premium
+  devices:
+  - desktop
+  - mobile
+- title: Solar Temple
+  identifier: infin:SolarTemple
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Spain League
+  identifier: infin:SpainLeague
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Spain League On Demand
+  identifier: infin:SpainLeagueOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Speedway
+  identifier: infin:Speedway
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+- title: Speedway On Demand
+  identifier: infin:SpeedwayOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Spin2Win
+  identifier: infin:Spin2Win
+  provider: infin
+  producer: goldenrace
+  category: casual
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+- title: Spin 2 Win American
+  identifier: infin:Spin2WinAmerican
+  provider: infin
+  producer: goldenrace
+  category: casual
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Spin 2 Win American Royale
+  identifier: infin:Spin2WinAmericanRoyale
+  provider: infin
+  producer: goldenrace
+  category: casual
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Spin 2 Win Royale
+  identifier: infin:Spin2WinRoyale
+  provider: infin
+  producer: goldenrace
+  category: casual
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Spirit of Egypt: Hold and Win'
+  identifier: infin:SpiritofEgyptHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Stellar Gems
+  identifier: infin:StellarGems
+  provider: infin
+  producer: bet2tech
+  category: slots
+  has_freespins: false
+  feature_group: bet2tech
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sticky Piggy
+  identifier: infin:StickyPiggy
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Sunny Fruits: Hold and Win'
+  identifier: infin:SunnyFruits
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Sun of Egypt
+  identifier: infin:SunofEgypt
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sun of Egypt 2
+  identifier: infin:SunOfEgypt2
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sun of Egypt 3
+  identifier: infin:SunofEgypt3
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Super Burning Wins: classic 5 lines'
+  identifier: infin:SuperBurningWins
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 'Super Marble: Hold and Win'
+  identifier: infin:SuperMarble
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Rich God Hold and Win
+  identifier: infin:SuperRichGodHoldandWin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Sunny Fruits
+  identifier: infin:SuperSunnyFruits
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sweet Life
+  identifier: infin:SweetLife
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Sweet Life 2
+  identifier: infin:SweetLifeTwo
+  provider: infin
+  producer: igrosoft
+  category: slots
+  has_freespins: false
+  feature_group: igrosoft
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Teen Patti
+  identifier: infin:TeenPatti
+  provider: infin
+  producer: tvbet
+  category: card
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: The King of Heroes
+  identifier: infin:TheKingofHeroes
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+- title: Thunder of Olympus
+  identifier: infin:ThunderofOlympus
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tiger Jungle
+  identifier: infin:TigerJungle
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Tiger''s Gold: Hold and Win'
+  identifier: infin:TigersGoldHoldandWin
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Tiger Stone
+  identifier: infin:TigerStone
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: TVBET Games
+  identifier: infin:TVBETGames
+  provider: infin
+  producer: tvbet
+  category: card
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Keno
+  identifier: infin:tvbet_keno
+  provider: infin
+  producer: tvbet
+  category: lottery
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Ultra Fortunator: Hold and Win'
+  identifier: infin:UltraFortunatorHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: false
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: War Of Elements
+  identifier: infin:WarOfElements
+  provider: infin
+  producer: tvbet
+  category: card
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Wheelbet
+  identifier: infin:Wheelbet
+  provider: infin
+  producer: tvbet
+  category: casual
+  has_freespins: false
+  feature_group: tvbet
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: 'Wolf Land: Hold and Win'
+  identifier: infin:WolfLandHoldandWin
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Wolf Night
+  identifier: infin:WolfNight
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: 'Wolf Power: Hold and Win'
+  identifier: infin:WolfPower
+  provider: infin
+  producer: playson
+  category: slots
+  has_freespins: true
+  feature_group: playson_lv
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Wolf Saga
+  identifier: infin:WolfSaga
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: World Cup
+  identifier: infin:WorldCup
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: World Cup On Demand
+  identifier: infin:WorldCupOnDemand
+  provider: infin
+  producer: goldenrace
+  category: virtual_sports
+  has_freespins: false
+  feature_group: goldenrace
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Wukong
+  identifier: infin:Wukong
+  provider: infin
+  producer: booongo
+  category: slots
+  has_freespins: true
+  feature_group: booongo
+  devices:
+  - desktop
+  - mobile
+  lines: 25

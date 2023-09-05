@@ -1,0 +1,2884 @@
+- title: Alchemist Bonanza
+  identifier: softswiss:AlchemistBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: exclusive
+  devices:
+  - desktop
+  - mobile
+- title: Alien Fruits
+  identifier: softswiss:AlienFruits
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: All Lucky Clovers
+  identifier: softswiss:AllLuckyClover
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: All Lucky Clovers 100
+  identifier: softswiss:AllLuckyClover100
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: All Lucky Clovers 20
+  identifier: softswiss:AllLuckyClover20
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: All Lucky Clovers 40
+  identifier: softswiss:AllLuckyClover40
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: All Lucky Clovers 5
+  identifier: softswiss:AllLuckyClover5
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Aloha King Elvis
+  identifier: softswiss:AlohaKingElvis
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: American Roulette
+  identifier: softswiss:AmericanRoulette
+  provider: bgaming
+  producer: bgaming
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Anonymous Bonanza
+  identifier: softswiss:AnonymousBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: anonymous
+  devices:
+  - desktop
+  - mobile
+- title: 'Avalon: The Lost Kingdom'
+  identifier: softswiss:Avalon
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Azino Cash
+  identifier: softswiss:AzinoCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: azino
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Azino 777 Million
+  identifier: softswiss:AzinoMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: azino
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Aztec Magic
+  identifier: softswiss:AztecMagic
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Aztec Magic Bonanza
+  identifier: softswiss:AztecMagicBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Aztec Magic Deluxe
+  identifier: softswiss:AztecMagicDeluxe
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Aztec Magic Megaways
+  identifier: softswiss:AztecMagicMegaways
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Bambet Bonanza
+  identifier: softswiss:BambetBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bambet
+  devices:
+  - desktop
+  - mobile
+- title: BC Bonanza
+  identifier: softswiss:BCBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bcgame
+  devices:
+  - desktop
+  - mobile
+- title: BC Cash
+  identifier: softswiss:BCCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bcgame
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: BC.Million
+  identifier: softswiss:BCMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bcgame
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Beast Band
+  identifier: softswiss:BeastBand
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Beer Bonanza
+  identifier: softswiss:BeerBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Betera Bonanza
+  identifier: softswiss:BeteraBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: parimatch-by
+  devices:
+  - desktop
+  - mobile
+- title: Betfury Million
+  identifier: softswiss:BetfuryMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: betfury
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Betfury Space Bonanza
+  identifier: softswiss:BetFurySpaceBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: betfury
+  devices:
+  - desktop
+  - mobile
+- title: Betsson Plinko
+  identifier: softswiss:BetssonPlinko
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: betsson
+  devices:
+  - desktop
+  - mobile
+- title: Betturkey Billion
+  identifier: softswiss:BetturkeyBillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: betturkey
+  devices:
+  - desktop
+  - mobile
+- title: Bgaming Jackpot
+  identifier: softswiss:BgamingJackpot
+  provider: bgaming
+  producer: softswiss
+  category: casual
+  has_freespins: false
+  feature_group: autopayout
+  devices:
+  - desktop
+  - mobile
+- title: Biabet Plinko
+  identifier: softswiss:BiabetPlinko
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: digitain_biabet
+  devices:
+  - desktop
+  - mobile
+- title: Big Atlantis Frenzy
+  identifier: softswiss:BigAtlantisFrenzy
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Billon de Estrellas
+  identifier: softswiss:BillonDeEstrellas
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: casinoestrella
+  devices:
+  - desktop
+  - mobile
+- title: Bitcasino Billion
+  identifier: softswiss:BitcasinoBillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bitcoincasinoio
+  devices:
+  - desktop
+  - mobile
+- title: Bitcoin Million
+  identifier: softswiss:BitcoinMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bitcoincasinoio
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Bitsler Book of Cats
+  identifier: softswiss:BitslerBookOfCats
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bitsler
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bitsler Million
+  identifier: softswiss:BitslerMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bitsler
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Bitstarz Billion
+  identifier: softswiss:BitstarzBillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bitstarz
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Bitty's Dice
+  identifier: softswiss:BittysDice
+  provider: bgaming
+  producer: bgaming
+  category: craps
+  has_freespins: false
+  feature_group: mbit
+  devices:
+  - desktop
+  - mobile
+- title: Multihand Blackjack Pro
+  identifier: softswiss:BlackjackPro
+  provider: bgaming
+  producer: bgaming
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blaze Bonanza
+  identifier: softswiss:BlazeBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+- title: Blaze Million
+  identifier: softswiss:BlazeMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Bob's Coffee Shop
+  identifier: softswiss:BobsCoffeeShop
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bonanza Billion
+  identifier: softswiss:BonanzaBillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Bone Bonanza
+  identifier: softswiss:BoneBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+- title: Book of Blaze
+  identifier: softswiss:BookOfBlaze
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Cats
+  identifier: softswiss:BookOfCats
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book Of Cats Megaways
+  identifier: softswiss:BookOfCatsMegaways
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Book of Kemet
+  identifier: softswiss:BookOfKemet
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of King Billy
+  identifier: softswiss:BookOfKingBilly
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: kingbilly
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of mBit
+  identifier: softswiss:BookOfMBit
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: mbit
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Pyramids
+  identifier: softswiss:BookOfPyramids
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Brave Viking
+  identifier: softswiss:BraveViking
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Brazino Plinko
+  identifier: softswiss:BrazinoPlinko
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: brazino
+  devices:
+  - desktop
+  - mobile
+- title: Brazino Soccermania
+  identifier: softswiss:BrazinoSoccermania
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: brazino
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Burning Chilli X
+  identifier: softswiss:BurningChilliX
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Candy Monsta
+  identifier: softswiss:CandyMonsta
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Candy Starz
+  identifier: softswiss:CandyStarz
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bitstarz
+  devices:
+  - desktop
+  - mobile
+- title: Cashy Adventures
+  identifier: softswiss:CashyAdventures
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: totogamingam
+  devices:
+  - desktop
+  - mobile
+- title: Casinobuck Millions
+  identifier: softswiss:CasinobuckMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: casinobuck
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Cherry Fiesta
+  identifier: softswiss:CherryFiesta
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Cleopatra Million
+  identifier: softswiss:CleopatraMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: cleopatra
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Clover Bonanza
+  identifier: softswiss:CloverBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: CoinPlinko
+  identifier: softswiss:CoingamesPlinko
+  provider: bgaming
+  producer: bgaming
+  category: crash
+  has_freespins: false
+  feature_group: coinsgame
+  devices:
+  - desktop
+  - mobile
+- title: Coins Game Billion
+  identifier: softswiss:CoinsGameBillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: coinsgame
+  devices:
+  - desktop
+  - mobile
+- title: Coin
+  identifier: softswiss:CoinslottyCoin
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: coinslotty
+  devices:
+  - desktop
+  - mobile
+- title: Mines
+  identifier: softswiss:CoinslottyMines
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: coinslotty
+  devices:
+  - desktop
+  - mobile
+- title: Plinko
+  identifier: softswiss:CoinslottyPlinko
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: coinslotty
+  devices:
+  - desktop
+  - mobile
+- title: Dice
+  identifier: softswiss:CoinslottyRocketDice
+  provider: bgaming
+  producer: bgaming
+  category: craps
+  has_freespins: false
+  feature_group: coinslotty
+  devices:
+  - desktop
+  - mobile
+- title: Crazy Starter
+  identifier: softswiss:CrazyStarter
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Deep Sea
+  identifier: softswiss:DeepSea
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Desert Treasure
+  identifier: softswiss:DesertTreasure
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Dice Bonanza
+  identifier: softswiss:DiceBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Dice Million
+  identifier: softswiss:DiceMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Dig Dig Digger
+  identifier: softswiss:DigDigDigger
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Doddy And Haddzy Bonanza
+  identifier: softswiss:DoddyAndHaddzyBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+- title: Domnitors
+  identifier: softswiss:Domnitors
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Domnitors Deluxe
+  identifier: softswiss:DomnitorsDeluxe
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Domnitor's Treasure
+  identifier: softswiss:DomnitorsTreasure
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Doors of Fresh
+  identifier: softswiss:DoorsOfFresh
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: rox
+  devices:
+  - desktop
+  - mobile
+- title: Doors of Sol
+  identifier: softswiss:DoorsOfSol
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: rox
+  devices:
+  - desktop
+  - mobile
+- title: Dragon's Gold 100
+  identifier: softswiss:DragonsGold100
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Dragon’s Million
+  identifier: softswiss:DragonsMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: drgn
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Duelbits Quest
+  identifier: softswiss:DuelbitsQuest
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: duelbits
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Easter Heist
+  identifier: softswiss:EasterHeist
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Easter Plinko
+  identifier: softswiss:EasterPlinko
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Elvis Frog & Golden Crown
+  identifier: softswiss:ElvisFrogAndGoldenCrown
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: goldencrown
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog at Joka Room
+  identifier: softswiss:ElvisFrogAtJokaRoom
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: joka
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog in Bitvegas
+  identifier: softswiss:ElvisFrogInBitvegas
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bitvegas
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog in Bizzo
+  identifier: softswiss:ElvisFrogInBizzo
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bizzocasino
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis in Casino Rocket
+  identifier: softswiss:ElvisFrogInCasinoRocket
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: rocketcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog in LevelUp Casino
+  identifier: softswiss:ElvisFrogInLevelUpCasino
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: levelup
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog in Nationalcasino
+  identifier: softswiss:ElvisFrogInNationalcasino
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: nationalcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog In Playamo
+  identifier: softswiss:ElvisFrogInPlayamo
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: playamo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog in Spinago
+  identifier: softswiss:ElvisFrogInSpinago
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: spinago
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog in Spin Samurai
+  identifier: softswiss:ElvisFrogInSpinSamurai
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: spinsamurai
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog in Syndicate
+  identifier: softswiss:ElvisFrogInSyndicate
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: syndicate
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog in Vegas
+  identifier: softswiss:ElvisFroginVegas
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog In Woo Casino
+  identifier: softswiss:ElvisFrogInWooCasino
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: woocasino
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog in Zotabet
+  identifier: softswiss:ElvisFrogInZotabet
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: zotabet
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog Kosmonaut
+  identifier: softswiss:ElvisFrogKosmonaut
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: kosmonautcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Elvis Frog TRUEWAYS
+  identifier: softswiss:ElvisFrogTrueways
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Elvis Frog 20bet
+  identifier: softswiss:ElvisFrogTwentyBet
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: 20bet
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: European Roulette
+  identifier: softswiss:EuropeanRoulette
+  provider: bgaming
+  producer: bgaming
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fantasy Park
+  identifier: softswiss:FantasyPark
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fastpay Bonanza
+  identifier: softswiss:FastpayBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: fastpay
+  devices:
+  - desktop
+  - mobile
+- title: Fire Lightning
+  identifier: softswiss:FireLightning
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Forty Fruity Million
+  identifier: softswiss:FortyFruityMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Four Lucky Clover
+  identifier: softswiss:FourLuckyClover
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Four Lucky Diamonds
+  identifier: softswiss:FourLuckyDiamonds
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: French Roulette
+  identifier: softswiss:FrenchRoulette
+  provider: bgaming
+  producer: bgaming
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Million
+  identifier: softswiss:FruitMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Funky Bonanza
+  identifier: softswiss:FunkyBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: dplay
+  devices:
+  - desktop
+  - mobile
+- title: Gangsterz
+  identifier: softswiss:Gangsterz
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Gemhalla
+  identifier: softswiss:Gemhalla
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 27
+- title: Gift Rush
+  identifier: softswiss:GiftRush
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Glinko
+  identifier: softswiss:Glinko
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: hub_gamdom
+  devices:
+  - desktop
+  - mobile
+- title: Goldenstar Million
+  identifier: softswiss:GoldenstarMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: goldenstar
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Gold Rush Frog
+  identifier: softswiss:GoldRushFrog
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bitstarz
+  devices:
+  - desktop
+  - mobile
+- title: Gold Rush with Johnny Cash
+  identifier: softswiss:GoldRushWithJohnny
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Grandpashabet Wild Cash
+  identifier: softswiss:GrandpashabetWildCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: grandpashabet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Halloween Bonanza
+  identifier: softswiss:HalloweenBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Hawaii Cocktails
+  identifier: softswiss:HawaiiCocktails
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Heads And Tails Konibet
+  identifier: softswiss:HeadsAndTailsKonibet
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: konibet
+  devices:
+  - desktop
+  - mobile
+- title: Heads and Tails XY
+  identifier: softswiss:HeadsandTailsXY
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Heads and Tails
+  identifier: softswiss:HeadsTails
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Hello Easter
+  identifier: softswiss:HelloEaster
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Hit The Route
+  identifier: softswiss:HitTheRoute
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Hunny Million
+  identifier: softswiss:HunnyMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: hunny
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Izzi Art
+  identifier: softswiss:IzziArt
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: izzicasino
+  devices:
+  - desktop
+  - mobile
+- title: Izzi Art Bonus Buy
+  identifier: softswiss:IzziArtBonusBuy
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: izzicasino
+  devices:
+  - desktop
+  - mobile
+- title: 'Jackpot Jill: Realm of Fortune'
+  identifier: softswiss:JackpotJillRealmOfFortune
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: jackpotjill
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jogo Do Bicho
+  identifier: softswiss:JogoDoBicho
+  provider: bgaming
+  producer: bgaming
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Jogo Do Bicho Simple
+  identifier: softswiss:JogoDoBichoSimple
+  provider: bgaming
+  producer: bgaming
+  category: lottery
+  has_freespins: true
+  feature_group: exclusive1
+  devices:
+  - desktop
+  - mobile
+- title: Johnny Cash
+  identifier: softswiss:JohnnyCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Joker Queen
+  identifier: softswiss:JokerQueen
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Joker Stacy
+  identifier: softswiss:JokerStacy
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: staycasino
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Journey Flirt
+  identifier: softswiss:JourneyFlirt
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Juegalo Bonanza
+  identifier: softswiss:JuegaloBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: juegalo
+  devices:
+  - desktop
+  - mobile
+- title: Juicyspins Bar
+  identifier: softswiss:JuicyspinsBar
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: hub_gamdom
+  devices:
+  - desktop
+  - mobile
+- title: Justbit Bonanza
+  identifier: softswiss:JustbitBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: justbit
+  devices:
+  - desktop
+  - mobile
+- title: Kakadu Million
+  identifier: softswiss:KakaduMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: casinokakadu
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Kali Rox
+  identifier: softswiss:KaliRox
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: roxcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Kali Rox Bonus Buy
+  identifier: softswiss:KaliRoxBonusBuy
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: roxcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: King Billy Bonanza
+  identifier: softswiss:KingBillyBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: kingbilly
+  devices:
+  - desktop
+  - mobile
+- title: King Johnnie Millions
+  identifier: softswiss:KingJohnnieMillions
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: kingjohnnie
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: King of Cash
+  identifier: softswiss:KingOfCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: kingbilly
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: King Royal Bonanza
+  identifier: softswiss:KingRoyalBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bethub
+  devices:
+  - desktop
+  - mobile
+- title: Konibet Rocket Dice
+  identifier: softswiss:KonibetRocketDice
+  provider: bgaming
+  producer: bgaming
+  category: craps
+  has_freespins: false
+  feature_group: konibet
+  devices:
+  - desktop
+  - mobile
+- title: Lady Muerta in Slotvibe
+  identifier: softswiss:LadyMuertaInSlotvibe
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: slotvibe
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Legacy of Cobra
+  identifier: softswiss:LegacyOfCobra
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: cobra
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Legzo Punk
+  identifier: softswiss:LegzoPunk
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: legzocasino
+  devices:
+  - desktop
+  - mobile
+- title: Let's Lucky
+  identifier: softswiss:LetsLucky
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: letslucky
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: LevelUp Bonanza
+  identifier: softswiss:LevelUpBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: levelup
+  devices:
+  - desktop
+  - mobile
+- title: Limbo XY
+  identifier: softswiss:Limbo
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Luck & Magic
+  identifier: softswiss:LuckAndMagic
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Lucky Blue
+  identifier: softswiss:LuckyBlue
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Lucky Buffalo
+  identifier: softswiss:LuckyBuffalo
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: branded
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lucky Crew
+  identifier: softswiss:LuckyCrew
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lucky Dama Muerta
+  identifier: softswiss:LuckyDamaMuerta
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Luckyelf Bonanza
+  identifier: softswiss:LuckyelfBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: luckyelf
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Farm Bonanza
+  identifier: softswiss:LuckyFarmBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Lady Cat
+  identifier: softswiss:LuckyLadyCat
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: cat
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Lady Chance
+  identifier: softswiss:LuckyLadyChance
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: n1group
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Lady's Clover
+  identifier: softswiss:LuckyLadyClover
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Lucky Lady Dreams
+  identifier: softswiss:LuckyLadyDreams
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: luckydreams
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lady Wolf Moon
+  identifier: softswiss:LuckyLadyMoon
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lady Wolf Moon Megaways
+  identifier: softswiss:LuckyLadyMoonMegaways
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Lucky Lady 1x
+  identifier: softswiss:LuckyLadyOneX
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: 1xbet
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Lady Pin-Up
+  identifier: softswiss:LuckyLadyPinUp
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Oak
+  identifier: softswiss:LuckyOak
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Sweets
+  identifier: softswiss:LuckySweets
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Maneki 88 Fortunes
+  identifier: softswiss:Maneki88Fortunes
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: promotion
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Maneki 88 Gold
+  identifier: softswiss:Maneki88Gold
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: mBit Cyber Crush
+  identifier: softswiss:MBitCyberCrush
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: mbit
+  devices:
+  - desktop
+  - mobile
+- title: Mechanical Clover
+  identifier: softswiss:MechanicalClover
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Mechanical Orange
+  identifier: softswiss:MechanicalOrange
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Meritking Million
+  identifier: softswiss:MeritkingMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: bethub
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Mermaid Treasure
+  identifier: softswiss:MermaidTreasure
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Million Joka Fruits
+  identifier: softswiss:MillionJokaFruits
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: joka
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Minesweeper
+  identifier: softswiss:Minesweeper
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Minesweeper XY
+  identifier: softswiss:MinesweeperXY
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Mirax Circus Queen
+  identifier: softswiss:MiraxCircusQueen
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: mirax
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Miss Cherry Fruits
+  identifier: softswiss:MissCherryFruits
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Miss Cherry Fruits Jackpot party
+  identifier: softswiss:MissCherryFruitsJackpotparty
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mostbet Elvis Frog Trueways
+  identifier: softswiss:MostbetElvisFrogTrueways
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: starbet
+  devices:
+  - desktop
+  - mobile
+- title: Multihand Blackjack
+  identifier: softswiss:MultihandBlackjack
+  provider: bgaming
+  producer: bgaming
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: N1 Million
+  identifier: softswiss:N1Million
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: n1casino
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Nomini Million
+  identifier: softswiss:NominiMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: soft2bet_nomini
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Olimp Million
+  identifier: softswiss:OlimpMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: olimp
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 1win Billion Bonanza
+  identifier: softswiss:OneWinBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: 1win
+  devices:
+  - desktop
+  - mobile
+- title: 1Win Million
+  identifier: softswiss:OneWinMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: 1winpro
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Onwin Max Bonanza
+  identifier: softswiss:OnwinMaxBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: onwin
+  devices:
+  - desktop
+  - mobile
+- title: Panda's Wealth
+  identifier: softswiss:PandasWealth
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: promo1
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Parimatch Million
+  identifier: softswiss:ParimatchMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: parimatch
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Parimatch Soccermania
+  identifier: softswiss:ParimatchSoccermania
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: parimatch_brand
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Pasino Bonanza
+  identifier: softswiss:PasinoBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: pasino
+  devices:
+  - desktop
+  - mobile
+- title: Penny Pelican
+  identifier: softswiss:PennyPelican
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pin-up Bonanza
+  identifier: softswiss:PinUpBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+- title: Pin-Up Million
+  identifier: softswiss:PinUpMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Pin-Up Soccermania
+  identifier: softswiss:PinUpSoccermania
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Pirateplay Bonanza
+  identifier: softswiss:PirateplayBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: pirateplay
+  devices:
+  - desktop
+  - mobile
+- title: Platinum Lightning
+  identifier: softswiss:PlatinumLightning
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Platinum Lightning Deluxe
+  identifier: softswiss:PlatinumLightningDeluxe
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Plinko
+  identifier: softswiss:Plinko
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Plinko Konibet
+  identifier: softswiss:PlinkoKonibet
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: konibet
+  devices:
+  - desktop
+  - mobile
+- title: Plinko
+  identifier: softswiss:PlinkoMBit
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: mbit
+  devices:
+  - desktop
+  - mobile
+- title: Plinko 1win
+  identifier: softswiss:PlinkoOneWin
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: 1winpro
+  devices:
+  - desktop
+  - mobile
+- title: Plinko XY
+  identifier: softswiss:PlinkoXY
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Pokiepop Million
+  identifier: softswiss:PokiepopMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: pokiepop
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Popcorn Bonanza
+  identifier: softswiss:PopCornBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: europebet
+  devices:
+  - desktop
+  - mobile
+- title: Potion Spells
+  identifier: softswiss:PotionSpells
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Premier Million
+  identifier: softswiss:PremierMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: premier1
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Princess of Sky
+  identifier: softswiss:PrincessOfSky
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Princess Royal
+  identifier: softswiss:PrincessRoyal
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Punt Bonanza
+  identifier: softswiss:PuntBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: punt
+  devices:
+  - desktop
+  - mobile
+- title: Richard Wild Cash
+  identifier: softswiss:RichardWildCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: richardcasino
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Road 2 Riches
+  identifier: softswiss:Road2Riches
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Rocket Dice
+  identifier: softswiss:RocketDice
+  provider: bgaming
+  producer: bgaming
+  category: craps
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rocket Dice XY
+  identifier: softswiss:RocketDiceXY
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Rocketpot Bonanza
+  identifier: softswiss:RocketpotBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: rocketpot
+  devices:
+  - desktop
+  - mobile
+- title: Rollbit Hero
+  identifier: softswiss:RollbitHero
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: rollbit
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rolling Slots Spin & Win
+  identifier: softswiss:RollingSlotsSpinAndWin
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: rollingslots
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Roobet Gems of Fortune
+  identifier: softswiss:RoobetGemsOfFortune
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: roobet
+  devices:
+  - desktop
+  - mobile
+- title: Royal High-Road
+  identifier: softswiss:RoyalHighRoad
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Savage Buffalo Spirit
+  identifier: softswiss:SavageBuffaloSpirit
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Savage Buffalo Spirit Megaways
+  identifier: softswiss:SavageBuffaloSpiritMegaways
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Scratch Dice
+  identifier: softswiss:ScratchDice
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Scroll of Adventure
+  identifier: softswiss:ScrollOfAdventure
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Secrets of the Gods
+  identifier: softswiss:SecretsOfTheGods
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: spinago
+  devices:
+  - desktop
+  - mobile
+- title: 7Bit Million
+  identifier: softswiss:SevenBitMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: 7bit_mars
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Skycrown Bonanza
+  identifier: softswiss:SkycrownBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: skycrown
+  devices:
+  - desktop
+  - mobile
+- title: Slotman Million
+  identifier: softswiss:SlotmanMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: slotman
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Slotomon Go
+  identifier: softswiss:SlotomonGo
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Slotscity Million
+  identifier: softswiss:SlotscityMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: slotscitys
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Slottica Bonanza
+  identifier: softswiss:SlotticaBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: atlantic_management
+  devices:
+  - desktop
+  - mobile
+- title: Soccermania
+  identifier: softswiss:Soccermania
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Space XY
+  identifier: softswiss:SpaceXY
+  provider: bgaming
+  producer: bgaming
+  category: crash
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+- title: Sparta Bonanza
+  identifier: softswiss:SpartaBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: 1xbet
+  devices:
+  - desktop
+  - mobile
+- title: Spin and Spell
+  identifier: softswiss:SpinAndSpell
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Stake Book Of Cats
+  identifier: softswiss:StakeBookOfCats
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Stake Million
+  identifier: softswiss:StakeMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Starda Queen
+  identifier: softswiss:StardaQueen
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: starda
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Sweet Blaze Bonanza
+  identifier: softswiss:SweetBlazeBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: blazecom
+  devices:
+  - desktop
+  - mobile
+- title: Sweet Rush Megaways
+  identifier: softswiss:SweetRushMegaways
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: The King Billyon
+  identifier: softswiss:TheKingBillyon
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: kingbilly
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Tipobet Wild Cash
+  identifier: softswiss:TipobetWildCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: tipobet
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Tonybet Plinko XY
+  identifier: softswiss:TonybetPlinko
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: tonybet
+  devices:
+  - desktop
+  - mobile
+- title: Tornado Fruits
+  identifier: softswiss:TornadoFruits
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: wildtornado
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: TrBet Bonanza
+  identifier: softswiss:TrBetBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: trbet
+  devices:
+  - desktop
+  - mobile
+- title: Vave Coin
+  identifier: softswiss:VaveCoin
+  provider: bgaming
+  producer: vave
+  category: casual
+  has_freespins: false
+  feature_group: vave_original
+  devices:
+  - desktop
+  - mobile
+- title: Vave Dice
+  identifier: softswiss:VaveDice
+  provider: bgaming
+  producer: vave
+  category: casual
+  has_freespins: false
+  feature_group: vave_original
+  devices:
+  - desktop
+  - mobile
+- title: Vave Mines
+  identifier: softswiss:VaveMines
+  provider: bgaming
+  producer: vave
+  category: casual
+  has_freespins: false
+  feature_group: vave_original
+  devices:
+  - desktop
+  - mobile
+- title: Vave Plinko
+  identifier: softswiss:VavePlinko
+  provider: bgaming
+  producer: vave
+  category: casual
+  has_freespins: false
+  feature_group: vave_original
+  devices:
+  - desktop
+  - mobile
+- title: Vbet Million
+  identifier: softswiss:VbetMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: betconstruct
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: WBC Ring of Riches
+  identifier: softswiss:WbcRingOfRiches
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: false
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: West Town
+  identifier: softswiss:WestTown
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Wild Cash
+  identifier: softswiss:WildCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Wild Cash Dice
+  identifier: softswiss:WildCashDice
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Cash x9990
+  identifier: softswiss:WildCashX9990
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Chicago
+  identifier: softswiss:WildChicago
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: new
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Tornado Bonanza
+  identifier: softswiss:WildTornadoBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: wildtornado
+  devices:
+  - desktop
+  - mobile
+- title: Wild Tornado Crypto
+  identifier: softswiss:WildTornadoCrypto
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: wildtornado
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild West Bonanza
+  identifier: softswiss:WildWestBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+- title: Wild 0xbet Cash
+  identifier: softswiss:WildZeroxbetCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: zeroxbet
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Winspirit Billion
+  identifier: softswiss:WinspiritBillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: winspirit
+  devices:
+  - desktop
+  - mobile
+- title: Winz to the Moon
+  identifier: softswiss:WinzToTheMoon
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: winz
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Yoju Bonanza
+  identifier: softswiss:YojuBonanza
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: yoju
+  devices:
+  - desktop
+  - mobile
+- title: YYY Cash
+  identifier: softswiss:YYYCash
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: yyycasino
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: YYY Million
+  identifier: softswiss:YYYMillion
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: yyycasino
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: YYY Plinko
+  identifier: softswiss:YYYPlinko
+  provider: bgaming
+  producer: bgaming
+  category: casual
+  has_freespins: false
+  feature_group: yyycasino
+  devices:
+  - desktop
+  - mobile
+- title: ZEUS' SANCTUARY
+  identifier: softswiss:ZeusSanctuary
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: easygo
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Zoome In Vegas
+  identifier: softswiss:ZoomeInVegas
+  provider: bgaming
+  producer: bgaming
+  category: slots
+  has_freespins: true
+  feature_group: zoome
+  devices:
+  - desktop
+  - mobile
+  lines: 25

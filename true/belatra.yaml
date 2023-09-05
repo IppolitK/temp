@@ -1,0 +1,1063 @@
+- title: 100 Pin-Up Fruits
+  identifier: belatra:100PinUpFruits
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: pinup
+  devices:
+  - desktop
+  - mobile
+- title: 20 Bitstarz
+  identifier: belatra:20Bitstarz
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: bitstarz
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: 20 Super Stars
+  identifier: belatra:20SuperStars
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: 3x Super Peppers
+  identifier: belatra:3xSuperPeppers
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 500 Juicy Fruits
+  identifier: belatra:500JuicyFruits
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 500
+- title: 5 Wild Wild Peppers
+  identifier: belatra:5WildWildPeppers
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 7 Days Anotherland
+  identifier: belatra:7DaysAnotherland
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 7 Days The Spanish Armada
+  identifier: belatra:7DaysTheSpanishArmada
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: 88 Bingo 88
+  identifier: belatra:88Bingo88
+  provider: belatra
+  producer: belatra
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: 88 Dragons Bounty
+  identifier: belatra:88DragonsTreasure
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Africa Gold
+  identifier: belatra:AfricaGold
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Africa Gold II
+  identifier: belatra:AfricaGoldII
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: American Roulette
+  identifier: belatra:AmericanRoulette
+  provider: belatra
+  producer: belatra
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Ancient Temple Gems
+  identifier: belatra:AncientTempleGems
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Escape from Alcatraz
+  identifier: belatra:AnEscapeFromAlcatraz
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Beauty and the Beast
+  identifier: belatra:BeautyBeast
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: BetFury Crystals
+  identifier: belatra:BetfuryCrystals
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: betfury
+  devices:
+  - desktop
+  - mobile
+- title: Big Bang
+  identifier: belatra:BigBang
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Big Wild Buffalo
+  identifier: belatra:BigWildBuffalo
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Bizzo Buffalo
+  identifier: belatra:BigWildBuffalo1
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: bizzo
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Bingo Power
+  identifier: belatra:BingoPower
+  provider: belatra
+  producer: belatra
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Bingo Soccer
+  identifier: belatra:BingoSoccer
+  provider: belatra
+  producer: belatra
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Bitstarz Crystals
+  identifier: belatra:BitstarzCrystals
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: bitstars
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Blaze Bingo
+  identifier: belatra:BlazeBingo
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: false
+  feature_group: blaze
+  devices:
+  - desktop
+  - mobile
+- title: Blue Beard
+  identifier: belatra:BlueBeard
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Book of Doom
+  identifier: belatra:BookofDoom
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: New York
+  identifier: belatra:buybonusNewYork
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: "#buyBonus of Maya"
+  identifier: belatra:buyBonusofMaya
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Carousel
+  identifier: belatra:Carousel
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Chicago, bang, bang!
+  identifier: belatra:Chicagobangbang
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Christmas Jackpot
+  identifier: belatra:ChristmasJackpot
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Cleo’s Book
+  identifier: belatra:CleosBook
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Crystals Digger
+  identifier: belatra:CrystalsDigger
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Dracula Riches
+  identifier: belatra:DraculaRiches
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Dragon's Bonanza
+  identifier: belatra:DragonsBonanza
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: European Roulette
+  identifier: belatra:EuropeanRoulette
+  provider: belatra
+  producer: belatra
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fortune Craft
+  identifier: belatra:FortuneCraft
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Frog Creek
+  identifier: belatra:FrogCreek
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mix Fruits
+  identifier: belatra:FruitMix
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Full Moon Magic
+  identifier: belatra:FullMoonMagic
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: The Ghost Walks
+  identifier: belatra:GhostWalks
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Golden Lemon
+  identifier: belatra:GoldenLemon
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Golden Lemon Deluxe
+  identifier: belatra:GoldenLemonDeluxe
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Green Grocery
+  identifier: belatra:GreenGrocery
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Halloween
+  identifier: belatra:Halloween
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Halloween Crystals
+  identifier: belatra:HalloweenCrystals
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Halloween Jackpot
+  identifier: belatra:HalloweenJackpot
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+  has_jackpot: true
+- title: Hot Wild Pepper
+  identifier: belatra:HotWildPepper
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Icy Fruits
+  identifier: belatra:IcyFruits
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Irish Thunder
+  identifier: belatra:IrishThunder
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Jewels
+  identifier: belatra:Jewels
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: J. Monsters
+  identifier: belatra:JMonsters
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Just A Bingo
+  identifier: belatra:JustABingo
+  provider: belatra
+  producer: belatra
+  category: lottery
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: King Billy Crystals
+  identifier: belatra:KingBillyCrystals
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: exclusive_two
+  devices:
+  - desktop
+  - mobile
+- title: King of Jumping Scratch
+  identifier: belatra:KingOfJumpingScratch
+  provider: belatra
+  producer: belatra
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Lavish Joker
+  identifier: belatra:LavishJoker
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Lazy Monkey
+  identifier: belatra:LazyMonkey
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Legacy of Doom
+  identifier: belatra:LegacyofDoom
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Love Magic
+  identifier: belatra:LoveMagic
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucie's Cats
+  identifier: belatra:Luciesats
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bank Robbers
+  identifier: belatra:LuckyBankRobbers
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Lucky Drink in Egypt
+  identifier: belatra:LuckyDrink
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Drink
+  identifier: belatra:LuckyDrinkOld
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Lucky Roulette
+  identifier: belatra:LuckyRoulette
+  provider: belatra
+  producer: belatra
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Master Of Gold
+  identifier: belatra:MasterOfGold
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Master of Starz
+  identifier: belatra:MasterofStarz
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: bitstarz
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Master of Xmas
+  identifier: belatra:MasterofXmas
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Maya Mystery
+  identifier: belatra:MayaMystery
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mayan Book Multi Choice
+  identifier: belatra:MayanBookMultiChoice
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Monkey Jackpot
+  identifier: belatra:MonkeyJackpot
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Mummyland Treasures
+  identifier: belatra:MummylandTreasures
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Northern Boom
+  identifier: belatra:NorthernBoom
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Piggy Bank
+  identifier: belatra:PiggyBank
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Piggy Bank Scratch
+  identifier: belatra:PiggyBankScratch
+  provider: belatra
+  producer: belatra
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Pirate Jackpots
+  identifier: belatra:PirateJackpots
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Prehistoric Story
+  identifier: belatra:PrehistoricStory
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Princess Of Swamp
+  identifier: belatra:PrincessOfSwamp
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 9
+- title: Princess Suki
+  identifier: belatra:PrincessSuki
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Richy Hog
+  identifier: belatra:RichyHog
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Rockets
+  identifier: belatra:Rockets
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Seven Fruits
+  identifier: belatra:SevenFruits
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sevens
+  identifier: belatra:Sevens
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Sic Bo
+  identifier: belatra:SicBo
+  provider: belatra
+  producer: belatra
+  category: craps
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Catch & Snatch
+  identifier: belatra:SmackMe
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Super Sevens
+  identifier: belatra:SuperSevens
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Elusive Gonzales
+  identifier: belatra:TheElusiveGonzales
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 88 Golden 88
+  identifier: belatra:TheGolden88
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 8
+- title: The Moneymania
+  identifier: belatra:TheMoneymania
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: The Night Racing
+  identifier: belatra:TheNightRacing
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Smart Rabbit
+  identifier: belatra:TheSmartRabbit
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Tonybet Hot Pepper
+  identifier: belatra:TonybetHotPepper
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: tonybet
+  devices:
+  - desktop
+  - mobile
+- title: Triple X Hot Pepper
+  identifier: belatra:TripleXHotPepper
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Wild Brazino Jam
+  identifier: belatra:WildBrazinoJam
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: false
+  feature_group: brazino
+  devices:
+  - desktop
+  - mobile
+- title: Wild Fruit Jam
+  identifier: belatra:WildFruitJam
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Witch School
+  identifier: belatra:WitchSchool
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: X-Mas Buffalo
+  identifier: belatra:XMasBuffalo
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: X-mas Gifts
+  identifier: belatra:XmasGifts
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Zombie Town
+  identifier: belatra:ZombieTown
+  provider: belatra
+  producer: belatra
+  category: slots
+  has_freespins: true
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10

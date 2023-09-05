@@ -1,0 +1,87 @@
+- title: Auto Roulette
+  identifier: atmosphera:AutoRoulette
+  provider: atmosphera
+  producer: atmosfera
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Blackjack A
+  identifier: atmosphera:BlackjackA
+  provider: atmosphera
+  producer: atmosfera
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack B
+  identifier: atmosphera:BlackjackB
+  provider: atmosphera
+  producer: atmosfera
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Blackjack C
+  identifier: atmosphera:BlackjackC
+  provider: atmosphera
+  producer: atmosfera
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Keno
+  identifier: atmosphera:Keno
+  provider: atmosphera
+  producer: atmosfera
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: LiveSlots
+  identifier: atmosphera:LiveSlots
+  provider: atmosphera
+  producer: liveslots
+  category: lottery
+  has_freespins: false
+  feature_group: liveslots
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Music Wheel
+  identifier: atmosphera:musicwheel
+  provider: atmosphera
+  producer: atmosfera
+  category: lottery
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Live Roulette
+  identifier: atmosphera:RouletteEng
+  provider: atmosphera
+  producer: atmosfera
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true

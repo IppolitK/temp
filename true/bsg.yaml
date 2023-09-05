@@ -1,0 +1,2110 @@
+- title: 21 Burn Blackjack
+  identifier: bsg:21BurnBlackjack
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: 2 Million B.C.
+  identifier: bsg:2MillionBC
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 4 Seasons
+  identifier: bsg:4Seasons
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 4 Seasons
+  identifier: bsg:4Seasonses
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: 72 Fortunes
+  identifier: bsg:72Fortunes
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 7 Fortune Frenzy
+  identifier: bsg:7FortuneFrenzy
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: 7th Heaven
+  identifier: bsg:7thHeaven
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 88 Frenzy Fortune
+  identifier: bsg:88FrenzyFortune
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: After Night Falls
+  identifier: bsg:AfterNightFalls
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Alkemor's Elements
+  identifier: bsg:AlkemorsElements
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Alkemor's Tower
+  identifier: bsg:AlkemorsTower
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Alkemor's Tower
+  identifier: bsg:AlkemorsToweres
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: American Blackjack
+  identifier: bsg:AmericanBlackjack
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: American Roulette
+  identifier: bsg:AmericanRoulette
+  provider: bsg
+  producer: bsg
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: The Angler
+  identifier: bsg:Angler
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Angler
+  identifier: bsg:Angleres
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: April Fury And The Chamber Of Scarabs
+  identifier: bsg:AprilFuryAndTheChamberOfScarabs
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Arrival
+  identifier: bsg:Arrival
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: At The Copa
+  identifier: bsg:AtTheCopa
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: At The Movies
+  identifier: bsg:AtTheMovies
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Baccarat
+  identifier: bsg:Baccarat
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Back To Venus
+  identifier: bsg:BackToVenus
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Bamboo Rush
+  identifier: bsg:BambooRush
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Barbary Coast
+  identifier: bsg:BarbaryCoast
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Birds
+  identifier: bsg:Birds
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Black Gold
+  identifier: bsg:BlackGold
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Blood Eternal
+  identifier: bsg:BloodEternal
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Book of Darkness
+  identifier: bsg:BookofDarkness
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Helios
+  identifier: bsg:BookofHelios
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Boomanji
+  identifier: bsg:Boomanji
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Bounding Luck
+  identifier: bsg:BoundingLuck
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Caishen's Arrival
+  identifier: bsg:CaishensArrival
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Captain`s Quest Treasure Island
+  identifier: bsg:CaptainsQuestTreasureIsland
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Caribbean Poker
+  identifier: bsg:CaribbeanPoker
+  provider: bsg
+  producer: bsg
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Carnaval Forever
+  identifier: bsg:CarnavalForever
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Charms And Clovers
+  identifier: bsg:CharmsAndClovers
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Charms & Treasures
+  identifier: bsg:CharmsTreasures
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: ChilliPop
+  identifier: bsg:ChilliPop
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: A Christmas Carol
+  identifier: bsg:ChristmasCarol
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The Curious Machine Plus
+  identifier: bsg:CuriousMachinePlus
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Deuces Wild
+  identifier: bsg:DeucesWild
+  provider: bsg
+  producer: bsg
+  category: video_poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Dim Sum Prize
+  identifier: bsg:DimSumPrize
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dragon & Phoenix
+  identifier: bsg:DragonandPhoenix
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Dragon Kings
+  identifier: bsg:DragonKings
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Draw Hi-Lo
+  identifier: bsg:DrawHiLo
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Dr. Jekyll & Mr. Hyde
+  identifier: bsg:DrJekyllAndMrHyde
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Dr. Jekyll & Mr. Hyde
+  identifier: bsg:DrJekyllAndMrHydees
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: European Blackjack
+  identifier: bsg:EuropeanBlackjack
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: European Blackjack Sp
+  identifier: bsg:European_Blackjack_Sp
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: European Roulette
+  identifier: bsg:EuropeanRoulette
+  provider: bsg
+  producer: bsg
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: European Roulette SP
+  identifier: bsg:EuropeanRouletteSP
+  provider: bsg
+  producer: bsg
+  category: roulette
+  has_freespins: false
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: Event Horizon
+  identifier: bsg:EventHorizon
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Event Horizon
+  identifier: bsg:EventHorizones
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Expansion!
+  identifier: bsg:Expansion
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Exterminator
+  identifier: bsg:Exterminator
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Faerie Spells
+  identifier: bsg:FaerieSpells
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: FaFaTwins
+  identifier: bsg:FaFaTwins
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Fa-Fa Twins
+  identifier: bsg:FaFaTwinses
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Fire & Steel
+  identifier: bsg:FireandSteel
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Frankenslot's Monster
+  identifier: bsg:Frankenslots
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Fruitbat Crazy
+  identifier: bsg:FruitbatCrazy
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Fruit Zen
+  identifier: bsg:FruitZen
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruit Zen
+  identifier: bsg:FruitZenSP
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: false
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gemini Joker
+  identifier: bsg:GeminiJoker
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Gemmed!
+  identifier: bsg:Gemmed
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Giovanni's Gems
+  identifier: bsg:GiovannisGems
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Giovanni's Gems
+  identifier: bsg:GiovannisGemses
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: Gladiator
+  identifier: bsg:Gladiator
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Glam Life
+  identifier: bsg:GlamLife
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Gold Canyon
+  identifier: bsg:GoldCanyon
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Gold Diggers
+  identifier: bsg:GoldDiggers
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Golden Dragon Inferno
+  identifier: bsg:GoldenDragonInferno
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Golden Horns
+  identifier: bsg:GoldenHorns
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Gold Tiger Ascent
+  identifier: bsg:GoldTigerAscent
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Good Girl, Bad Girl
+  identifier: bsg:GoodGirlBadGirl
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+  has_jackpot: true
+- title: Great88
+  identifier: bsg:Great88
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Great88
+  identifier: bsg:Great88es
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Greedy Goblins
+  identifier: bsg:GreedyGoblins
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Gypsy Rose
+  identifier: bsg:GypsyRose
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Hat Trick Hero
+  identifier: bsg:HatTrickHero
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Hearts Desire JP
+  identifier: bsg:HeartsDesireJP
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Hearts Desire NJP
+  identifier: bsg:HeartsDesireNJP
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: metaspins
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Heist
+  identifier: bsg:Heist
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Hot Lucky 7’s
+  identifier: bsg:HotLucky7s
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: House of Fun
+  identifier: bsg:HouseOfFun
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Jumbo Joker
+  identifier: bsg:JumboJoker
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Jungle Stripes
+  identifier: bsg:JungleStripes
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Kawaii Kitty
+  identifier: bsg:KawaiiKitty
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Kensei Blades
+  identifier: bsg:KenseiBlades
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Lava Gold
+  identifier: bsg:LavaGold
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Legend of the Nile
+  identifier: bsg:LegendOfTheNile
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Lost
+  identifier: bsg:Lost
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Lost Mystery Chests
+  identifier: bsg:LostMysteryChests
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Seven
+  identifier: bsg:LuckySeven
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 3
+- title: Madder Scientist
+  identifier: bsg:MadderScientist
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Magic Shoppe
+  identifier: bsg:MagicShoppe
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Mamma Mia
+  identifier: bsg:MammaMia
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Mega Gems
+  identifier: bsg:MegaGems
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Mega Glam Life
+  identifier: bsg:MegaGlamLife
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Miles Bellhouse and the Gears of time
+  identifier: bsg:MilesBellhouseAndtheGearsOftime
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Monster Pop
+  identifier: bsg:MonsterPop
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: More Gold Diggin
+  identifier: bsg:MoreGoldDiggin
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mr. Macau
+  identifier: bsg:MrMacau
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Mr. Vegas
+  identifier: bsg:MrVegas
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: 'Mr. Vegas 2: Big Money Tower'
+  identifier: bsg:MrVegas2BigMoneyTower
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+- title: A Night in Paris
+  identifier: bsg:NightInParis
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Oasis Poker
+  identifier: bsg:OasisPoker
+  provider: bsg
+  producer: bsg
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Ogre Empire
+  identifier: bsg:OgreEmpire
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Ogre Empire
+  identifier: bsg:OgreEmpirenl
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_nl
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Once Upon A Time
+  identifier: bsg:OnceUponATime
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Paco and the Popping Peppers
+  identifier: bsg:PacoAndThePoppingPeppers
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Pai Gow
+  identifier: bsg:PaiGow
+  provider: bsg
+  producer: bsg
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Pho Sho
+  identifier: bsg:PhoSho
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Pinocchio
+  identifier: bsg:Pinocchio
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Pinocchio
+  identifier: bsg:Pinocchioes
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 15
+- title: Pirate 21
+  identifier: bsg:Pirate21
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Pontoon
+  identifier: bsg:Pontoon
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Primal Hunt
+  identifier: bsg:PrimalHunt
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+- title: Primal Wilderness
+  identifier: bsg:PrimalWilderness
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Puppy Love Plus
+  identifier: bsg:PuppyLovePlus
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Quest to the West
+  identifier: bsg:QuesttotheWest
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Rags to Witches
+  identifier: bsg:RagstoWitches
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Rags to Witches
+  identifier: bsg:RagstoWitchesNJP
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: metaspins
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Red Dog
+  identifier: bsg:RedDog
+  provider: bsg
+  producer: bsg
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Reels of Wealth
+  identifier: bsg:ReelsofWealth
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+  has_jackpot: true
+- title: Return to Paris
+  identifier: bsg:ReturntoParis
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: RockStar
+  identifier: bsg:RockStar
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  lines: 30
+- title: Rook's Revenge
+  identifier: bsg:RooksRevenge
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Safari Sam
+  identifier: bsg:SafariSam
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Safari Sam 2
+  identifier: bsg:SafariSam2
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Safari Sam
+  identifier: bsg:SafariSames
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Sin City Nights
+  identifier: bsg:SinCityNights
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sin City Nights
+  identifier: bsg:SinCityNightses
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Single Deck Blackjack
+  identifier: bsg:SingleDeckBlackjack
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Single Deck Blackjack
+  identifier: bsg:SingleDeckBlackjackes
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: Sleighin' It
+  identifier: bsg:SleighinIt
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Slotfather
+  identifier: bsg:Slotfather
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Slotfather2
+  identifier: bsg:Slotfather2
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Slotfather 2
+  identifier: bsg:Slotfather2es
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: Slots Angels
+  identifier: bsg:SlotsAngels
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Spinfinity Man
+  identifier: bsg:SpinfinityMan
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 49
+- title: Spring Tails
+  identifier: bsg:SpringTails
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Stacked
+  identifier: bsg:Stacked
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Stampede
+  identifier: bsg:Stampede
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Stampede
+  identifier: bsg:Stampedees
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: Stay Frosty!
+  identifier: bsg:StayFrosty
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Sugar Pop
+  identifier: bsg:SugarPop
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Sugar Pop 2
+  identifier: bsg:SugarPop2
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_nl
+  devices:
+  - desktop
+  - mobile
+- title: 'Sugar Pop 2: Double Dipped'
+  identifier: bsg:SugarPop2DoubleDipped
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Sugar Pop
+  identifier: bsg:SugarPopes
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: false
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: Super 7 Blackjack
+  identifier: bsg:Super7Blackjack
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Super Golden Dragon Inferno
+  identifier: bsg:SuperGoldenDragonInferno
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Super Sweets
+  identifier: bsg:SuperSweets
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Supreme 777 Jackpots
+  identifier: bsg:Supreme777Jackpots
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Take Olympus
+  identifier: bsg:TakeOlympus
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Take Santa's shop
+  identifier: bsg:TakeSantasShop
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Take The Bank
+  identifier: bsg:TakeTheBank
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 75
+- title: Take The Kingdom
+  identifier: bsg:TakeTheKingdom
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: Thai Blossoms
+  identifier: bsg:ThaiBlossoms
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 100
+- title: The Golden Owl of Athena
+  identifier: bsg:TheGoldenOwlofAthena
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: The Hive!
+  identifier: bsg:TheHive
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The Mystic Hive
+  identifier: bsg:TheMysticHive
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Three Card Rummy
+  identifier: bsg:ThreeCardRummy
+  provider: bsg
+  producer: bsg
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Genie's Fortune
+  identifier: bsg:ThreeWishes
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Thunder Clash
+  identifier: bsg:ThunderClash
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: metaspins
+  devices:
+  - desktop
+  - mobile
+- title: Tiger's Claw
+  identifier: bsg:TigersClaw
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Tigers Claw
+  identifier: bsg:TigersClawSP
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: The Tipsy Tourist
+  identifier: bsg:TipsyTourist
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: The Tipsy Tourist
+  identifier: bsg:TipsyTouristes
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Top Card Trumps
+  identifier: bsg:TopCardTrumps
+  provider: bsg
+  producer: bsg
+  category: card
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+- title: Total Overdrive
+  identifier: bsg:TotalOverdrive
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Tower of Fortuna
+  identifier: bsg:TowerofFortuna
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Treasure Room
+  identifier: bsg:TreasureRoom
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Trinity Reels
+  identifier: bsg:TrinityReels
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Triple Cash Or Crash
+  identifier: bsg:TripleCashOrCrash
+  provider: bsg
+  producer: bsg
+  category: crash
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Triple Edge Poker
+  identifier: bsg:TripleEdgePoker
+  provider: bsg
+  producer: bsg
+  category: poker
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Triple Juicy Drops
+  identifier: bsg:TripleJuicyDrops
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: True Illusions
+  identifier: bsg:TrueIllusions
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: The True Sheriff
+  identifier: bsg:TrueSheriff
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Tycoons Plus
+  identifier: bsg:TycoonsPlus
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Under The Bed
+  identifier: bsg:UnderTheBed
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Under The Sea
+  identifier: bsg:UnderTheSea
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Viking Age
+  identifier: bsg:VikingAge
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Viking Voyage
+  identifier: bsg:VikingVoyage
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Vip American Roulette
+  identifier: bsg:VipAmericanRoulette
+  provider: bsg
+  producer: bsg
+  category: roulette
+  has_freespins: false
+  feature_group: vip
+  devices:
+  - desktop
+- title: Vip European Roulette
+  identifier: bsg:VipEuropeanRoulette
+  provider: bsg
+  producer: bsg
+  category: roulette
+  has_freespins: false
+  feature_group: vip
+  devices:
+  - desktop
+  - mobile
+- title: Weekend In Vegas
+  identifier: bsg:WeekendInVegas
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Weekend In Vegas
+  identifier: bsg:WeekendInVegases
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard_es
+  devices:
+  - desktop
+  - mobile
+- title: Wild Drops
+  identifier: bsg:WildDrops
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 16
+- title: Wilds Of Fortune
+  identifier: bsg:WildsOfFortune
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Winds of Wealth
+  identifier: bsg:WindsOfWealth
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Wish Granted
+  identifier: bsg:WishGranted
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+- title: Wolf Moon Rising
+  identifier: bsg:WolfMoonRising
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Woodlanders
+  identifier: bsg:Woodlanders
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Yak, Yeti & Roll
+  identifier: bsg:YakYetiRoll
+  provider: bsg
+  producer: bsg
+  category: slots
+  has_freespins: true
+  feature_group: standard
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Zoom Roulette
+  identifier: bsg:ZoomRoulette
+  provider: bsg
+  producer: bsg
+  category: roulette
+  has_freespins: false
+  feature_group: standard
+  devices:
+  - desktop

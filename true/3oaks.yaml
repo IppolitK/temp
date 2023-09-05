@@ -1,0 +1,788 @@
+- title: 15 Dragon Pearls
+  identifier: 3oaks:15_dragon_pearls
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 3 Coins
+  identifier: 3oaks:3_coins
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: '3 Coins: Egypt'
+  identifier: 3oaks:3_coins_egypt
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: 777 Gems ReSpin
+  identifier: 3oaks:777_gems_respin
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+- title: Aztec Fire
+  identifier: 3oaks:aztec_fire
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Aztec Pyramid
+  identifier: 3oaks:aztec_pyramid
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Aztec Sun
+  identifier: 3oaks:aztec_sun
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Big Heist
+  identifier: 3oaks:big_heist
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Black Wolf
+  identifier: 3oaks:black_wolf
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Book of Sun
+  identifier: 3oaks:book_of_sun
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Book of Sun: Choice'
+  identifier: 3oaks:book_of_sun_choice
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Sun Multichance
+  identifier: 3oaks:book_of_sun_multichance
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Book of Wizard
+  identifier: 3oaks:book_of_wizard
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Book of Wizard: Crystal Chance'
+  identifier: 3oaks:book_of_wizard_crystal
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Boom! Boom! Gold!
+  identifier: 3oaks:boom_gold
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Buddha Fortune
+  identifier: 3oaks:buddha_fortune
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Buddha Megaways
+  identifier: 3oaks:buddha_megaways
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Caishen Wealth
+  identifier: 3oaks:caishen_wealth
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Candy Boom
+  identifier: 3oaks:candy_boom
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Coin Volcano
+  identifier: 3oaks:coin_volcano
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+  has_jackpot: true
+- title: Dragon Pearls
+  identifier: 3oaks:dragon_pearls
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Dragon Wealth
+  identifier: 3oaks:dragon_wealth
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Eggs of Gold
+  identifier: 3oaks:eggs_of_gold
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Egypt Fire
+  identifier: 3oaks:egypt_fire
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Eye of Gold
+  identifier: 3oaks:eye_of_gold
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Fish Reef
+  identifier: 3oaks:fish_reef
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Forest Spirit
+  identifier: 3oaks:forest_spirit
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Goddess of Egypt
+  identifier: 3oaks:GoddessofEgypt
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Gold Express
+  identifier: 3oaks:gold_express
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Grab the Gold!
+  identifier: 3oaks:grab_the_gold
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Great Panda
+  identifier: 3oaks:great_panda
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Green Chilli
+  identifier: 3oaks:green_chilli
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Green Chilli 2
+  identifier: 3oaks:green_chilli_2
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_jackpot: true
+- title: Hit more Gold!
+  identifier: 3oaks:HitmoreGold
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Hit the Gold!
+  identifier: 3oaks:hit_the_gold
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: The King of Heroes
+  identifier: 3oaks:king_of_heroes
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lady Fortune
+  identifier: 3oaks:lady_fortune
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+- title: Lord Fortune 2
+  identifier: 3oaks:lord_fortune_2
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Lotus Charm
+  identifier: 3oaks:lotus_charm
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Apple
+  identifier: 3oaks:magic_apple
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Magic Apple 2
+  identifier: 3oaks:magic_apple_2
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Magic Ball
+  identifier: 3oaks:magic_ball
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Maya Sun
+  identifier: 3oaks:maya_sun
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Moon Sisters
+  identifier: 3oaks:moon_sisters
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: More Magic Apple
+  identifier: 3oaks:more_magic_apple
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Mummy Power
+  identifier: 3oaks:mummy_power
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Olympian Gods
+  identifier: 3oaks:olympian_gods
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Pearl Diver
+  identifier: 3oaks:pearl_diver
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: 'Pearl Diver 2: Treasure Chest'
+  identifier: 3oaks:pearl_diver_2
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Queen of the Sun
+  identifier: 3oaks:queen_of_the_sun
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Rio Gems
+  identifier: 3oaks:RioGems
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Scarab Boost
+  identifier: 3oaks:scarab_boost
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Scarab Riches
+  identifier: 3oaks:scarab_riches
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Scarab Temple
+  identifier: 3oaks:scarab_temple
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Sticky Piggy
+  identifier: 3oaks:sticky_piggy
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Sunlight Princess
+  identifier: 3oaks:SunlightPrincess
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Sun of Egypt
+  identifier: 3oaks:sun_of_egypt
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Sun of Egypt 2
+  identifier: 3oaks:sun_of_egypt_2
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Sun of Egypt 3
+  identifier: 3oaks:sun_of_egypt_3
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Super Marble
+  identifier: 3oaks:super_marble
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: 'Super Rich God: Hold and Win'
+  identifier: 3oaks:super_rich_god
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Thunder of Olympus
+  identifier: 3oaks:thunder_of_olympus
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Tiger Gems
+  identifier: 3oaks:tiger_gems
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Tiger Jungle
+  identifier: 3oaks:tiger_jungle
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Tiger's Gold
+  identifier: 3oaks:tigers_gold
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Tiger Stone
+  identifier: 3oaks:tiger_stone
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+  has_jackpot: true
+- title: Wolf Night
+  identifier: 3oaks:wolf_night
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wolf Saga
+  identifier: 3oaks:wolf_saga
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wukong
+  identifier: 3oaks:wukong
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Yo-Ho Gold!
+  identifier: 3oaks:yo_ho_gold
+  provider: 3oaks
+  producer: 3oaks
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25

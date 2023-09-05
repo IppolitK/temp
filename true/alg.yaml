@@ -1,0 +1,1059 @@
+- title: 20 Hot Twist
+  identifier: alg:20HotSpins
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: 40 Fruity Reels
+  identifier: alg:40FruityReels
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Hot Twist
+  identifier: alg:40HotSpins
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: 40 Super 7
+  identifier: alg:40Super7
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: 60 Ultra Classic Hot
+  identifier: alg:60UltraClassicHot
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 60
+  has_jackpot: true
+- title: 80 Fruit Dash
+  identifier: alg:80FruitDash
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+  has_jackpot: true
+- title: Absolute Bright
+  identifier: alg:AbsoluteBright
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Adventure Saga
+  identifier: alg:AdventureSaga
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Age of Cleopatra
+  identifier: alg:AgeofCleopatra
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: American Roulette
+  identifier: alg:AmericanRoulette
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Andar Bahar
+  identifier: alg:AndarBahar
+  provider: alg
+  producer: 7mojos
+  category: card
+  has_freespins: false
+  feature_group: 7mojos_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Anubis
+  identifier: alg:Anubis
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Absolute Black
+  identifier: alg:AutomaticRoulette1
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Absolute Brown
+  identifier: alg:AutomaticRoulette2
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat
+  identifier: alg:Baccarat
+  provider: alg
+  producer: alg
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat A
+  identifier: alg:BaccaratA
+  provider: alg
+  producer: 7mojos
+  category: card
+  has_freespins: false
+  feature_group: 7mojos_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Baccarat Dragon Bonus
+  identifier: alg:BaccaratDragonBonus
+  provider: alg
+  producer: alg
+  category: slots
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Bandidos Showdown
+  identifier: alg:BandidosShowdown
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Big 5 Africa
+  identifier: alg:Big5Africa
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Big Gold Fish
+  identifier: alg:BigGoldFish
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Bigote
+  identifier: alg:Bigote
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1
+- title: Bond Roulette
+  identifier: alg:BondRoulette
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Book Of Fruits
+  identifier: alg:BookOfFruits
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Buffalo Park
+  identifier: alg:BuffaloPark
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Buttoms World
+  identifier: alg:ButtomsWorld
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Christmas Nightmare
+  identifier: alg:ChristmasNightmare
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Cyborg
+  identifier: alg:Cyborg
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+- title: Death Pages
+  identifier: alg:DeathPages
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Dragon's Flower
+  identifier: alg:DragonsFlower
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Dragon Tiger
+  identifier: alg:DragonTiger
+  provider: alg
+  producer: 7mojos
+  category: card
+  has_freespins: false
+  feature_group: 7mojos_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Fortune Genie
+  identifier: alg:FortuneGenie
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Fortune Jungle
+  identifier: alg:FortuneJungle
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruit Dash
+  identifier: alg:FruitDash
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Absolute RNG
+  identifier: alg:FruitSalad
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Fruit and Storm
+  identifier: alg:FruitStorm
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Fruity Reels
+  identifier: alg:FruityReels
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Galaxy Blackjack
+  identifier: alg:GalaxyBlackjack
+  provider: alg
+  producer: 7mojos
+  category: card
+  has_freespins: false
+  feature_group: 7mojos_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Genesis
+  identifier: alg:Genesis
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Gnomos Respin
+  identifier: alg:GnomosRespin
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Golden Idol
+  identifier: alg:GoldenIdol
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Golden Vegas
+  identifier: alg:GoldenVegas
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Greedy Owl
+  identifier: alg:GreedyOwl
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Hot Fortune Wheel
+  identifier: alg:HotFortuneWheel
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Hot Fortune Wheel 80
+  identifier: alg:HotFortuneWheel80
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 80
+  has_jackpot: true
+- title: Hot Girls
+  identifier: alg:HotGirls
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Incas
+  identifier: alg:Incas
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Infinity Space
+  identifier: alg:InfinitySpace
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Jurasic Slot
+  identifier: alg:JurasicSlot
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 1024
+- title: Key Of Ra
+  identifier: alg:KeyOfRa
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lamp of Genie
+  identifier: alg:LampofGenie
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+  has_jackpot: true
+- title: Las Vegas Roulette
+  identifier: alg:LasVegasRoulette
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Lost Civilization
+  identifier: alg:LostCivilization
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Lucky Fruit Lines
+  identifier: alg:LuckyFruitLines
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 5
+  has_jackpot: true
+- title: Lucky Turn
+  identifier: alg:LuckyTurn
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: MSC Casino
+  identifier: alg:MSCCasino
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Mystery of Evenbet
+  identifier: alg:MysteryofEvenbet
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Mystery of Gods
+  identifier: alg:MysteryofGods
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Night Riders
+  identifier: alg:NightRiders
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: No Comission Baccarat Super 6
+  identifier: alg:NoComissionBaccaratSuper6
+  provider: alg
+  producer: alg
+  category: card
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Oracle Blaze
+  identifier: alg:Oracle360Roulette
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Portomaso VIP
+  identifier: alg:OracleCasino
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Patrick's Riches
+  identifier: alg:PatricksRiches
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Portomaso Casino
+  identifier: alg:PortomasoCasino
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Portomaso Lumia
+  identifier: alg:PortomasoLumia
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Red Hunt
+  identifier: alg:RedHunt
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Red Mantis
+  identifier: alg:Red Mantis
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Rise of dragons
+  identifier: alg:Riseofdragons
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Roulette 360
+  identifier: alg:Roulette360
+  provider: alg
+  producer: alg
+  category: roulette
+  has_freespins: false
+  feature_group: basic
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Rune Wars
+  identifier: alg:RuneWars
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Sabin Of Chazos
+  identifier: alg:SabinOfChazos
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 729
+- title: Teen Patti Face Off
+  identifier: alg:TeenPattiFaceOff
+  provider: alg
+  producer: 7mojos
+  category: card
+  has_freespins: false
+  feature_group: 7mojos_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Timelab
+  identifier: alg:Timelab
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: 'Timelab: Olympic Games'
+  identifier: alg:TimelabOlympicGames
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Toreador
+  identifier: alg:Toreador
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Total Strike
+  identifier: alg:TotalStrike
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Treasure Keeper
+  identifier: alg:TreasureKeeper
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 243
+- title: Treasure of Olympus
+  identifier: alg:TreasureofOlympus
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Tropicano
+  identifier: alg:Tropicano
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Turkish Blackjack
+  identifier: alg:TurkishBlackjack
+  provider: alg
+  producer: 7mojos
+  category: card
+  has_freespins: false
+  feature_group: 7mojos_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Turkish Roulette
+  identifier: alg:TurkishRoulette
+  provider: alg
+  producer: 7mojos
+  category: roulette
+  has_freespins: false
+  feature_group: 7mojos_live
+  devices:
+  - desktop
+  - mobile
+  has_live: true
+- title: Ultra Classic Hot
+  identifier: alg:UltraClassicHot
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Underwater Adventure
+  identifier: alg:UnderwaterAdventure
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+  has_jackpot: true
+- title: Vacuum Buster
+  identifier: alg:VacuumBuster
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Valkyrie's Tavern
+  identifier: alg:ValkyriesTavern
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Vikings Rage
+  identifier: alg:VikingsRage
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 704
+- title: Viral Slot
+  identifier: alg:ViralSlot
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wako
+  identifier: alg:Wako
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 25
+- title: Wild Bandidos
+  identifier: alg:WildBandidos
+  provider: alg
+  producer: 7mojos
+  category: slots
+  has_freespins: false
+  feature_group: 7mojos_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 30
+  has_jackpot: true
+- title: Wild GemZ
+  identifier: alg:WildGemZ
+  provider: alg
+  producer: altente
+  category: slots
+  has_freespins: false
+  feature_group: altente_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 10
+- title: Wild Shot
+  identifier: alg:WildShot
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 20
+- title: Wild Tank
+  identifier: alg:WildTank
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 50
+- title: Witches North
+  identifier: alg:WitchesNorth
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Witches South
+  identifier: alg:WitchesSouth
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
+- title: Witches West
+  identifier: alg:WitchesWest
+  provider: alg
+  producer: rfranco
+  category: slots
+  has_freespins: false
+  feature_group: rfranco_basic
+  devices:
+  - desktop
+  - mobile
+  lines: 40
