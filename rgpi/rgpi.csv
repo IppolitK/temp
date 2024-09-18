@@ -1,4 +1,0 @@
-﻿"game_name","game_id","game_type","is_enabled","is_demo_supported","is_freespins_supported","is_jackpot_supported","is_live_supported","lines","platform__001","platform__002","platform__003","jurisdictions__001","jurisdictions__002","jurisdictions__003"
-"My Awesome Game","my_awesome_game","slot","True","True","False","False","False","3","desktop","mobile","tablet","RU","US","GB"
-"Some test game","some_test_game","slot","True","True","False","False","False","3","desktop","mobile","tablet","RU","US","GB"
-"Casino game","casino_game","casino","True","False","False","False","False","1","desktop","mobile","tablet","RU","US","GB"
