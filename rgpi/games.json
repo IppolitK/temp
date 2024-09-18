@@ -29,20 +29,19 @@
         "game_type": "slot",
         "provider": "rgpi_test",
         "is_enabled": true,
-        "is_demo_supported": true,
-        "is_freespins_supported": false,
-        "is_jackpot_supported": false,
-        "is_live_supported": false,
-        "lines": 3,
+        "is_demo_supported": false,
+        "is_freespins_supported": true,
+        "is_jackpot_supported": true,
+        "is_live_supported": true,
+        "lines":6,
         "platform": [
-            "desktop",
+            
             "mobile",
             "tablet"
         ],
         "jurisdictions": [
-            "RU",
-            "US",
-            "GB"
+            "RU"
+            
         ],
         "images": [],
         "options": []
