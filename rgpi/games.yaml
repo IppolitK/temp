@@ -1,0 +1,61 @@
+---
+- game_name: My Awesome Game
+  game_id: my_awesome_game
+  game_type: slot
+  provider: rgpi
+  is_enabled: true
+  is_demo_supported: true
+  is_freespins_supported: false
+  is_jackpot_supported: false
+  is_live_supported: false
+  lines: 3
+  platform:
+  - desktop
+  - mobile
+  - tablet
+  jurisdictions:
+  - RU
+  - US
+  - GB
+  images: []
+  options: []
+- game_name: Some test game
+  game_id: some_test_game
+  game_type: slot
+  provider: rgpi_test
+  is_enabled: true
+  is_demo_supported: true
+  is_freespins_supported: false
+  is_jackpot_supported: false
+  is_live_supported: false
+  lines: 3
+  platform:
+  - desktop
+  - mobile
+  - tablet
+  jurisdictions:
+  - RU
+  - US
+  - GB
+  images: []
+  options: []
+- game_name: Casino game
+  game_id: casino_game
+  game_type: casino
+  provider: rgpi
+  is_enabled: true
+  is_demo_supported: true
+  is_freespins_supported: false
+  is_jackpot_supported: false
+  is_live_supported: false
+  lines: 1
+  platform:
+  - desktop
+  - mobile
+  - tablet
+  jurisdictions:
+  - RU
+  - US
+  - GB
+  images: []
+  options: []
