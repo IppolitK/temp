@@ -1,0 +1,4 @@
+game_name;game_id;game_type;provider;is_enabled;is_demo_supported;is_freespins_supported;is_jackpot_supported;is_live_supported;lines;platform;jurisdictions;images;options
+My Awesome Game;my_awesome_game;slot;rgpi;true;true;false;false;false;3;"[""desktop"", ""mobile"", ""tablet""]";"[""RU"", ""US"", ""GB""]";[];[]
+Some test game;some_test_game;slot;rgpi_test;true;true;false;false;false;3;"[""desktop"", ""mobile"", ""tablet""]";"[""RU"", ""US"", ""GB""]";[];[]
+Casino game;casino_game;casino;rgpi;true;true;false;false;false;1;"[""desktop"", ""mobile"", ""tablet""]";"[""RU"", ""US"", ""GB""]";[];[]
