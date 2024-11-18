@@ -1,0 +1,4 @@
+sitegroup;sysname;name;priority;games
+ardente;test;"{""it"": ""test it"", ""en"": ""test en"", ""de"": ""test de""}";3;c2g_vs20rhino_prg,c2g_vs40frrainbow_prg,c2g_vs25dragonkingdom_prg,c2g_vs243fortune_prg,c2g_vs1masterjoker_prg,bookofra
+ardente;test2;"{""it"": ""test it2""}";2;unicorn
+ardente;test3;"{""it"": ""test it3""}";1;markopolo
