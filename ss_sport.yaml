@@ -1,0 +1,10 @@
+- title: SoftSwiss Betting
+  identifier: softswiss:sport
+  provider: softswiss
+  producer: softswiss
+  category: betting
+  is_enabled: true
+  feature_group: sport
+  devices:
+  - desktop
+  - mobile
