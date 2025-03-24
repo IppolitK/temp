@@ -1,0 +1,12691 @@
+---
+- title: VIP Surrender Blackjack
+  identifier: ezugi:VIPBlackjackwithSurrender
+  identifier2: 1:224
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 99.67
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: 32Cards OTT AB
+  identifier: ezugi:32Cards
+  identifier2: 19:228002
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: 32Cards OTT AB
+  payout: 99.67
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Andar Bahar
+  identifier: ezugi:AndarBahar
+  identifier2: 38:228000
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Andar Bahar
+  payout: 94.85
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Andar Bahar Lobby
+  identifier: ezugi:AndarBaharLobby
+  identifier2: andar_bahar
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Andar Bahar
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Automatic Roulette
+  identifier: ezugi:AutomaticRoulette
+  identifier2: 7:5001
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Prestige Auto Roulette
+  identifier: ezugi:AutomaticRoulette1
+  identifier2: 7:221004
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Baccarat E
+  identifier: ezugi:BaccaratE
+  identifier2: 2:108
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 98.94
+  has_live: true
+  hd: true
+  released_at: 2024-04-16
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Baccarat Lobby
+  identifier: ezugi:BaccaratLobby
+  identifier2: '2'
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 99.67
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Bet on Teen Patti
+  identifier: ezugi:BetonTeenPatti
+  identifier2: 16:227101
+  provider: ezugi
+  producer: ezugi
+  category: poker
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Bet on Teen Patti
+  payout: 94.85
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Blackjack Gold 3
+  identifier: ezugi:Blackjack3
+  identifier2: 1:203
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 99.67
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Blackjack Da Sorte
+  identifier: ezugi:BlackjackDaSorte
+  identifier2: 1:260
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  released_at: 2023-06-02
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Blackjack Gold 1
+  identifier: ezugi:BlackjackGold1
+  identifier2: 1:204
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Blackjack Gold 5
+  identifier: ezugi:BlackjackGold5
+  identifier2: '1:1'
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 99.67
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Blackjack Lobby
+  identifier: ezugi:BlackjackLobby
+  identifier2: '1'
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 99.67
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Blackjack Salon Prive
+  identifier: ezugi:BlackjackSalonPrive
+  identifier2: 46:227
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 99.67
+  description: Experience the luxury and exclusivity that  provides – enjoy a  higher-limit
+    game of Blackjack at a сompletely private table, surrounded by  an elite environment!
+  has_live: true
+  hd: true
+  released_at: 2021-11-11
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Casino Hold'em
+  identifier: ezugi:CasinoHold
+  identifier2: 15:507000
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Casino Hold'em
+  payout: 93.74
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Casino Marina Baccarat A
+  identifier: ezugi:CasinoMarinaBaccarat1
+  identifier2: 27:32100
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Casino Marina Baccarat B
+  identifier: ezugi:CasinoMarinaBaccarat2
+  identifier2: 27:32101
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Casino Marina Baccarat C
+  identifier: ezugi:CasinoMarinaBaccarat3
+  identifier2: 27:32102
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Casino Marina Baccarat D
+  identifier: ezugi:CasinoMarinaBaccarat4
+  identifier2: 27:32103
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Casino Marina Roulette 1
+  identifier: ezugi:CasinoMarinaRoulette1
+  identifier2: 29:321000
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Claw Roulette
+  identifier: ezugi:ClawRoulette
+  identifier2: 10002:691000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: luxury_life
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2025-01-09
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Cricket Auto Roulette
+  identifier: ezugi:CricketAutoRoulette
+  identifier2: 7:221007
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: sport
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2024-04-09
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Cricket Ball Roulette
+  identifier: ezugi:CricketBallRoulette
+  identifier2: 10002:691004
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  - NL
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2025-03-18
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Cricket War
+  identifier: ezugi:CricketWar
+  identifier2: 45:45100
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 96.27
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Spanish Roulette
+  identifier: ezugi:CumbiaRuleta1
+  identifier2: 3:411000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Diamond Roulette
+  identifier: ezugi:DiamondRoulette
+  identifier2: 3:221003
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Dragon Tiger
+  identifier: ezugi:DragonTiger
+  identifier2: 24:150
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LV
+  - MT
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 98.94
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Dragon Tiger Da Sorte
+  identifier: ezugi:DragonTigerDaSorte
+  identifier2: 24:24150
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  released_at: 2023-06-02
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Baccarat
+  identifier: ezugi:EZBaccarat
+  identifier2: 70:180
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: asia
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 98.94
+  has_live: true
+  hd: true
+  released_at: 2024-10-10
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Bingo 90
+  identifier: ezugi:EZBingo90
+  identifier2: 10001:10003
+  provider: ezugi
+  producer: ezugi
+  category: lottery
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - BR
+  - MT
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  released_at: 2025-02-26
+  multiplier: 87.0
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Bingo 90 Brasiliera
+  identifier: ezugi:EZBingo90Brasiliera
+  identifier2: 10001:10004
+  provider: ezugi
+  producer: ezugi
+  category: lottery
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  released_at: 2025-02-26
+  multiplier: 87.0
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Roleta Brasileira
+  identifier: ezugi:EZDealerRoletaBrazileira
+  identifier2: 48:481004
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: luxury_life
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2023-05-08
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Roulette Thai
+  identifier: ezugi:EZDealerRoulette
+  identifier2: 48:481001
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: luxury_life
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2022-08-31
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Roulette English
+  identifier: ezugi:EZDealerRouletteEnglish
+  identifier2: 48:481000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2024-05-21
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Roulette Hindi
+  identifier: ezugi:EZDealerRouletteHindi
+  identifier2: 48:481008
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BY
+  - CA-ON
+  - CW
+  - MX
+  - NL
+  - PE
+  - ZA
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2024-11-28
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Roulette Japanese
+  identifier: ezugi:EZDealerRouletteJapanese
+  identifier2: 48:481002
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2022-11-22
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Roulette Latina
+  identifier: ezugi:EZDealerRouletteLatina
+  identifier2: 48:481009
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BY
+  - BR
+  - CA-ON
+  - CW
+  - MT
+  - MX
+  - NL
+  - PE
+  - RS
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2025-02-14
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Roulette Mandarin
+  identifier: ezugi:EZDealerRouletteMandarin
+  identifier2: 48:481003
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  released_at: 2022-11-22
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Roulette Nederlands
+  identifier: ezugi:EZDealerRouletteNederlands
+  identifier2: 48:481007
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - NL
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2025-01-16
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Roulette Savanna
+  identifier: ezugi:EZDealerRouletteSavanna
+  identifier2: 48:481010
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: africa
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CA-ON
+  - CW
+  - EE
+  - MT
+  - NL
+  - PE
+  - RS
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2025-03-12
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: EZ Dealer Turkish Roulette
+  identifier: ezugi:EZDealerTurkishRoulette
+  identifier2: 48:481006
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BY
+  - CA-ON
+  - CW
+  - MT
+  - NL
+  - PE
+  - ZA
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2024-11-08
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Football Auto Roulette
+  identifier: ezugi:FootballAutoRoulette
+  identifier2: 7:221009
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: sport
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2024-06-07
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Baccarat B
+  identifier: ezugi:FortuneBaccarat
+  identifier2: 2:102
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Fortune Pusher
+  identifier: ezugi:FortunePusher
+  identifier2: 10004:691002
+  provider: ezugi
+  producer: ezugi
+  category: casual
+  theme: luxury_life
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 95.69
+  has_live: true
+  hd: true
+  released_at: 2025-01-09
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Baccarat A
+  identifier: ezugi:GoldenBaccarat
+  identifier2: 2:100
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 98.94
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Knockout Baccarat
+  identifier: ezugi:GoldenBaccaratKnockOut
+  identifier2: 20:120
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BY
+  - BE
+  - BR
+  - BG
+  - EE
+  - MT
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Golden Baccarat Knock Out
+  payout: 98.94
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Super 6 Baccarat
+  identifier: ezugi:GoldenBaccaratSuperSix
+  identifier2: 21:130
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 98.94
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Horse Racing Auto Roulette
+  identifier: ezugi:HorseRacingAutoRoulette
+  identifier2: 7:221013
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2025-03-05
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Lucky 7
+  identifier: ezugi:Lucky7
+  identifier2: 13:228001
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Lucky 7
+  payout: 99.67
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Magic Claw
+  identifier: ezugi:MagicClaw
+  identifier2: 10003:691001
+  provider: ezugi
+  producer: ezugi
+  category: lottery
+  theme: luxury_life
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - CW
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 95.0
+  has_live: true
+  hd: true
+  released_at: 2025-01-09
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Mambo Unlimited Blackjack
+  identifier: ezugi:MamboUnlimitedBlackjack
+  identifier2: 5:4151
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Unlimited Blackjack
+  payout: 99.67
+  has_live: true
+  hd: true
+  recalled: true
+  recalled_at: 2024-12-24
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Matka
+  identifier: ezugi:Matka
+  identifier2: 57:5700
+  provider: ezugi
+  producer: ezugi
+  category: lottery
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 95.83
+  has_live: true
+  hd: true
+  released_at: 2025-01-15
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Namaste Roulette
+  identifier: ezugi:NamasteRoulette
+  identifier2: 3:221005
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Namaste Roulette
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: No Commission Baccarat A
+  identifier: ezugi:NoCommissionBaccaratA
+  identifier2: 25:172
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 98.76
+  has_live: true
+  hd: true
+  released_at: 2024-04-16
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: No Commission Baccarat B
+  identifier: ezugi:NoCommissionBaccaratB
+  identifier2: 25:173
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 98.76
+  has_live: true
+  hd: true
+  released_at: 2024-04-16
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: No Commission Over Under Baccarat
+  identifier: ezugi:NoCommissionOverUnderBaccarat
+  identifier2: 25:176
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 98.76
+  has_live: true
+  hd: true
+  released_at: 2024-05-27
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: One Day Teen Patti Classic
+  identifier: ezugi:OneDayTeenPattiClassic
+  identifier2: 50:227103
+  provider: ezugi
+  producer: ezugi
+  category: poker
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: One Day Teen Patti Classic
+  payout: 98.36
+  description: Let your players experience the highs and lows of one day teen patti
+    in this three card poker card game. Back the favourite or choose to go for the
+    outsider, this sensationally tense and exciting game provides the full exhilaration
+    and emotion of surprise wins and bad beats! Like our original teen patti version,
+    players get to choose between Player A and Player B but this game packs a punch.
+    Ezugi have introduced the back and lay functionality made famous in betting exchanges.
+    Before each card is drawn, odds change based on the current favourite hand allowing
+    players time to observe, bet again, change their mind by backing or laying the
+    other side! It is possible for players to trade their way to a winning position
+    no matter what the outcome!
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Oracle Real Roulette
+  identifier: ezugi:OracleCasinoRoulette
+  identifier2: 29:611001
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - LT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Oracle Casino Roulette
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Oracle 360 Roulette
+  identifier: ezugi:OracleCasinoRoulette360
+  identifier2: 29:611003
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - LT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Oracle Casino Roulette 360
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Casino Marina Andar Bahar
+  identifier: ezugi:OTTAndarBahar
+  identifier2: 39:328000
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: OTT Andar Bahar
+  payout: 94.85
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Over Under Baccarat
+  identifier: ezugi:OverUnderBaccarat
+  identifier2: 2:109
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 98.76
+  has_live: true
+  hd: true
+  released_at: 2024-05-27
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Poker Lobby
+  identifier: ezugi:PokerLobby
+  identifier2: poker
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 99.67
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Portomaso Roulette 2
+  identifier: ezugi:PortomasoCasinoRoulette
+  identifier2: 29:611000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - LT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Portomaso Casino Roulette
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Revolution Roulette
+  identifier: ezugi:RevolutionRoulette
+  identifier2: 58:581000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 96.95
+  has_live: true
+  hd: true
+  released_at: 2024-12-02
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Roleta Da Sorte
+  identifier: ezugi:RoletaDaSorte
+  identifier2: 3:241000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  released_at: 2023-06-02
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Italian Roulette
+  identifier: ezugi:RouletteGold2
+  identifier2: 3:1000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Russian Roulette
+  identifier: ezugi:RouletteGold3
+  identifier2: 3:601000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Roulette Lobby
+  identifier: ezugi:RouletteLobby
+  identifier2: roulette
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Ruleta del Sol
+  identifier: ezugi:RuletadelSol
+  identifier2: 29:431000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: luxury_life
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - LT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  released_at: 2022-07-20
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Sic Bo
+  identifier: ezugi:Sicbo
+  identifier2: 14:224000
+  provider: ezugi
+  producer: ezugi
+  category: craps
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.22
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Skyline Roulette
+  identifier: ezugi:SkylineRoulette
+  identifier2: 3:221008
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2024-08-02
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Spanish Unlimited Blackjack
+  identifier: ezugi:SpanishUnlimitedBlackjack
+  identifier2: 12:4151
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Speed Auto Roulette
+  identifier: ezugi:SpeedAutoRoulette
+  identifier2: 7:221002
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Baccarat D
+  identifier: ezugi:SpeedFortuneBaccarat
+  identifier2: 2:105
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  released_at: 2022-04-08
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Speed Roulette
+  identifier: ezugi:SpeedRoulette
+  identifier2: 3:221000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Teen Patti
+  identifier: ezugi:TeenPati
+  identifier2: 17:227100
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Teen Patti
+  payout: 94.85
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Turkish Roulette
+  identifier: ezugi:TurkishRoulette
+  identifier2: 3:501000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - BR
+  - CW
+  - EE
+  - LT
+  - LV
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Ultimate Andar Bahar
+  identifier: ezugi:UltimateAndarBahar
+  identifier2: 55:228100
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Ultimate Andar Bahar
+  has_live: true
+  hd: true
+  released_at: 2022-11-24
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Ultimate Auto Roulette
+  identifier: ezugi:UltimateAutoRoulette
+  identifier2: 54:541001
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2024-11-21
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Ultimate Roulette
+  identifier: ezugi:UltimateRoulette
+  identifier2: 54:541000
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: luxury_life
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Ultimate Roulette
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2023-03-29
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Ultimate Sic Bo
+  identifier: ezugi:UltimateSicBo
+  identifier2: 52:224100
+  provider: ezugi
+  producer: ezugi
+  category: craps
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Ultimate Sic Bo
+  payout: 97.22
+  has_live: true
+  hd: true
+  released_at: 2022-04-20
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Unlimited Blackjack
+  identifier: ezugi:UnlimitedBlackjack
+  identifier2: '12:51'
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: premium
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  - PE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  accounting_group: Unlimited Blackjack
+  payout: 97.3
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Unlimited Blackjack AG
+  identifier: ezugi:UnlimitedBlackjackAG
+  identifier2: 12:2651
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: promo
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 99.5
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: VIP Diamond Blackjack
+  identifier: ezugi:VIPBlackjack
+  identifier2: 1:225
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  - NL
+  - RO
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 99.67
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Baccarat C
+  identifier: ezugi:VIPFortuneBaccarat
+  identifier2: 2:106
+  provider: ezugi
+  producer: ezugi
+  category: card
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - BG
+  - CW
+  - EE
+  - LV
+  - LT
+  - MT
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  has_live: true
+  hd: true
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: VIP Roulette
+  identifier: ezugi:VIPRoulette
+  identifier2: 29:611007
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 97.3
+  has_live: true
+  hd: true
+  released_at: 2024-04-01
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
+- title: Xoc Dia
+  identifier: ezugi:XocDia
+  identifier2: 60:6001
+  provider: ezugi
+  producer: ezugi
+  category: roulette
+  theme: other
+  has_freespins: false
+  feature_group: live
+  customised: false
+  devices:
+  - desktop
+  - mobile
+  licenses:
+  - BR
+  - CW
+  - EE
+  jackpot_type: Not Available
+  forbid_bonus_play: false
+  payout: 96.88
+  has_live: true
+  hd: true
+  released_at: 2025-01-08
+  restrictions:
+    default:
+      blacklist: []
+    BG:
+      whitelist:
+      - BG
+    BR:
+      whitelist:
+      - BR
+    CW:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    EE:
+      blacklist:
+      - AL
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    MT:
+      blacklist:
+      - AU
+      - BG
+      - CA-AB
+      - CA-BC
+      - CA-MB
+      - CA-ON
+      - CA-QC
+      - CO
+      - CR
+      - CW
+      - DK
+      - ES
+      - GB
+      - GR
+      - HK
+      - HU
+      - IL
+      - IR
+      - IT
+      - KP
+      - LT
+      - LV
+      - MM
+      - NL
+      - RO
+      - SD
+      - SE
+      - SG
+      - SY
+      - US
+      - VE
+      - ZA
+    NL:
+      whitelist:
+      - NL
+    RS:
+      whitelist:
+      - RS
