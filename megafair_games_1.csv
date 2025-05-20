@@ -1,5 +1,0 @@
-game_name;game_id;game_type;provider;is_enabled;is_demo_supported;is_freespins_supported;is_jackpot_supported;is_live_supported;lines;platform;jurisdictions;images;options
-"Mega Bingo Cash;ext-game1;casual;Megafair;true;true;false;false;false;0;""[""""desktop"""", """"mobile"""", """"tablet""""]"";[];[];[]"
-"Mega Solitaire;ext-sol1;casual;Megafair;true;true;false;false;false;0;""[""""desktop"""", """"mobile"""", """"tablet""""]"";[];[];[]"
-"Mega Candy Cash;ext-sb1;casual;Megafair;true;true;false;false;false;0;""[""""desktop"""", """"mobile"""", """"tablet""""]"";[];[];[]"
-"Mega Wild Fish;ext-gf1;casual;Megafair;true;true;false;false;false;0;""[""""desktop"""", """"mobile"""", """"tablet""""]"";[];[];[]"
